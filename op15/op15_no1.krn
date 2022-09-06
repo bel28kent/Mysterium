@@ -1,0 +1,413 @@
+!!!COM: Scriabin, Alexander
+!!!OTL: Prelude
+!!!OPR: 5 Preludes
+!!!OPS: 15
+!!!ONM: 1
+!!!ODT: 1895
+!!!AGN: Prelude
+**kern	**kern
+*staff2	*staff1
+*clefF4	*clefG2
+*k[f#c#g#]	*k[f#c#g#]
+*A:	*A:
+*M3/4	*M3/4
+*	*^
+4e	20cc#LL	[4e
+.	20dd	.
+.	20cc#	.
+.	20b	.
+.	20cc#JJ	.
+=1	=1	=1
+8dL	12eeL	4.e]
+.	12f#	.
+8c#J	.	.
+.	12aJ	.
+8BL	4g#	.
+8F#J	.	8d
+8EL	20cc#LL	4c#
+.	20a	.
+.	20b	.
+8AAJ	.	.
+.	20cc#	.
+.	20ff#JJ	.
+=2	=2	=2
+8EEL	12eeL	2d
+.	12f#	.
+8BBJ	.	.
+.	12aJ	.
+8F#L	4g#	.
+8EJ	.	.
+12DL	20bLL	4f#
+.	20cc#	.
+12G#	.	.
+.	20b	.
+.	20a#X	.
+12f#J	.	.
+.	20bJJ	.
+=3	=3	=3
+8C#L	12aaL	2f#
+.	12.b	.
+8BJ	.	.
+.	24ddJk	.
+8f#L	12ddL	.
+.	12cc#	.
+8AJ	.	.
+.	12ff#J	.
+8F#L	12eeL	6g#
+.	12cc#	.
+8c#J	.	.
+.	12aJ	12a
+=4	=4	=4
+4B	12ddL	[4a
+.	12cc#	.
+.	12ddJ	.
+4e	4b	12aL]
+.	.	12g#
+.	.	12f#J
+4e	20cc#LL	[4e
+.	20dd	.
+.	20cc#	.
+.	20b	.
+.	20cc#JJ	.
+=5	=5	=5
+8dL	12eeL	4.e]
+.	12f#	.
+8c#J	.	.
+.	12aJ	.
+8BL	4g#	.
+8F#J	.	8d
+8EL	20cc#LL	8c#L
+.	20a	.
+.	20b	.
+8AAJ	.	8gnJ
+.	20cc#J	.
+.	40r	.
+.	40bbJkk	.
+=6	=6	=6
+8DDL	12bbL	4gn
+.	12b	.
+8AAJ	.	.
+.	12ddJ	.
+8BL	4cc#	4g
+8AJ	.	.
+8AL	20ff#LL	4f#
+.	20gg#X	.
+.	20ff#	.
+8DJ	.	.
+.	20ee#X	.
+.	20ff#JJ	.
+=7	=7	=7
+8C#L	12aaL	2f#
+.	12.b#X	.
+8AJ	.	.
+.	24ddJk	.
+8f#L	12ddL	.
+.	12cc#	.
+8AJ	.	.
+.	12ff#J	.
+8BL	12eeL	4f#
+.	12dd	.
+8G#J	.	.
+.	12bnJ	.
+=8	=8	=8
+4c#	12aL	4e#X
+.	12g#	.
+.	12aJ	.
+4f#	4f#	12f#L
+.	.	12en
+.	.	12dJ
+4r	20aLL	4c#
+.	20b	.
+.	20a	.
+.	20g#	.
+.	20aJJ	.
+=9	=9	=9
+8BL	12cc#L	2c#
+.	12d#X	.
+8AJ	.	.
+.	12f#J	.
+8G#L	4e#X	.
+8C#J	.	.
+20C#LL	4f# 4a	4A
+20Dn	.	.
+20C#	.	.
+20BB#X	.	.
+20C#JJ	.	.
+*	*v	*v
+=10	=10
+12AL	2A 2e 2gn 2a
+12BBn	.
+12DJ	.
+8C#L	.
+8AAJ	.
+4A	20f#LL
+.	20g
+.	20f#
+.	20e
+.	20f#JJ
+=11	=11
+8GnL	12aL
+.	12B
+8F#J	.
+.	12dJ
+8EL	4c#
+8AAJ	.
+20AALL	4F# 4d 4f#
+20BB	.
+20AA	.
+20GG#X	.
+20AAJJ	.
+=12	=12
+*	*^
+12F#L	[4F# 4c# [4f#	4rc
+12GG#	.	.
+12BBJ	.	.
+8AAL	4F#] 4B#X 4d#X 4f#]	4rc
+8GG#J	.	.
+4GG#	20g#LL	4F# 4B# 4d#
+.	20a	.
+.	20g#	.
+.	20f##X	.
+.	20g#JJ	.
+*	*v	*v
+=13	=13
+8CC#L	12ddnL
+.	12f##X
+8GG#J	.
+.	12aJ
+8E#XL	12g#L
+.	12cc#
+8BBJ	.
+.	12g#J
+8E#L	12b#XL
+.	12g#
+8e#XJ	.
+.	12dJ
+=14	=14
+8CC#L	12bnL
+.	12d
+8FF#J	.
+.	12f#J
+8F#L	12enL
+.	12a
+8AAJ	.
+.	12dJ
+8DL	12g#L
+.	12d
+8AJ	.
+.	12f#J
+=15	=15
+8CC#L	12e#XL
+.	12c#
+8GG#J	.
+.	12G#J
+8E#XL	12dL
+.	12G#
+8GG#J	.
+.	12c#J
+8C#L	12e#L
+.	12g#
+8G#J	.
+.	12cc#J
+=16	=16
+*	*^
+2e#X	12cc#L	4rc
+.	12g#	.
+.	12cc#J	.
+.	12cc#L	4rc
+.	12a	.
+.	12cc#J	.
+4en	20cc#LL	[4e
+.	20dd	.
+.	20cc#	.
+.	20b	.
+.	20cc#JJ	.
+=17	=17	=17
+8dL	12eeL	4.e]
+.	12f#	.
+8c#J	.	.
+.	12aJ	.
+8BL	4g#	.
+8F#J	.	8d
+8EL	20cc#LL	4c#
+.	20a	.
+.	20b	.
+8AAJ	.	.
+.	20cc#	.
+.	20ff#JJ	.
+=18	=18	=18
+8EEL	12eeL	2d
+.	12f#	.
+8BBJ	.	.
+.	12aJ	.
+8F#L	4g#	.
+8EJ	.	.
+12DL	20bLL	4f#
+.	20cc#	.
+12G#	.	.
+.	20b	.
+.	20a#X	.
+12f#J	.	.
+.	20bJJ	.
+=19	=19	=19
+8C#L	12aaL	2f#
+.	12b	.
+8BJ	.	.
+.	12ddJ	.
+8f#L	12ddL	.
+.	12cc#	.
+8AJ	.	.
+.	12ff#J	.
+12GnL	20eeLL	4b
+.	20ff#	.
+12c#	.	.
+.	20ee	.
+.	20dd#X	.
+12bJ	.	.
+.	20eeJJ	.
+=20	=20	=20
+8F#L	12dddL	2b
+.	12.ee	.
+8eJ	.	.
+.	24ggnJk	.
+8bL	12ggL	.
+.	12ff#	.
+8dJ	.	.
+.	12bbJ	.
+20F#LL	4d 4b 4dd	4rc
+20Gn	.	.
+20F#	.	.
+20E#X	.	.
+20F#JJ	.	.
+=21	=21	=21
+12dL	2d 2a#X 2dd	4rc
+12E#X	.	.
+12GnJ	.	.
+[2F#	.	4rc
+.	20ddLL	4d 4b
+.	20ee	.
+.	20dd	.
+.	20cc#	.
+.	20ddJJ	.
+=22	=22	=22
+2F#]	12aaL	2d 2ccn
+.	12cc#X	.
+.	12eeJ	.
+.	4dd	.
+.	.	4qqrc
+*	*v	*v
+20F#LL	[4d [4g#X [4ccn [4dd
+20G#	.
+20F#	.
+20E#X	.
+20F#JJ	.
+=23	=23
+*M2/4	*M2/4
+*	*^
+12dL	4d] 4g#] 4cc] 4dd]	4rc
+12E#X	.	.
+12G#J	.	.
+[4F#	20ddLL	4d 4g# 4ccn
+.	20ee	.
+.	20dd	.
+.	20cc#X	.
+.	20ddJJ	.
+=24	=24	=24
+4F#]	12gg#L	4d 4b
+.	12cc#	.
+.	12eeJ	.
+20E#XLL	8dL 8dd	[4g# [4b
+20F#	.	.
+20E#	.	.
+.	[8c#J [8cc#	.
+20En	.	.
+20E#XJJ	.	.
+*	*v	*v
+=25	=25
+*M3/4	*M3/4
+*	*^
+12c#L	4c#] 4cc#]	4g#] 4b]
+12D#X	.	.
+12F#J	.	.
+[4E#X	20cc#LL	4c# 4g# 4b
+.	20ddn	.
+.	20cc#	.
+.	20b#X	.
+.	20cc#JJ	.
+4E#]	12gg#L	4c# 4bn
+.	12b#X	.
+.	12ddJ	.
+*	*v	*v
+=26	=26
+*M2/4	*M2/4
+*	*^
+20E#XLL	4cc#	4c# 4gn 4bn
+20F##X	.	.
+20E#	.	.
+20En	.	.
+[20E#XJJ	.	.
+4E#] 4c#	20cc#LL	4g
+.	20b#X	.
+.	20cc#	.
+.	20dd	.
+.	20cc#JJ	.
+=27	=27	=27
+20EnLL	4cc#	4gn
+20F#X	.	.
+20E	.	.
+20D#X	.	.
+[20EJJ	.	.
+4E] 4A#X	20cc#LL	4g
+.	20b#X	.
+.	20cc#	.
+.	20dd	.
+.	20cc#JJ	.
+=28	=28	=28
+20DnLL	4bn	4f#
+20E	.	.
+20D	.	.
+20C#	.	.
+[20DJJ	.	.
+4D] 4B	20bLL	4f#
+.	20a#X	.
+.	20b	.
+.	20cc#	.
+.	20bJJ	.
+*	*v	*v
+=29	=29
+*M3/4	*M3/4
+*^	*^
+4B#X	2D#X	20aLL	8f#L
+.	.	20g#	.
+.	.	20a	.
+.	.	.	8fnJ
+.	.	20b	.
+.	.	20aJJ	.
+4fn	.	4aa	4rc
+4e	8E	20cc#LL	[4e
+.	.	20dd	.
+.	.	20cc#	.
+.	8rEE	.	.
+.	.	20b	.
+.	.	20cc#JJ	.
+*v	*v	*	*
+=30	=30	=30
+8dL	12eeL	4.e]
+.	12.f#	.
+8c#J	.	.
+.	24aJk	.
+8BL	4g#	.
+8F#J	.	[8d
+8EL	12cc#L	4d] 4g#
+.	12.b	.
+8EEJ	.	.
+.	24cc#Jk	.
+*	*v	*v
+=31	=31
+8AAAL 8AA	2c# 2a 2ee
+8EJ	.
+4c# 4a	.
+4r	4r
+==	==
+*-	*-
+!!!system-decoration: {(s1,s2)}
