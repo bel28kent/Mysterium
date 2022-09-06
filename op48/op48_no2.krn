@@ -1,0 +1,159 @@
+!!!COM: Scriabin, Alexander
+!!!OTL: Prelude
+!!!OPR: 4 Preludes
+!!!OPS: 48
+!!!ONM: 2
+!!!ODT: 1905
+!!!AGN: Prelude
+**kern	**kern
+*staff2	*staff1
+*clefG2	*clefG2
+*k[]	*k[]
+*C:	*C:
+*M4/2	*M4/2
+*	*^
+8ccL	1aa	1dd 1ff
+8b-X	.	.
+8a	.	.
+8ccJ	.	.
+8b-L	.	.
+8c	.	.
+8b-	.	.
+8aJ	.	.
+=1	=1	=1
+8a-XL	1bb-X	1dd-X 1ff
+8g-X	.	.
+8f	.	.
+8a-J	.	.
+8g-L	.	.
+8A-XJ	.	.
+12g-L	.	.
+12.f	.	.
+24e-XJk	.	.
+8dnL	2bbn	1gn 1cc 1ee
+8c	.	.
+8B	.	.
+8dJ	.	.
+8cL	4.aa#X	.
+8D	.	.
+8.c	.	.
+.	8aa#	.
+16cJk	.	.
+=2	=2	=2
+*clefF4	*	*
+8BL	4ee-X 4eee-X	2.g 2.b 2.gg
+8GG	.	.
+8D	2dd 2ddd	.
+8GJ	.	.
+8BL	.	.
+8d	.	.
+8.e-X	4cc 4ff#X 4bb 4fff#X	4ryy
+16e-Jk	.	.
+8gL	2.b 2.dd 2.gg 2.ddd	1ryy
+8GG	.	.
+8D	.	.
+8BJ	.	.
+12e-L	.	.
+12c#X	.	.
+12dJ	.	.
+8.e-L	4cc 4ff# 4bb 4fff#	.
+16e-Jk	.	.
+=3	=3	=3
+8gL	2b 2dd 2gg 2ddd	2ryy
+8GG	.	.
+8D	.	.
+8BJ	.	.
+12e-XL	4raa	4rc
+12c#X	.	.
+12dJ	.	.
+8.gL	4raa	4rc
+16gJk	.	.
+8gL	1een	1a 1cc
+8f	.	.
+8en	.	.
+8gJ	.	.
+8fL	.	.
+8G	.	.
+8f	.	.
+8eJ	.	.
+=4	=4	=4
+8e-XL	1ff	1a-X 1cc
+8d-X	.	.
+8c	.	.
+8e-J	.	.
+8d-L	.	.
+8E-XJ	.	.
+12d-L	.	.
+12.c	.	.
+24B-XJk	.	.
+8A-XL	2ff	1d-X 1g-X 1b-X
+8G-X	.	.
+8F	.	.
+8A-J	.	.
+8G-L	4.ee	.
+8AA-X	.	.
+8.G-	.	.
+.	8ee	.
+16G-Jk	.	.
+=5	=5	=5
+8FL	4b-- 4bb--	2.d-X 2.f 2.dd-X
+8DD-X	.	.
+8AA-X	2a-X 2aa-X	.
+8D-XJ	.	.
+8FL	.	.
+8A-X	.	.
+8.d-X	4ff	4f 4cc-X
+16A-Jk	.	.
+8A-L	2ff	1d- 1g-X 1b-X
+8G-X	.	.
+8F	.	.
+8A-J	.	.
+8G-L	2ee	.
+8AA-	.	.
+8.G-	.	.
+16G-Jk	.	.
+=6	=6	=6
+*	*	*^
+8BL	2.ee	1f#X	1c
+8A	.	.	.
+8G#X	.	.	.
+8BJ	.	.	.
+8AL	.	.	.
+8D	.	.	.
+8.A	4ee	.	.
+16AJk	.	.	.
+8AL	2.ee	1fn	2.c\
+8Gn	.	.	.
+8F#X	.	.	.
+8AJ	.	.	.
+8GL	.	.	.
+8GG	.	.	.
+8.G	4dd#X	.	4B\
+16GJk	.	.	.
+*	*	*v	*v
+=7	=7	=7
+8GL	4a-X 4aa-X	2.c 2.e 2.cc
+8CC	.	.
+8GG	2g 2gg	.
+8CJ	.	.
+8EL	.	.
+8G	.	.
+8.A-X	4f 4b 4ee 4bb	4ryy
+16A-Jk	.	.
+8cL	2.e 2.g 2.cc 2.gg	1ryy
+8CC	.	.
+8GG	.	.
+8EJ	.	.
+12A-L	.	.
+12F#X	.	.
+12GJ	.	.
+8.A-L	8f 8b 8ee 8bb	.
+.	8raa	.
+32A-Jkk	.	.
+32r	.	.
+*	*v	*v
+=8	=8
+0CC 0GG 0E 0c	0e 0g 0cc 0gg
+==	==
+*-	*-
+!!!system-decoration: {(s1,s2)}
