@@ -1,0 +1,192 @@
+!!!COM: Scriabin, Alexander
+!!!OTL: Rêverie
+!!!OPR: 3 Morceaux
+!!!OPS: 49
+!!!ONM: 3
+!!!ODT: 1905
+!!!AGN: Miniature
+**kern	**kern
+*staff2	*staff1
+*clefF4	*clefG2
+*k[]	*k[]
+*C:	*C:
+*M2/4	*M2/4
+=1	=1
+*^	*^
+4F 4e-X 4g	4rEE	[4aa	8ddL
+.	.	.	8ccJ
+4G 4f	8enL	12aaL]	4b
+.	.	12cc#X	.
+.	8dJ	.	.
+.	.	12ddJ	.
+=2	=2	=2	=2
+4E-X 4d-X 4f	4rEE	4gg	8ccnL
+.	.	.	8b-XJ
+8fL	4A-X 4c	4gg-X	4b-
+8e-XJ	.	.	.
+=3	=3	=3	=3
+4D-X 4c-X 4e-X	4rEE	[4ff	8b-XL
+.	.	.	8a-XJ
+.	[8qGG\	.	.
+8enL	4GG] 4F 4Bn	12ffL]	4gn
+.	.	12b-X	.
+8dnJ	.	.	.
+.	.	12bnJ	.
+=4	=4	=4	=4
+.	[8qCCn\ [8qGG	.	.
+8dL	2CC] 2GG] 2E 2G	2ee	2g
+8c	.	.	.
+8e	.	.	.
+8gJ	.	.	.
+*clefG2	*	*	*
+=5	=5	=5	=5
+4c 4b-X 4dd	4rc	[4eee	8aaL
+.	.	.	8ggJ
+4d 4cc	8bnL	12eeeL]	4ff#X
+.	.	12gg#X	.
+.	8aJ	.	.
+.	.	12aaJ	.
+=6	=6	=6	=6
+4B-X 4a-X 4cc	4rc	4ddd	8ggnL
+.	.	.	8ffnJ
+8ccL	4e-X 4g	4ddd-X	4ff
+8b-XJ	.	.	.
+=7	=7	=7	=7
+4A-X 4g-X 4b-X	4rc	[4ccc	8ffL
+.	.	.	8ee-XJ
+*clefF4	*	*	*
+.	[8qD\	.	.
+8bnL	4D] 4c 4f#X	12cccL]	4ddn
+.	.	12ffn	.
+8anJ	.	.	.
+.	.	12ff#XJ	.
+=8	=8	=8	=8
+.	[8qGG\ [8qD	.	.
+8aL	2GG] 2D] 2B 2d	2bb	2dd
+8g	.	.	.
+8b	.	.	.
+8ddJ	.	.	.
+*v	*v	*	*
+=9	=9	=9
+*	*	*^
+4E-X 4d-X	4bb-X	8ffL	4g\
+.	.	8ee-XJ	.
+4AA 4G 4c#X	12bbnL	12ff#XL	4g\
+.	12dd#X	12r	.
+.	12eeJ	12eenJ	.
+*	*	*v	*v
+=10	=10	=10
+*^	*	*
+12GL	2D-X	4fn 4cc-X [4ffn	4rc
+12A-X	.	.	.
+12c-XJ	.	.	.
+4rc	.	12ffL]	12fL
+.	.	12eee-X	12cc-J
+.	.	12ddd-XJ	12rc
+*v	*v	*	*
+=11	=11	=11
+*	*	*^
+4D-X 4c-X	4aa-X	8ee-XL	4f\
+.	.	8dd-XJ	.
+4GG 4F 4B	12aanL	12eenL	4f\
+.	12cc#X	12r	.
+.	12ddnJ	12ddJ	.
+*	*	*v	*v
+=12	=12	=12
+*^	*	*
+12E#XL	4BB	4d#X 4a [4dd#X	4rc
+12F#X	.	.	.
+12AJ	.	.	.
+[4Fn 4e-X	4rEE	12ee-XL]	4a 4dd-X
+.	.	12.aa	.
+.	.	24aaJk	.
+=13	=13	=13	=13
+4F] 4e-X 4g	4rEE	[4aa	8ddnL
+.	.	.	8ccJ
+4G 4f	8enL	12aaL]	4b
+.	.	12cc#X	.
+.	8dJ	.	.
+.	.	12ddJ	.
+=14	=14	=14	=14
+4E-X 4d-X 4f	4rEE	4gg	8ccnL
+.	.	.	8b-XJ
+8fL	4A-X 4c	4gg-X	4b-
+8e-XJ	.	.	.
+=15	=15	=15	=15
+4D-X 4c-X 4e-X	4rEE	[4ff	8b-XL
+.	.	.	8a-XJ
+.	[8qGG\	.	.
+8enL	4GG] 4F 4Bn	12ffL]	4gn
+.	.	12b-X	.
+8dnJ	.	.	.
+.	.	12bnJ	.
+=16	=16	=16	=16
+.	[8qCC\ [8qGG	.	.
+8dL	4CC] 4GG] [4E [4G	2ee	2g
+8c	.	.	.
+8B	4E] 4G]	.	.
+8cJ	.	.	.
+*v	*v	*	*
+=17	=17	=17
+*	*	*^
+4E-X 4d-X	4bb-X	8ffL	4g\
+.	.	8ee-XJ	.
+4AA 4G 4c#X	12bbnL	12ff#XL	4g\
+.	12dd#X	12r	.
+.	12eeJ	12eenJ	.
+*	*	*v	*v
+=18	=18	=18
+*^	*	*
+12GL	2D-X	4fn 4cc-X [4ffn	4rc
+12A-X	.	.	.
+12c-XJ	.	.	.
+4rc	.	12ffL]	12fL
+.	.	12eee-X	12cc-J
+.	.	12ddd-XJ	12rc
+*v	*v	*	*
+=19	=19	=19
+*	*	*^
+4D-X 4c-X	4aa-X	8ee-XL	4f\
+.	.	8dd-XJ	.
+4GG 4F 4B	12aanL	12eenL	4f\
+.	12cc#X	12r	.
+.	12ddnJ	12ddJ	.
+*	*	*v	*v
+=20	=20	=20
+*^	*	*
+12E#XL	4BB	4d#X 4a [4dd#X	4rc
+12F#X	.	.	.
+12AJ	.	.	.
+[4Fn 4e-X	4rEE	12ee-XL]	4a 4dd-X
+.	.	12.aa	.
+.	.	24aaJk	.
+=21	=21	=21	=21
+4F] 4e-X 4g	4rEE	[4aa	8ddnL
+.	.	.	8ccJ
+4G 4f	8enL	12aaL]	4b
+.	.	12cc#X	.
+.	8dJ	.	.
+.	.	12ddJ	.
+=22	=22	=22	=22
+4E-X 4d-X 4f	4rEE	4gg	8ccnL
+.	.	.	8b-XJ
+8fL	4A-X 4c	4gg-X	4b-
+8e-XJ	.	.	.
+=23	=23	=23	=23
+*	*^	*	*
+4D-X 4c-X 4e-X	4rEE	4r	4ff	8b-XL
+.	.	.	.	8a-XJ
+6en	12cnL	4GG\ 4F	12b-L	4gn
+.	12B	.	12bn	.
+12B	12GJ	.	12eeJ	.
+*	*v	*v	*	*
+=24	=24	=24	=24
+.	[8qCC\ [8qGG	.	.
+4B	2CC] 2GG] 2E 2G	6ddn	2g
+.	.	12dd-X	.
+4c	.	4cc	.
+*v	*v	*	*
+*	*v	*v
+==	==
+*-	*-
+!!!system-decoration: {(s1,s2)}
