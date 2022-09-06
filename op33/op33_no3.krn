@@ -1,0 +1,105 @@
+!!!COM: Scriabin, Alexander
+!!!OTL: Prelude
+!!!OPR: 4 Preludes
+!!!OPS: 33
+!!!ONM: 3
+!!!ODT: 1900
+!!!AGN: Prelude
+**kern	**kern
+*staff2	*staff1
+*clefF4	*clefG2
+*k[]	*k[]
+*C:	*C:
+*M3/4	*M3/4
+16BBB-- 16BB--	16G 16d-X 16e
+=1	=1
+16BBB--LL 16BB--	16GLL 16d-X 16e
+16DD-X 16D-X	16A-X 16d- 16f
+16DD- 16D-	16A- 16d- 16f
+16BBB--JJ 16BB--	16GJJ 16d- 16e
+16BBB--LL 16BB--	16GLL 16d- 16e
+16DD- 16D-	16A- 16d- 16f
+16DD-JJ 16D-	16A-JJ 16d- 16f
+16r	16r
+4r	4r
+=2	=2
+8.r	8.r
+[16FF [16D-X [16A-X	16a-X
+4FF] 4D-] 4A-]	4c
+4GG 4D- 4F 4G	4B
+=3	=3
+[4CC 4GG 4C	4E 4G [4e
+8CCL]	16eLL]
+.	32GL
+.	32CJJJ
+32ELL	8r
+32GG	.
+32CC	.
+32CCJJJ	.
+4CCC	4r
+=4	=4
+12BBB--L 12BB--	12GL 12d-X 12e
+12BBB-- 12BB--	12G 12d- 12e
+12DD-XJ 12D-X	12A-XJ 12d- 12f
+12BBB--L 12BB--	12GL 12d- 12e
+12BBB-- 12BB--	12G 12d- 12e
+12DD-J 12D-	12A-J 12d- 12f
+4r	4r
+=5	=5
+8qCCC/ [8qCC	.
+2CC] 2AA-X 2E-X 2A-X	2e-X 2a-X 2ee-X
+4DD 4AA- 4D	4F#X 4c 4f#X
+=6	=6
+8GGGL 8GG 8D	24GLL 24g
+.	24B
+.	24GJJ
+24GL	8r
+24BB	.
+24DDJJ	.
+4GGG	4r
+4r	4r
+=7	=7
+12r	12r
+12BBB--L 12BB--	12GL [12d-X 12e
+12DD-XJ 12D-X	12A-XJ 12d-] 12f
+12r	12r
+12BBB--L 12BB--	12GL [12d- 12e
+12DD-J 12D-	12A-J 12d-] 12f
+8.r	8.r
+[16BB-X [16G-X [16d-X	16dd-X
+=8	=8
+2BB-] 2G-] 2d-]	2f
+4C 4G-X 4B-X 4c	4e
+=9	=9
+[4FF 4C 4F	4A 4c [4a
+8FFL]	16aLL]
+.	32cL
+.	32FJJJ
+32ALL	8r
+32C	.
+32FF	.
+32FFJJJ	.
+4FFF	4r
+=10	=10
+12r	12r
+12r	12r
+12BBB-- 12BB--	12G 12d-X 12e
+6DD-X 6D-X	6A-X 6d- 6f
+12BBB-- 12BB--	12G 12d- 12e
+8qFFF/ 8qAAA-X 8qDD- [8qFF	.
+4FF_ [4D- [4A-X [4d-X	[4a-X [4dd-X [4aa-X
+=11	=11
+4FF] 4D-] 4A-] 4d-]	4a-] 4dd-] 4aa-]
+4r	4r
+8qGGG/ 8qDD 8qGG	.
+4GG 4D-X 4G	4B 4d-X 4f 4g 4b
+=12	=12
+16qCCC/ 16qEEE 16qGGG [16qCC	.
+16CCLL] 16GG 16C	16cLL 16e 16g 16cc
+16CCJJ 16C	16cJJ
+8r	8r
+4r	4r
+4r	4r
+==	==
+*-	*-
+!!!system-decoration: {(s1,s2)}
