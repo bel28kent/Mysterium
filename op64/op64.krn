@@ -3967,9 +3967,9 @@
 *	*	*clefG2	*	*
 =310	=310	=310	=310	=310
 *	*	*	*	*^
-2r	2r	16raa		8.d#XL		16raa		4rc
-.	.	8eL 8a#X 8dd#X	.		8ff#XL 8aa#X 8eee 8fff#X	.
-.	.	16eJk 16a# 16ddn	16dnJk		16ff#Jk 16aa# 16eee 16fff#	.
+2r	2r	16raa	8.d#XL	16raa	4rc
+.	.	8eL 8a#X 8dd#X	.	8ff#XL 8aa#X 8eee 8fff#X	.
+.	.	16eJk 16a# 16ddn	16dnJk	16ff#Jk 16aa# 16eee 16fff#	.
 *	*	*clefF4	*	*	*
 .	.	4CC 4FF#X 4D-X	4rEE	4e 4b-X	8AnL 8an
 .	.	.	.	.	8A-XJ 8a-X
