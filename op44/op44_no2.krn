@@ -1,0 +1,276 @@
+!!!COM: Scriabin, Alexander
+!!!OTL: Poème
+!!!OPR: 2 Poèmes
+!!!OPS: 44
+!!!ONM: 2
+!!!ODT: 1904
+!!!AGN: Poème
+**kern	**kern
+*staff2	*staff1
+*clefF4	*clefG2
+*k[]	*k[]
+*C:	*C:
+*M3/8	*M3/8
+=1	=1
+*	*^
+16GGLL 16G	16raa	8rc
+16CCJJ 16C	16B-X	.
+8r	8.d-X 8.dd-X	4e
+8r	.	.
+.	16c 16cc	.
+=2	=2	=2
+16GG-XLL 16G-X	4B-X 4b-X	8.e-X
+16CCJJ 16C	.	.
+8r	.	.
+.	.	16dn
+8r	8A-X 8a-X	16fLL
+.	.	16e-JJ
+*	*clefF4	*
+=3	=3	=3
+16FFLL 16F	8.A-XL 8.a-X	4c 4d-X
+16DD-XJJ 16D-X	.	.
+8r	.	.
+.	16Gk 16g	.
+8r	8FJ 8f	8B 8d-
+=4	=4	=4
+16DD-XLL 16D-X	8.FL 8.f	4B 4d-X
+16GGGJJ 16GG	.	.
+8r	.	.
+.	16E-Xk 16e-X	.
+8r	8D-XJ 8d-X	8F 8B
+=5	=5	=5
+8CCC 8CC	8CL 8c	8E
+[4GGG [4GG	8D-X 8d-X	[4F [4B
+.	8DnJ 8dn	.
+=6	=6	=6
+8GGG] 8GG]	8E-XL 8e-X	8F] 8B]
+4DDD-X 4DD-X	8En 8en	4B
+.	8FJ 8f	.
+=7	=7	=7
+*	*clefG2	*
+4.CCC 4.CC	8F#XL 8f#X	4.c 4.e
+.	8A-X 8a-X	.
+.	[8GJ [8g	.
+=8	=8	=8
+4.DDD-X 4.DD-X	8GL] 8g]	4.B
+.	8E 8e	.
+.	8FJ 8f	.
+=9	=9	=9
+[4.CCC [4.CC	8F#XL 8f#X	4.c 4.e
+.	8A-X 8a-X	.
+.	8GJ 8g	.
+=10	=10	=10
+4.CCC] 4.CC]	8BL 8b	4.e 4.g
+.	8d-X 8dd-X	.
+.	8cJ 8cc	.
+=11	=11	=11
+16GGLL 16G	16raa	8rc
+16CCJJ 16C	16c	.
+8r	8.e 8.ee	4b-X
+8r	.	.
+.	16d 16dd	.
+=12	=12	=12
+16BB-XLL 16B-X	4d 4dd	8.f#X
+16EEJJ 16E	.	.
+8r	.	.
+.	.	8a
+8r	8c 8cc	.
+.	.	16g
+=13	=13	=13
+16AALL 16A	8.cL 8.cc	4e 4fn
+16FFJJ 16F	.	.
+8r	.	.
+.	16Bk 16b	.
+8r	8AJ 8a	8d#X 8f
+=14	=14	=14
+16FFLL 16F	8.AL 8.a	4d#X 4f
+16BBBJJ 16BB	.	.
+8r	.	.
+.	16Gk 16g	.
+8r	8FJ 8f	8A 8d#
+=15	=15	=15
+8EEE 8EE	8EL 8e	8G#X
+[4BBB [4BB	8F 8f	[4A [4d#X
+.	8F#XJ 8f#X	.
+=16	=16	=16
+8BBB] 8BB]	8GL 8g	8A] 8d#]
+4FFF 4FF	8G#X 8g#X	4d#X
+.	8AJ 8a	.
+=17	=17	=17
+4.EEE 4.EE	8A#XL 8a#X	4.e 4.g#X
+.	8c 8cc	.
+.	[8BJ [8b	.
+=18	=18	=18
+4.FFF 4.FF	8BL] 8b]	4.d#X
+.	8G#X 8g#X	.
+.	8AJ 8a	.
+=19	=19	=19
+4.EEE 4.EE	8A#XL 8a#X	[4.e [4.g#X
+.	8c 8cc	.
+.	[8BJ [8b	.
+=20	=20	=20
+4.r	16BLL] 16b]	8e] 8g#]
+.	16G#XJJ 16g#X	.
+.	16E 16e	8rc
+*	*clefF4	*
+.	8AA#X 8A#X	.
+.	.	8rEE
+.	16BB 16B	.
+=21	=21	=21
+16AAA#XLL 16AA#X	8.DL 8.d	4G#X
+16EEEJJ 16EE	.	.
+8r	.	.
+.	16C#Xk 16c#X	.
+8r	[8F#XJ [8f#X	8G# 8d
+=22	=22	=22
+16BBBLL 16BB	8.F#] 8.f#]	4G#X 4d
+16EEEJJ 16EE	.	.
+8r	.	.
+.	16E 16e	.
+8r	16D#XLL 16d#X	8G# 8B
+.	16DnJJ 16dn	.
+=23	=23	=23
+16BBBLL 16BB	4.C#X 4.c#X	8.Gn 8.B
+16EEE#XJJ 16EE#X	.	.
+8r	.	.
+.	.	16B 16b
+8r	.	8B 8b
+*	*v	*v
+=24	=24
+4.r	24C#XLL
+.	24G 24c#X
+.	24c#JJ
+.	24gLL 24cc#X
+.	24c#
+.	24GJJ 24c#
+.	8C#
+=25	=25
+*	*^
+16BBB#XLL 16BB#X	8.EL 8.e	4A#X
+16FFF#XJJ 16FF#X	.	.
+8r	.	.
+.	16D#Xk 16d#X	.
+8r	[8G#XJ [8g#X	8A# 8e
+=26	=26	=26
+16CC#XLL 16C#X	8.G#] 8.g	4A#X 4e
+16FFF#XJJ 16FF#X	.	.
+8r	.	.
+.	16F#X 16f#X	.
+8r	16E#XLL 16e#X	8A# 8c#X
+.	16EnJJ 16en	.
+=27	=27	=27
+16CC#XLL 16C#X	4.D#X 4.d#X	8.An 8.c#X
+16FFF##XJJ 16FF##X	.	.
+8r	.	.
+.	.	16c#X 16cc#X
+8r	.	8c# 8cc#
+*	*v	*v
+=28	=28
+4.r	24D#XLL
+.	24A 24d#X
+.	24d#JJ
+.	24aLL 24dd#X
+.	24d#
+.	24AJJ 24d#
+.	8D#
+*	*clefG2
+=29	=29
+*	*^
+16DDnLL 16Dn	8.G-XL 8.g-X	4c
+16AAA-XJJ 16AA-X	.	.
+8r	.	.
+.	16Fk 16f	.
+8r	[8B-XJ [8b-X	8c 8g-
+=30	=30	=30
+16EE-XLL 16E-X	8.B-] 8.b	8.c 8.g-X
+16AAA-XJJ 16AA-X	.	.
+8r	.	.
+.	8A-X 8a-X	16rc
+8r	.	8rc
+.	16Gn 16gn	.
+=31	=31	=31
+16DDLL 16D	8.G-XL 8.g-X	4c
+16AAA-XJJ 16AA-X	.	.
+8r	.	.
+.	16Fk 16f	.
+8r	[8B-XJ [8b-X	8c 8g-
+=32	=32	=32
+16EE-XLL 16E-X	8B-L] 8b	4.c 4.g-X
+16AAA-XJJ 16AA-X	.	.
+8r	8Gn 8gn	.
+8r	8A-XJ 8a-X	.
+=33	=33	=33
+16AAA-XLL 16AA-X	8fL 8ff	4c
+16DDD-XJJ 16DD-X	.	.
+8r	8c 8cc	.
+8r	[8e-XJ [8ee-X	8f 8cc
+=34	=34	=34
+16BBBLL 16BB	4e-] 4ee-]	4.f 4.b
+16GGGJJ 16GG	.	.
+8r	.	.
+8r	8d-X 8dd-X	.
+=35	=35	=35
+4.F 4.B 4.f	4e-X 4ee-X	4.b
+.	8d-X 8dd-X	.
+=36	=36	=36
+4.F 4.B 4.f	4e-X 4ee-X	4.b
+.	8d-X 8dd-X	.
+=37	=37	=37
+16GGLL 16G	16raa	8rc
+16CCJJ 16C	16B-X	.
+8r	8.d-X 8.dd-X	4e
+8r	.	.
+.	16c 16cc	.
+=38	=38	=38
+16GG-XLL 16G-X	4B-X 4b-X	8.e-X
+16CCJJ 16C	.	.
+8r	.	.
+.	.	16dn
+8r	8A-X 8a-X	16fLL
+.	.	16e-JJ
+*	*clefF4	*
+=39	=39	=39
+16FFLL 16F	8.A-XL 8.a-X	4c 4d-X
+16DD-XJJ 16D-X	.	.
+8r	.	.
+.	16Gk 16g	.
+8r	8FJ 8f	8B 8d-
+=40	=40	=40
+16DD-XLL 16D-X	8.FL 8.f	4B 4d-X
+16GGGJJ 16GG	.	.
+8r	.	.
+.	16E-Xk 16e-X	.
+8r	8D-XJ 8d-X	8F 8B
+=41	=41	=41
+8CCC 8CC	8CL 8c	8E
+[4GGG [4GG	8D-X 8d-X	[4F [4B
+.	8DnJ 8dn	.
+=42	=42	=42
+8GGG] 8GG]	8E-XL 8e-X	8F] 8B]
+4DDD-X 4DD-X	8En 8en	4B
+.	8FJ 8f	.
+=43	=43	=43
+4.CCC 4.CC	8F#XL 8f#X	4.c 4.e
+.	8A-X 8a-X	.
+.	[8GJ [8g	.
+=44	=44	=44
+4.DDD-X 4.DD-X	8GL] 8g]	4.B
+.	8E 8e	.
+.	8FJ 8f	.
+*	*clefG2	*
+=45	=45	=45
+[4.CCC [4.CC	8F#X 8f#X	4.c 4.e
+.	[4A-X [4a-X	.
+=46	=46	=46
+4.CCC] 4.CC]	4A-] 4a-]	4.c 4.e
+.	8G 8g	.
+*	*v	*v
+=47	=47
+4.CC 4.GG 4.E	4.G 4.c 4.e 4.cc
+==	==
+*-	*-
+!!!system-decoration: {(s1,s2)}
+!!!ENC: Bryan Jacob Bell
+!!!END: November 2021 to April 2022
+!!!PED: Lev Oborin and Yakov Milstein
+!!!PTL: A.N. Skryabin: Polnoe sobranie sochinenii dlia fortepiano (Muzgiz)

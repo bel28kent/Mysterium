@@ -1,0 +1,440 @@
+!!!COM: Scriabin, Alexander
+!!!OTL: Mazurka
+!!!OPR: 2 Mazurkas
+!!!OPS: 40
+!!!ONM: 1
+!!!ODT: 1903
+!!!AGN: Mazurka
+**kern	**kern
+*staff2	*staff1
+*clefF4	*clefG2
+*k[b-e-a-d-g-]	*k[b-e-a-d-g-]
+*D-:	*D-:
+*M3/4	*M3/4
+=1	=1
+*^	*
+2d-	2.G-	24b-LL
+.	.	24cc
+.	.	24b-J
+.	.	16r
+.	.	[16b--Jk
+.	.	4b--] 4ff
+4c	.	4b--
+=2	=2	=2
+*	*	*^
+2.d-	2F	24b--LL	4rc
+.	.	24cc-X	.
+.	.	24b--J	.
+.	.	16r	.
+.	.	16a-Jk	.
+.	.	8gn	2g
+.	.	4ccn	.
+.	4F-X	.	.
+.	.	8cc	.
+=3	=3	=3	=3
+2.d-	2.E-	12ccL	4g-X
+.	.	12an	.
+.	.	12b-J	.
+.	.	.	[8qb-\
+.	.	8aa-XL	4b-]
+.	.	8gg-J	.
+.	.	8raa	4g-
+.	.	8b-	.
+=4	=4	=4	=4
+2.c	2.A-	2b-	2.g-
+.	.	4a-	.
+=5	=5	=5	=5
+2c-X	2D-	24a-LL	2f
+.	.	24b-	.
+.	.	24a-J	.
+.	.	16r	.
+.	.	16gnJk	.
+.	.	4ff	.
+4c-	4D-	12gL	4f
+.	.	12a-	.
+.	.	12anJ	.
+=6	=6	=6	=6
+4c-X	2.GG- 2.D-	8.anL	4f
+.	.	16b-Jk	.
+2B-	.	2b-	2g-
+=7	=7	=7	=7
+2.cn	2.Dn	8.b-L	2.g-
+.	.	16anJk	.
+.	.	4ddn	.
+.	.	[4b-	.
+=8	=8	=8	=8
+2.c	2.A-	8.b-L]	2.g-
+.	.	16anJk	.
+.	.	4ee-	.
+.	.	4b-	.
+*	*	*v	*v
+=9	=9	=9
+2d-	2.G-	24b-LL
+.	.	24cc
+.	.	24b-J
+.	.	16r
+.	.	[16b--Jk
+.	.	4b--] 4ff
+4c	.	4b--
+=10	=10	=10
+*	*	*^
+2.d-	2F	24b--LL	4rc
+.	.	24cc-X	.
+.	.	24b--J	.
+.	.	16r	.
+.	.	16a-Jk	.
+.	.	8gn	2g
+.	.	4ccn	.
+.	4F-X	.	.
+.	.	8cc	.
+=11	=11	=11	=11
+2.d-	2.E-	12ccL	4g-X
+.	.	12an	.
+.	.	12b-J	.
+.	.	.	[8qb-\
+.	.	8aa-XL	4b-]
+.	.	8gg-J	.
+.	.	8raa	4g-
+.	.	8b-	.
+=12	=12	=12	=12
+2.c	2.A-	2b-	2.g-
+.	.	4a-	.
+*v	*v	*	*
+=13	=13	=13
+4DD- 4D-	24a-LL	4f
+.	24b-	.
+.	24a-J	.
+.	16r	.
+.	16gnJk	.
+4D- 4c-X 4f	4ff	4rc
+4DD- 4D-	12gL	4c-X 4f
+.	12a-	.
+.	12anJ	.
+=14	=14	=14
+4DD- 4D-	8anL	8c-XL 8f
+.	16r	16r
+.	16b-Jk	16B-Jk 16g-
+4GG- 4G-	2b-	2B- 2g-
+4FF-X 4F-X	.	.
+=15	=15	=15
+4EE- 4E-	24b-LL	4gn
+.	24ccn	.
+.	24b-J	.
+.	16r	.
+.	16anJk	.
+4E- 4d- 4gn	4ggn	4rc
+4EE- 4E-	12aL	4d- 4g
+.	12b-	.
+.	12bnJ	.
+=16	=16	=16
+4EE- 4E-	8bnL	8d-L 8gn
+.	16r	16r
+.	16ccJk	16cJk 16a-
+4AA- 4A-	2cc	2c 2a-
+[4DDn [4Dn	.	.
+=17	=17	=17
+12DDL] 12D]	24b-XLL	4c 4g-X
+.	24cc	.
+12AAA- 12AA-	24b-J	.
+.	16r	.
+12EE-J 12E-	.	.
+.	16a-Jk	.
+4G- 4c 4g-	4bb-	4rc
+4AA- 4G- 4c	12ddnL	4g- 4cc
+.	12ee-	.
+.	12eenJ	.
+=18	=18	=18
+4DDD- 4DD-	8g-L 8cc 8een	4rc
+.	16r	.
+.	16fJk 16dd-X 16ff	.
+4F 4d-	4f 4dd- 4ff	4rc
+4EEE- 4EE-	8.anL	4d- 4gn
+.	16b-Jk	.
+=19	=19	=19
+4AAA- 4AA-	4.dd-	4rc
+4AA- 4E- 4B-	.	4d- 4gn
+.	8cc	.
+4r	8ffL	4rc
+.	8b-J	.
+=20	=20	=20
+2AA- 2G-X	8b-L	[2c
+.	8b--J	.
+.	4.ee-	.
+4DD- 4AA- 4F	.	8cL]
+.	8dd-	8d-J
+*	*v	*v
+=21||	=21||
+*k[f#c#]	*k[f#c#]
+*	*^
+4..AA	8.raa	4rc
+.	16b	.
+.	[2b	[2c# [2g
+16D#X	.	.
+[4F#	.	.
+=22	=22	=22
+8.F#L]	8.bL]	4c#] 4g]
+16EJk	16bJk	.
+8.GL	8.bL	4c# 4g
+16F#Jk	16aJk	.
+8.AL	8.aL	4c# 4f#
+16GJk	16gJk	.
+=23	=23	=23
+8BL	8c#L 8e 8g	8.rc
+16r	16r	.
+16AJk	16f#Jk	[16f#
+4G	4b	[4c# 4f#]
+4AA	4e	4G 4c#]
+=24	=24	=24
+2DD 2AA	8c#L 8e	2.F#
+.	8dJ	.
+.	8dL	.
+.	8c#J	.
+4GGG#X 4GG#X	8c#L	.
+.	8BJ	.
+=25	=25	=25
+4..AAA 4..AA	8.raa	4rc
+.	16b	.
+.	[2b	[2c# [2g
+16D#X	.	.
+[4F#	.	.
+=26	=26	=26
+8.F#L]	8.bL]	4c#] 4g]
+16EJk	16bJk	.
+8.GL	8.bL	4c# 4g
+16F#Jk	16aJk	.
+8.AL	8.aL	4c# 4f#
+16GJk	16gJk	.
+=27	=27	=27
+8BL	8c#L 8e 8g	8.rc
+16r	16r	.
+16AJk	16f#Jk	[16f#
+4G	4b	[4c# 4f#]
+4AA	4e	4G 4c#]
+=28	=28	=28
+2.DD 2.AA	8c#L 8e	2.F#
+.	16r	.
+.	16dJk	.
+.	4.d	.
+.	8c#	.
+*	*v	*v
+=29||	=29||
+*k[b-e-a-d-g-]	*k[b-e-a-d-g-]
+*	*^
+4.AAA- 4.AA-	8.G-L 8.cn	4rc
+.	16b-Jk	.
+.	[2b-	[2c [2g-
+8Dn	.	.
+[4F	.	.
+=30	=30	=30
+8.FL]	8.b-L]	4c] 4g-]
+16E-Jk	16b-Jk	.
+8.G-L	8.b-L	4c 4g-
+16FJk	16a-Jk	.
+8.A-L	8.a-L	4c 4f
+16G-Jk	16g-Jk	.
+=31	=31	=31
+8B-L	8cL 8e- 8g-	8.rc
+16r	16r	.
+16A-Jk	16fJk	[16f
+4G-	4b-	[4c 4f]
+4AA-	4e-	4G- 4c]
+=32	=32	=32
+2DD- 2AA-	8cL 8e-	2.F
+.	8d-J	.
+.	8d-L	.
+.	8cJ	.
+4GGGn 4GGn	8cL	.
+.	8B-J	.
+=33	=33	=33
+4..AAA- 4..AA-	8.raa	4rc
+.	16b-	.
+.	[2b-	[2c [2g-
+16Dn	.	.
+[4F	.	.
+=34	=34	=34
+8.FL]	8.b-L]	4c] 4g-]
+16E-Jk	16b-Jk	.
+8.G-L	8.b-L	4c 4g-
+16FJk	16a-Jk	.
+8.A-L	8.a-L	4c 4f
+16G-Jk	16g-Jk	.
+=35	=35	=35
+8B-L	8cL 8e- 8g-	8.rc
+16r	16r	.
+16A-Jk	16fJk	[16f
+4G-	4.b-	[4c 4f]
+4AA-	.	4c] 4e-
+.	8b-	.
+*	*v	*v
+=36	=36
+2.r	8b-L
+.	8b--J
+.	4.ee-
+.	8b-X
+=37	=37
+*^	*
+2d-	2.G-	24b-LL
+.	.	24cc
+.	.	24b-J
+.	.	16r
+.	.	[16b--Jk
+.	.	4b--] 4ff
+4c	.	4b--
+=38	=38	=38
+*	*	*^
+2.d-	2F	24b--LL	4rc
+.	.	24cc-X	.
+.	.	24b--J	.
+.	.	16r	.
+.	.	16a-Jk	.
+.	.	8gn	2g
+.	.	4ccn	.
+.	4F-X	.	.
+.	.	8cc	.
+=39	=39	=39	=39
+2.d-	2.E-	12ccL	4g-X
+.	.	12an	.
+.	.	12b-J	.
+.	.	.	[8qb-\
+.	.	8aa-XL	4b-]
+.	.	8gg-J	.
+.	.	8raa	4g-
+.	.	8b-	.
+=40	=40	=40	=40
+2.c	2.A-	2b-	2.g-
+.	.	4a-	.
+*v	*v	*	*
+=41	=41	=41
+4DD- 4D-	24a-LL	4f
+.	24b-	.
+.	24a-J	.
+.	16r	.
+.	16gnJk	.
+4D- 4c-X 4f	4ff	4rc
+4DD- 4D-	12gL	4c-X 4f
+.	12a-	.
+.	12anJ	.
+=42	=42	=42
+4DD- 4D-	8anL	8c-XL 8f
+.	16r	16r
+.	16b-Jk	16B-Jk 16g-
+4GG- 4G-	2b-	2B- 2g-
+4FF-X 4F-X	.	.
+=43	=43	=43
+4EE- 4E-	24b-LL	4gn
+.	24ccn	.
+.	24b-J	.
+.	16r	.
+.	16anJk	.
+4E- 4d- 4gn	4ggn	4rc
+4EE- 4E-	12aL	4d- 4g
+.	12b-	.
+.	12bnJ	.
+=44	=44	=44
+4EE- 4E-	8bnL	8d-L 8gn
+.	16r	16r
+.	16ccJk	16cJk 16a-
+4AA- 4A-	2cc	2c 2a-
+[4DDn [4Dn	.	.
+=45	=45	=45
+12DDL] 12D]	24b-XLL	4c 4g-X
+.	24cc	.
+12AAA- 12AA-	24b-J	.
+.	16r	.
+12EE-J 12E-	.	.
+.	16a-Jk	.
+4G- 4c 4g-	4bb-	4rc
+4AA- 4G- 4c	12ddnL	4g- 4cc
+.	12ee-	.
+.	12eenJ	.
+=46	=46	=46
+4DDD- 4DD-	8g-L 8cc 8een	4rc
+.	16r	.
+.	16fJk 16dd-X 16ff	.
+4F 4d-	4f 4dd- 4ff	4rc
+4EEE- 4EE-	8.anL	4d- 4gn
+.	16b-Jk	.
+=47	=47	=47
+4AAA- 4AA-	4.dd-	4rc
+4AA- 4E- 4B-	.	4d- 4gn
+.	8cc	.
+4r	8ffL	4rc
+.	8b-J	.
+=48	=48	=48
+2AA- 2G-X	8b-L	2c
+.	8b--J	.
+.	4.ff	.
+4r	.	4rc
+.	8ee-	.
+=49	=49	=49
+4D-	24ee-LL	4cc-X
+.	24ff	.
+.	24ee-J	.
+.	16r	.
+.	16ee--Jk	.
+4c-X 4f 4cc-X	4bb-X	4rc
+4r	4dd-	4rc
+*	*v	*v
+=50	=50
+4AAn	4.ff#X
+4Gn 4c#X 4gn	.
+.	8ffn
+4r	8ccc#XL
+.	8eenJ
+=51	=51
+*	*^
+4Dn	8ggnL	4rc
+.	8ff#X	.
+4An 4f#X	8cc#X	4rc
+.	8ddnJ	.
+4AA-X 4G-X 4cn	8ffnL	[4g-X
+.	8ee-XJ	.
+=52	=52	=52
+*^	*	*
+4DD- 4AA-	4rEE	8cc-XL	4g-]
+.	.	8ccn	.
+8cL	2AA- 2F	8ee-	2f
+8e-	.	8cc	.
+8d-	.	8dd-X	.
+8cJ	.	8ddnJ	.
+*v	*v	*	*
+=53	=53	=53
+4D-	24ee-LL	4cc-X
+.	24ff	.
+.	24ee-J	.
+.	16r	.
+.	16ee--Jk	.
+4c-X 4f 4b-	4bb-	4rc
+4r	4dd-	4rc
+*	*v	*v
+=54	=54
+4AAn	4.ff#X
+4Gn 4c#X 4gn	.
+.	8ffn
+4r	8ccc#XL
+.	8eenJ
+=55	=55
+*	*^
+4Dn	8ggnL	4ddn
+.	8ff#X	.
+4An 4f#X	8dddn	4rc
+.	8ddJ	.
+4AA-X 4G-X 4cn	8ffnL	4g-X
+.	8ee-XJ	.
+=56	=56	=56
+*^	*	*
+4DD-X	4rEE	8cc-XL	4f
+.	.	8ccn	.
+8cL	4AA- 4F	8ee-	4f
+8d-J	.	8dd-XJ	.
+*clefG2	*	*	*
+4f 4a- 4ff	4rc	4dd- 4aa- 4ddd-	4rc
+*v	*v	*	*
+*	*v	*v
+==	==
+*-	*-
+!!!system-decoration: {(s1,s2)}
+!!!ENC: Bryan Jacob Bell
+!!!END: November 2021 to April 2022
+!!!PED: Günter Philipp
+!!!PTL: Ausgewählte Klavierwerke (Edition Peters)
