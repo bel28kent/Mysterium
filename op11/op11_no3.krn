@@ -1,0 +1,550 @@
+!!!COM: Scriabin, Alexander
+!!!OTL: Prelude
+!!!OPR: 24 Preludes
+!!!OPS: 11
+!!!ONM: 3
+!!!ODT: 1895
+!!!AGN: Prelude
+**kern	**kern
+*staff2	*staff1
+*clefF4	*clefG2
+*k[f#]	*k[f#]
+*G:	*G:
+*M3/4	*M3/4
+=1	=1
+*	*^
+8DL	12dL	4d
+.	12A	.
+8GGJ	.	.
+.	12cJ	.
+8DL	12gL	4g
+.	12c	.
+8cJ	.	.
+.	12dJ	.
+12dL	16aLL	4rc
+.	16b	.
+12c	.	.
+.	16a	.
+12GJ	.	.
+.	16eJJ	.
+*	*v	*v
+=2	=2
+2.r	12ddL
+.	12g
+.	12aJ
+.	12ddL
+.	12f#
+.	12gJ
+.	12ddL
+.	12e
+.	12f#J
+=3	=3
+8DL	12bL
+.	12d
+8GGJ	.
+.	12eJ
+8DL	12aL
+.	12e
+8AJ	.
+.	12f#J
+8BL	12gL
+.	12e
+8GJ	.
+.	12dJ
+=4	=4
+8DL	12f#L
+.	12A
+8GGJ	.
+.	12BJ
+8DL	12gL
+.	12B
+8AJ	.
+.	12cJ
+8BL	12eL
+.	12f#
+8DJ	.
+.	12eJ
+=5	=5
+*	*^
+8DL	12dL	4d
+.	12A	.
+8GGJ	.	.
+.	12cJ	.
+8DL	12gL	4g
+.	12c	.
+8cJ	.	.
+.	12dJ	.
+12dL	16aLL	4rc
+.	16b	.
+12c	.	.
+.	16a	.
+12GJ	.	.
+.	16eJJ	.
+*	*v	*v
+=6	=6
+2.r	12ddL
+.	12g
+.	12aJ
+.	12ddL
+.	12f#
+.	12gJ
+.	12ddL
+.	12e
+.	12f#J
+=7	=7
+8DL	12bL
+.	12d
+8GGJ	.
+.	12eJ
+8DL	12aL
+.	12e
+8AJ	.
+.	12f#J
+8BL	12gL
+.	12e
+8GJ	.
+.	12dJ
+=8	=8
+8C#XL	12f#L
+.	12B
+8EEJ	.
+.	12c#XJ
+8C#L	12gL
+.	12B
+8GJ	.
+.	12c#J
+4B	12eL
+.	12B
+.	12c#J
+=9	=9
+*	*^
+8DL	12f#L	4f#
+.	12B	.
+8FF#J	.	.
+.	12c#XJ	.
+8DL	12e#XL	4e#
+.	12c#	.
+8GJ	.	.
+.	12dJ	.
+8BL	12e#L	4rc
+.	12a#X	.
+8GJ	.	.
+.	12bJ	.
+*	*v	*v
+=10	=10
+4e#X	12ddL
+.	12cc#X
+.	12bJ
+4r	12a#XL
+.	12cc#
+.	12bJ
+4r	12e#XL
+.	12an
+.	12gJ
+=11	=11
+*	*^
+8DL	12f#L	4f#
+.	12B	.
+8FF#J	.	.
+.	12c#XJ	.
+8DL	12e#XL	4e#
+.	12c#	.
+8GJ	.	.
+.	12dJ	.
+8BL	12e#L	4rc
+.	12a#X	.
+8GJ	.	.
+.	12bJ	.
+*	*v	*v
+=12	=12
+4e#X	12ddL
+.	12cc#X
+.	12bJ
+4r	12a#XL
+.	12cc#
+.	12bJ
+8F#L	12e#XL
+.	12an
+8FF#J	.
+.	12a#XJ
+=13	=13
+8A#XL	12ddL
+.	12cc#X
+8EJ	.
+.	12eJ
+4c#X	12e#XL
+.	12g
+.	12f#J
+8F#L	12dL
+.	12f#
+8BBJ	.
+.	12a#XJ
+=14	=14
+8BL	12cc#XL
+.	12b
+8DJ	.
+.	12dJ
+4d	12e#XL
+.	12g
+.	12f#J
+8DL	12cnL
+.	12d
+8DDJ	.
+.	12gJ
+=15	=15
+8cL	12bL
+.	12a
+8DJ	.
+.	12cJ
+8BL	12dL
+.	12g
+8AJ	.
+.	12f#J
+4c	12aL
+.	12e
+.	12f#J
+=16	=16
+2.r	12gL
+.	12d
+.	12eJ
+.	12f#L
+.	12c
+.	12dJ
+.	12eL
+.	12B
+.	12cJ
+=17	=17
+*	*^
+8DL	12dL	4d
+.	12A	.
+8GGJ	.	.
+.	12cJ	.
+8DL	12gL	4g
+.	12c	.
+8cJ	.	.
+.	12dJ	.
+12dL	16aLL	4rc
+.	16b	.
+12c	.	.
+.	16a	.
+12GJ	.	.
+.	16eJJ	.
+=18	=18	=18
+2.r	12ddL	4dd
+.	12g	.
+.	12aJ	.
+.	12ddL	4dd
+.	12f#	.
+.	12gJ	.
+.	12ddL	4dd
+.	12e	.
+.	12f#J	.
+*	*v	*v
+=19	=19
+8DL	12bL
+.	12d
+8GGJ	.
+.	12eJ
+8DL	12aL
+.	12e
+8AJ	.
+.	12f#J
+8BL	12gL
+.	12e
+8GJ	.
+.	12dJ
+=20	=20
+8DL	12f#L
+.	12A
+8GGJ	.
+.	12BJ
+8DL	12gL
+.	12B
+8AJ	.
+.	12cJ
+8BL	12dL
+.	12e
+8DJ	.
+.	12dJ
+=21	=21
+*	*^
+8DL	12gL	4g
+.	12d	.
+8GGJ	.	.
+.	12fnJ	.
+8DL	12ccL	4cc
+.	12f	.
+8cJ	.	.
+.	12gJ	.
+12gL	16ddLL	4rc
+.	16ee	.
+12fn	.	.
+.	16dd	.
+12cJ	.	.
+.	16aJJ	.
+=22	=22	=22
+2.r	12ggL	4gg
+.	12cc	.
+.	12ddJ	.
+.	12ggL	4gg
+.	12b	.
+.	12ccJ	.
+.	12ggL	4gg
+.	12a	.
+.	12bJ	.
+*	*v	*v
+=23	=23
+8GL	12eeL
+.	12g
+8CJ	.
+.	12aJ
+8GL	12ddL
+.	12a
+8dJ	.
+.	12bJ
+8eL	12ccL
+.	12a
+8cJ	.
+.	12gJ
+=24	=24
+8F#L	12bL
+.	12e
+8AAJ	.
+.	12f#J
+8F#L	12ccL
+.	12e
+8cJ	.
+.	12f#J
+4e	12aL
+.	12e
+.	12f#J
+=25	=25
+8GL	12bL
+.	12e
+8BBJ	.
+.	12f#J
+8GL	12a#XL
+.	12f#
+8cJ	.
+.	12gJ
+8eL	12a#L
+.	12dd#X
+8cJ	.
+.	12eeJ
+=26	=26
+4a#X	12ggL
+.	12ff#
+.	12eeJ
+4r	12dd#XL
+.	12ff#
+.	12eeJ
+4r	12a#XL
+.	12ddn
+.	12ccJ
+=27	=27
+8GL	12bL
+.	12e
+8BBJ	.
+.	12f#J
+8GL	12a#XL
+.	12f#
+8cJ	.
+.	12gJ
+8eL	12a#L
+.	12dd#X
+8cJ	.
+.	12eeJ
+=28	=28
+4a#X	12ggL
+.	12ff#
+.	12eeJ
+4r	12dd#XL
+.	12ff#
+.	12eeJ
+8BL	12anL
+.	12ddn
+8BBJ	.
+.	12dd#XJ
+=29	=29
+8d#XL	12ggL
+.	12ff#
+8AJ	.
+.	12aJ
+4f#	12a#XL
+.	12cc
+.	12bJ
+8BL	12gL
+.	12b
+8EJ	.
+.	12dd#XJ
+=30	=30
+8eL	12ff#L
+.	12ee
+8GJ	.
+.	12gJ
+4g	12a#XL
+.	12cc
+.	12bJ
+8DL	12fnL
+.	12a#
+8GG#XJ	.
+.	12bJ
+=31	=31
+8BL	12eeL
+.	12dd
+8FnJ	.
+.	12fnJ
+4d	12a#XL
+.	12cc
+.	12bJ
+8EL	12eL
+.	12an
+8AAJ	.
+.	12bJ
+=32	=32
+8AL	12ddL
+.	12cc
+8EJ	.
+.	12eJ
+4c	12g#XL
+.	12b
+.	12aJ
+8GL	12e-XL
+.	12a
+8CJ	.
+.	12bJ
+=33	=33
+8e-XL	12ddL
+.	12cc
+8AJ	.
+.	12e-XJ
+4g	12bL
+.	12dd
+.	12ccJ
+8GL	12dL
+.	12g
+8DJ	.
+.	12aJ
+=34	=34
+8dL	12ccL
+.	12b
+8GJ	.
+.	12dJ
+4g	12aL
+.	12cc
+.	12bJ
+8GL	12cL
+.	12g
+8E-XJ	.
+.	12aJ
+=35	=35
+8gL	12ccL
+.	12b
+8GJ	.
+.	12cJ
+4c	12gL
+.	12b
+.	12aJ
+8GL	12gL
+.	12a
+8CJ	.
+.	12ccJ
+=36	=36
+4e-X	12ggL
+.	12dd
+.	12ccJ
+4r	12ee-XL
+.	12a
+.	12gJ
+4r	12dL
+.	12e-X
+.	12cJ
+=37	=37
+*	*^
+8DL	12dL	4d
+.	12A	.
+8GGJ	.	.
+.	12cJ	.
+8DL	12gL	4g
+.	12c	.
+8cJ	.	.
+.	12dJ	.
+12dL	16aLL	4rc
+.	16b	.
+12c	.	.
+.	16a	.
+12GJ	.	.
+.	16eJJ	.
+=38	=38	=38
+2.r	12ddL	4dd
+.	12g	.
+.	12aJ	.
+.	12ddL	4dd
+.	12f#	.
+.	12gJ	.
+.	12ddL	4dd
+.	12e	.
+.	12f#J	.
+=39	=39	=39
+8DL	12bL	4b
+.	12d	.
+8GGJ	.	.
+.	12eJ	.
+8DL	12aL	4rc
+.	12e	.
+8AJ	.	.
+.	12f#J	.
+8BL	12gL	4rc
+.	12e	.
+8GJ	.	.
+.	12dJ	.
+*	*v	*v
+=40	=40
+8DL	12f#L
+.	12A
+8GGJ	.
+.	12BJ
+8DL	12gL
+.	12B
+8AJ	.
+.	12cJ
+8BL	12eL
+.	12f#
+8DJ	.
+.	12eJ
+=41	=41
+8DL	12dL
+.	12A
+8GGJ	.
+.	12cJ
+8DL	12gL
+.	12c
+8cJ	.
+.	12dJ
+12dL	16aLL
+.	16b
+12c	.
+.	16a
+12GJ	.
+.	16eJJ
+=42	=42
+2.r	[2.dd
+=43	=43
+2.r	2.dd_
+=44	=44
+*	*^
+4D 4A	2.dd_	4c 4d 4g 4a
+4r	.	4rc
+4r	.	4rc
+=45	=45	=45
+[2.GG [2.D [2.B	2.dd_	[2.d [2.g [2.b
+=46	=46	=46
+2.GG] 2.D] 2.B]	2.dd]	2.d] 2.g] 2.b]
+*	*v	*v
+==	==
+*-	*-
+!!!system-decoration: {(s1,s2)}
+!!!ENC: Bryan Jacob Bell
+!!!END: November 2021 to April 2022
+!!!PED: Günter Philipp
+!!!PTL: Ausgewählte Klavierwerke (Edition Peters)

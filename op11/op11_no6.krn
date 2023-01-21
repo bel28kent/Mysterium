@@ -1,0 +1,284 @@
+!!!COM: Scriabin, Alexander
+!!!OTL: Prelude
+!!!OPR: 24 Preludes
+!!!OPS: 11
+!!!ONM: 6
+!!!ODT: 1889
+!!!AGN: Prelude
+**kern	**kern
+*staff2	*staff1
+*clefF4	*clefG2
+*k[f#c#]	*k[f#c#]
+*b:	*b:
+*M2/4	*M2/4
+=1	=1
+[4BBB [4BB	4r
+8BBBL] 8BB]	[4C# [4c#
+8AAA#XJ 8AA#X	.
+=2	=2
+[4DD [4D	8C#L] 8c#]
+.	8BBJ 8B
+8DDL] 8D]	[4E [4e
+8CC#J 8C#	.
+=3	=3
+[4FF# [4F#	8EL] 8e]
+.	8DJ 8d
+8FF#L] 8F#]	[4G [4g
+8EEJ 8E	.
+=4	=4
+[4AA#X [4A#X	8GL] 8g]
+.	8F#J 8f#
+8AA#L] 8A#]	[4d [4dd
+8BBJ 8B	.
+=5	=5
+*	*^
+[4GG [4G	8dL] 8dd]	2b
+.	8eJ 8ee	.
+8GGL] 8G]	[4c# [4cc#	.
+8AAJ 8A	.	.
+=6	=6	=6
+[4FF# [4F#	8c#L] 8cc#]	2a
+.	8dJ 8dd	.
+8FF#L] 8F#]	[4B [4b	.
+8GGJ 8G	.	.
+=7	=7	=7
+4EE 4E	8BL] 8b]	4g
+.	8dJ 8dd	.
+4EE#X 4E#X	8c#L 8cc#	4c#
+.	8BJ 8b	.
+=8	=8	=8
+8FF#L 8F#	2A#X 2a#X	2c#
+8EE#XJ 8E#X	.	.
+8GGL 8G	.	.
+8FF#J 8F#	.	.
+*	*v	*v
+=9	=9
+[4EEn [4En	4r
+8EEL] 8E]	[4F# [4f#
+8DD#XJ 8D#X	.
+=10	=10
+[4GG [4G	8F#L] 8f#]
+.	8EJ 8e
+8GGL] 8G]	[4A [4a
+8FF#J 8F#	.
+=11	=11
+[4BB [4B	8AL] 8a]
+.	8GJ 8g
+8BBL] 8B]	[4cn [4ccn
+8AAJ 8A	.
+=12	=12
+[4D#X [4d#X	8cL] 8cc]
+.	8BJ 8b
+8D#L] 8d#]	[4g [4gg
+8EJ 8e	.
+=13	=13
+*	*^
+[4Cn [4cn	8gL] 8gg]	2ee
+.	8aJ 8aa	.
+8CL] 8c]	[4f# [4ff#	.
+8DJ 8d	.	.
+=14	=14	=14
+[4BB [4B	8f#L] 8ff#]	2dd
+.	8gJ 8gg	.
+8BBL] 8B]	[4e [4ee	.
+8CnJ 8cn	.	.
+=15	=15	=15
+4AA 4A	8eL] 8ee]	2ccn
+.	8gJ 8gg	.
+[4DD [4D	8e#XL 8ee#X	.
+.	8f#J 8ff#	.
+=16	=16	=16
+8DDL] 8D]	2g 2gg	2b
+8GGJ 8G	.	.
+8AAL 8A	.	.
+8GGJ 8G	.	.
+*	*v	*v
+=17	=17
+[4GGG [4GG	4r
+*	*clefF4
+8GGGL] 8GG]	[4AA [4A
+8FFF#J 8FF#	.
+=18	=18
+[4BBB-X [4BB-X	8AAL] 8A]
+.	8GGJ 8G
+8BBB-L] 8BB-]	4E-X 4F# 4cn 4e-X
+8AAAJ 8AA	.
+=19	=19
+[4EE-X [4E-X	8r
+*	*clefG2
+.	[8F#
+8EE-L] 8E-]	4F#] 4cn 4f#
+8DDJ 8D	.
+=20	=20
+[4CCn [4Cn	8r
+.	[8Fn [8G
+8CCL] 8C]	4F] 4G] 4d 4g
+8BBBJ 8BB	.
+=21	=21
+[4CCn [4Cn	4r
+8CCL] 8C]	[4D [4d
+8BBBJ 8BB	.
+=22	=22
+[4EE-X [4E-X	8DL] 8d]
+.	8CnJ 8cn
+8EE-L] 8E-]	4A-X 4B 4fn 4a-X
+8DDJ 8D	.
+=23	=23
+[4AA-X [4A-X	8r
+.	[8B
+8AA-L] 8A-]	4B] 4fn 4b
+8GGJ 8G	.
+=24	=24
+[4AA-X [4A-X	8r
+.	[8cn
+8AA-L] 8A-]	4c] 4e 4ccn
+8GGJ 8G	.
+=25	=25
+[4GG [4G	8r
+.	[8c#X
+8GGL] 8G]	4c#] 4e 4a#X
+8FF#J 8F#	.
+=26	=26
+[4GG [4G	8r
+.	[8B
+8GGL] 8G]	4B] 4d#X 4b
+8FF#J 8F#	.
+=27	=27
+[4GG [4G	8r
+.	[8B
+8GGL] 8G]	4B] 4d#X 4b
+8FF#J 8F#	.
+=28	=28
+[4DD#X [4D#X	8r
+.	[8B
+8DD#L] 8D#]	4B] 4d#X 4b
+8DD#J 8D#	.
+=29	=29
+[4BBB [4BB	8r
+.	[8B
+8BBBL] 8BB]	4B] 4d#X 4b
+8BBBJ 8BB	.
+=30	=30
+[4GGG [4GG	8r
+.	[8B
+8GGGL] 8GG]	4B] 4e 4b
+8GGGJ 8GG	.
+=31	=31
+[4GGG [4GG	8r
+.	[8B
+8GGGL] 8GG]	4B] 4e#X 4b
+8C#J 8E#X 8B	.
+=32	=32
+4.C# 4.E#X 4.B	8r
+.	[8B
+.	4B] 4e#X 4b
+8FFF# 8FF#	.
+=33	=33
+4D 4F# 4B	8r
+.	[8d
+8r	4d] 4f# 4b 4dd
+8FFF# 8FF#	.
+=34	=34
+4C# 4F# 4A#X	8r
+.	[8c#
+8r	4c#] 4f# 4a#X 4cc#
+8FFF# 8FF#	.
+=35	=35
+*	*^
+[4BBB [4BB	4raa	4rc
+8BBBL] 8BB]	[4C# [4c#	[4F#
+8AAA#XJ 8AA#X	.	.
+=36	=36	=36
+[4DD [4D	8C#L] 8c#]	4F#]
+.	8BBJ 8B	.
+8DDL] 8D]	[4E [4e	[4B
+8CC#J 8C#	.	.
+=37	=37	=37
+[4FF# [4F#	8EL] 8e]	4B]
+.	8DJ 8d	.
+8FF#L] 8F#]	[4G [4g	[4c#
+8EEJ 8E	.	.
+=38	=38	=38
+[4AA#X [4A#X	8GL] 8g]	4c#]
+.	8F#J 8f#	.
+8AA#L] 8A#]	[4d [4dd	4f#
+8BBJ 8B	.	.
+=39	=39	=39
+[4GGG [4GG	8dL] 8dd]	2b
+.	8eJ 8ee	.
+8GGGL] 8GG]	[4c# [4cc#	.
+8AAJ 8A	.	.
+=40	=40	=40
+[4FFF# [4FF#	8c#L] 8cc#]	2a
+.	8dJ 8dd	.
+8FFF#L] 8FF#]	[4B [4b	.
+8GGJ 8G	.	.
+=41	=41	=41
+[4EEE [4EE	8BL] 8b]	2g
+.	8c#J 8cc#	.
+8EEEL] 8EE]	[4A#X [4a#X	.
+8FF#J 8F#	.	.
+=42	=42	=42
+[4DDD [4DD	8A#L] 8a#]	2f#
+.	8BJ 8b	.
+8DDDL] 8DD]	[4G [4g	.
+8EEJ 8E	.	.
+=43	=43	=43
+4CC# 4C#	8GL] 8g]	[4e
+.	8AJ 8a	.
+4BBB 4BB	[4G [4g	8eL]
+.	.	8dJ
+=44	=44	=44
+4AAA#X 4AA#X	8GL] 8g]	[4c#
+.	8GJ 8g	.
+4AAAn 4AAn	[4F# [4f#	8c#L]
+.	.	8cnJ
+=45	=45	=45
+4GGG#X 4GG#X	8F#L] 8f#]	[4B
+.	8F#J 8f#	.
+4GGGn 4GGn	[4E#X [4e#X	8BL]
+.	.	8BJ
+=46	=46	=46
+2CCC# 2CC#	8E#L] 8e#]	[4B
+.	8E#XJ 8e#X	.
+.	[4En [4en	8BL]
+.	.	8BJ
+=47	=47	=47
+[2FFF# [2FF#	8EL] 8e]	[4B
+.	8EJ 8e	.
+.	[4D#X [4d#X	8BL]
+.	.	8BJ
+=48	=48	=48
+2FFF#] 2FF#]	8D#L] 8d#]	[4B
+.	8D#XJ 8d#X	.
+.	4Dn 4dn	8BL]
+.	.	8BJ
+*	*v	*v
+=49	=49
+[2EEE#X [2EE#X	2C# [2G [2B [2c#
+=50	=50
+2EEE#] 2EE#]	2C# 2G] 2B] 2c#]
+*	*clefF4
+=51	=51
+[2FFF# [2FF#	[2C# [2F# [2B [2c#
+=52	=52
+2FFF#] 2FF#]	2C#] 2F#] 2B] 2c#]
+=53	=53
+[2FFF# [2FF#	[2E [2F# [2A#X [2d
+=54	=54
+2FFF#] 2FF#]	2E] 2F#] 2A#] 2d]
+=55	=55
+2BBBB [2BBB [2FF#	[2D [2F# [2B [2f#
+=56	=56
+2BBB_ 2FF#_	2D_ 2F#_ 2B_ 2f#_
+=57	=57
+2BBB_ 2FF#_	2D_ 2F#_ 2B_ 2f#_
+=58	=58
+2BBB] 2FF#]	2D] 2F#] 2B] 2f#]
+==	==
+*-	*-
+!!!system-decoration: {(s1,s2)}
+!!!ENC: Bryan Jacob Bell
+!!!END: November 2021 to April 2022
+!!!PED: Günter Philipp
+!!!PTL: Ausgewählte Klavierwerke (Edition Peters)
