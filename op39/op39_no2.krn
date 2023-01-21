@@ -1,0 +1,152 @@
+!!!COM: Scriabin, Alexander
+!!!OTL: Prelude
+!!!OPR: 4 Preludes
+!!!OPS: 39
+!!!ONM: 2
+!!!ODT: 1903
+!!!AGN: Prelude
+**kern	**kern
+*staff2	*staff1
+*clefF4	*clefG2
+*k[f#c#]	*k[f#c#]
+*D:	*D:
+*M2/4	*M2/4
+=1	=1
+*	*^
+.	.	16qqE\LL
+.	.	16qqcn\
+8qFFF#/ 8qFF#	.	[16qqc\JJ
+2FF# 2E	2a#X	2c]
+=2	=2	=2
+4GG 4D	8.bL	4B
+.	16f#Jk	.
+4EE-X 4D-X	8.gL	8.BL
+.	16BJk	16GJk
+=3	=3	=3
+2AAA 2EEn 2C#	4B	2G
+.	4A	.
+=4	=4	=4
+2AAA 2AA	6d#X	2G 2c#
+.	6e	.
+.	6e#X	.
+=5	=5	=5
+2AAA#X [2AA#X	[2f#	2F# 2c#
+=6	=6	=6
+*^	*	*
+4B-X	2BB-X]	8.f#L]	2d
+.	.	16fnJk	.
+4Fn	.	8.b-XL	.
+.	.	16aJk	.
+=7	=7	=7	=7
+2E	6BB-X	4a	2d
+.	6BBn	.	.
+.	.	[4g#X	.
+.	6BB-X	.	.
+=8	=8	=8	=8
+4.E	2AA	8g#L]	2c#
+.	.	8aJ	.
+.	.	8g#XL	.
+8E#X	.	8gnJ	.
+=9	=9	=9	=9
+2F#	[2AA#X	[2f#	2c#
+=10	=10	=10	=10
+4B-X	2BB-X]	8.f#L]	2d
+.	.	16fnJk	.
+4Fn	.	8.b-XL	.
+.	.	16aJk	.
+=11	=11	=11	=11
+2E	4.BB-X	4a	2d
+.	.	[4g#X	.
+.	8BBn	.	.
+=12	=12	=12	=12
+8EL	[4Cn	8.g#L]	2e
+8cnJ	.	.	.
+.	.	16gnJk	.
+8BL	8.CL]	12ddL	.
+.	.	12.ccn	.
+8B-XJ	.	.	.
+.	16DJk	.	.
+.	.	24g#XJk	.
+*v	*v	*	*
+=13	=13	=13
+2EE 2D	2g#X	2B-X
+=14	=14	=14
+4FFn 4Cn	8.aL	4A
+.	16eJk	.
+4DD-X 4C-X	8.fnL	8.AL
+.	16AJk	16FnJk
+=15	=15	=15
+2GGG 2DDn 2BB	4A	2Fn
+.	4G	.
+=16	=16	=16
+2GGG 2GG	6c#	2Fn 2B
+.	6d	.
+.	6d#X	.
+=17	=17	=17
+2GGG#X [2GG#X	[2e	2E 2B
+=18	=18	=18
+*^	*	*
+4A-X	2AA-X]	8.eL]	2cn
+.	.	16e-XJk	.
+4E-X	.	8.a-XL	.
+.	.	16gJk	.
+=19	=19	=19	=19
+2D	6AA-X	4g	2cn
+.	6AAn	.	.
+.	.	[4f#X	.
+.	6AA-X	.	.
+=20	=20	=20	=20
+4.D	2GG	8f#L]	2B
+.	.	8gJ	.
+.	.	8f#L	.
+8D#X	.	8fnJ	.
+=21	=21	=21	=21
+2E	[2GG#X	[2e	2B
+=22	=22	=22	=22
+4A-X	2AA-X]	8.eL]	2cn
+.	.	16e-XJk	.
+4E-X	.	8.a-XL	.
+.	.	16gJk	.
+=23	=23	=23	=23
+*	*	*	*^
+2D	4.AA-X	2ryy	4g	2cn\
+.	.	.	[4f#X	.
+.	8AAn	.	.	.
+=24	=24	=24	=24	=24
+8DL	2BB-X	4raa	8.f#L]	4d\
+8B-XJ	.	.	.	.
+.	.	.	[16fnJk	.
+8AL	.	8.ccnL	4f]	4r
+8A-XJ	.	.	.	.
+.	.	16b-XJk	.	.
+*	*	*	*v	*v
+=25	=25	=25	=25
+4A-X	[4EE-X [4BB-X	[2b-X	4d 4f#X
+8G	8EE-] 8BB-]	.	8e-X 8g
+8rc	8rEE	.	8rc
+*v	*v	*	*
+*	*v	*v
+=26	=26
+2r	8.b-L]
+.	16f#XJk
+.	8.gL
+.	16B-XJk
+=27	=27
+*	*^
+*	*	*^
+2AAA 2AA	8Bn	4B	2G\
+.	4f#	.	.
+.	.	4c#	.
+.	8e	.	.
+*	*	*v	*v
+=28	=28	=28
+2DD 2AA	4e	2F# 2A
+.	4d	.
+*	*v	*v
+==	==
+*-	*-
+!!!system-decoration: {(s1,s2)}
+!!!ENC: Bryan Jacob Bell
+!!!END: November 2021 to April 2022
+!!!PED: Konstantin Igumnov and Yakov Milstein
+!!!PTL: A.N. Skryabin: Polnoe sobranie sochinenii dlia fortepiano (Muzgiz)

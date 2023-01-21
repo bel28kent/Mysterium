@@ -1,0 +1,673 @@
+!!!COM: Scriabin, Alexander
+!!!OTL: Movement 1
+!!!OPR: Sonata No. 4
+!!!OPS: 30
+!!!ONM: 1
+!!!ODT: 1903
+!!!AGN: Sonata movement
+**kern	**kern	**kern
+*staff3	*staff2	*staff1
+*clefF4	*clefG2	*clefG2
+*k[f#c#g#d#a#e#]	*k[f#c#g#d#a#e#]	*k[f#c#g#d#a#e#]
+*F#:	*F#:	*F#:
+*M6/8	*M6/8	*M6/8
+=1	=1	=1
+*	*^	*^
+2.r	2.a#	[2.B 2.f#	2.ryy	4r
+.	.	.	.	8r
+.	.	.	.	[4.dd#
+=2	=2	=2	=2	=2
+2.r	4.an	2.B] 2.e#	4raa	4dd#]
+.	.	.	8dd#	[8dd#
+.	4.g#	.	[4.gg#	4.dd#_
+=3	=3	=3	=3	=3
+2.r	[4g#	4.A# 4.e#	8gg#L]	4dd#]
+.	.	.	8dd#	.
+.	16g#LL]	.	8ee#J	8cc#
+.	16c#JJ	.	.	.
+.	[4.g#	[4.An [4.c#	[4.ccc#	[4.cc# [4.ee#
+=4	=4	=4	=4	=4
+*	*	*^	*	*
+2.r	4.g#]	4.A] 4.c#]	4r	4.ccc#]	4.cc#] 4.ee#]
+.	.	.	8r	.	.
+.	4gn	4.c#	4An\	4ee#	4.cc#
+.	8f#	.	8A#X\	8ff#	.
+*	*v	*v	*v	*	*
+*	*clefF4	*	*
+=5	=5	=5	=5
+*	*^	*	*
+.	.	[16qqDn\LL	.	16qqf#\LL
+.	.	[16qqA#\JJ	.	[16qqcc#\JJ
+2.r	2.f#	2.D] 2.A#]	[4.aa#	2.cc#]
+.	.	.	4aa#]	.
+.	.	.	8aa#	.
+=6	=6	=6	=6	=6
+2.r	4f#	2.G#	4aa#	2.b#X
+.	8e#	.	8cc##X	.
+.	4g#	.	4ee#	.
+.	8f#	.	8dd#	.
+=7	=7	=7	=7	=7
+2.r	2.e#	2.C# 2.Bn	4dd#	8dd#L
+.	.	.	.	8f##XJ
+.	.	.	8raa	8rc
+.	.	.	40%3raa	4rc
+.	.	.	40%3g#L	.
+.	.	.	40%3a#	.
+.	.	.	40%3bn	.
+.	.	.	.	8rc
+.	.	.	40%3cc#XJ	.
+*	*v	*v	*	*
+=8	=8	=8	=8
+2.r	2.B	4cc##X	2.e# 2.g##X
+.	.	[8dd#	.
+.	.	8dd#L]	.
+.	.	8cc##	.
+.	.	8dd#J	.
+*	*clefG2	*	*
+=9	=9	=9	=9
+*	*^	*	*
+2.r	2.a#	[2.B [2.e#	2.ryy	4r
+.	.	.	.	8r
+.	.	.	.	[4.dd#
+=10	=10	=10	=10	=10
+2.r	4.an	2.B] 2.e#]	4raa	4dd#]
+.	.	.	8dd#	[8dd#
+.	4.g#	.	[4.gg#	4.dd#_
+=11	=11	=11	=11	=11
+2.r	[4g#	4.A# 4.e#	8gg#L]	4dd#]
+.	.	.	8dd#	.
+.	16g#LL]	.	8ee#J	8cc#
+.	16c#JJ	.	.	.
+.	[4.g#	[4.An [4.c#	[4.ccc#	[4.cc# [4.ee#
+=12	=12	=12	=12	=12
+*	*	*^	*	*
+2.r	4.g#]	4.A] 4.c#]	4r	4.ccc#]	4.cc#] 4.ee#]
+.	.	.	8r	.	.
+.	4gn	4.c#	4An\	4ee#	4.cc#
+.	8f#	.	8A#X\	8ff#	.
+*	*v	*v	*v	*	*
+=13	=13	=13	=13
+*	*clefF4	*	*
+.	.	.	16qqf#\LL
+.	.	.	[16qqcc#\JJ
+*	*^	*	*
+2.r	2.A# 2.f#	4.Dn	[4.aa#	2.cc#]
+.	.	4D#X	4aa#]	.
+.	.	8D##X	8aa#	.
+*	*v	*v	*	*
+=14	=14	=14	=14
+2.r	4.En 4.B-X 4.g-X	4.bb-X	4.ddn
+.	4.Fn 4.An 4.fn	8bbnL	4.ee-X
+.	.	8dddn	.
+.	.	8cccnJ	.
+*	*	*v	*v
+=15	=15	=15
+.	16qqBB-X/LL	.
+.	16qqFn/JJ	.
+*	*	*^
+*	*	*	*^
+2.r	2.B-X 2.fn	4cccn	2.ddn	8ccc\L
+.	.	.	.	8ffn\J
+.	.	8raa	.	8r
+.	.	40%3raa	.	4r
+.	.	40%3ggnL	.	.
+.	.	40%3aan	.	.
+.	.	40%3bb-X	.	.
+.	.	.	.	8r
+.	.	40%3cccJ	.	.
+*	*	*	*v	*v
+=16	=16	=16	=16
+2.r	2.B-X 2.fn 2.b-X	4fffn	2.ddn 2.bb-X
+.	.	8dddn	.
+.	.	4fff	.
+.	.	[8ddd	.
+*	*	*v	*v
+=17	=17	=17
+2.r	2.r	8dddL]
+.	.	8bb-X
+.	.	8ffnJ
+.	.	8ddnL
+.	.	8b-X
+.	.	8bnJ
+=18	=18	=18
+2.r	32%3dnL	8ccnL
+.	32%3A-X	.
+.	.	8enJ
+.	32%3BB-X	.
+.	.	8r
+.	32%3BB-J	.
+.	8BBB-X	40%3r
+.	.	40%3fnL
+.	8r	.
+.	.	40%3gn
+.	.	40%3a-X
+.	8r	.
+.	.	40%3b-XJ
+=19	=19	=19
+*	*	*^
+2.r	2.A-X	4bn	2.dn 2.f#X
+.	.	[8ccn	.
+.	.	8ccL]	.
+.	.	8b	.
+.	.	8ccJ	.
+*	*	*v	*v
+*	*clefG2	*
+=20	=20	=20
+*	*^	*
+2.r	2.ddn 2.ff# 2.cccn	4.a-X	4r
+.	.	.	8r
+.	.	4an	[4.dddn
+.	.	8a#X	.
+=21	=21	=21	=21
+2.r	2.ddn 2.ggn 2.bb	2.b	4.ddd]
+.	.	.	16qqccc#X/LL
+.	.	.	16qqdddn/JJ
+.	.	.	4.gggn
+*	*v	*v	*
+=22	=22	=22
+*	*clefF4	*
+2.r	32%3enL	8ddnL
+.	32%3B-X	.
+.	.	8f#J
+.	32%3Cn	.
+.	.	8r
+.	32%3CJ	.
+.	8CCn	40%3r
+.	.	40%3gnL
+.	8r	.
+.	.	40%3an
+.	.	40%3b-X
+.	8r	.
+.	.	40%3ccnJ
+=23	=23	=23
+*	*	*^
+2.r	2.B-X	4cc#X	2.en 2.g#X
+.	.	[8ddn	.
+.	.	8ddL]	.
+.	.	8cc#	.
+.	.	8ddJ	.
+*	*	*v	*v
+*	*clefG2	*
+=24	=24	=24
+*	*^	*
+2.r	2.een 2.gg# 2.dddn	4.b-X	4r
+.	.	.	8r
+.	.	4bn	[4.eeen
+.	.	8b#X	.
+=25	=25	=25	=25
+2.r	2.een 2.aan 2.ccc#	2.cc#	4.eee]
+.	.	.	16qqddd#X/LL
+.	.	.	16qqeeen/JJ
+.	.	.	56%3bbbLL
+.	.	.	56%3aaan
+.	.	.	56%3fff#
+.	.	.	56%3eeen
+.	.	.	56%3gg#
+.	.	.	56%3aan
+.	.	.	56%3aa#XJJ
+*	*v	*v	*
+*	*clefF4	*
+=26	=26	=26
+2.r	32%3cc#L	8bbL
+.	32%3gn	.
+.	.	8dd#J
+.	32%3An	.
+.	.	8r
+.	32%3c#J	.
+.	32%3GnL	40%3r
+.	.	40%3eenL
+.	32%3AAn	.
+.	.	40%3ff#
+.	32%3AA	.
+.	.	40%3ggn
+.	32%3AAAnJ	.
+.	.	40%3aanJ
+=27	=27	=27
+*	*	*^
+2.r	2.gn	4aa#X	2.cc# 2.ee#X
+.	.	[8bb	.
+.	.	8bbL]	.
+.	.	8aa#	.
+.	.	8bbJ	.
+*	*	*v	*v
+=28	=28	=28
+2.r	32%3cc#L	8bbL
+.	32%3gn	.
+.	.	8dd#J
+.	32%3An	.
+.	.	8r
+.	32%3c#J	.
+.	32%3GnL	40%3r
+.	.	40%3eenL
+.	32%3AAn	.
+.	.	40%3ff#
+.	32%3AA	.
+.	.	40%3ggn
+.	32%3AAAnJ	.
+.	.	40%3aanJ
+=29	=29	=29
+2.r	32%3DDnL	8ff#L 8aa#X
+.	32%3Dn	.
+.	.	8ddn 8dddn
+.	32%3D	.
+.	.	8dddJ 8fff#
+.	32%3F#J	.
+.	32%3cnL	8aa#L 8fff# 8aaa#X
+.	32%3dn	.
+.	.	8aa# 8fff# 8aaa#
+.	32%3f#	.
+.	.	8aa#J 8fff# 8aaa#
+.	32%3ccnJ	.
+=30	=30	=30
+2.r	32%3b#XL	8aa#L
+.	32%3f#	.
+.	.	8cc##XJ
+.	32%3G#	.
+.	.	8r
+.	32%3B#XJ	.
+.	32%3F#L	40%3r
+.	.	40%3dd#L
+.	32%3GG#	.
+.	.	40%3ee#
+.	32%3GG#	.
+.	.	40%3ff#
+.	32%3GGG#J	.
+.	.	40%3gg#J
+=31	=31	=31
+*	*	*^
+2.r	2.f#	4gg##X	2.b#X 2.dd##X
+.	.	[8aa#	.
+.	.	8aa#L]	.
+.	.	8gg##	.
+.	.	8aa#J	.
+*	*	*v	*v
+=32	=32	=32
+2.r	32%3b#XL	8aa#L
+.	32%3f#	.
+.	.	8cc##XJ
+.	32%3G#X	.
+.	.	8r
+.	32%3B#XJ	.
+.	32%3F#L	40%3r
+.	.	40%3dd#XL
+.	32%3GG#	.
+.	.	40%3ee#
+.	32%3GG#	.
+.	.	40%3ff#
+.	32%3GGG#J	.
+.	.	40%3gg#XJ
+=33	=33	=33
+2.r	32%3CC#L	8ee#L 8aa#
+.	32%3C#	.
+.	.	8dd# 8ddd#
+.	32%3C#	.
+.	.	8ddd#J 8eee#
+.	32%3E#J	.
+.	32%3BnL	8aa#L 8eee# 8aaa#
+.	32%3c#	.
+.	.	8aa# 8eee# 8aaa#
+.	32%3e#	.
+.	.	8aa#J 8eee# 8aaa#
+.	32%3bJ	.
+=34	=34	=34
+2.r	2.r	8aa#L 8eee# 8aaa#
+.	.	8aa# 8eee# 8aaa#
+.	.	8aa#J 8eee# 8aaa#
+.	.	32%3aa#L 32%3eee# 32%3aaa#
+.	.	32%3aa# 32%3eee# 32%3aaa#
+.	.	32%3aa# 32%3eee# 32%3aaa#
+.	.	32%3aa#J 32%3eee# 32%3aaa#
+*	*clefG2	*
+=35	=35	=35
+8FF#L 8C#	4r	32%3aa#L 32%3eee# 32%3aaa#
+.	.	32%3aa# 32%3eee# 32%3aaa#
+8B	.	.
+.	.	32%3aa# 32%3eee# 32%3aaa#
+8e#J	8r	.
+.	.	32%3aa#J 32%3eee# 32%3aaa#
+8dd#L	[4.dd#	32%3aa#L 32%3eee# 32%3aaa#
+.	.	32%3aa# 32%3eee# 32%3aaa#
+8e#	.	.
+.	.	32%3aa# 32%3eee# 32%3aaa#
+8BJ	.	.
+.	.	32%3aa#J 32%3eee# 32%3aaa#
+=36	=36	=36
+8FF#L 8C#	4dd#]	32%3aanL 32%3eee# 32%3aaan
+.	.	32%3aa 32%3eee# 32%3aaa
+8B	.	.
+.	.	32%3aa 32%3eee# 32%3aaa
+8e#J	8dd#	.
+.	.	32%3aaJ 32%3eee# 32%3aaa
+8gg#L	[4.gg#	32%3gg#L 32%3eee# 32%3ggg#
+.	.	32%3gg# 32%3eee# 32%3ggg#
+8e#	.	.
+.	.	32%3gg# 32%3eee# 32%3ggg#
+8BJ	.	.
+.	.	32%3gg#J 32%3eee# 32%3ggg#
+=37	=37	=37
+8FF#L 8C#	8gg#L]	32%3gg#L 32%3ccc# 32%3ggg#
+.	.	32%3gg# 32%3ccc# 32%3ggg#
+8A#X 8dd#	8dd#	.
+.	.	32%3gg# 32%3ccc# 32%3ggg#
+8e#J 8cc#	8ee#J	.
+.	.	32%3gg#J 32%3ccc# 32%3ggg#
+8cc#L 8ee#	[4.ccc#	32%3gg#L 32%3eee# 32%3ggg#
+.	.	32%3gg# 32%3eee# 32%3ggg#
+8c#	.	.
+.	.	32%3gg# 32%3eee# 32%3ggg#
+8AnJ	.	.
+.	.	32%3gg#J 32%3eee# 32%3ggg#
+=38	=38	=38
+8FF#L 8C#	4.ccc#]	32%3gg#L 32%3ccc# 32%3ggg#
+.	.	32%3gg# 32%3ccc# 32%3ggg#
+8An	.	.
+.	.	32%3gg# 32%3ccc# 32%3ggg#
+8c#J	.	.
+.	.	32%3gg#J 32%3ccc# 32%3ggg#
+8cc#L	4ee#	32%3ggnL 32%3ccc# 32%3gggn
+.	.	32%3gg 32%3ccc# 32%3ggg
+8A#X 8c#	.	.
+.	.	32%3gg 32%3ccc# 32%3ggg
+8cc#J 8ff#	8ff#	.
+.	.	32%3ff#J 32%3ccc# 32%3fff#
+=39	=39	=39
+8cc#L 8aa#	[4.aa#	32%3ff#L 32%3fff#
+.	.	32%3ff# 32%3fff#
+8f#	.	.
+.	.	32%3ff# 32%3aa# 32%3fff#
+8A#J	.	.
+.	.	32%3ff#J 32%3aa# 32%3fff#
+8DDnL 8Dn	4aa#]	32%3ff#L 32%3aa# 32%3fff#
+.	.	32%3ff# 32%3aa# 32%3fff#
+8A#	.	.
+.	.	32%3ff# 32%3fff#
+8f#J 8aa#	8aa#	.
+.	.	32%3ff#J 32%3fff#
+=40	=40	=40
+8b#XL	4aa#	32%3ff#L 32%3bb#X 32%3fff#
+.	.	32%3ff# 32%3bb# 32%3fff#
+8G#	.	.
+.	.	32%3ff# 32%3bb# 32%3fff#
+8f#J 8b#	8cc##X	.
+.	.	32%3ee#J 32%3bb# 32%3eee#
+8f#L 8b#	4ee#	32%3gg#L 32%3bb# 32%3ggg#
+.	.	32%3gg# 32%3bb# 32%3ggg#
+8G#	.	.
+.	.	32%3gg# 32%3bb# 32%3ggg#
+8f#J 8b#	8dd#	.
+.	.	32%3ff#J 32%3bb# 32%3fff#
+=41	=41	=41
+8e#L	8dd#L	32%3ee#L 32%3bbn 32%3eee#
+.	.	32%3ee# 32%3bb 32%3eee#
+8B	8f##XJ	.
+.	.	32%3ee# 32%3bb 32%3eee#
+8C#J	8r	.
+.	.	32%3ee#J 32%3bb 32%3eee#
+4r	40%3r	32%3ee#L 32%3bb 32%3eee#
+.	40%3g#L	.
+.	.	32%3ee# 32%3gg# 32%3eee#
+.	40%3a#	.
+.	.	32%3ee# 32%3gg# 32%3eee#
+.	40%3bn	.
+8r	.	.
+.	.	32%3ee#J 32%3gg# 32%3eee#
+.	40%3cc#XJ	.
+=42	=42	=42
+8e#L 8g##X	4cc##X	32%3ee#L 32%3gg##X 32%3eee#
+.	.	32%3ee# 32%3gg## 32%3eee#
+8BJ	.	.
+.	.	32%3ee# 32%3gg## 32%3eee#
+8r	8dd#	.
+.	.	32%3ee#J 32%3gg## 32%3eee#
+8e#L 8g##	4cc##	32%3gg##L 32%3eee# 32%3ggg##X
+.	.	32%3gg## 32%3eee# 32%3ggg##
+8BJ	.	.
+.	.	32%3gg## 32%3eee# 32%3ggg##
+8r	8dd#	.
+.	.	32%3gg##J 32%3ddd# 32%3ggg##
+=43	=43	=43
+8FF#L 8C#	4r	24aaa#LL
+.	.	24eee#
+.	.	24aaa#
+8B	.	24aa#
+.	.	24eee#
+.	.	24aa#
+8e#J	8r	24eee#
+.	.	24ee#
+.	.	24eee#JJ
+8dd#L	[4.dd#	24aa#LL
+.	.	24eee#
+.	.	24aa#
+8e#	.	24aaa#
+.	.	24eee#
+.	.	24aaa#
+8BJ	.	24aa#
+.	.	24eee#
+.	.	24aa#JJ
+=44	=44	=44
+8FF#L 8C#	4dd#]	24eee#LL
+.	.	24ee#
+.	.	24eee#
+8B	.	24aan
+.	.	24eee#
+.	.	24aa
+8e#J 8dd#	8dd#	24aaan
+.	.	24eee#
+.	.	24ggg#JJ
+8gg#L	[4.gg#	24gg#LL
+.	.	24eee#
+.	.	24gg#
+8e#	.	24eee#
+.	.	24ee#
+.	.	24eee#
+8BJ	.	24gg#
+.	.	24eee#
+.	.	24gg#JJ
+=45	=45	=45
+8FF#L 8C#	8gg#L]	24ggg#LL
+.	.	24eee#
+.	.	24ggg#
+8A#X 8dd#	8dd#	24gg#
+.	.	24eee#
+.	.	24gg#
+8e#J 8cc#	8ee#J	24eee#
+.	.	24ee#
+.	.	24eee#JJ
+8cc#L 8ee#	[4.ccc#	24gg#LL
+.	.	24eee#
+.	.	24gg#
+8c#	.	24ggg#
+.	.	24ccc#
+.	.	24ggg#
+8AnJ	.	24gg#
+.	.	24ccc#
+.	.	24gg#JJ
+=46	=46	=46
+8FF#L 8C#	4.ccc#]	24ccc#LL
+.	.	24cc#
+.	.	24ccc#
+8An	.	24gg#
+.	.	24ccc#
+.	.	24gg#
+8c#J	.	24ggg#
+.	.	24ccc#
+.	.	24gggnJJ
+8cc#L	4ee#	24ggnLL
+.	.	24ccc#
+.	.	24gg
+8A#X 8c#	.	24ccc#
+.	.	24cc#
+.	.	24ccc#
+8cc#J	8ff#	24ff#
+.	.	24ccc#
+.	.	24ff#JJ
+=47	=47	=47
+8f#L 8b#X	4aa#	24fff#LL
+.	.	24bb#X
+.	.	24fff#
+8G#	.	24ff#
+.	.	24bb#
+.	.	24ff#
+8f#J	8cc##X	24bb#
+.	.	24b#X
+.	.	24bb#JJ
+8f#L 8b#	4ee#	24ff#LL
+.	.	24bb#
+.	.	24ff#
+8G#	.	24fff#
+.	.	24bb#
+.	.	24fff#
+8f#J 8b#	8dd#	24ff#
+.	.	24bb#
+.	.	24ff#JJ
+=48	=48	=48
+8e#L 8bn	4dd#	24bbnLL
+.	.	24bn
+.	.	24bb
+8C#	.	24ee#
+.	.	24bb
+.	.	24ee#
+[8BJ [8e#	[8f##X	24eee#
+.	.	24bb
+.	.	24eee#JJ
+4.B] 4.e#]	8f##L]	24ee#LL
+.	.	24bb
+.	.	24ee#
+.	8g#	24bb
+.	.	24b
+.	.	24bb
+.	8g##XJ	24ee#
+.	.	24bb
+.	.	24ee#JJ
+=49	=49	=49
+8A#L 8e# 8a#	2.r	24eee#LL
+.	.	24aa#
+.	.	24eee#
+8C##XJ	.	24ee#
+.	.	24aa#
+.	.	24ee#
+8r	.	24aa#
+.	.	24a#
+.	.	24aa#JJ
+4r	.	24ee#LL
+.	.	24aa#
+.	.	24ee#
+.	.	24eee#
+.	.	24aa#
+.	.	24eee#
+8r	.	24aa#
+.	.	24aaa#
+.	.	24eee#JJ
+*	*clefF4	*
+=50	=50	=50
+*	*	*^
+2.r	4r	24aaa#LL	4rc
+.	.	24eee#	.
+.	.	24eeee#	.
+.	.	24aaa#	.
+.	.	24eeee#	.
+.	.	24aaa#J	.
+.	8r	8aaaa#J	8rc
+.	4r	4raa	4rc
+.	[8D#	8raa	[8c# [8f##X
+=51	=51	=51	=51
+2.r	4.D#_ [4.d#	4raa	4c#] 4f##]
+.	.	8raa	[8c# [8f##X
+.	4D#] 4d#]	[4.b#X	4c#] 4f##]
+.	[8DD#	.	[8c# [8f##
+=52	=52	=52	=52
+2.r	2.DD#] 2.D#	4b#]	4c#] 4f##]
+.	.	8b#X	[8c# [8f##X
+.	.	4.ee#	4.c#] 4.f##]
+*	*	*v	*v
+*	*clefG2	*
+=53	=53	=53
+*	*^	*
+2.r	4raa	[2.g#	4r
+.	8raa	.	[8eee#
+.	[4.f#X 4.cc#	.	32%3eee#L]
+.	.	.	32%3ddd#
+.	.	.	32%3aa#
+.	.	.	32%3gg#J
+=54	=54	=54	=54
+*	*	*	*^
+2.r	4.f#_ [4.b#X	4.g#_	4.ee#	4rc
+.	.	.	.	8rc
+.	4f#] 4b#]	4g#]	4dd#	4rc
+*	*clefF4	*	*	*
+.	[8C#	8rEE	8raa	[8Bn [8f#
+*	*v	*v	*	*
+=55	=55	=55	=55
+2.r	4.C#_ [4.c#	4raa	4B] 4f#]
+.	.	8raa	[8B [8f#
+.	4C#] 4c#]	[4.a#	4B] 4f#]
+.	[8CC#	.	[8B [8f#
+=56	=56	=56	=56
+2.r	2.CC#] 2.C#	4a#]	4B] 4f#]
+.	.	8a#	[8B [8e#
+.	.	4.dd#	4.B] 4.e#]
+*	*	*v	*v
+*	*clefG2	*
+=57	=57	=57
+*	*^	*
+2.r	4raa	[2.f#	4r
+.	8raa	.	[8ddd#
+.	[4.en 4.b	.	16ddd#LL]
+.	.	.	16ggg#
+.	.	.	16ddd#
+.	.	.	16ccc#
+.	.	.	16gg#
+.	.	.	16ff#JJ
+=58	=58	=58	=58
+2.r	4.e_ [4.a#	4.f#_	4.dd#
+.	4e] 4a#]	4f#]	4cc#
+*	*clefF4	*	*
+.	[8BB	8rEE	8r
+*	*v	*v	*
+=59	=59	=59
+2.r	4.BB_ [4.F#	4r
+.	.	[8d# [8a# [8dd#
+.	4BB] 4F#]	4d#] 4a#] 4dd#]
+.	[8BB#X	8r
+=60	=60	=60
+2.r	4.BB#_ [4.A#	4r
+.	.	[8dn [8f# [8ddn
+.	4BB#] 4A#]	4d] 4f#] 4dd]
+.	[8C#	8r
+=61	=61	=61
+2.r	4.C#_ [4.A#	4r
+.	.	[8dn [8f# [8ddn
+.	4C#] 4A#]	4d] 4f#] 4dd]
+.	[8C##X	8r
+=62	=62	=62
+2.r	4.C##_ [4.A#	4r
+.	.	[8c#X [8f# [8cc#X
+.	4C##] 4A#]	4c#] 4f#] 4cc#]
+.	8D#	8r
+=63	=63	=63
+2.r	2.r	2.r
+=64	=64	=64
+2.r	8G#	8B 8d# 8f# 8b
+.	8r	8r
+.	8r	8r
+.	4r	4r
+.	8r	8r
+=65	=65	=65
+2.r	4r	4r
+.	8r	8r
+.	8CC# 8C#	8B 8d#
+.	8r	8r
+.	8r	8r
+=66	=66	=66
+2.r	4r	4r
+.	8r	8r
+.	8CC# 8C#	8B 8d#
+.	8r	8r
+.	8r	8r
+==	==	==
+*-	*-	*-
+!!!system-decoration: {(s1,s2,s3)}
+!!!ENC: Bryan Jacob Bell
+!!!END: November 2021 to April 2022
+!!!PED: Günter Philipp
+!!!PTL: Ausgewählte Klavierwerke (Edition Peters)

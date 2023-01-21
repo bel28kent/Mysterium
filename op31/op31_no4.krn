@@ -1,0 +1,93 @@
+!!!COM: Scriabin, Alexander
+!!!OTL: Prelude
+!!!OPR: 4 Preludes
+!!!OPS: 31
+!!!ONM: 4
+!!!ODT: 1903
+!!!AGN: Prelude
+**kern	**kern
+*staff2	*staff1
+*clefF4	*clefG2
+*k[]	*k[]
+*C:	*C:
+*M3/4	*M3/4
+8.EEL 8.E	8.cL 8.g 8.cc
+16EE-XJk 16E-X	16c#XJk 16g 16b
+=1	=1
+*	*^
+*	*	*^
+2.GG 2.G	2.b	4g	2d\
+.	.	4f#X	.
+.	.	4e#X	4c#X\
+*	*v	*v	*v
+=2	=2
+2DD 2D	2d 2f#X 2a
+8.DDL 8.D	8.B-XL 8.fn 8.b-X
+16DD-XJk 16D-X	16BnJk 16f 16a
+=3	=3
+*	*^
+*	*	*^
+2.FF 2.F	2.a	4f	2c\
+.	.	4e	.
+.	.	4d#X	4B\
+*	*v	*v	*v
+=4	=4
+2CC 2C	2c 2e 2g
+8.CCL 8.C	8.A-XL 8.e-X 8.a-X
+16DD-XJk 16D-X	16A-Jk 16d-X 16f
+=5	=5
+2.DD-X 2.D-X	2.A-X 2.d-X 2.f
+=6	=6
+2EE-X 2E-X	2G 2B-X 2e-X
+4FF 4F	4F 4A-X 4d-X
+=7	=7
+*	*^
+[2.GG [2.G	2c	2.Dn 2.G
+.	4B	.
+*	*v	*v
+=8	=8
+2GG] 2G]	2B 2d 2g
+8.EEL 8.E	8.cL 8.g 8.cc
+16EE-XJk 16E-X	16c#XJk 16g 16b
+=9	=9
+*	*^
+*	*	*^
+2.GG 2.G	2.b	4g	2.d\
+.	.	4g	.
+.	.	4f#X	.
+*	*	*v	*v
+=10	=10	=10
+2DD-X 2D-X	2b	2B 2fn
+8.DD-L 8.D-	8.BnL 8.f 8.b-X	4ryy
+16DD-Jk 16D-	16BJk 16f 16a	.
+=11	=11	=11
+*	*	*^
+2.FF 2.F	2.a	4c	2.c\
+.	.	4f	.
+.	.	4e	.
+*	*v	*v	*v
+=12	=12
+2BBB 2BB	2c#X 2d#X 2a
+8CCL 8C	8.cnL 8.e-X 8.a-X
+8DD-XJ 8D-X	.
+.	16A-XJk 16d-X 16f
+=13	=13
+2.DD-X 2.D-X	2.A-X 2.d-X 2.f
+=14	=14
+2EE-X 2E-X	2G 2B-X 2e-X
+4FF 4F	4F 4A-X 4d-X
+=15	=15
+2.r	2.r
+=16	=16
+2.GG	2.F 2.G 2.B
+=17	=17
+[2.CC [2.GG	[2.E [2.G [2.c
+=18	=18
+2.CC] 2.GG]	2.E] 2.G] 2.c]
+==	==
+*-	*-
+!!!system-decoration: {(s1,s2)}
+!!!ENC: Bryan Jacob Bell
+!!!END: November 2021 to April 2022
+!!!PED: Konstantin Igumnov and Yakov Milstein
+!!!PTL: A.N. Skryabin: Polnoe sobranie sochinenii dlia fortepiano (Muzgiz)

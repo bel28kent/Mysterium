@@ -1,0 +1,297 @@
+!!!COM: Scriabin, Alexander
+!!!OTL: Prelude
+!!!OPR: 3 Preludes
+!!!OPS: 35
+!!!ONM: 2
+!!!ODT: 1903
+!!!AGN: Prelude
+**kern	**kern
+*staff2	*staff1
+*clefF4	*clefF4
+*k[b-e-]	*k[b-e-]
+*B-:	*B-:
+*M4/4	*M4/4
+*met(c)	*met(c)
+=1	=1
+*	*^
+2BBB- 2BB-	4rc	2D 2F
+.	[4B-	.
+2DD 2D	8B-L]	2F#X
+.	8A	.
+.	8G#X	.
+.	8AJ	.
+=2	=2	=2
+*	*	*^
+1AAA 1AA	1ryy	4.d	1Fn 1A
+.	.	8d-X	.
+.	.	8f	.
+.	.	4Bn	.
+.	.	[8c	.
+=3	=3	=3	=3
+1AAA-X 1AA-X	4rc	2c]	1F#X
+.	[4e-	.	.
+.	8e-L]	2c-X	.
+.	8d	.	.
+.	8c#X	.	.
+.	8dJ	.	.
+*	*clefG2	*	*
+=4	=4	=4	=4
+*^	*	*	*
+4rc	1GGG 1GG	4.fn	1B-	4G\
+[4D	.	.	.	4r
+.	.	8f-X	.	.
+8D]	.	8b-	.	2r
+4D	.	4f-	.	.
+8E-	.	8e-	.	.
+*	*	*	*v	*v
+=5	=5	=5	=5
+2.F-X	1GGG-X 1GG-X	8raa	1B-
+.	.	4e-	.
+.	.	8d-X	.
+.	.	8cL	.
+.	.	8d-	.
+8CL	.	8e-	.
+8D-XJ	.	8f-XJ	.
+=6	=6	=6	=6
+2Dn	1CC-X 1GG-X	4fn	1c-X
+.	.	8b-L	.
+.	.	8a-XJ	.
+2E-	.	8a--L	.
+.	.	8g-X	.
+.	.	8e-	.
+.	.	8c-J	.
+*v	*v	*	*
+=7	=7	=7
+1EE- 1C-X	8c-XL	1G-X
+.	8B-J	.
+.	2e-	.
+.	4B-	.
+=8	=8	=8
+1FF 1Cn	2B-	1F
+.	2A	.
+=9	=9	=9
+1CC-X 1GG-X	4raa	1E- 1B--
+.	[4d-X	.
+.	8d-L]	.
+.	8c-XJ	.
+.	8B-XL	.
+.	8c-J	.
+=10	=10	=10
+*^	*	*^
+4rc	1FFF 1FF	4.dn	1A	4E-\
+[4F	.	.	.	4r
+.	.	8d-X	.	.
+8FL]	.	8a	.	2r
+8E-J	.	4Bn	.	.
+8DnL	.	.	.	.
+8E-J	.	8c	.	.
+*	*	*	*v	*v
+=11	=11	=11	=11
+4.A--	1DD-X 1C-X	4raa	2rc
+.	.	[4e-	.
+8G-X	.	.	.
+8c-X	.	8e-L]	4c-X
+4F-X	.	8d-XJ	.
+.	.	8cnL	4rc
+8Fn	.	8d-J	.
+=12	=12	=12	=12
+4rc	1GGG 1GG	4.en	1Bn
+[4G	.	.	.
+.	.	8e-X	.
+8GL]	.	8bn	.
+8FJ	.	4d-X	.
+8EnL	.	.	.
+8FJ	.	8dn	.
+=13	=13	=13	=13
+2F	2DDD-X 2DD-X	8raa	2c-X 2e-
+.	.	4b-X	.
+.	.	8a-X	.
+4c-X	2DD- 2D-X	8gL	2f
+.	.	8a-	.
+8G-XL	.	8b-	.
+8AJ	.	8cc-XJ	.
+=14	=14	=14	=14
+2An	1GG-X 1D-X	4ccn	1g-X
+.	.	8ffL	.
+.	.	8ee-J	.
+2B-	.	8ee--L	.
+.	.	8dd-X	.
+.	.	8b-	.
+.	.	8g-J	.
+*v	*v	*	*
+=15	=15	=15
+1CC 1C 1B-	4raa	8fL
+.	.	[8enJ
+.	2a	2.e]
+.	4g	.
+=16	=16	=16
+1FF 1C 1A	2g	2en
+.	2f	2f
+=17	=17	=17
+*^	*	*
+4rc	1FFF 1FF	8raa	8rc
+.	.	8d-X	[8d-
+[4G	.	8b-L	2.d-]
+.	.	[8b--J	.
+8G]	.	8b--]	.
+4A-X	.	4a-X	.
+8D-X	.	8f	.
+*	*	*v	*v
+=18	=18	=18
+*	*^	*
+8rc	2C	1FFF 1FF	2e-
+8C	.	.	.
+8B-L	.	.	.
+[8B--J	.	.	.
+8B--]	2D-X	.	2d-X
+4A-X	.	.	.
+8F	.	.	.
+*	*v	*v	*
+=19	=19	=19
+*	*	*^
+2E-	1FF	6c	1A-X
+.	.	12c	.
+.	.	12cL	.
+.	.	12.Bn	.
+.	.	24cJk	.
+2D-X	.	4.f	.
+.	.	8c	.
+=20	=20	=20	=20
+6Dn	1GG	2c	1G
+12E-	.	.	.
+12DL	.	.	.
+12.C#X	.	.	.
+24DJk	.	.	.
+4G	.	2Bn	.
+4GG	.	.	.
+=21	=21	=21	=21
+4rc	1EEE- 1EE-	8raa	8rc
+.	.	8c-X	[8c-
+[4F	.	8a-XL	2.c-]
+.	.	[8a--J	.
+8F]	.	8a--]	.
+4G-X	.	4g-X	.
+8C-X	.	8e-	.
+*	*	*v	*v
+=22	=22	=22
+*	*^	*
+8rc	2BB-	1EEE- 1EE-	2d-X
+8BB-	.	.	.
+8A-XL	.	.	.
+[8A--J	.	.	.
+8A--]	2C-X	.	2c-X
+4G-X	.	.	.
+8E-	.	.	.
+*	*v	*v	*
+=23	=23	=23
+*	*	*^
+2D-X	1EE-	6B-	1G-X
+.	.	12B-	.
+.	.	12B-L	.
+.	.	12.An	.
+.	.	24B-Jk	.
+2C-X	.	4.e-	.
+.	.	8B-	.
+*	*	*v	*v
+=24	=24	=24
+6Cn	1FF	1F 1A
+12D-X	.	.
+12CL	.	.
+12.BBn	.	.
+24CJk	.	.
+4F	.	.
+4FF	.	.
+*v	*v	*
+=25	=25
+*	*clefF4
+*	*^
+2BBB- 2BB-	4rc	2Dn 2F
+.	[4B-	.
+2DD 2D	8B-L]	2F#X
+.	8A	.
+.	8G#X	.
+.	8AJ	.
+=26	=26	=26
+*	*	*^
+1AAA 1AA	1ryy	4.d	1Fn 1A
+.	.	8d-X	.
+.	.	8f	.
+.	.	4Bn	.
+.	.	[8c	.
+=27	=27	=27	=27
+1AAA-X 1AA-X	4rc	2c]	1F#X
+.	[4e-	.	.
+.	8e-L]	2c-X	.
+.	8d	.	.
+.	8c#X	.	.
+.	8dJ	.	.
+*	*clefG2	*	*
+=28	=28	=28	=28
+*^	*	*	*
+4rc	1GGG 1GG	4.fn	1B-	4G\
+[4D	.	.	.	4r
+.	.	8f-X	.	.
+8D]	.	8b-	.	2r
+4D	.	4f-	.	.
+8E-	.	8e-	.	.
+*	*	*	*v	*v
+=29	=29	=29	=29
+2.F-X	1GGG-X 1GG-X	8raa	1B-
+.	.	4e-	.
+.	.	8d-X	.
+.	.	8cL	.
+.	.	8d-	.
+8CL	.	8e-	.
+8D-XJ	.	8f-XJ	.
+=30	=30	=30	=30
+2Dn	1CC-X 1GG-X	4fn	1c-X
+.	.	8b-L	.
+.	.	8a-XJ	.
+2E-	.	8a--L	.
+.	.	8g-X	.
+.	.	8e-	.
+.	.	8c-J	.
+*v	*v	*	*
+=31	=31	=31
+1FF 1E-	4raa	8B-L
+.	.	[8AnJ
+.	2d	2.A]
+.	4c	.
+=32	=32	=32
+2.BBB- 2.FF 2.D	2c	2A
+.	2B-	2B-
+4AAA-X 4AA-X	.	.
+=33	=33	=33
+*^	*	*
+2.F-X	1GGG-X 1GG-X	8raa	1B-
+.	.	4e-	.
+.	.	8d-X	.
+.	.	8cL	.
+.	.	8d-	.
+8CL	.	8e-	.
+8D-XJ	.	8f-XJ	.
+=34	=34	=34	=34
+2Dn	1CC-X 1GG-X	4fn	1c-X
+.	.	8b-L	.
+.	.	8a-XJ	.
+2E-	.	8a--L	.
+.	.	8g-X	.
+.	.	8e-	.
+.	.	8c-J	.
+*v	*v	*	*
+=35	=35	=35
+1FF 1E-	4raa	8B-L
+.	.	[8AnJ
+.	2d	2.A]
+.	4c	.
+=36	=36	=36
+1BBB- 1FF 1D	2c	2A
+.	2B-	2B-
+*	*v	*v
+==	==
+*-	*-
+!!!system-decoration: {(s1,s2)}
+!!!ENC: Bryan Jacob Bell
+!!!END: November 2021 to April 2022
+!!!PED: Konstantin Igumnov and Yakov Milstein
+!!!PTL: A.N. Skryabin: Polnoe sobranie sochinenii dlia fortepiano (Muzgiz)
