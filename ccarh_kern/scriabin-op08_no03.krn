@@ -7,10 +7,11 @@
 !!!AGN: Etude
 !!!OMD: Tempestoso [half-dot] = 80-92
 **kern	**kern	**dynam
-*part1	*part1	*part1
+*part1	*part1	*
 *staff2	*staff1	*staff1/2
 *clefF4	*clefG2	*
 *k[f#c#]	*k[f#c#]	*
+*b:	*b:	*
 *M6/8	*M6/8	*
 *MM138	*MM138	*
 =1	=1	=1
