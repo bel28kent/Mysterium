@@ -7,11 +7,12 @@
 !!!AGN: Etude
 !!!OMD: Allegro M.M. [quarter] = 168
 **kern	**kern	**dynam
-*part1	*part1	*part1
+*part1	*part1	*
 *staff2	*staff1	*staff1/2
-*Ipiano	*Ipiano	*Ipiano
-*clefF4	*clefG2	*clefG2
+*Ipiano	*Ipiano	*
+*clefF4	*clefG2	*
 *k[f#c#g#d#a#e#b#]	*k[f#c#g#d#a#e#b#]	*
+*C#:	*C#:	*
 *met(c)	*met(c)	*
 *M4/4	*M4/4	*
 *MM168	*MM168	*
