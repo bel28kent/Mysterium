@@ -226,6 +226,7 @@
 1d-] 1a-]	1dd-] 1ff])	.
 ==	==	==
 *-	*-	*-
+!!!system-decoration: {(*)}
 !!!RDF**kern: > = above
 !!!RDF**kern: < = below
 !!!RDF**dynam: > = dim.

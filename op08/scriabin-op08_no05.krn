@@ -741,6 +741,7 @@
 1EE 1BB 1E	1G# 1B 1e	.
 ==	==	==
 *-	*-	*-
+!!!system-decoration: {(*)}
 !!!RDF**kern: > = above
 !!!RDF**kern: < = below
 !!!RDF**dynam: > = dim.
