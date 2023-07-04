@@ -398,8 +398,8 @@
 .	16eee
 .	16bbb-
 .	16eeeenJJ
-=21	=21
 *clefF4	*
+=21	=21
 8FL 8c 8f	16fffLL 16ffff
 .	16aaan
 8C 8c	16fff
@@ -517,8 +517,8 @@
 .	.	16d-
 .	.	16D-JJ
 *v	*v	*
-=27	=27
 *	*clefF4
+=27	=27
 [2.BBBB- [2.BBB-	16fLL
 .	16B-
 .	16F

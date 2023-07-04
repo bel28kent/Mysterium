@@ -22,8 +22,8 @@
 12g-	.	12gg-
 12enJ	.	12eenJ
 *v	*v	*
-=2	=2
 *clefF4	*
+=2	=2
 12fL	12ffL
 12B-	12b-
 12G-J	12g-J
@@ -46,8 +46,8 @@
 12a-	.	12aa-
 12fJ	.	12ffJ
 *v	*v	*
-=4	=4
 *clefF4	*
+=4	=4
 12g-L	12gg-L
 12c-X	12cc-X
 12A-J	12a-J
@@ -180,8 +180,8 @@
 12g-	.	12gg-
 12enJ	.	12eenJ
 *v	*v	*
-=18	=18
 *clefF4	*
+=18	=18
 12fL	12ffL
 12B-	12b-
 12G-J	12g-J
@@ -664,8 +664,8 @@
 4DD- 4AA- 4D-	4F 4A- 4d- 4f
 *clefG2	*
 4c-X 4d- 4cc-X	4a- 4dd- 4aa-
-=56	=56
 *clefF4	*
+=56	=56
 4DD- 4GG- 4D-	4G- 4B- 4d- 4g-
 *clefG2	*
 4c-X 4d- 4cc-X	4g- 4dd- 4gg-
@@ -999,8 +999,8 @@
 12B- 12c 12b-	.	12dd
 .	8gJ 8ggn	.
 12B-J 12c 12b-	.	12ddJ
-=88	=88	=88
 *clefF4	*	*
+=88	=88	=88
 12FFFL 12FF	2cc 2ccc	12ffL 12aan
 12An 12e- 12an	.	12cc 12ff 12aa
 12AJ 12e- 12a	.	12ccJ 12ff 12aa
@@ -1375,8 +1375,8 @@
 8EEE-J 8EE-	.
 8r	4BB- 4G- 4c
 8BB-	.
-=118	=118
 *	*clefG2
+=118	=118
 4B-	4r
 4r	12bb-L
 .	12ff
@@ -1397,8 +1397,8 @@
 8GGG-XJ 8GG-X	.
 8r	4BB- 4E- 4c
 8BB-	.
-=120	=120
 *	*clefG2
+=120	=120
 4B-	4r
 4r	12bb-L
 .	12ff
@@ -1613,8 +1613,8 @@
 4BBB- 4FF 4D-	4ff 4bb- 4fff
 4r	4r
 2F 2B- 2f	2b- 2dd- 2bb-
-=142	=142
 *	*clefF4
+=142	=142
 1BBB- 1FF 1BB-	1D- 1F 1B-
 ==	==
 *-	*-
