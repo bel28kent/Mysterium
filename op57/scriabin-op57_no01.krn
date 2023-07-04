@@ -176,7 +176,7 @@
 1.CC 1.GG 1.F 1.B 1.f	1.b 1.dd#X 1.aa 1.ddd#X 1.aaa
 ==	==
 *-	*-
-!!!system-decoration: {(s1,s2)}
+!!!system-decoration: {(*)}
 !!!ENC: Bryan Jacob Bell
 !!!END: November 2021 to April 2022
 !!!PED: Günter Philipp

@@ -212,7 +212,7 @@
 4.FFF#] 4.FF#] 4.C#] 4.A#]	4.f#] 4.cc#] 4.aa#]
 ==	==
 *-	*-
-!!!system-decoration: {(s1,s2)}
+!!!system-decoration: {(*)}
 !!!ENC: Bryan Jacob Bell
 !!!END: November 2021 to April 2022
 !!!PED: Konstantin Igumnov and Yakov Milstein

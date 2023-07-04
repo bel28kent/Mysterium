@@ -1220,7 +1220,7 @@
 2.FFF# 2.FF#	2.C# 2.F# 2.A
 ==	==
 *-	*-
-!!!system-decoration: {(s1,s2)}
+!!!system-decoration: {(*)}
 !!!ENC: Bryan Jacob Bell
 !!!END: November 2021 to April 2022
 !!!PED: Günter Philipp

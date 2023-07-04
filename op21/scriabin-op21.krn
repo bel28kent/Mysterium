@@ -1744,7 +1744,7 @@
 2BB- 2F 2d-	2b- 2ff 2bb-
 ==	==
 *-	*-
-!!!system-decoration: {(s1,s2)}
+!!!system-decoration: {(*)}
 !!!ENC: Bryan Jacob Bell
 !!!END: November 2021 to April 2022
 !!!PED: M.P. Belaieff
