@@ -57,8 +57,8 @@
 16G-	16aa-X 16cccn
 16D-	16aan 16ddd-
 16DD-JJ	16bb-JJ 16ggg-X
-=7	=7
 *clefG2	*
+=7	=7
 16ee-LL	16ggnLL 16bbn
 16g-X	16aa- 16ccc
 *clefF4	*
@@ -194,8 +194,8 @@
 16a-	16eee- 16gggn
 16dd-	16eee-- 16ggg-X
 16aa-JJ	16ddd-JJ 16fffn
-=25	=25
 *clefF4	*
+=25	=25
 16AAA-LL	16gnLL 16bn
 16AA-	16a- 16cc
 16F	16dd- 16ff
@@ -459,8 +459,8 @@
 16G-	.
 16b-	.
 16cJJ	.
-=60	=60
 *clefG2	*
+=60	=60
 16cLL 16en	16cccLL 16eeen
 16g- 16b-	16gg- 16bb-
 16g- 16b-	16ccc 16eee
@@ -514,8 +514,8 @@
 16G-	16aa-X 16cccn
 16D-	16aan 16ddd-
 16DD-JJ	16bb-JJ 16ggg-X
-=67	=67
 *clefG2	*
+=67	=67
 16ee-LL	16ggnLL 16bbn
 16g-X	16aa- 16ccc
 *clefF4	*
@@ -574,8 +574,8 @@
 16B--	16eeJ 16aa-
 16f	8ffJ 8bb--
 16GnJJ	.
-=75	=75
 *clefG2	*
+=75	=75
 16dd-LL	16bb--LL 16ddd-
 16f	16aa- 16ccc
 16Gn	16bb-- 16ddd-
@@ -679,8 +679,8 @@
 .	16ee 16aa-
 .	16a- 16cc
 .	16cJJ 16en
-=89	=89
 *clefF4	*
+=89	=89
 *^	*
 16A-LL	8ryy	16cLL 16en
 16D-	.	16d- 16f
@@ -760,8 +760,8 @@
 8D- 8A- 8d-	16ee- 16ggn
 .	16ee-- 16gg-X
 16A- 16d- 16a-	16dd-JJ 16ffn
-=99	=99
 *	*clefF4
+=99	=99
 *^	*
 16E-LL	8ryy	16GnLL 16Bn
 16AA-	.	16A- 16c
@@ -786,8 +786,8 @@
 .	16E- 16Gn
 .	16E-- 16G-X
 .	16D-JJ 16Fn
-=102	=102
 *	*clefG2
+=102	=102
 4.r	16g-LL 16b-
 .	16f 16b--
 .	16f-X 16a-
