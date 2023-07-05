@@ -922,8 +922,8 @@
 .	.	24cc 24ccc
 .	.	24cc#XJJ 24ccc#X
 *v	*v	*
-=82	=82
 *clefF4	*
+=82	=82
 *	*^
 12DDL 12D	12raa	4dd 4ddd
 *clefG2	*	*
@@ -952,8 +952,8 @@
 12raa	.	12ggJ 12bb	24cc 24ccc
 .	.	.	24cc#XJJ 24ccc#X
 *v	*v	*	*
-=84	=84	=84
 *clefF4	*	*
+=84	=84	=84
 12DDL 12D	12raa	4dd 4ddd
 *clefG2	*	*
 12c 12f#X 12b	12ff#XL 12bb	.
@@ -1586,8 +1586,8 @@
 6d# 6dd#	12b] 12bb]	12ff##L
 .	6ggn [6gggn	12bb
 12c# 12cc#	.	12ggJ 12bb
-=119	=119	=119
 *clefF4	*	*
+=119	=119	=119
 24EEELL	6ggn 6ggg]	12bbL
 24EE	.	.
 24C#	.	12gg 12bb
@@ -1625,8 +1625,8 @@
 6f# 6ff#	12dd#] 12ddd#]	12aa#L
 .	6cc# 6ccc#	12aa#
 12e 12ee	.	12cc#J 12aa# 12ccc#
-=121	=121	=121
 *clefF4	*	*
+=121	=121	=121
 24GGGnLL	4cc# 4ccc#	12eeL 12aa#
 24GGn	.	.
 24E	.	12cc# 12ee
@@ -1688,8 +1688,8 @@
 24e#	.	.
 24B	12gg# 12ggg#	12bbJ
 24C##XJJ	.	.
-=124	=124	=124
 *clefF4	*	*
+=124	=124	=124
 24FFF#LL	6ff# 6fff#	12bbL
 24FF#	.	.
 24C#	.	12ff# 12bb
@@ -1709,8 +1709,8 @@
 24f#	.	.
 24A#	12cc# 12ccc#	12ff#J
 24EJJ	.	.
-=125	=125	=125
 *clefF4	*	*
+=125	=125	=125
 24AAAnLL	4cc# 4ccc#	12ff#L
 24AAn	.	.
 24D#	.	12cc# 12ff#
@@ -1769,8 +1769,8 @@
 24e	.	.
 24B	.	12b#J 12ee
 24F#JJ	.	.
-=128	=128	=128
 *clefF4	*	*
+=128	=128	=128
 24GGGnLL	6dd# 6ddd#	12eeL
 24GGn	.	.
 24E	.	12dd# 12ee
@@ -2037,8 +2037,8 @@
 4GGG#X 4GG#X	12EL
 .	12.Cn
 .	24EEJk
-=151	=151
 *	*clefG2
+=151	=151
 *	*^
 12AAAL 12AA	4E 4A 4cn 4e	4rc
 12.EEE 12.EE	.	.

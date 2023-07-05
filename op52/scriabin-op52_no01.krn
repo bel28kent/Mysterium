@@ -37,8 +37,8 @@
 6a-X	6dd 6gg-X 6ccc
 12d	12b-X 12ff-X 12aa-X
 4r	4r
-=4	=4
 *clefF4	*
+=4	=4
 *M2/8	*M2/8
 *^	*
 4B-X	8rEE	16r
@@ -183,8 +183,8 @@
 .	8dd-XL	.	8ggL 8ccc-X 8fff
 .	8gJ	.	8ee-XJ 8aa 8ddd-X
 *	*	*v	*v
-=19	=19	=19
 *clefF4	*	*
+=19	=19	=19
 *v	*v	*
 *M5/16	*M5/16
 *^	*
@@ -476,8 +476,8 @@
 .	8gg-XL	.	8cccL 8fff-X 8bbb-X
 .	8ccJ	.	8aa-XJ 8ddd 8ggg-X
 *	*	*v	*v
-=43	=43	=43
 *clefF4	*	*
+=43	=43	=43
 *v	*v	*
 *M5/16	*M5/16
 *^	*
