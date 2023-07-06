@@ -1,5 +1,11 @@
 #!/opt/homebrew/bin/gawk -f
 
+# Bryan Jacob Bell
+# Begun: 05 July 2023
+# Modified: 05 July 2023
+#  gt2staves (AWK): Find kern files with
+#    more than two staves.
+
   {
   staffNum = 0
   if($0 ~ /\*\*kern/) {
