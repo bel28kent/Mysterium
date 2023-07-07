@@ -1,0 +1,305 @@
+!!!COM: Scriabin, Alexander
+!!!OTL: Prelude
+!!!OPR: 6 Preludes
+!!!OPS: 13
+!!!ONM: 5
+!!!ODT: 1895
+!!!AGN: Prelude
+**kern	**kern	**dynam
+*staff2	*staff1	*staff1/2
+*Ipiano	*Ipiano	*
+*clefF4	*clefG2	*
+*k[f#c#]	*k[f#c#]	*
+*D:	*D:	*
+*M6/8	*M6/8	*
+=1	=1	=1
+8DDL	8r	.
+8AA	8eL 8cc#	.
+8AJ	8f#J 8dd	.
+4AA	8c#L 8a	.
+.	8A 8f#	.
+8D	8F#J 8d	.
+=2	=2	=2
+8BBL	8r	.
+8A	8eL 8cc#	.
+8aJ	8f#J 8dd	.
+8EL	4e 4cc#	.
+8G#X	.	.
+8g#XJ	8d 8b	.
+=3	=3	=3
+8AAL	8r	.
+8E	8BL 8g#X	.
+8eJ	8c#J 8a	.
+8EEL	8r	.
+8E	8AL 8f#	.
+8eJ	8BJ 8g#	.
+=4	=4	=4
+8AAL	8r	.
+8E	8BL 8g#X	.
+8eJ	8c#J 8a	.
+8BBL	8BL 8gn	.
+8d#X	8A 8f#	.
+8BBJ	8BJ 8g	.
+=5	=5	=5
+8EEL	8GL 8e	.
+8BB	8f# 8dd#X	.
+8BJ	8gJ 8ee	.
+4BB	8d#XL 8b	.
+.	8B 8g	.
+8E	8GJ 8e	.
+=6	=6	=6
+8EL	8r	.
+8dn	8a#XL 8ff#	.
+*clefG2	*	*
+8ddnJ	8bJ 8gg	.
+*clefF4	*	*
+8AL	4an 4ff#	.
+8c#	.	.
+*clefG2	*	*
+8cc#J	8g 8ee	.
+*clefF4	*	*
+=7	=7	=7
+8DL	8r	.
+8A	8eL 8cc#	.
+8aJ	8f#J 8dd	.
+8AAL	8r	.
+8A	8dL 8b	.
+8aJ	8eJ 8cc#	.
+=8	=8	=8
+8DL	8r	.
+8A	8eL 8cc#	.
+8aJ	8f#J 8dd	.
+4r	8aL 8ff#	.
+.	8f# 8dd	.
+8r	8eJ 8cc#	.
+=9	=9	=9
+8GG#XL	8dL 8b	.
+8F#	8e 8cc#	.
+8BJ	8f#J 8dd	.
+8F#L	8eL 8cc#	.
+8f#J	8b 8gg#X	.
+8r	8dJ 8b	.
+=10	=10	=10
+8e#XL	8dL 8b	.
+8E#X	8c# 8a	.
+8CC#J	8BJ 8g#X	.
+8FF#L	8BL 8g#	.
+8C#	8A 8f#	.
+8c#J	8aJ 8ff#	.
+=11	=11	=11
+8D#XL	8aL 8ff#	.
+8c#	8b 8gg#X	.
+8f#J	8cc#J 8aa	.
+8c#L	8bL 8gg#	.
+*clefG2	*	*
+8cc#J	8ff# 8ddd#X	.
+8r	16r	.
+.	16aJk 16ff#	.
+=12	=12	=12
+8b#XL	8aL 8ff#	.
+8B#X	8g#X 8ee	.
+*clefF4	*	*
+8GG#XJ	8f#J 8dd#X	.
+8C#L	8f# 8dd#	.
+8G#X	4e 4cc#	.
+8c#J	.	.
+=13	=13	=13
+8BBL	8r	.
+8dn	8f#L 8ddn	.
+8AJ	8eJ 8cc#	.
+8F#L	4g#X 4ee	.
+8aJ	.	.
+8r	8f# 8dd	.
+=14	=14	=14
+8EL	4f# 4dd	.
+8d	.	.
+8G#XJ	[8e [8cc#	.
+8EL	8eL] 8cc#]	.
+8g#XJ	8d 8b	.
+8r	8eJ 8cc#	.
+=15	=15	=15
+8AAL	4d 4b	.
+8Gn	.	.
+8eJ	8c# 8a	.
+8EL	4a 4ff#	.
+8d	.	.
+*clefG2	*	*
+8bJ	8gn 8ee	.
+=16	=16	=16
+8AL	4dd 4bb	.
+8g	.	.
+8eeJ	8cc# 8aa	.
+4r	8bL 8gg	.
+.	8a 8ff#	.
+8r	8gJ 8ee	.
+*clefF4	*	*
+=17	=17	=17
+8DDL	8r	.
+8AA	8eL 8cc#	.
+8AJ	8f#J 8dd	.
+4AA	8c#L 8a	.
+.	8A 8f#	.
+8D	8F#J 8d	.
+=18	=18	=18
+8BBL	8r	.
+8A	8eL 8cc#	.
+8aJ	8f#J 8dd	.
+8EL	4e 4cc#	.
+8G#X	.	.
+8g#XJ	8d 8b	.
+=19	=19	=19
+8AAL	8r	.
+8E	8BL 8g#X	.
+8eJ	8c#J 8a	.
+8EEL	8r	.
+8E	8AL 8f#	.
+8eJ	8BJ 8g#	.
+=20	=20	=20
+8AAL	8r	.
+8E	8BL 8g#X	.
+8eJ	8c#J 8a	.
+8BBL	8BL 8gn	.
+8d#X	8A 8f#	.
+8BBJ	8BJ 8g	.
+=21	=21	=21
+8EEL	8GL 8e	.
+8BB	8f# 8dd#X	.
+8BJ	8gJ 8ee	.
+4BB	8d#XL 8b	.
+.	8B 8g	.
+8E	8GJ 8e	.
+=22	=22	=22
+8EL	8r	.
+8dn	8a#XL 8ff#	.
+8gJ	8bJ 8gg	.
+8F#L	4a# 4ff#	.
+8c#	.	.
+8a#XJ	8g 8ee	.
+=23	=23	=23
+8bL	8r	.
+8d	8gL 8ee	.
+8BJ	8f#J 8dd	.
+8DL	4dd 4bb	.
+8cn	.	.
+8f#J	8ccn 8aan	.
+=24	=24	=24
+8gL	8r	.
+8B	8eL 8ccn	.
+8GJ	8dJ 8b	.
+8BBL	4b 4gg	.
+8A	.	.
+8d#XJ	8a 8ff#	.
+=25	=25	=25
+8eL	8r	.
+8G	8cnL 8a	.
+8EJ	8BJ 8g	.
+8GGL	4a 4ff#	.
+8E	.	.
+8B-XJ	8g 8ee	.
+=26	=26	=26
+8AL	4g 4ee	.
+8AA	.	.
+8DJ	8f# 8dd	.
+8G#XL	8r	.
+8AA	8fnL 8dd	.
+8FnJ	8dJ 8bn	.
+=27	=27	=27
+8GnL	4.d 4.b	.
+8AA	.	.
+8EJ	.	.
+8dL	4.G 4.e	.
+8E	.	.
+8AAJ	.	.
+=28	=28	=28
+8AAAL	8r	.
+8EE	8GL 8e	.
+8AAJ	8dJ 8b	.
+8GL	8c#L 8a	.
+8c#	8a 8ff#	.
+8AAJ	8gJ 8ee	.
+=29	=29	=29
+8DDL	8r	.
+8AA	8eL 8ccn	.
+8F#J	8f#J 8dd	.
+8AAL	8eL 8cc	.
+8D	8cn 8a	.
+8dJ	8AJ 8f#	.
+=30	=30	=30
+8DDL	8r	.
+8GG	8AL 8f#	.
+8EJ	8BJ 8g	.
+8AAL	4A 4f#	.
+8c#XJ	.	.
+8r	8G 8e	.
+*	*clefF4	*
+=31	=31	=31
+4DD	8r	.
+.	8EL 8c#	.
+8AA	8F#J 8d	.
+4AAA	8r	.
+.	8DL 8B	.
+8AA	8EJ 8c#	.
+*	*clefG2	*
+=32	=32	=32
+4DD	8r	.
+.	8EL 8c#	.
+8AA	8F#J 8d	.
+4r	8AL 8f#	.
+.	8c# 8a	.
+8r	8BJ 8g	.
+=33	=33	=33
+8DDL	8AL 8f#	.
+8AA	8e 8ccn	.
+8F#J	8f#J 8dd	.
+8AAL	8eL 8cc	.
+8D	8cn 8a	.
+8dJ	8AJ 8f#	.
+=34	=34	=34
+8DDL	8r	.
+8GG	8AL 8f#	.
+8EJ	8BJ 8g	.
+8AAL	4A 4f#	.
+8c#XJ	.	.
+8r	8G 8e	.
+*	*clefF4	*
+=35	=35	=35
+4DD	8r	.
+.	8EL 8c#	.
+8AA	8F#J 8d	.
+4AAA	8r	.
+.	8DL 8B	.
+8AA	8EJ 8c#	.
+=36	=36	=36
+4DD	8r	.
+.	8EL 8c#	.
+8AA	8F#J 8d	.
+4AAA	8r	.
+.	8DL 8B	.
+8AA	8EJ 8c#	.
+*	*clefG2	*
+=37	=37	=37
+4.DD	8r	.
+.	8EL 8c#	.
+.	8F#J 8d	.
+4AA	8AL 8f#	.
+.	8c# 8a	.
+8AA	8BJ 8g	.
+=38	=38	=38
+[4.D	8AL 8f#	.
+.	8e 8cc#	.
+.	8f#J 8dd	.
+4D]	8aL 8ff#	.
+.	8cc# 8aa	.
+8A	8bJ 8gg	.
+=39	=39	=39
+4.d	4.a 4.ff#	.
+4.DD 4.AA 4.D	4.F# 4.d 4.f#	.
+=40	=40	=40
+2.r	2.r	.
+==	==	==
+*-	*-	*-
+!!!system-decoration: {(*)}
+!!!ENC: Bryan Jacob Bell
+!!!END: November 2021 to April 2022
+!!!PED: Günter Philipp
+!!!PTL: Ausgewählte Klavierwerke (Edition Peters)
