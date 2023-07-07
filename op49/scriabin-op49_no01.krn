@@ -5,246 +5,246 @@
 !!!ONM: 1
 !!!ODT: 1905
 !!!AGN: Etude
-**kern	**kern
-*staff2	*staff1
-*Ipiano	*Ipiano
-*clefF4	*clefG2
-*k[b-e-a-]	*k[b-e-a-]
-*E-:	*E-:
-*M2/4	*M2/4
-=1	=1
-12d-XL	12fL 12g 12cc
-12E-J	12bnJ
-12r	12r
-12GL	12e-XL 12g 12cc#X
-12AAnJ	12ccnJ
-12r	12r
-=2	=2
-12d-XL	12fL 12g 12cc
-12E-J	12bnJ
-12r	12r
-12G-XL 12c	12b-XL 12ff
-12AA-XJ	12eenJ
-12r	12r
-=3	=3
-12dnL	12b-L 12dd 12gg#X
-12EnJ	12ggnJ
-12r	12r
-12A-L 12d	12ddL 12gg 12ccc
-12BB-J	12ccc-XJ
-12r	12r
-=4	=4
-*	*^
-12GL 12e-	12ee-L 12gg 12ccc-X	4rc
-12EE-J 12BB-	12bb-J	.
-12r	12raa	.
-4AAn 4G	8cc#XL	4e- 4g
-.	8ccnJ	.
-*	*v	*v
-=5	=5
-12d-XL	12fL 12g 12cc
-12E-J	12bnJ
-12r	12r
-12GL	12e-L 12g 12cc#X
-12AAnJ	12ccnJ
-12r	12r
-=6	=6
-12d-XL	12fL 12g 12cc
-12E-J	12bnJ
-12r	12r
-12G-XL 12c	12b-XL 12ff
-12AA-XJ	12eenJ
-12r	12r
-=7	=7
-12g-XL 12cc	12eenL 12gg-X 12ccc
-12A-J	12bb-J
-12r	12r
-12cL 12f#X	12ff#XL 12bbn 12eeen
-12DnJ	12eee-XJ
-12r	12r
-=8	=8
-*	*^
-12BnL 12g	12ggL 12bbn 12eee-	4rc
-12GGJ 12D	12dddJ	.
-12r	12raa	.
-4DD-X 4D-X	8fL	4G 4Bn
-.	8enJ	.
-*	*v	*v
-=9	=9
-12FL	12d-XL 12f 12bn
-12GGJ	12b-XJ
-12r	12r
-12BBnL	12GL 12Bn 12e#X
-12CC#XJ	12enJ
-12r	12r
-=10	=10
-*	*^
-12FL	12d-XL 12f 12bn	4rc
-12GGJ	12b-XJ	.
-12r	12raa	.
-4GG#X 4En 4B-	8ddnL	4en 4b-
-.	8cc#XJ	.
-*	*v	*v
-=11	=11
-12GnL	12e-XL 12g 12cc#X
-12AAnJ	12ccnJ
-12r	12r
-12D-XL	12B--L 12d-X 12g
-12EE-J	12g-XJ
-12r	12r
-=12	=12
-*	*^
-12GL	12e-L 12gn 12cc#X	4rc
+**kern	**kern	**dynam
+*staff2	*staff1	*staff1/2
+*Ipiano	*Ipiano	*
+*clefF4	*clefG2	*
+*k[b-e-a-]	*k[b-e-a-]	*
+*E-:	*E-:	*
+*M2/4	*M2/4	*
+=1	=1	=1
+12d-XL	12fL 12g 12cc	.
+12E-J	12bnJ	.
+12r	12r	.
+12GL	12e-XL 12g 12cc#X	.
 12AAnJ	12ccnJ	.
-12r	12raa	.
-4AA#X 4F#X 4c	8eenL	4f#X 4cc
-.	8dd#XJ	.
-*	*v	*v
-=13	=13
-12AnL	12fnL 12an 12dd#X
-12BBnJ	12ddnJ
-12r	12r
-12e-XL	12cc-XL 12ee-X 12aan
-12FJ	12aa-XJ
-12r	12r
-=14	=14
-12AnL 12e-	12ccnL 12ee- 12aa-X
-12BB-J	12ggJ
-12r	12r
-4A 4g	8ee-L 8gg 8ccc#X
-.	8cccnJ
-=15	=15
-12a-XL	12ddL 12aa- 12ccc
-12B-J	12ccc-XJ
-12r	12r
-12dL	12b-L 12dd 12gg#X
-12EnJ	12ggnJ
-12r	12r
-=16	=16
-12A-L	12dL 12a- 12cc
-12BB-J	12cc-XJ
-12r	12r
-12DL	12B-L 12d 12g#X
-12EEnJ	12gnJ
-12r	12r
-=17	=17
-12A-L	12cL 12d 12g
-12BB-J	12f#XJ
-12r	12r
-12DL	12B-L 12d 12g#X
-12EEnJ	12gnJ
-12r	12r
-=18	=18
-12A-L	12cL 12d 12g
-12BB-J	12f#XJ
-12r	12r
-12E-L	12d-XL 12fn 12g 12cc
-12EE-J	12bnJ
-12r	12r
-=19	=19
-12d-XL	12fL 12g 12cc
-12E-J	12bnJ
-12r	12r
-12E-L	12gL 12b 12gg
-12AA-J	12ffJ
-12r	12r
-=20	=20
-12cL	12a-L 12cc 12ff
-12E-J	12ff-XJ
-12r	12r
-12E-L	12a-L 12cc 12ff-
-12AA-J	12ee-J
-12r	12r
-=21	=21
-12d-XL	12fL 12g 12cc
-12E-J	12bnJ
-12r	12r
-12E-L	12fL 12g 12dd-X
-12AA-J	12ccJ
-12r	12r
-=22	=22
-12d-XL	12fL 12g 12cc
-12E-J	12bnJ
-12r	12r
-12G-XL 12c	12b-XL 12ff
-12AA-J	12eenJ
-12r	12r
-=23	=23
-12dnL	12b-L 12dd 12gg#X
-12EnJ	12ggnJ
-12r	12r
-12A-L 12d	12ddL 12gg 12ccc
-12BB-J	12ccc-XJ
-12r	12r
-=24	=24
-*	*^
-12GL 12e-	12ee-L 12gg 12ccc-X	4rc
-12EE-J 12BB-	12bb-J	.
-12r	12raa	.
-4AAn 4G	8cc#XL	4e- 4g
-.	8ccnJ	.
-*	*v	*v
-=25	=25
-12d-XL	12fL 12g 12cc
-12E-J	12bnJ
-12r	12r
-12GL	12e-L 12g 12cc#X
-12AAnJ	12ccnJ
-12r	12r
-=26	=26
-12d-XL	12fL 12g 12cc
-12E-J	12bnJ
-12r	12r
-12G-XL 12c	12b-XL 12ff
-12AA-XJ	12eenJ
-12r	12r
-=27	=27
-12dnL	12b-L 12dd 12gg#X
-12EnJ	12ggnJ
-12r	12r
-12A-L 12d	12ddL 12gg 12ccc
-12BB-J	12ccc-XJ
-12r	12r
-=28	=28
-*	*^
-12GL 12e-	12ee-L 12gg 12ccc-X	4rc
-12EE-J 12BB-	12bb-J	.
-12r	12raa	.
-4AAn 4G	8cc#XL	4e- 4g
-.	8ccnJ	.
-*	*v	*v
-=29	=29
-12dL 12a-X	12ccL 12dd 12gg
-12A-J	12ff#XJ
-12r	12r
-12A-L 12d	12ddL 12gg 12ccc
-12BB-J	12ccc-XJ
-12r	12r
-=30	=30
-*	*^
-12GL 12e-	12ee-L 12gg 12ccc-X	4rc
-12EE-J 12BB-	12bb-J	.
-12r	12raa	.
-4AAn 4G	8cc#XL	4e- 4g
-.	8ccnJ	.
-=31	=31	=31
-6EE- 6BB- 6G	12ee-L 12gg 12ccc-X	4rc
-.	12bb-J	.
-12r	12raa	.
-4AAn 4G	8cc#XL	4e- 4g
-.	8ccnJ	.
-=32	=32	=32
-6EE- 6BB- 6G	12ee-L 12gg 12ccc-X	4rc
-.	12bb-J	.
-12r	12raa	.
-4AAn 4G	12dd-XL	4e- 4g
-.	12ccn	.
-.	12cc-XJ	.
-*	*v	*v
-=33	=33
-2EE- 2BB- 2G	2e- 2b-
-==	==
-*-	*-
+12r	12r	.
+=2	=2	=2
+12d-XL	12fL 12g 12cc	.
+12E-J	12bnJ	.
+12r	12r	.
+12G-XL 12c	12b-XL 12ff	.
+12AA-XJ	12eenJ	.
+12r	12r	.
+=3	=3	=3
+12dnL	12b-L 12dd 12gg#X	.
+12EnJ	12ggnJ	.
+12r	12r	.
+12A-L 12d	12ddL 12gg 12ccc	.
+12BB-J	12ccc-XJ	.
+12r	12r	.
+=4	=4	=4
+*	*^	*
+12GL 12e-	12ee-L 12gg 12ccc-X	4rc	.
+12EE-J 12BB-	12bb-J	.	.
+12r	12raa	.	.
+4AAn 4G	8cc#XL	4e- 4g	.
+.	8ccnJ	.	.
+*	*v	*v	*
+=5	=5	=5
+12d-XL	12fL 12g 12cc	.
+12E-J	12bnJ	.
+12r	12r	.
+12GL	12e-L 12g 12cc#X	.
+12AAnJ	12ccnJ	.
+12r	12r	.
+=6	=6	=6
+12d-XL	12fL 12g 12cc	.
+12E-J	12bnJ	.
+12r	12r	.
+12G-XL 12c	12b-XL 12ff	.
+12AA-XJ	12eenJ	.
+12r	12r	.
+=7	=7	=7
+12g-XL 12cc	12eenL 12gg-X 12ccc	.
+12A-J	12bb-J	.
+12r	12r	.
+12cL 12f#X	12ff#XL 12bbn 12eeen	.
+12DnJ	12eee-XJ	.
+12r	12r	.
+=8	=8	=8
+*	*^	*
+12BnL 12g	12ggL 12bbn 12eee-	4rc	.
+12GGJ 12D	12dddJ	.	.
+12r	12raa	.	.
+4DD-X 4D-X	8fL	4G 4Bn	.
+.	8enJ	.	.
+*	*v	*v	*
+=9	=9	=9
+12FL	12d-XL 12f 12bn	.
+12GGJ	12b-XJ	.
+12r	12r	.
+12BBnL	12GL 12Bn 12e#X	.
+12CC#XJ	12enJ	.
+12r	12r	.
+=10	=10	=10
+*	*^	*
+12FL	12d-XL 12f 12bn	4rc	.
+12GGJ	12b-XJ	.	.
+12r	12raa	.	.
+4GG#X 4En 4B-	8ddnL	4en 4b-	.
+.	8cc#XJ	.	.
+*	*v	*v	*
+=11	=11	=11
+12GnL	12e-XL 12g 12cc#X	.
+12AAnJ	12ccnJ	.
+12r	12r	.
+12D-XL	12B--L 12d-X 12g	.
+12EE-J	12g-XJ	.
+12r	12r	.
+=12	=12	=12
+*	*^	*
+12GL	12e-L 12gn 12cc#X	4rc	.
+12AAnJ	12ccnJ	.	.
+12r	12raa	.	.
+4AA#X 4F#X 4c	8eenL	4f#X 4cc	.
+.	8dd#XJ	.	.
+*	*v	*v	*
+=13	=13	=13
+12AnL	12fnL 12an 12dd#X	.
+12BBnJ	12ddnJ	.
+12r	12r	.
+12e-XL	12cc-XL 12ee-X 12aan	.
+12FJ	12aa-XJ	.
+12r	12r	.
+=14	=14	=14
+12AnL 12e-	12ccnL 12ee- 12aa-X	.
+12BB-J	12ggJ	.
+12r	12r	.
+4A 4g	8ee-L 8gg 8ccc#X	.
+.	8cccnJ	.
+=15	=15	=15
+12a-XL	12ddL 12aa- 12ccc	.
+12B-J	12ccc-XJ	.
+12r	12r	.
+12dL	12b-L 12dd 12gg#X	.
+12EnJ	12ggnJ	.
+12r	12r	.
+=16	=16	=16
+12A-L	12dL 12a- 12cc	.
+12BB-J	12cc-XJ	.
+12r	12r	.
+12DL	12B-L 12d 12g#X	.
+12EEnJ	12gnJ	.
+12r	12r	.
+=17	=17	=17
+12A-L	12cL 12d 12g	.
+12BB-J	12f#XJ	.
+12r	12r	.
+12DL	12B-L 12d 12g#X	.
+12EEnJ	12gnJ	.
+12r	12r	.
+=18	=18	=18
+12A-L	12cL 12d 12g	.
+12BB-J	12f#XJ	.
+12r	12r	.
+12E-L	12d-XL 12fn 12g 12cc	.
+12EE-J	12bnJ	.
+12r	12r	.
+=19	=19	=19
+12d-XL	12fL 12g 12cc	.
+12E-J	12bnJ	.
+12r	12r	.
+12E-L	12gL 12b 12gg	.
+12AA-J	12ffJ	.
+12r	12r	.
+=20	=20	=20
+12cL	12a-L 12cc 12ff	.
+12E-J	12ff-XJ	.
+12r	12r	.
+12E-L	12a-L 12cc 12ff-	.
+12AA-J	12ee-J	.
+12r	12r	.
+=21	=21	=21
+12d-XL	12fL 12g 12cc	.
+12E-J	12bnJ	.
+12r	12r	.
+12E-L	12fL 12g 12dd-X	.
+12AA-J	12ccJ	.
+12r	12r	.
+=22	=22	=22
+12d-XL	12fL 12g 12cc	.
+12E-J	12bnJ	.
+12r	12r	.
+12G-XL 12c	12b-XL 12ff	.
+12AA-J	12eenJ	.
+12r	12r	.
+=23	=23	=23
+12dnL	12b-L 12dd 12gg#X	.
+12EnJ	12ggnJ	.
+12r	12r	.
+12A-L 12d	12ddL 12gg 12ccc	.
+12BB-J	12ccc-XJ	.
+12r	12r	.
+=24	=24	=24
+*	*^	*
+12GL 12e-	12ee-L 12gg 12ccc-X	4rc	.
+12EE-J 12BB-	12bb-J	.	.
+12r	12raa	.	.
+4AAn 4G	8cc#XL	4e- 4g	.
+.	8ccnJ	.	.
+*	*v	*v	*
+=25	=25	=25
+12d-XL	12fL 12g 12cc	.
+12E-J	12bnJ	.
+12r	12r	.
+12GL	12e-L 12g 12cc#X	.
+12AAnJ	12ccnJ	.
+12r	12r	.
+=26	=26	=26
+12d-XL	12fL 12g 12cc	.
+12E-J	12bnJ	.
+12r	12r	.
+12G-XL 12c	12b-XL 12ff	.
+12AA-XJ	12eenJ	.
+12r	12r	.
+=27	=27	=27
+12dnL	12b-L 12dd 12gg#X	.
+12EnJ	12ggnJ	.
+12r	12r	.
+12A-L 12d	12ddL 12gg 12ccc	.
+12BB-J	12ccc-XJ	.
+12r	12r	.
+=28	=28	=28
+*	*^	*
+12GL 12e-	12ee-L 12gg 12ccc-X	4rc	.
+12EE-J 12BB-	12bb-J	.	.
+12r	12raa	.	.
+4AAn 4G	8cc#XL	4e- 4g	.
+.	8ccnJ	.	.
+*	*v	*v	*
+=29	=29	=29
+12dL 12a-X	12ccL 12dd 12gg	.
+12A-J	12ff#XJ	.
+12r	12r	.
+12A-L 12d	12ddL 12gg 12ccc	.
+12BB-J	12ccc-XJ	.
+12r	12r	.
+=30	=30	=30
+*	*^	*
+12GL 12e-	12ee-L 12gg 12ccc-X	4rc	.
+12EE-J 12BB-	12bb-J	.	.
+12r	12raa	.	.
+4AAn 4G	8cc#XL	4e- 4g	.
+.	8ccnJ	.	.
+=31	=31	=31	=31
+6EE- 6BB- 6G	12ee-L 12gg 12ccc-X	4rc	.
+.	12bb-J	.	.
+12r	12raa	.	.
+4AAn 4G	8cc#XL	4e- 4g	.
+.	8ccnJ	.	.
+=32	=32	=32	=32
+6EE- 6BB- 6G	12ee-L 12gg 12ccc-X	4rc	.
+.	12bb-J	.	.
+12r	12raa	.	.
+4AAn 4G	12dd-XL	4e- 4g	.
+.	12ccn	.	.
+.	12cc-XJ	.	.
+*	*v	*v	*
+=33	=33	=33
+2EE- 2BB- 2G	2e- 2b-	.
+==	==	==
+*-	*-	*-
 !!!system-decoration: {(*)}
 !!!ENC: Bryan Jacob Bell
 !!!END: November 2021 to April 2022
