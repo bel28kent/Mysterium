@@ -1,0 +1,733 @@
+!!!COM: Scriabin, Alexander
+!!!OTL: Guirlandes
+!!!OPR: 2 Danses
+!!!OPS: 73
+!!!ONM: 1
+!!!ODT: 1914
+!!!AGN: Dance
+**kern	**kern	**dynam
+*staff2	*staff1	*staff1/2
+*Ipiano	*Ipiano	*
+*clefF4	*clefG2	*
+*k[]	*k[]	*
+*M3/4	*M3/4	*
+=1	=1	=1
+*^	*	*
+2d#X	12rEE	20r	.
+.	.	20gLL	.
+.	12c#XL	.	.
+.	.	20b	.
+.	.	20dd#X	.
+.	12GJ	.	.
+.	.	[20ff#XJJ	.
+.	12AAL	6ff#]	.
+.	12EEJ	.	.
+.	12rEE	[12aa	.
+4c# 4cc#X	12rEE	6aa]	.
+.	12GL	.	.
+.	12AAJ	12ff#	.
+=2	=2	=2	=2
+2f#X	12rEE	4r	.
+.	12c#XL	.	.
+.	12GJ	.	.
+.	.	8qcc#X/	.
+.	12AAL	2bb-X	.
+.	12DD#XJ	.	.
+.	12rEE	.	.
+4c# 4cc#X	12rEE	.	.
+.	12GL	.	.
+.	12AAJ	.	.
+=3	=3	=3	=3
+2d#X	12rEE	20r	.
+.	.	20aLL	.
+.	12c#XL	.	.
+.	.	20cc#X	.
+.	.	20ffn	.
+.	12GJ	.	.
+.	.	[20gg#XJJ	.
+.	12AAL	6gg#]	.
+.	12EEJ	.	.
+.	12rEE	[12bbn	.
+4c# 4cc#X	12rEE	6bb]	.
+.	12GnL	.	.
+.	12AAJ	12gg#X	.
+=4	=4	=4	=4
+2f#X	12rEE	4r	.
+.	12c#XL	.	.
+.	12GJ	.	.
+.	.	8qcc#X/	.
+.	12AAL	2cccn	.
+.	12DD#XJ	.	.
+.	12rEE	.	.
+4c# 4cc#X	12rEE	.	.
+.	12GL	.	.
+.	12AAJ	.	.
+=5	=5	=5	=5
+2f#X	12rEE	20r	.
+.	.	20bLL	.
+.	12c#XL	.	.
+.	.	20dd#X	.
+.	.	20gg	.
+.	12GJ	.	.
+.	.	[20bb-XJJ	.
+.	12AAL	6bb-]	.
+.	12EEJ	.	.
+.	12rEE	12ccc#X	.
+[4fn	12rEE	20r	.
+.	.	20cc#XLL	.
+.	12c#L	.	.
+.	.	20ff	.
+.	.	20aa	.
+.	12GJ	.	.
+.	.	[20cccnJJ	.
+=6	=6	=6	=6
+4f]	12AAL	6ccc]	.
+.	12EEJ	.	.
+.	12rEE	12ddd#X	.
+2e	12rEE	20r	.
+.	.	20eeLL	.
+.	12c#XL	.	.
+.	.	20gg#X	.
+.	.	20cccn	.
+.	12GnJ	.	.
+.	.	[20ddd#JJ	.
+.	12AAL	6ddd#]	.
+.	12EEJ	.	.
+.	12rEE	12fff#X	.
+=7	=7	=7	=7
+*	*	*^	*
+2e-X	12rEE	20raa	4rc	.
+.	.	20aaLL	.	.
+.	12AL	.	.	.
+.	.	20ddd-X	.	.
+.	.	20fffn	.	.
+.	12E-XJ	.	.	.
+.	.	[20aaa-XJJ	.	.
+.	12FFL	6aaa-]	4rc	.
+.	12CCJ	.	.	.
+.	12rEE	[12bbb	.	.
+[4An [4an	12rEE	6bbb]	[4eee-X	.
+.	12e-L	.	.	.
+.	12E-J	12aaa-X	.	.
+=8	=8	=8	=8	=8
+4A] 4a]	8FFL	[4cccc	4eee-_	.
+.	8BBBJ	.	.	.
+4rc	4rEE	6cccc]	6eee-]	.
+.	.	[12bbb	[12eee-X	.
+4rc	4rEE	6bbb]	4eee-_	.
+.	.	12aaa-X	.	.
+*v	*v	*	*	*
+=9	=9	=9	=9
+2.r	[4cccc	4eee-_	.
+.	12ccccL]	12eee-]	.
+.	12bbb	[6eee-X	.
+.	12aaa-XJ	.	.
+.	12ccccL	12eee-]	.
+.	12aaa-	[6ccc	.
+.	12fffJ	.	.
+=10	=10	=10	=10
+2.r	12aaanL	12ccc]	.
+.	12fff	[6aan	.
+.	12dddJ	.	.
+.	12ggg-XL	12aa]	.
+.	12ddd	[6gg-X	.
+.	12bbJ	.	.
+.	12eee-XL	12gg-]	.
+.	12ddd	[6gg-	.
+.	12bbJ	.	.
+=11	=11	=11	=11
+2.r	12eee-XL	12gg-]	.
+.	12ddd	[6gg-X	.
+.	12bbJ	.	.
+.	12eee-L	12gg-]	.
+.	12ddd	[6gg-	.
+.	12bbJ	.	.
+.	12eee-L	12gg-]	.
+.	12ddd	[6gg-	.
+.	12bbJ	.	.
+=12	=12	=12	=12
+2.r	12eee-XL	12gg-]	.
+.	12ddd	[6gg-X	.
+.	12bbJ	.	.
+.	4.eee-	2gg-]	.
+.	8ddd	.	.
+*	*v	*v	*
+*clefG2	*	*
+=13	=13	=13
+*^	*	*
+2.gg-X	12gg-L	8r	.
+.	12a	.	.
+.	.	[8ddd	.
+.	12e-XJ	.	.
+.	8F	8dddL]	.
+.	8rc	8bb	.
+.	4rc	8eee-X	.
+.	.	8ggg-XJ	.
+*v	*v	*	*
+*clefF4	*	*
+=14	=14	=14
+16qqBB/LL	.	.
+16qqA/	.	.
+16qqe-X/JJ	.	.
+*clefG2	* 	*
+*^	*^	*
+2.dd	12ddL	2.aaa	4rc	.
+.	12a	.	.	.
+.	12e-XJ	.	.	.
+.	4rc	.	4aa 4ddd	.
+.	4rc	.	4aa 4ddd	.
+*	*	*v	*v	*
+=15	=15	=15	=15
+2.gg-X	12gg-L	8r	.
+.	12a	.	.
+.	.	[8ddd	.
+.	12e-XJ	.	.
+.	8F	8dddL]	.
+.	8rc	8bb	.
+.	4rc	8eee-X	.
+.	.	8ggg-XJ	.
+*v	*v	*	*
+*clefF4	*	*
+=16	=16	=16
+16qqBB/LL	.	.
+16qqA/	.	.
+16qqe-X/JJ	.	.
+*clefG2	* 	*
+*^	*^	*
+2.dd	12ddL	2.dddd	4rc	.
+.	12a	.	.	.
+.	12e-XJ	.	.	.
+.	4rc	.	4aa 4ggg-X	.
+.	4rc	.	4aa 4ggg-	.
+*	*	*v	*v	*
+=17	=17	=17	=17
+2.gg-X	12gg-L	8r	.
+.	12a	.	.
+.	.	[8ddd	.
+.	12e-XJ	.	.
+.	8F	8dddL]	.
+.	8rc	8bb	.
+.	4rc	8eee-X	.
+.	.	8ggg-XJ	.
+*v	*v	*	*
+*clefF4	*	*
+=18	=18	=18
+16qqC#X/LL	.	.
+16qqB/	.	.
+16qqe#X/JJ	.	.
+*clefG2	*	*
+*^	*^	*
+2.dd	12ddL	[2.dddd	4rc	.
+.	12a#X	.	.	.
+.	12e#XJ	.	.	.
+.	4rc	.	4aa#X 4eee#X	.
+.	4rc	.	4aa# 4eee#	.
+*v	*v	*	*	*
+*clefF4	*	*	*
+=19	=19	=19	=19
+*^	*	*	*
+4B 4b	16rEE	12ddddL]	[2eee#X	.
+.	16e#XLL	.	.	.
+.	.	12cccc#X	.	.
+.	16C#X	.	.	.
+.	.	12aaa#XJ	.	.
+.	16FF##XJJ	.	.	.
+4rc	4rEE	[4dddd	.	.
+4rc	4rEE	12ddddL]	12eee#]	.
+.	.	12aaa#	[6ddd	.
+.	.	12fff##XJ	.	.
+*v	*v	*	*	*
+=20	=20	=20	=20
+2.r	12bbbL	12ddd]	.
+.	12fff##X	[6bb	.
+.	12eeenJ	.	.
+.	12ggg#XL	12bb]	.
+.	12eee	[6gg#X	.
+.	12ccc#XJ	.	.
+.	12eee#XL	12gg#]	.
+.	12ccc#	[6ee#X	.
+.	12aa#XJ	.	.
+=21	=21	=21	=21
+2.r	12dddL	12ee#]	.
+.	12aa#X	[6dd	.
+.	12ff##XJ	.	.
+.	12bbL	12dd]	.
+.	12aa#	[6dd	.
+.	12ff##J	.	.
+.	12bbL	12dd]	.
+.	12aa#	[6dd	.
+.	12ff##J	.	.
+=22	=22	=22	=22
+2.r	12bbL	12dd]	.
+.	12aa#X	[6dd	.
+.	12ff##XJ	.	.
+.	4.bb	2dd]	.
+.	[8aa#	.	.
+*	*v	*v	*
+*clefG2	*	*
+=23	=23	=23
+*^	*	*
+2.dd	12ddL	4aa#_	.
+.	12e#X	.	.
+.	12BJ	.	.
+*	*clefF4	*	*
+.	8C#X	8aa#L]	.
+.	8rc	8ff##X	.
+.	4rc	8bb	.
+.	.	8dddJ	.
+*v	*v	*	*
+=24	=24	=24
+16qqFF##X/LL	.	.
+16qqE#X/	.	.
+16qqB/JJ	.	.
+.	8qee#X/ 8qaa#X	.
+*clefG2	*	*
+*^	*^	*
+2.a#X	12a#L	2.eee#X	4rc	.
+.	12e#X	.	.	.
+.	12BJ	.	.	.
+.	4rc	.	4ee#X 4aa#X	.
+.	4rc	.	4ee# 4aa#	.
+*	*	*v	*v	*
+=25	=25	=25	=25
+2.dd	12ddL	8r	.
+.	12e#X	.	.
+.	.	[8aa#X	.
+.	12BJ	.	.
+*	*clefF4	*	*
+.	8C#X	8aa#L]	.
+.	8rc	8ff##X	.
+.	4rc	8bb	.
+.	.	8dddJ	.
+=26	=26	=26	=26
+16qqAAn/LL	.	.	.
+16qqG/	.	.	.
+16qqc#X/JJ	.	.	.
+.	.	8qff#X/ 8qccc#X	.
+*clefG2	*	*	*
+*	*	*^	*
+2.b-X	12b-L	[2.bbb-X	4rc	.
+.	12f#X	.	.	.
+.	12c#XJ	.	.	.
+.	4rc	.	4ff#X 4ccc#X	.
+.	4rc	.	4ff# 4ccc#	.
+*v	*v	*	*	*
+*clefF4	*	*	*
+=27	=27	=27	=27
+*^	*	*	*
+4G 4g	16rEE	12bbb-L]	[2ccc#X	.
+.	16c#XLL	.	.	.
+.	.	12aaa	.	.
+.	16AA	.	.	.
+.	.	12fff#XJ	.	.
+.	16DD#XJJ	.	.	.
+4rc	4rEE	[4bbb-X	.	.
+4rc	4rEE	12bbb-L]	12ccc#]	.
+.	.	12fff#	[6bb-X	.
+.	.	12ddd#XJ	.	.
+*v	*v	*	*	*
+=28	=28	=28	=28
+2.r	12gggL	12bb-]	.
+.	12ddd#X	[6gg	.
+.	12cccnJ	.	.
+.	12eeeL	12gg]	.
+.	12ccc	[6ee	.
+.	12aaJ	.	.
+.	12ccc#XL	12ee]	.
+.	12aa	[6cc#X	.
+.	12ff#XJ	.	.
+=29	=29	=29	=29
+2.r	12bb-XL	12cc#]	.
+.	12ff#X	[6b	.
+.	12dd#XJ	.	.
+.	12ggL	12b]	.
+.	12ff#	[6b	.
+.	12dd#J	.	.
+.	12ggL	12b]	.
+.	12ff#	[6b	.
+.	12dd#J	.	.
+=30	=30	=30	=30
+2.r	12ggL	12b]	.
+.	12ff#X	[6b-X	.
+.	12dd#XJ	.	.
+.	4.gg	2b-]	.
+.	8ff#	.	.
+*	*v	*v	*
+=31	=31	=31
+*^	*	*
+2d#X	12rEE	20r	.
+.	.	20gLL	.
+.	12c#XL	.	.
+.	.	20bn	.
+.	.	20dd#X	.
+.	12GJ	.	.
+.	.	[20ff#XJJ	.
+.	12AAL	6ff#]	.
+.	12EEJ	.	.
+.	12rEE	[12aa	.
+4c# 4cc#X	12rEE	6aa]	.
+.	12GL	.	.
+.	12AAJ	12ff#	.
+=32	=32	=32	=32
+2f#X	12rEE	4r	.
+.	12c#XL	.	.
+.	12GJ	.	.
+.	.	8qcc#X/	.
+.	12AAL	2bb-X	.
+.	12DD#XJ	.	.
+.	12rEE	.	.
+4c# 4cc#X	12rEE	.	.
+.	12GL	.	.
+.	12AAJ	.	.
+=33	=33	=33	=33
+2d#X	12rEE	20r	.
+.	.	20aLL	.
+.	12c#XL	.	.
+.	.	20cc#X	.
+.	.	20ffn	.
+.	12GJ	.	.
+.	.	[20gg#XJJ	.
+.	12AAL	6gg#]	.
+.	12EEJ	.	.
+.	12rEE	[12bbn	.
+4c# 4cc#X	12rEE	6bb]	.
+.	12GnL	.	.
+.	12AAJ	12gg#X	.
+=34	=34	=34	=34
+2f#X	12rEE	4r	.
+.	12c#XL	.	.
+.	12GJ	.	.
+.	.	8qcc#X/	.
+.	12AAL	2cccn	.
+.	12DD#XJ	.	.
+.	12rEE	.	.
+4c# 4cc#X	12rEE	.	.
+.	12GL	.	.
+.	12AAJ	.	.
+=35	=35	=35	=35
+2f#X	12rEE	20r	.
+.	.	20bLL	.
+.	12c#XL	.	.
+.	.	20dd#X	.
+.	.	20gg	.
+.	12GJ	.	.
+.	.	[20bb-XJJ	.
+.	12AAL	6bb-]	.
+.	12EEJ	.	.
+.	12rEE	12ccc#X	.
+[4fn	12rEE	20r	.
+.	.	20cc#XLL	.
+.	12c#L	.	.
+.	.	20ff	.
+.	.	20aa	.
+.	12GJ	.	.
+.	.	[20cccnJJ	.
+=36	=36	=36	=36
+4f]	12AAL	6ccc]	.
+.	12EEJ	.	.
+.	12rEE	12ddd#X	.
+2e	12rEE	20r	.
+.	.	20eeLL	.
+.	12c#XL	.	.
+.	.	20gg#X	.
+.	.	20cccn	.
+.	12GnJ	.	.
+.	.	[20ddd#JJ	.
+.	12AAL	6ddd#]	.
+.	12EEJ	.	.
+.	12rEE	12fff#X	.
+=37	=37	=37	=37
+*	*	*^	*
+2d#X	12rEE	20raa	4rc	.
+.	.	20aaLL	.	.
+.	12rEE	.	.	.
+.	.	20ccc#X	.	.
+.	.	20eee#X	.	.
+.	12A	.	.	.
+.	.	[20ggg#XJJ	.	.
+.	12BBL	6ggg#]	4rc	.
+.	12FF#XJ	.	.	.
+.	12rEE	[12bbb	.	.
+[4A [4a	12rEE	6bbb]	[4ddd#X	.
+.	12d#L	.	.	.
+.	12BBJ	12ggg#	.	.
+=38	=38	=38	=38	=38
+4A] 4a]	8EE#X	[4ccccn	4ddd#_	.
+.	8rEE	.	.	.
+4rc	4rEE	6cccc]	6ddd#]	.
+.	.	[12bbb	[12ddd#X	.
+4rc	4rEE	6bbb]	4ddd#_	.
+.	.	12ggg#X	.	.
+*v	*v	*	*	*
+=39	=39	=39	=39
+2.r	[4cccc	4ddd#_	.
+.	12ccccL]	12ddd#]	.
+.	12ggg#X	[6ccc	.
+.	12eee#XJ	.	.
+.	12aaaL	12ccc]	.
+.	12eee#	[6aa	.
+.	12dddnJ	.	.
+=40	=40	=40	=40
+2.r	12fff#XL	12aa]	.
+.	12ddd	[6ff#X	.
+.	12bbJ	.	.
+.	12ddd#XL	12ff#]	.
+.	12bb	[6dd#X	.
+.	12gg#XJ	.	.
+.	12cccL	12dd#]	.
+.	12gg#X	[6cc	.
+.	12ee#XJ	.	.
+=41	=41	=41	=41
+2.r	12aaL	12cc]	.
+.	12gg#X	[6cc	.
+.	12ee#XJ	.	.
+.	12aaL	12cc]	.
+.	12gg#	[6cc	.
+.	12ee#J	.	.
+.	12aaL	12cc]	.
+.	12gg#	[6cc	.
+.	12ee#J	.	.
+=42	=42	=42	=42
+2.r	12aaL	12cc]	.
+.	12gg#X	[6cc	.
+.	12ee#XJ	.	.
+.	4.aa	2cc]	.
+.	8gg#	.	.
+*	*v	*v	*
+*clefG2	*	*
+=43	=43	=43
+*^	*	*
+2.cc	12ccL	8r	.
+.	12d#X	.	.
+.	.	[8gg#X	.
+.	12AJ	.	.
+*	*clefF4	*	*
+.	8BB	8gg#L]	.
+.	8rc	8ee#X	.
+.	4rc	8aa	.
+.	.	8cccJ	.
+=44	=44	=44	=44
+16qqCC#X/LL	.	.	.
+16qqD#X/	.	.	.
+16qqA/JJ	.	.	.
+*clefG2	*	*	*
+*	*	*^	*
+2.g#X	12g#L	2.ddd#X	4rc	.
+.	12d#X	.	.	.
+.	12AJ	.	.	.
+.	4rc	.	4dd#X 4gg#X	.
+.	4rc	.	4dd# 4gg#	.
+*	*	*v	*v	*
+=45	=45	=45	=45
+2.cc	12ccL	8r	.
+.	12d#X	.	.
+.	.	[8gg#X	.
+.	12AJ	.	.
+*	*clefF4	*	*
+.	8BB	8gg#L]	.
+.	8rc	8ee#X	.
+.	4rc	8aa	.
+.	.	8cccJ	.
+=46	=46	=46	=46
+16qqEE#X/LL	.	.	.
+16qqD#X/	.	.	.
+16qqA/JJ	.	.	.
+*clefG2	*	*	*
+*	*	*^	*
+2.cc	12ccL	2.ggg#X	4rc	.
+.	12d#X	.	.	.
+.	12AJ	.	.	.
+.	4rc	.	4dd#X 4gg#X	.
+.	4rc	.	4dd# 4gg#	.
+*	*	*v	*v	*
+=47	=47	=47	=47
+2.cc	12ccL	8r	.
+.	12d#X	.	.
+.	.	[8gg#X	.
+.	12AJ	.	.
+*	*clefF4	*	*
+.	8BB	8gg#L]	.
+.	8rc	8ee#X	.
+.	4rc	8aa	.
+.	.	8cccJ	.
+=48	=48	=48	=48
+16qqGGn/LL	.	.	.
+16qqF/	.	.	.
+16qqB/JJ	.	.	.
+*clefG2	*	*	*
+*	*	*^	*
+2.a-X	12a-L	[2.aaa-X	4rc	.
+.	12en	.	.	.
+.	12BJ	.	.	.
+.	4rc	.	4een 4bb	.
+.	4rc	.	4ee 4bb	.
+*v	*v	*	*	*
+*clefF4	*	*	*
+=49	=49	=49	=49
+*^	*	*	*
+4F 4f	16rEE	12aaa-L]	[2bb	.
+.	16BLL	.	.	.
+.	.	12ggg	.	.
+.	16GG	.	.	.
+.	.	12eeeJ	.	.
+.	16CC#XJJ	.	.	.
+4rc	4rEE	[4aaa-X	.	.
+4rc	4rEE	12aaa-L]	12bb]	.
+.	.	12eee	[6aa-X	.
+.	.	12ccc#XJ	.	.
+*v	*v	*	*	*
+=50	=50	=50	=50
+2.r	12fffL	12aa-]	.
+.	12ccc#X	[6ff	.
+.	12bb-XJ	.	.
+.	12dddL	12ff]	.
+.	12bb-	[6dd	.
+.	12ggJ	.	.
+.	12bbnL	12dd]	.
+.	12gg	[6bn	.
+.	12eeJ	.	.
+=51	=51	=51	=51
+2.r	12aa-XL	12b]	.
+.	12ee	[6a-X	.
+.	12cc#XJ	.	.
+.	12ffL	12a-]	.
+.	12ee	[6a-	.
+.	12cc#J	.	.
+.	12ffL	12a-]	.
+.	12ee	[6a-	.
+.	12cc#J	.	.
+=52	=52	=52	=52
+2.r	12ffL	12a-]	.
+.	12ee	[6a-X	.
+.	12cc#XJ	.	.
+.	4.ff	2a-]	.
+.	8ee	.	.
+*	*v	*v	*
+=53	=53	=53
+*^	*	*
+2.a-X	12a-L	8r	.
+.	12B	.	.
+.	.	[8ee	.
+.	12FJ	.	.
+.	8GG	8eeL]	.
+.	8rEE	8cc#X	.
+.	4rEE	8ff	.
+.	.	8aa-XJ	.
+=54	=54	=54	=54
+16qqCC#X/LL	.	.	.
+16qqBB/	.	.	.
+16qqF/JJ	.	.	.
+*	*	*^	*
+2.e	12eL	2.bb	4rc	.
+.	12B	.	.	.
+.	12FJ	.	.	.
+.	4rEE	.	4b 4ee	.
+.	4rEE	.	4b 4ee	.
+*	*	*v	*v	*
+=55	=55	=55	=55
+2.a-X	12a-L	8r	.
+.	12B	.	.
+.	.	[8ee	.
+.	12FJ	.	.
+.	8GG	8eeL]	.
+.	8rEE	8cc#X	.
+.	4rEE	8ff	.
+.	.	8aa-XJ	.
+=56	=56	=56	=56
+16qqEE-X/LL	.	.	.
+16qqD-X/	.	.	.
+16qqG/JJ	.	.	.
+*	*	*^	*
+2.f-X	12f-L	[2.fff-X	4rc	.
+.	12cn	.	.	.
+.	12GJ	.	.	.
+.	4rEE	.	4ccn 4gg	.
+.	4rEE	.	4cc 4gg	.
+=57	=57	=57	=57	=57
+4B-X 4b-X	16rEE	12fff-L]	[2gg	.
+.	16gLL	.	.	.
+.	.	12ddd#X	.	.
+.	16c#X	.	.	.
+.	.	12cccnJ	.	.
+.	16GJJ	.	.	.
+4rc	8AA	[4eee	.	.
+.	8rEE	.	.	.
+4rc	4rEE	12eeeL]	12gg]	.
+.	.	12ccc	[6ee	.
+.	.	12aaJ	.	.
+*v	*v	*	*	*
+=58	=58	=58	=58
+4r	12ccc#XL	12ee]	.
+.	12aa	[6cc#X	.
+.	12ff#XJ	.	.
+4r	12bb-XL	12cc#]	.
+.	12ff#	[6b-X	.
+.	12dd#XJ	.	.
+4D#X 4c#X 4g	4gg	4b-]	.
+=59	=59	=59	=59
+16r	12raa	[2b-X	.
+16gLL	.	.	.
+.	12ff#XL	.	.
+16c#X	.	.	.
+.	12dd#XJ	.	.
+16GJJ	.	.	.
+8AA	[4gg	.	.
+8r	.	.	.
+4r	12ggL]	12b-]	.
+.	12dd#	[6g	.
+.	12ccnJ	.	.
+=60	=60	=60	=60
+4r	12eeL	12g]	.
+.	12cc	[6e	.
+.	12aJ	.	.
+4r	12cc#XL	12e]	.
+.	12a	[6c#X	.
+.	12f#XJ	.	.
+4DD#X 4C#X [4G	[4b-X	4c#_	.
+=61	=61	=61	=61
+*^	*	*	*
+4AA 4G]	4rEE	12b-L]	12c#]	.
+.	.	12a	[6c#X	.
+.	.	12f#XJ	.	.
+2G	4DD#X 4C#X	[4b-X	4c#_	.
+.	4AA	12b-L]	12c#]	.
+.	.	12a	[6c#	.
+.	.	12f#J	.	.
+=62	=62	=62	=62	=62
+2G	4DD#X 4C#X	[4b-X	4c#_	.
+.	4AA	12b-L]	12c#]	.
+.	.	12a	[6c#X	.
+.	.	12f#XJ	.	.
+4DD# 4C# 4G	4rEE	6b-	4c#]	.
+.	.	12f#	.	.
+*v	*v	*	*	*
+=63	=63	=63	=63
+[2.DD#X [2.C#X [2.G	20raa	[2.c#X [2.f#X	.
+.	20gLL	.	.
+.	20bn	.	.
+.	20dd#X	.	.
+.	[20ff#XJJ	.	.
+.	6ff#]	.	.
+.	[12aa	.	.
+.	4aa_	.	.
+=64	=64	=64	=64
+2.DD#] 2.C#] 2.G]	2aa]	2.c#] 2.f#]	.
+.	4ff#X	.	.
+*	*v	*v	*
+=65	=65	=65
+[4AAAq	.	.
+[4AAq	.	.
+[4Gq	.	.
+.	[4c#q	.
+.	[4f#q	.
+.	[4b-q	.
+.	[4cc#q	.
+.	[4ff#q	.
+2.AAA] 2.AA] 2.G]	2.c#] 2.f#] 2.b-] 2.cc#] 2.ff#] 2.b-	.
+==	==	==
+*-	*-	*-
+!!!system-decoration: {(*)}
+!!!ENC: Bryan Jacob Bell
+!!!END: November 2021 to April 2022
+!!!PED: Günter Philipp
+!!!PTL: Ausgewählte Klavierwerke (Edition Peters)
