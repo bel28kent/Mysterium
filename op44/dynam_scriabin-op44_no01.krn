@@ -1,0 +1,228 @@
+!!!COM: Scriabin, Alexander
+!!!OTL: Poème
+!!!OPR: 2 Poèmes
+!!!OPS: 44
+!!!ONM: 1
+!!!ODT: 1904
+!!!AGN: Poem
+**kern	**kern	**dynam
+*staff2	*staff1	*staff1/2
+*Ipiano	*Ipiano	*
+*clefF4	*clefF4	*
+*k[]	*k[]	*
+*C:	*C:	*
+*M2/4	*M2/4	*
+=1	=1	=1
+12b-XL	4r	.
+12e	.	.
+12B-XJ	.	.
+12eL	4r	.
+12B-	.	.
+12CJ	.	.
+=2	=2	=2
+12b-XL	4r	.
+12e	.	.
+12B-XJ	.	.
+12eL	4G-X	.
+12B-	.	.
+12CJ	.	.
+=3	=3	=3
+12b-XL	8d	.
+12e	.	.
+.	4G-X	.
+12B-XJ	.	.
+12eL	.	.
+12B-	.	.
+.	8Gn	.
+12CJ	.	.
+=4	=4	=4
+12g-XL 12b-X	4B-X	.
+12c	.	.
+12G-XJ	.	.
+12cL	[4D	.
+12G-	.	.
+12AA-XJ	.	.
+=5	=5	=5
+12fL 12b-X	8D]	.
+12c-X	.	.
+.	4E-X	.
+12FJ	.	.
+12c-L	.	.
+12F	.	.
+.	8En	.
+12DD-XJ	.	.
+=6	=6	=6
+12fL 12a	[2E	.
+12B	.	.
+12FJ	.	.
+12BL	.	.
+12F	.	.
+12GGJ	.	.
+=7	=7	=7
+8GGG	12EL]	.
+.	12D#X	.
+8r	.	.
+.	12EJ	.
+4r	12AL	.
+.	12A-X	.
+.	12GJ	.
+=8	=8	=8
+12bL	4r	.
+12f	.	.
+12BJ	.	.
+12fL	4G	.
+12B	.	.
+12D-XJ	.	.
+=9	=9	=9
+12bL	8e-X	.
+12f	.	.
+.	4G	.
+12BJ	.	.
+12fL	.	.
+12B	.	.
+.	8A-X	.
+12D-XJ	.	.
+=10	=10	=10
+12fL 12b	4An	.
+12B	.	.
+12FJ	.	.
+12BL	[4D-X	.
+12F	.	.
+12GGJ	.	.
+=11	=11	=11
+12gL 12b	4D-]	.
+12e-X	.	.
+12BJ	.	.
+12GL	6D-X	.
+12EE-XJ	.	.
+12r	12Dn	.
+=12	=12	=12
+12g-XL 12b-X	[2F	.
+12c	.	.
+12G-XJ	.	.
+12cL	.	.
+12G-	.	.
+12AA-XJ	.	.
+=13	=13	=13
+8AAA-X	12FL]	.
+.	12E	.
+8r	.	.
+.	12FJ	.
+4r	12B-XL	.
+.	12B--	.
+.	12A-XJ	.
+=14	=14	=14
+12bL	4r	.
+12f	.	.
+12BJ	.	.
+12fL	4G	.
+12B	.	.
+12D-XJ	.	.
+=15	=15	=15
+12bL	8e-X	.
+12f	.	.
+.	4G	.
+12BJ	.	.
+12fL	.	.
+12B	.	.
+.	8A-X	.
+12D-XJ	.	.
+=16	=16	=16
+12fL 12a	4An	.
+12B	.	.
+12FJ	.	.
+12BL	[4C#X	.
+12F	.	.
+12GGJ	.	.
+=17	=17	=17
+12fL	8C#]	.
+12B	.	.
+.	4E	.
+12FJ	.	.
+12BL	.	.
+12F	.	.
+.	8D#X	.
+12GGJ	.	.
+=18	=18	=18
+*	*^	*
+12fL 12g	2ryy	[2D#X	.
+12B	.	.	.
+12FJ	.	.	.
+12BL	.	.	.
+12F	.	.	.
+12GGJ	.	.	.
+=19	=19	=19	=19
+*^	*	*	*
+4GG	2CC	4rc	6D#]	.
+.	.	.	[12E	.
+6FF#X	.	12AL	4E]	.
+.	.	12A-X	.	.
+12GG	.	12GJ	.	.
+*v	*v	*	*	*
+*	*v	*v	*
+=20	=20	=20
+12bL	4r	.
+12f	.	.
+12BJ	.	.
+12fL	4G	.
+12B	.	.
+12D-XJ	.	.
+=21	=21	=21
+12bL	8e-X	.
+12f	.	.
+.	4G	.
+12BJ	.	.
+12fL	.	.
+12B	.	.
+.	8A-X	.
+12D-XJ	.	.
+=22	=22	=22
+12fL 12b	4An	.
+12B	.	.
+12FJ	.	.
+12BL	[4C#X	.
+12F	.	.
+12GGJ	.	.
+=23	=23	=23
+12fL 12b	8C#]	.
+12B	.	.
+.	4E	.
+12FJ	.	.
+12BL	.	.
+12F	.	.
+.	8AA-X	.
+12GGJ	.	.
+=24	=24	=24
+12eL 12cc	[2AA-X	.
+12c	.	.
+12EJ	.	.
+12cL	.	.
+12E	.	.
+12CJ	.	.
+=25	=25	=25
+*^	*^	*
+4rc	2CC	16AA-L]	16rEE	.
+.	.	16GG	16rEE	.
+.	.	16C	16rEE	.
+.	.	16EJ	[16E	.
+4FF#X	.	12BL	4E]	.
+.	.	12A	.	.
+.	.	12A-XJ	.	.
+=26	=26	=26	=26	=26
+[2FF#X	[2CC	[2A-X	[2E	.
+=27	=27	=27	=27	=27
+4FF#]	2CC]	4A-]	2E]	.
+4GG	.	4G	.	.
+*v	*v	*	*	*
+*	*v	*v	*
+=28	=28	=28
+[2CCC [2CC [2GG	[2E [2G [2c [2e	.
+=29	=29	=29
+2CCC] 2CC] 2GG]	2E] 2G] 2c] 2e]	.
+==	==	==
+*-	*-	*-
+!!!system-decoration: {(*)}
+!!!ENC: Bryan Jacob Bell
+!!!END: November 2021 to April 2022
+!!!PED: Lev Oborin and Yakov Milstein
+!!!PTL: A.N. Skryabin: Polnoe sobranie sochinenii dlia fortepiano (Muzgiz)

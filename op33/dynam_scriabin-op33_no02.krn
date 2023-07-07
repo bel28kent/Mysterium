@@ -1,0 +1,184 @@
+!!!COM: Scriabin, Alexander
+!!!OTL: Prelude
+!!!OPR: 4 Preludes
+!!!OPS: 33
+!!!ONM: 2
+!!!ODT: 1900
+!!!AGN: Prelude
+**kern	**kern	**dynam
+*staff2	*staff1	*staff1/2
+*Ipiano	*Ipiano	*
+*clefF4	*clefG2	*
+*k[f#c#g#d#a#e#]	*k[f#c#g#d#a#e#]	*
+*F#:	*F#:	*
+*M6/8	*M6/8	*
+=1	=1	=1
+*^	*	*
+2.f#	4.A# 4.c#	8r	.
+.	.	8r	.
+.	.	8ff#	.
+.	4dn	8g##XL	.
+.	.	8a#	.
+.	8A# 8c#	8cc#J	.
+=2	=2	=2	=2
+4.B	2.G# 2.f#	8ee#L	.
+.	.	8dd#	.
+.	.	8g#J	.
+4.d#	.	8a#L	.
+.	.	8cc#	.
+.	.	8bJ	.
+*v	*v	*	*
+=3	=3	=3
+[2.G# [2.dn [2.f#	4a#	.
+.	8f#	.
+.	[4.a#	.
+=4	=4	=4
+2.G#] 2.d] 2.f#]	4a#]	.
+.	8f#	.
+.	4.a#	.
+=5	=5	=5
+*^	*	*
+2.dn	4.F# 4.An	8r	.
+.	.	8r	.
+.	.	8ddn	.
+.	4B-X	8e#L	.
+.	.	8f#	.
+.	8F# 8A	8anJ	.
+=6	=6	=6	=6
+4.Gn	2.En 2.dn	8cc#L	.
+.	.	8b	.
+.	.	8enJ	.
+4.Bn	.	8f#L	.
+.	.	8an	.
+.	.	8gnJ	.
+*v	*v	*	*
+=7	=7	=7
+[2.En [2.B-X [2.dn	4f#	.
+.	8dn	.
+.	[4.f#	.
+=8	=8	=8
+2.E] 2.B-] 2.d]	4f#]	.
+.	8dn	.
+.	[4.f#	.
+=9	=9	=9
+*^	*	*
+[2.d-X	2.E-X 2.B-X	8f#]	.
+.	.	8r	.
+.	.	8ffn	.
+.	.	8f#XL	.
+.	.	8gn	.
+.	.	8b-XJ	.
+=10	=10	=10	=10
+*	*	*^	*
+4.d-]	2.BB-X 2.Gn	[4.ffn	2.gn	.
+4.d-X	.	4ff]	.	.
+.	.	8ee-X	.	.
+=11	=11	=11	=11	=11
+*	*^	*	*	*
+8enL	4.Gn	4.BBn/	8cc#L	4.gn	.
+8.dn	.	.	8ddn	.	.
+.	.	.	8ff#XJ	.	.
+16dJk	.	.	.	.	.
+[4.d	[4.F#	[4.BB/	[4.aan	[4.f# [4.dd	.
+=12	=12	=12	=12	=12	=12
+4.d]	4F#]	4.BB/]	4aa]	4f#] 4dd_	.
+.	8Gn	.	8ggn	[8gn 8dd]	.
+4.dn	4.G	4.BB/	8ddnL	8g]	.
+.	.	.	8b	8rc	.
+.	.	.	8gJ	8rc	.
+*	*v	*v	*	*	*
+=13	=13	=13	=13	=13
+[4.Gn	[2.C# [2.B	4.raa	8f#L	.
+.	.	.	8en	.
+.	.	.	[8e#XJ	.
+4G]	.	[4.dd#X	4.e#_	.
+8G#X	.	.	.	.
+=14	=14	=14	=14	=14
+4.d#	2.C#] 2.B]	4dd#]	4.e#]	.
+.	.	[8a#	.	.
+4.dn	.	4a#]	4.e#	.
+.	.	8g#	.	.
+*	*	*v	*v	*
+=15	=15	=15	=15
+[2.d-X	2.E-X 2.B-X	8r	.
+.	.	8r	.
+.	.	8ffn	.
+.	.	8g-XL	.
+.	.	8gn	.
+.	.	8b-XJ	.
+=16	=16	=16	=16
+*	*	*^	*
+4.d-]	2.BB-X 2.Gn	[4.ffn	2.gn	.
+4.d-X	.	4ff]	.	.
+.	.	8ee-X	.	.
+=17	=17	=17	=17	=17
+*	*^	*	*	*
+8fnL	4.A-X	4.Cn/	8ddnL	4.a-X	.
+8.e-X	.	.	8ee-X	.	.
+.	.	.	8ggnJ	.	.
+16e-Jk	.	.	.	.	.
+[4.e-	[4.Gn	[4.C/	[4.bb-X	[4.gn [4.ee-	.
+=18	=18	=18	=18	=18	=18
+4.e-]	4G]	4.C/]	4bb-]	4g] 4ee-_	.
+.	8A-X	.	8aa-X	[8a-X 8ee-]	.
+4.e-X	4.A-	4.Cn/	8ee-XL	8a-]	.
+.	.	.	8ccn	8rc	.
+.	.	.	8a-J	8rc	.
+*	*v	*v	*	*	*
+=19	=19	=19	=19	=19
+4.A-X	2.Dn 2.cn	4.raa	8gnL	.
+.	.	.	8.fn	.
+.	.	.	[16f#XJk	.
+4An	.	[4.een	4.f#]	.
+8A#X	.	.	.	.
+=20	=20	=20	=20	=20
+[4.C#X	2.GGn 2.B	4ee#	2.g#	.
+.	.	[8ee-X	.	.
+4C#]	.	4ee-]	.	.
+8Dn	.	8ddn	.	.
+*v	*v	*	*	*
+*	*v	*v	*
+=21	=21	=21
+2.r	2.r	.
+=22	=22	=22
+*^	*^	*
+[4.Gn	[2.C# [2.B	4.raa	8f#L	.
+.	.	.	8en	.
+.	.	.	[8e#XJ	.
+4G]	.	[4.dd#X	4.e#_	.
+8G#X	.	.	.	.
+=23	=23	=23	=23	=23
+2.d#	2.C#] 2.B]	4dd#]	4.e#]	.
+.	.	[8a#	.	.
+.	.	4a#]	4.e#	.
+.	.	8g#	.	.
+*v	*v	*	*	*
+=24	=24	=24	=24
+[2.En [2.A# [2.c##X	4f#	8f#	.
+.	.	4rc	.
+.	8c##X	.	.
+.	[4.f#	4.rc	.
+*	*v	*v	*
+=25	=25	=25
+2.E] 2.A#] 2.c##]	4f#]	.
+.	8c##X	.
+.	[4.f#	.
+=26	=26	=26
+*	*^	*
+2.D# 2.B	4.f#]	2.d#	.
+.	[4.f#	.	.
+=27	=27	=27	=27
+2.BB 2.F#	4.f#]	2.d# 2.f#	.
+.	4.g#	.	.
+=28	=28	=28	=28
+[2.FF# [2.C# [2.A#	[2.cc#	[2.c# [2.f#	.
+=29	=29	=29	=29
+2.FF#] 2.C#] 2.A#]	2.cc#]	2.c#] 2.f#]	.
+*	*v	*v	*
+==	==	==
+*-	*-	*-
+!!!system-decoration: {(*)}
+!!!ENC: Bryan Jacob Bell
+!!!END: November 2021 to April 2022
+!!!PED: Konstantin Igumnov and Yakov Milstein
+!!!PTL: A.N. Skryabin: Polnoe sobranie sochinenii dlia fortepiano (Muzgiz)
