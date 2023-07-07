@@ -5,287 +5,287 @@
 !!!ONM: 21
 !!!ODT: 1895
 !!!AGN: Prelude
-**kern	**kern
-*staff2	*staff1
-*Ipiano	*Ipiano
-*clefF4	*clefG2
-*k[b-e-]	*k[b-e-]
-*B-:	*B-:
-*M3/4	*M3/4
-=1	=1
-4r	2.r
-8r	.
-8BB-	.
-8FL	.
-8e-J	.
-=2	=2
-*M5/4	*M5/4
-8dL	4b-
-8c	.
-8G	4ee-
-8b-	.
-8e-	4r
-8GJ	.
-8r	4r
-8BB-	.
-8FL	4r
-8e-J	.
-=3	=3
-*M3/4	*M3/4
-8dL	4a
-8c	.
-8F	4b-
-8a	.
-8e-	4cc
-8FJ	.
-=4	=4
-*M6/4	*M6/4
-8r	1.ff
-8BB-	.
-8FL	.
-8d	.
-8c	.
-8B-J	.
-8A-XL	.
-8f	.
-8dd	.
-8ccJ	.
-4b-	.
-=5	=5
-*M3/4	*M3/4
-4r	2.r
-8r	.
-*clefG2	*
-8E-	.
-8B-L	.
-8a-XJ	.
-=6	=6
-*M5/4	*M5/4
-8gL	4ee-
-8f	.
-8c	4aa-X
-8ee-	.
-8a-X	4r
-8cJ	.
-8r	4r
-8E-	.
-8GL	4r
-8a-J	.
-=7	=7
-*M3/4	*M3/4
-8gL	4dd
-8f	.
-8B-	4ee-
-8dd	.
-8a-X	4ff
-8B-J	.
-=8	=8
-*M6/4	*M6/4
-8r	[2.bb-
-8E-	.
-8B-L	.
-8g	.
-8f	.
-8e-J	.
-8d-XL	2bb-]
-8b-	.
-8gg	.
-8ffJ	.
-4ee-	8aanL
-.	8ggJ
-*clefF4	*
-=9	=9
-*M5/4	*M5/4
-8r	4r
-8D	.
-8B-L	4r
-8gJ	.
-8fL	8ddL
-8e-	8ccJ
-8g	4b-
-8B-	.
-8g	4bb-
-8ddJ	.
-=10	=10
-8r	4r
-8D	.
-8AL	8r
-8fJ	8dd
-8e-L	8ccL
-8d	8b-J
-8f	4a
-8A	.
-8f	4aa
-8ddJ	.
-=11	=11
-8r	4r
-8D	.
-8GL	8r
-8e-J	8cc
-8dL	8b-L
-8c	8aJ
-8e-	4g
-8A	.
-8e-	4gg
-8b-J	.
-=12	=12
-8aL	4f
-8d	.
-8A	[4ff
-8DJ	.
-8FL	4ff]
-8e-J	.
-4a	4dd
-4r	4cc
-=13	=13
-*M3/4	*M3/4
-4r	2.r
-8r	.
-8BB-	.
-8FL	.
-8e-J	.
-=14	=14
-*M5/4	*M5/4
-8dL	4b-
-8c	.
-8G	4ee-
-8b-	.
-8e-	4r
-8GJ	.
-8r	4r
-8BB-	.
-8FL	4r
-8e-J	.
-=15	=15
-*M3/4	*M3/4
-8dL	4a
-8c	.
-8F	4b-
-8a	.
-8e-	4cc
-8FJ	.
-=16	=16
-*M6/4	*M6/4
-8r	1.ff
-8BB-	.
-8FL	.
-8d	.
-8c	.
-8B-J	.
-8A-XL	.
-8f	.
-8dd	.
-8ccJ	.
-4b-	.
-=17	=17
-*M3/4	*M3/4
-4r	2.r
-8r	.
-*clefG2	*
-8E-	.
-8B-L	.
-8a-XJ	.
-=18	=18
-*M5/4	*M5/4
-8gL	4ee-
-8f	.
-8c	4aa-X
-8ee-	.
-8a-X	4r
-8cJ	.
-8r	4r
-8E-	.
-8B-L	4r
-8a-J	.
-=19	=19
-*M3/4	*M3/4
-8gL	4dd
-8f	.
-8B-	4ee-
-8dd	.
-8a-X	4ff
-8B-J	.
-=20	=20
-*M6/4	*M6/4
-8r	2.bb-
-8E-	.
-8B-L	.
-8gJ	.
-8fL	.
-8e-J	.
-8EnL	2.b-
-8c#X	.
-8.b-	.
-16a-XJk	.
-4g-X	.
-=21	=21
-*M5/4	*M5/4
-8r	4r
-8F	.
-8dL	4r
-8b-J	.
-8anL	8ffL
-8gn	8ee-J
-8b-	4dd
-8f	.
-8b-	4ddd
-8ffJ	.
-=22	=22
-8r	4r
-8F	.
-8cL	8r
-8b-J	8ff
-8gL	8ee-L
-8f	8ddJ
-8b-	4cc
-8e-	.
-8g	4ccc
-8ee-J	.
-=23	=23
-8r	4r
-8F	.
-8cL	8r
-8b-J	8ff
-8g-XL	8ee-L
-8f	8ddJ
-8b-	4cc
-8e-	.
-8g-	4ccc
-8ee-J	.
-=24	=24
-8r	4f
-8a	.
-8e-L	4ff
-8FJ	.
-8F#XL	2ee-
-8e-	.
-8cc	.
-8G	.
-8fn	4dd
-8bnJ	.
-=25	=25
-*M6/4	*M6/4
-8E-L	4dd
-8G	.
-8g	4cc
-8cJ	.
-4cc	[4bb-
-8FL	4bb-]
-8e-J	.
-4a	8aaL
-.	8gg
-4r	8cc
-.	8ddJ
-*clefF4	*
-=26	=26
-*M3/4	*M3/4
-8BB-L	8ffL
-8F	8ddJ
-8d	4b-
-8FJ	.
-4dd	4bb-
-==	==
-*-	*-
+**kern	**kern	**dynam
+*staff2	*staff1	*staff1/2
+*Ipiano	*Ipiano	*
+*clefF4	*clefG2	*
+*k[b-e-]	*k[b-e-]	*
+*B-:	*B-:	*
+*M3/4	*M3/4	*
+=1	=1	=1
+4r	2.r	.
+8r	.	.
+8BB-	.	.
+8FL	.	.
+8e-J	.	.
+=2	=2	=2
+*M5/4	*M5/4	*
+8dL	4b-	.
+8c	.	.
+8G	4ee-	.
+8b-	.	.
+8e-	4r	.
+8GJ	.	.
+8r	4r	.
+8BB-	.	.
+8FL	4r	.
+8e-J	.	.
+=3	=3	=3
+*M3/4	*M3/4	*
+8dL	4a	.
+8c	.	.
+8F	4b-	.
+8a	.	.
+8e-	4cc	.
+8FJ	.	.
+=4	=4	=4
+*M6/4	*M6/4	*
+8r	1.ff	.
+8BB-	.	.
+8FL	.	.
+8d	.	.
+8c	.	.
+8B-J	.	.
+8A-XL	.	.
+8f	.	.
+8dd	.	.
+8ccJ	.	.
+4b-	.	.
+=5	=5	=5
+*M3/4	*M3/4	*
+4r	2.r	.
+8r	.	.
+*clefG2	*	*
+8E-	.	.
+8B-L	.	.
+8a-XJ	.	.
+=6	=6	=6
+*M5/4	*M5/4	*
+8gL	4ee-	.
+8f	.	.
+8c	4aa-X	.
+8ee-	.	.
+8a-X	4r	.
+8cJ	.	.
+8r	4r	.
+8E-	.	.
+8GL	4r	.
+8a-J	.	.
+=7	=7	=7
+*M3/4	*M3/4	*
+8gL	4dd	.
+8f	.	.
+8B-	4ee-	.
+8dd	.	.
+8a-X	4ff	.
+8B-J	.	.
+=8	=8	=8
+*M6/4	*M6/4	*
+8r	[2.bb-	.
+8E-	.	.
+8B-L	.	.
+8g	.	.
+8f	.	.
+8e-J	.	.
+8d-XL	2bb-]	.
+8b-	.	.
+8gg	.	.
+8ffJ	.	.
+4ee-	8aanL	.
+.	8ggJ	.
+*clefF4	*	*
+=9	=9	=9
+*M5/4	*M5/4	*
+8r	4r	.
+8D	.	.
+8B-L	4r	.
+8gJ	.	.
+8fL	8ddL	.
+8e-	8ccJ	.
+8g	4b-	.
+8B-	.	.
+8g	4bb-	.
+8ddJ	.	.
+=10	=10	=10
+8r	4r	.
+8D	.	.
+8AL	8r	.
+8fJ	8dd	.
+8e-L	8ccL	.
+8d	8b-J	.
+8f	4a	.
+8A	.	.
+8f	4aa	.
+8ddJ	.	.
+=11	=11	=11
+8r	4r	.
+8D	.	.
+8GL	8r	.
+8e-J	8cc	.
+8dL	8b-L	.
+8c	8aJ	.
+8e-	4g	.
+8A	.	.
+8e-	4gg	.
+8b-J	.	.
+=12	=12	=12
+8aL	4f	.
+8d	.	.
+8A	[4ff	.
+8DJ	.	.
+8FL	4ff]	.
+8e-J	.	.
+4a	4dd	.
+4r	4cc	.
+=13	=13	=13
+*M3/4	*M3/4	*
+4r	2.r	.
+8r	.	.
+8BB-	.	.
+8FL	.	.
+8e-J	.	.
+=14	=14	=14
+*M5/4	*M5/4	*
+8dL	4b-	.
+8c	.	.
+8G	4ee-	.
+8b-	.	.
+8e-	4r	.
+8GJ	.	.
+8r	4r	.
+8BB-	.	.
+8FL	4r	.
+8e-J	.	.
+=15	=15	=15
+*M3/4	*M3/4	*
+8dL	4a	.
+8c	.	.
+8F	4b-	.
+8a	.	.
+8e-	4cc	.
+8FJ	.	.
+=16	=16	=16
+*M6/4	*M6/4	*
+8r	1.ff	.
+8BB-	.	.
+8FL	.	.
+8d	.	.
+8c	.	.
+8B-J	.	.
+8A-XL	.	.
+8f	.	.
+8dd	.	.
+8ccJ	.	.
+4b-	.	.
+=17	=17	=17
+*M3/4	*M3/4	*
+4r	2.r	.
+8r	.	.
+*clefG2	*	*
+8E-	.	.
+8B-L	.	.
+8a-XJ	.	.
+=18	=18	=18
+*M5/4	*M5/4	*
+8gL	4ee-	.
+8f	.	.
+8c	4aa-X	.
+8ee-	.	.
+8a-X	4r	.
+8cJ	.	.
+8r	4r	.
+8E-	.	.
+8B-L	4r	.
+8a-J	.	.
+=19	=19	=19
+*M3/4	*M3/4	*
+8gL	4dd	.
+8f	.	.
+8B-	4ee-	.
+8dd	.	.
+8a-X	4ff	.
+8B-J	.	.
+=20	=20	=20
+*M6/4	*M6/4	*
+8r	2.bb-	.
+8E-	.	.
+8B-L	.	.
+8gJ	.	.
+8fL	.	.
+8e-J	.	.
+8EnL	2.b-	.
+8c#X	.	.
+8.b-	.	.
+16a-XJk	.	.
+4g-X	.	.
+=21	=21	=21
+*M5/4	*M5/4	*
+8r	4r	.
+8F	.	.
+8dL	4r	.
+8b-J	.	.
+8anL	8ffL	.
+8gn	8ee-J	.
+8b-	4dd	.
+8f	.	.
+8b-	4ddd	.
+8ffJ	.	.
+=22	=22	=22
+8r	4r	.
+8F	.	.
+8cL	8r	.
+8b-J	8ff	.
+8gL	8ee-L	.
+8f	8ddJ	.
+8b-	4cc	.
+8e-	.	.
+8g	4ccc	.
+8ee-J	.	.
+=23	=23	=23
+8r	4r	.
+8F	.	.
+8cL	8r	.
+8b-J	8ff	.
+8g-XL	8ee-L	.
+8f	8ddJ	.
+8b-	4cc	.
+8e-	.	.
+8g-	4ccc	.
+8ee-J	.	.
+=24	=24	=24
+8r	4f	.
+8a	.	.
+8e-L	4ff	.
+8FJ	.	.
+8F#XL	2ee-	.
+8e-	.	.
+8cc	.	.
+8G	.	.
+8fn	4dd	.
+8bnJ	.	.
+=25	=25	=25
+*M6/4	*M6/4	*
+8E-L	4dd	.
+8G	.	.
+8g	4cc	.
+8cJ	.	.
+4cc	[4bb-	.
+8FL	4bb-]	.
+8e-J	.	.
+4a	8aaL	.
+.	8gg	.
+4r	8cc	.
+.	8ddJ	.
+*clefF4	*	*
+=26	=26	=26
+*M3/4	*M3/4	*
+8BB-L	8ffL	.
+8F	8ddJ	.
+8d	4b-	.
+8FJ	.	.
+4dd	4bb-	.
+==	==	==
+*-	*-	*-
 !!!system-decoration: {(*)}
 !!!ENC: Bryan Jacob Bell
 !!!END: November 2021 to April 2022
