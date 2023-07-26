@@ -1,6 +1,8 @@
 !!!COM: Scriabin, Alexander
-!!!OTL: Prelude
-!!!OPR: 24 Preludes
+!!!OTL@@FR: Prélude en mi mineur
+!!!OTL@@EN: Prelude in E Minor
+!!!OPR@@FR: 24 Préludes
+!!!OPR@@EN: 24 Preludes
 !!!OPS: 11
 !!!ONM: 4
 !!!ODT: 1888
@@ -246,6 +248,7 @@
 4r	.	.
 ==	==	==
 *-	*-	*-
+!!!system-decoration: {(*)}
 !!!RDF**kern: > = above
 !!!RDF**kern: < = below
 !!!PPP: Ausgewählte Klavierwerke, Band 2 (pp.11-45). Leipzig: Edition Peters, No.9077, 1967. Plate E.P. 12359.

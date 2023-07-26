@@ -1,6 +1,8 @@
 !!!COM: Scriabin, Alexander
-!!!OTL: Etude
-!!!OPR: 12 Etudes
+!!!OTL@@FR: Étude en si majeur
+!!!OTL@@EN: Etude in B Major
+!!!OPR@@FR: 12 Études
+!!!OPR@@EN: 12 Etudes
 !!!OPS: 8
 !!!ONM: 4
 !!!ODT: 1894
@@ -713,6 +715,7 @@
 2BBB; 2BB;	2D#; 2F#; 2B;	.
 ==	==	==
 *-	*-	*-
+!!!system-decoration: {(*)}
 !!!RDF**kern: > = above
 !!!RDF**kern: < = below
 !!!RDF**dynam: > = dim.

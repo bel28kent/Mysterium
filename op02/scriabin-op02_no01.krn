@@ -1,6 +1,8 @@
 !!!COM: Scriabin, Alexander
-!!!OTL: Etude
-!!!OPR: Trois Morceaux pour piano
+!!!OTL@@FR: Étude en do dièse mineur
+!!!OTL@@EN: Etude in C# Minor
+!!!OPR@@FR: 3 Morceaux
+!!!OPR@@EN: 3 Pieces
 !!!OPS: 2
 !!!ONM: 1
 !!!ODT: 1886
@@ -419,6 +421,7 @@
 *	*v	*v	*
 ==	==	==
 *-	*-	*-
+!!!system-decoration: {(*)}
 !!!RDF**kern: > = above
 !!!RDF**kern: < = below
 !!!RDF**dynam: > = dim.

@@ -1,6 +1,8 @@
 !!!COM: Scriabin, Alexander
-!!!OTL: Prelude
-!!!OPR: 24 Preludes
+!!!OTL@@FR: Prélude en ré bémol majeur
+!!!OTL@@EN: Prelude in Db Major
+!!!OPR@@FR: 24 Préludes
+!!!OPR@@EN: 24 Preludes
 !!!OPS: 11
 !!!ONM: 15
 !!!ODT: 1895
@@ -226,6 +228,7 @@
 1d-] 1a-]	1dd-] 1ff])	.
 ==	==	==
 *-	*-	*-
+!!!system-decoration: {(*)}
 !!!RDF**kern: > = above
 !!!RDF**kern: < = below
 !!!RDF**dynam: > = dim.

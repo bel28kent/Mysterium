@@ -1,6 +1,8 @@
 !!!COM: Scriabin, Alexander
-!!!OTL: Etude
-!!!OPR: 12 Etudes
+!!!OTL@@FR: Étude en fa dièse mineur
+!!!OTL@@EN: Etude in F# Minor
+!!!OPR@@FR: 12 Études
+!!!OPR@@EN: 12 Etudes
 !!!OPS: 8
 !!!ONM: 2
 !!!ODT: 1894
@@ -690,6 +692,7 @@
 1FFF#: 1FF#: 1C#:	1A# 1f#	.
 ==	==	==
 *-	*-	*-
+!!!system-decoration: {(*)}
 !!!RDF**kern: > = above
 !!!RDF**kern: < = below
 !!!RDF**dynam: > = dim.

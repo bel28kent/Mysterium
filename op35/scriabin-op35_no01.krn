@@ -1,382 +1,385 @@
 !!!COM: Scriabin, Alexander
-!!!OTL: Prelude
-!!!OPR: 3 Preludes
+!!!OTL@@FR: Prélude en ré bémol majeur
+!!!OTL@@EN: Prelude in Db Major
+!!!OPR@@FR: 3 Préludes
+!!!OPR@@EN: 3 Preludes
 !!!OPS: 35
 !!!ONM: 1
 !!!ODT: 1903
 !!!AGN: Prelude
-**kern	**kern
-*staff2	*staff1
-*clefF4	*clefG2
-*k[b-e-a-d-g-]	*k[b-e-a-d-g-]
-*D-:	*D-:
-*M3/4	*M3/4
-12AA-L 12F-X 12Gn	24ccLL
-.	24e-
-12FF-X 12F-	24c
-.	24d-J
-12AAA-J 12AA-	12b-J
-=1	=1
-12AA-L 12E- 12G-X	24b-LL
-.	24d-
-12EE- 12E-	24Bn
-.	24cJ
-12AAA-J 12AA-	12a-J
-12r	24dnLL
-.	24c
-12AA-L 12A-	24G-
-.	24cJ
-12AAA-J 12AA-	12e-J
-12AA-L 12F-X 12Gn	24ccLL
-.	24e-
-12FF-X 12F-	24c
-.	24d-XJ
-12AAA-J 12AA-	12b-XJ
-=2	=2
-12AA-L 12E- 12G-X	24b-LL
-.	24d-
-12EE- 12E-	24Bn
-.	24cJ
-12AAA-J 12AA-	12a-J
-12r	24dnLL
-.	24c
-12AA-L 12A-	24G-
-.	24cJ
-12AAA-J 12AA-	12e-J
-12AA-L 12E- 12G-	24b-XLL
-.	24d-X
-12EE- 12E-	24Bn
-.	24cJ
-12AAA-J 12AA-	12a-J
-=3	=3
-[4EE-- 4AA- 4G-	24a-LL
-.	24d-
-.	24Bn
-.	24cJ
-.	12g-J
-4EE--]	24BLL
-.	24A-
-.	24F
-.	24G-J
-.	12cJ
-12r	24fLL
-.	24A-
-12CCL 12C	24F
-.	24G-J
-12AAA-J 12AA-	12e-J
-=4	=4
-2DD- 2AA-	24e-LL
-.	24G-
-.	24En
-.	24FJ
-.	12d-J
-.	24cLL
-.	24G-
-.	24E
-.	24FJ
-.	12d-J
-12D-L 12B-- 12c	24ffLL
-.	24a-
-12BB-- 12B--	24f
-.	24g-J
-12DD-J 12D-	12ee-XJ
-=5	=5
-12D-L 12A- 12d-	24ee-LL
-.	24g-
-12AA- 12A-	24en
-.	24fJ
-12DD-J 12D-	12dd-J
-4r	24gnLL
-.	24f
-.	24d-
-.	24fJ
-.	12a-J
-12D-L 12B-- 12c	24ffLL
-.	24a-
-12BB-- 12B--	24f
-.	24g-XJ
-12DD-J 12D-	12ee-XJ
-=6	=6
-12D-L 12A- 12d-	24ee-LL
-.	24g-
-12AA- 12A-	24en
-.	24fJ
-12DD-J 12D-	12dd-J
-4r	24gnLL
-.	24f
-.	24d-
-.	24fJ
-.	12a-J
-12D-L 12A- 12c-X	24ee-XLL
-.	24g-X
-12AA- 12A-	24en
-.	24fJ
-12DD-J 12D-	12ee-XJ
-=7	=7
-[4BB-- 4E- 4d-	24ee-LL
-.	24a-
-.	24g-
-.	24gnJ
-.	12dd-J
-4BB--]	24f#XLL
-.	24e-
-.	24c
-.	24d-J
-.	12gJ
-4EE- 4E-	24ccLL
-.	24e-
-.	24c
-.	24d-J
-.	12b-J
-=8	=8
-2AA- 2E-	24b-LL
-.	24d-
-.	24Bn
-.	24cJ
-.	12a-J
-.	24gnLL
-.	24d-
-.	24B
-.	24cJ
-.	12a-J
-4G-X 4c	24b-XLL
-.	24f
-.	24dn
-.	24e-J
-.	12b-J
-=9	=9
-2F 2Bn	24b-XLL
-.	24e-
-.	24d-
-.	24dnJ
-.	12gnJ
-.	24b-LL
-.	24e-
-.	24d-X
-.	24dnJ
-.	12a-J
-4En 4B	24g#XLL
-.	24en
-.	24c#X
-.	24dJ
-.	12f#XJ
-=10	=10
-2AAn 2En 2An	24f#XLL
-.	24dn
-.	24B#X
-.	24c#XJ
-.	12enJ
-.	24g#XLL
-.	24d
-.	24B#
-.	24c#J
-.	12anJ
-4d-X 4gn	24ffnLL
-.	24ccn
-.	24a
-.	24b-XJ
-.	12ffJ
-=11	=11
-2c 2g-X	24ffLL
-.	24b-
-.	24a-
-.	24anJ
-.	12ddnJ
-.	24ffLL
-.	24b-
-.	24a-X
-.	24anJ
-.	12ee-J
-4c-X 4f	24ee-LL
-.	24b-
-.	24gn
-.	24a-XJ
-.	12ee-J
-=12	=12
-2B- 2f-X	24ee-LL
-.	24a-
-.	24g-
-.	24gnJ
-.	12ccJ
-.	24ee-LL
-.	24a-
-.	24g-X
-.	24gnJ
-.	12dd-XJ
-4An 4en	24cc#XLL
-.	24an
-.	24f#X
-.	24gJ
-.	12bnJ
-=13	=13
-2Dn 2An 2dn	24bnLL
-.	24gn
-.	24e#X
-.	24f#XJ
-.	12anJ
-.	24cc#XLL
-.	24g
-.	24e#
-.	24f#J
-.	12ddnJ
-4d 4f#X	24ff#XLL
-.	24b
-.	24g#X
-.	24aJ
-.	12cc#XJ
-=14	=14
-*^	*
-4A-X 4e-X 4g-X	4rEE	24dd-XLL
-.	.	24b-X
-.	.	24g-X
-.	.	24a-J
-.	.	12ccJ
-8qAA-/	.	.
-4A- 4c	4rEE	24ffLL
-.	.	24a-
-.	.	24f
-.	.	24g-J
-.	.	12ee-J
-12A-L	4AA-	20dd-LL
-.	.	20b-
-12Gn	.	.
-.	.	20f
-.	.	20f-X
-12DD-J	.	.
-.	.	20ccJJ
-=15	=15	=15
-12G-XL	4AA-	20cc-XLL
-.	.	20a-
-12F	.	.
-.	.	20e-
-.	.	20dn
-12DD-J	.	.
-.	.	20b-JJ
-12F-XL	4AA-	20b--LL
-.	.	20g-
-12E-	.	.
-.	.	20d-X
-.	.	20c
-12DD-J	.	.
-.	.	20a-JJ
-[4c-X	[4D-	20ffLL
-.	.	20dd-
-.	.	20b--
-.	.	20a-
-.	.	20ff-XJJ
-=16	=16	=16
-8c-L]	2D-]	20ff-XLL
-.	.	20dd-
-.	.	20a-
-8B-J	.	.
-.	.	20gn
-.	.	20ee-JJ
-8B--L	.	20ee--LL
-.	.	20cc-X
-.	.	20g-X
-8A-J	.	.
-.	.	20fn
-.	.	20dd-JJ
-[4GG- [4D- [4d-	4rEE	20bb-XLL
-.	.	20gg-
-.	.	20dd-
-.	.	20ccn
-.	.	20aanJJ
-*v	*v	*
-=17	=17
-4GG-] 4D-] 4d-]	20bb-LL
-.	20gg-
-.	20cc
-.	20dd-
-.	20ffJJ
-[8qEE-/	.
-4EE-] 4G- 4d-	20aa-LL
-.	20dd-
-.	20an
-.	20b-
-.	20gg-JJ
-[8qAA-/	.
-4AA-] 4A- 4c	20ffLL
-.	20cc
-.	20a-X
-.	20g-
-.	20ee-JJ
-=18	=18
-2D- 2A-	20ee-LL
-.	20a-
-.	20en
-.	20f
-.	20dd-JJ
-.	20ccLL
-.	20a-
-.	20e
-.	20f
-.	20dd-JJ
-[4GG- [4D- [4d-	20bb-LL
-.	20gg-
-.	20dd-
-.	20cc
-.	20aanJJ
-=19	=19
-4GG-] 4D-] 4d-]	20bb-LL
-.	20gg-
-.	20cc
-.	20dd-
-.	20ffJJ
-[8qEE-/	.
-4EE-] 4G- 4d-	20aa-LL
-.	20dd-
-.	20an
-.	20b-
-.	20gg-JJ
-[8qAA-/	.
-4AA-] 4A- 4c	20ffLL
-.	20cc
-.	20a-X
-.	20g-
-.	20ee-JJ
-=20	=20
-2D- 2A-	20ee-LL
-.	20a-
-.	20en
-.	20f
-.	20dd-JJ
-.	20ccLL
-.	20a-
-.	20e
-.	20f
-.	20dd-JJ
-[8qAA-/	.
-4AA-] 4A- 4c	20ffLL
-.	20cc
-.	20g-
-.	20a-
-.	20ee-XJJ
-=21	=21
-2.D- 2.A-	20ee-LL
-.	20a-
-.	20en
-.	20f
-.	20dd-JJ
-.	20ccLL
-.	20a-
-.	20e
-.	20f
-.	20dd-JJ
-.	20eenLL
-.	20dd-
-.	20gn
-.	20a-
-.	20ffJJ
-=22	=22
-*	*^
-4D- 4A- 4d-	4ddd-	4f 4a- 4dd- 4ff
-4r	4raa	4rc
-4r	4raa	4rc
-*	*v	*v
-==	==
-*-	*-
-!!!system-decoration: {(s1,s2)}
+**kern	**kern	**dynam
+*staff2	*staff1	*staff1/2
+*Ipiano	*Ipiano	*
+*clefF4	*clefG2	*
+*k[b-e-a-d-g-]	*k[b-e-a-d-g-]	*
+*D-:	*D-:	*
+*M3/4	*M3/4	*
+12AA-L 12F-X 12Gn	24ccLL	.
+.	24e-	.
+12FF-X 12F-	24c	.
+.	24d-J	.
+12AAA-J 12AA-	12b-J	.
+=1	=1	=1
+12AA-L 12E- 12G-X	24b-LL	.
+.	24d-	.
+12EE- 12E-	24Bn	.
+.	24cJ	.
+12AAA-J 12AA-	12a-J	.
+12r	24dnLL	.
+.	24c	.
+12AA-L 12A-	24G-	.
+.	24cJ	.
+12AAA-J 12AA-	12e-J	.
+12AA-L 12F-X 12Gn	24ccLL	.
+.	24e-	.
+12FF-X 12F-	24c	.
+.	24d-XJ	.
+12AAA-J 12AA-	12b-XJ	.
+=2	=2	=2
+12AA-L 12E- 12G-X	24b-LL	.
+.	24d-	.
+12EE- 12E-	24Bn	.
+.	24cJ	.
+12AAA-J 12AA-	12a-J	.
+12r	24dnLL	.
+.	24c	.
+12AA-L 12A-	24G-	.
+.	24cJ	.
+12AAA-J 12AA-	12e-J	.
+12AA-L 12E- 12G-	24b-XLL	.
+.	24d-X	.
+12EE- 12E-	24Bn	.
+.	24cJ	.
+12AAA-J 12AA-	12a-J	.
+=3	=3	=3
+[4EE-- 4AA- 4G-	24a-LL	.
+.	24d-	.
+.	24Bn	.
+.	24cJ	.
+.	12g-J	.
+4EE--]	24BLL	.
+.	24A-	.
+.	24F	.
+.	24G-J	.
+.	12cJ	.
+12r	24fLL	.
+.	24A-	.
+12CCL 12C	24F	.
+.	24G-J	.
+12AAA-J 12AA-	12e-J	.
+=4	=4	=4
+2DD- 2AA-	24e-LL	.
+.	24G-	.
+.	24En	.
+.	24FJ	.
+.	12d-J	.
+.	24cLL	.
+.	24G-	.
+.	24E	.
+.	24FJ	.
+.	12d-J	.
+12D-L 12B-- 12c	24ffLL	.
+.	24a-	.
+12BB-- 12B--	24f	.
+.	24g-J	.
+12DD-J 12D-	12ee-XJ	.
+=5	=5	=5
+12D-L 12A- 12d-	24ee-LL	.
+.	24g-	.
+12AA- 12A-	24en	.
+.	24fJ	.
+12DD-J 12D-	12dd-J	.
+4r	24gnLL	.
+.	24f	.
+.	24d-	.
+.	24fJ	.
+.	12a-J	.
+12D-L 12B-- 12c	24ffLL	.
+.	24a-	.
+12BB-- 12B--	24f	.
+.	24g-XJ	.
+12DD-J 12D-	12ee-XJ	.
+=6	=6	=6
+12D-L 12A- 12d-	24ee-LL	.
+.	24g-	.
+12AA- 12A-	24en	.
+.	24fJ	.
+12DD-J 12D-	12dd-J	.
+4r	24gnLL	.
+.	24f	.
+.	24d-	.
+.	24fJ	.
+.	12a-J	.
+12D-L 12A- 12c-X	24ee-XLL	.
+.	24g-X	.
+12AA- 12A-	24en	.
+.	24fJ	.
+12DD-J 12D-	12ee-XJ	.
+=7	=7	=7
+[4BB-- 4E- 4d-	24ee-LL	.
+.	24a-	.
+.	24g-	.
+.	24gnJ	.
+.	12dd-J	.
+4BB--]	24f#XLL	.
+.	24e-	.
+.	24c	.
+.	24d-J	.
+.	12gJ	.
+4EE- 4E-	24ccLL	.
+.	24e-	.
+.	24c	.
+.	24d-J	.
+.	12b-J	.
+=8	=8	=8
+2AA- 2E-	24b-LL	.
+.	24d-	.
+.	24Bn	.
+.	24cJ	.
+.	12a-J	.
+.	24gnLL	.
+.	24d-	.
+.	24B	.
+.	24cJ	.
+.	12a-J	.
+4G-X 4c	24b-XLL	.
+.	24f	.
+.	24dn	.
+.	24e-J	.
+.	12b-J	.
+=9	=9	=9
+2F 2Bn	24b-XLL	.
+.	24e-	.
+.	24d-	.
+.	24dnJ	.
+.	12gnJ	.
+.	24b-LL	.
+.	24e-	.
+.	24d-X	.
+.	24dnJ	.
+.	12a-J	.
+4En 4B	24g#XLL	.
+.	24en	.
+.	24c#X	.
+.	24dJ	.
+.	12f#XJ	.
+=10	=10	=10
+2AAn 2En 2An	24f#XLL	.
+.	24dn	.
+.	24B#X	.
+.	24c#XJ	.
+.	12enJ	.
+.	24g#XLL	.
+.	24d	.
+.	24B#	.
+.	24c#J	.
+.	12anJ	.
+4d-X 4gn	24ffnLL	.
+.	24ccn	.
+.	24a	.
+.	24b-XJ	.
+.	12ffJ	.
+=11	=11	=11
+2c 2g-X	24ffLL	.
+.	24b-	.
+.	24a-	.
+.	24anJ	.
+.	12ddnJ	.
+.	24ffLL	.
+.	24b-	.
+.	24a-X	.
+.	24anJ	.
+.	12ee-J	.
+4c-X 4f	24ee-LL	.
+.	24b-	.
+.	24gn	.
+.	24a-XJ	.
+.	12ee-J	.
+=12	=12	=12
+2B- 2f-X	24ee-LL	.
+.	24a-	.
+.	24g-	.
+.	24gnJ	.
+.	12ccJ	.
+.	24ee-LL	.
+.	24a-	.
+.	24g-X	.
+.	24gnJ	.
+.	12dd-XJ	.
+4An 4en	24cc#XLL	.
+.	24an	.
+.	24f#X	.
+.	24gJ	.
+.	12bnJ	.
+=13	=13	=13
+2Dn 2An 2dn	24bnLL	.
+.	24gn	.
+.	24e#X	.
+.	24f#XJ	.
+.	12anJ	.
+.	24cc#XLL	.
+.	24g	.
+.	24e#	.
+.	24f#J	.
+.	12ddnJ	.
+4d 4f#X	24ff#XLL	.
+.	24b	.
+.	24g#X	.
+.	24aJ	.
+.	12cc#XJ	.
+=14	=14	=14
+*^	*	*
+4A-X 4e-X 4g-X	4rEE	24dd-XLL	.
+.	.	24b-X	.
+.	.	24g-X	.
+.	.	24a-J	.
+.	.	12ccJ	.
+8qAA-/	.	.	.
+4A- 4c	4rEE	24ffLL	.
+.	.	24a-	.
+.	.	24f	.
+.	.	24g-J	.
+.	.	12ee-J	.
+12A-L	4AA-	20dd-LL	.
+.	.	20b-	.
+12Gn	.	.	.
+.	.	20f	.
+.	.	20f-X	.
+12DD-J	.	.	.
+.	.	20ccJJ	.
+=15	=15	=15	=15
+12G-XL	4AA-	20cc-XLL	.
+.	.	20a-	.
+12F	.	.	.
+.	.	20e-	.
+.	.	20dn	.
+12DD-J	.	.	.
+.	.	20b-JJ	.
+12F-XL	4AA-	20b--LL	.
+.	.	20g-	.
+12E-	.	.	.
+.	.	20d-X	.
+.	.	20c	.
+12DD-J	.	.	.
+.	.	20a-JJ	.
+[4c-X	[4D-	20ffLL	.
+.	.	20dd-	.
+.	.	20b--	.
+.	.	20a-	.
+.	.	20ff-XJJ	.
+=16	=16	=16	=16
+8c-L]	2D-]	20ff-XLL	.
+.	.	20dd-	.
+.	.	20a-	.
+8B-J	.	.	.
+.	.	20gn	.
+.	.	20ee-JJ	.
+8B--L	.	20ee--LL	.
+.	.	20cc-X	.
+.	.	20g-X	.
+8A-J	.	.	.
+.	.	20fn	.
+.	.	20dd-JJ	.
+[4GG- [4D- [4d-	4rEE	20bb-XLL	.
+.	.	20gg-	.
+.	.	20dd-	.
+.	.	20ccn	.
+.	.	20aanJJ	.
+*v	*v	*	*
+=17	=17	=17
+4GG-] 4D-] 4d-]	20bb-LL	.
+.	20gg-	.
+.	20cc	.
+.	20dd-	.
+.	20ffJJ	.
+[8qEE-/	.	.
+4EE-] 4G- 4d-	20aa-LL	.
+.	20dd-	.
+.	20an	.
+.	20b-	.
+.	20gg-JJ	.
+[8qAA-/	.	.
+4AA-] 4A- 4c	20ffLL	.
+.	20cc	.
+.	20a-X	.
+.	20g-	.
+.	20ee-JJ	.
+=18	=18	=18
+2D- 2A-	20ee-LL	.
+.	20a-	.
+.	20en	.
+.	20f	.
+.	20dd-JJ	.
+.	20ccLL	.
+.	20a-	.
+.	20e	.
+.	20f	.
+.	20dd-JJ	.
+[4GG- [4D- [4d-	20bb-LL	.
+.	20gg-	.
+.	20dd-	.
+.	20cc	.
+.	20aanJJ	.
+=19	=19	=19
+4GG-] 4D-] 4d-]	20bb-LL	.
+.	20gg-	.
+.	20cc	.
+.	20dd-	.
+.	20ffJJ	.
+[8qEE-/	.	.
+4EE-] 4G- 4d-	20aa-LL	.
+.	20dd-	.
+.	20an	.
+.	20b-	.
+.	20gg-JJ	.
+[8qAA-/	.	.
+4AA-] 4A- 4c	20ffLL	.
+.	20cc	.
+.	20a-X	.
+.	20g-	.
+.	20ee-JJ	.
+=20	=20	=20
+2D- 2A-	20ee-LL	.
+.	20a-	.
+.	20en	.
+.	20f	.
+.	20dd-JJ	.
+.	20ccLL	.
+.	20a-	.
+.	20e	.
+.	20f	.
+.	20dd-JJ	.
+[8qAA-/	.	.
+4AA-] 4A- 4c	20ffLL	.
+.	20cc	.
+.	20g-	.
+.	20a-	.
+.	20ee-XJJ	.
+=21	=21	=21
+2.D- 2.A-	20ee-LL	.
+.	20a-	.
+.	20en	.
+.	20f	.
+.	20dd-JJ	.
+.	20ccLL	.
+.	20a-	.
+.	20e	.
+.	20f	.
+.	20dd-JJ	.
+.	20eenLL	.
+.	20dd-	.
+.	20gn	.
+.	20a-	.
+.	20ffJJ	.
+=22	=22	=22
+*	*^	*
+4D- 4A- 4d-	4ddd-	4f 4a- 4dd- 4ff	.
+4r	4raa	4rc	.
+4r	4raa	4rc	.
+*	*v	*v	*
+==	==	==
+*-	*-	*-
+!!!system-decoration: {(*)}
 !!!ENC: Bryan Jacob Bell
 !!!END: November 2021 to April 2022
 !!!PED: Konstantin Igumnov and Yakov Milstein
