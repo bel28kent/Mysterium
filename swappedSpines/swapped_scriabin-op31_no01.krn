@@ -1,0 +1,451 @@
+!!!COM: Scriabin, Alexander
+!!!OTL@@FR: Prélude en ré bémol majeur
+!!!OTL@@EN: Prelude in Db Major
+!!!OPR@@FR: 4 Préludes
+!!!OPR@@EN: 4 Preludes
+!!!OPS: 31
+!!!ONM: 1
+!!!ODT: 1903
+!!!AGN: Prelude
+**kern	**kern	**dynam
+*staff2	*staff1	*staff1/2
+*Ipiano	*Ipiano	*
+*clefF4	*clefG2	*
+*k[b-e-a-d-g-]	*k[b-e-a-d-g-]	*
+*D-:	*D-:	*
+*M3/4	*M3/4	*
+*	*^	*
+12r	4rc	4raa	.
+12r	.	.	.
+12DD-L	.	.	.
+12AA-	4F 4A-	8.d-L	.
+12FJ	.	.	.
+12DD-L	.	.	.
+.	.	16cJk	.
+=1	=1	=1	=1
+12BB--	4F 4Gn 4d-	2f	.
+12FJ	.	.	.
+12BB--L	.	.	.
+12F	4rc	.	.
+12d-J	.	.	.
+12DD-L	.	.	.
+12AA-	4F 4A-	8.d-L	.
+12FJ	.	.	.
+12DD-L	.	.	.
+.	.	16cJk	.
+=2	=2	=2	=2
+.	.	8qF/	.
+12GG-	2B- 2d-	2a-	.
+12FJ	.	.	.
+12GG-L	.	.	.
+12E-	.	.	.
+12d-J	.	.	.
+12DD-L	.	.	.
+12GGn	4F 4Bn	12gnL	.
+12FJ	.	12.f	.
+12CCL	.	.	.
+.	.	24enJk	.
+=3	=3	=3	=3
+.	.	8qF/	.
+12GGn	8B-XL 8f	8ddnL	.
+12FJ	.	.	.
+.	8dnJ 8f	8anJ	.
+12GGL	.	.	.
+12F	[4d [4f	8ccL	.
+12dnJ	.	.	.
+.	.	[8b-J	.
+12CCL	.	.	.
+12GG	8.dL] 8.f]	8.b-L]	.
+12FJ	.	.	.
+12CCL	.	.	.
+.	16B-Jk 16d	16aJk	.
+=4	=4	=4	=4
+12C	4B- 4c	8anL	.
+12EnJ	.	.	.
+.	.	8gnJ	.
+12FFL	.	.	.
+12C	4An 4c	8enL	.
+12FJ	.	.	.
+.	.	8fJ	.
+12BBB-L	.	.	.
+12BB-	4A-X 4dn	8.a-XL	.
+12FJ	.	.	.
+12EE-L	.	.	.
+.	.	16gJk	.
+=5	=5	=5	=5
+.	.	8qA-/	.
+12BB-	8d-XL 8a-	8ffL	.
+12A-J	.	.	.
+.	8fJ 8a-	8ccJ	.
+12BB-L	.	.	.
+12A-	[4f [4a-	8ee-L	.
+12fJ	.	.	.
+.	.	[8dd-J	.
+12EE-L	.	.	.
+12BB-	8.fL] 8.a-]	8.dd-L]	.
+12A-J	.	.	.
+12EE-L	.	.	.
+.	16d-Jk 16f	16ccJk	.
+=6	=6	=6	=6
+12E-	4d- 4e-	4.cc	.
+12GnJ	.	.	.
+12E-L	.	.	.
+12d-	4rc	.	.
+12gnJ	.	.	.
+.	.	8b-	.
+12AA-L	.	.	.
+12E-	4c 4e-	8.a-L	.
+12cJ	.	.	.
+12AA-L	.	.	.
+.	.	16gnJk	.
+=7	=7	=7	=7
+12F-X	4c 4dn 4a-	2cc	.
+12cJ	.	.	.
+12F-L	.	.	.
+12c	4rc	.	.
+12a-J	.	.	.
+12AA-L	.	.	.
+12E-	4c 4e-	8.a-L	.
+12cJ	.	.	.
+12AA-L	.	.	.
+.	.	16gnJk	.
+=8	=8	=8	=8
+.	.	8qc/	.
+12D-	2f 2a-	2ee-	.
+12cJ	.	.	.
+12D-L	.	.	.
+12B-	.	.	.
+12a-J	.	.	.
+12AA-L	.	.	.
+12Dn	4c 4f#X	12ddnL	.
+12cJ	.	12.cc	.
+12DDnL 12D	.	.	.
+.	.	24bnJk	.
+=9	=9	=9	=9
+12F#X	8ccL 8een	8gg#XL	.
+12cJ	.	.	.
+.	8g#XJ 8cc	8eeJ	.
+12DnL	.	.	.
+12c	8enL 8g#	8ccL	.
+12enJ	.	.	.
+.	8cJ 8e	8g#J	.
+12DDnL	.	.	.
+12D	4c 4f#X	8.bnL	.
+12cJ	.	.	.
+12GGnL	.	.	.
+.	.	16anJk	.
+*	*v	*v	*
+=10||	=10||	=10||
+*k[f#]	*k[f#]	*
+*	*^	*
+12D	4B	[4g	.
+12BJ	.	.	.
+12DL	.	.	.
+12B	4rc	8g]	.
+12gJ	.	.	.
+.	.	8raa	.
+12GGL	.	.	.
+12D	4rc	8.ddL	.
+12BJ	.	.	.
+12GGL	.	.	.
+.	.	16ddJk	.
+=11	=11	=11	=11
+12C	2e	12ddL	.
+12B-XJ	.	12f#	.
+12CL	.	12gJ	.
+12B-	.	12ddL	.
+12eJ	.	12cc	.
+12GGL	.	12b-XJ	.
+12C	12d#XL	12aL	.
+12B-J	12e	12g	.
+12GGL	24r	24r	.
+.	24A#XJk	24eJk	.
+=12	=12	=12	=12
+12D	4Bn	2d	.
+12BnJ	.	.	.
+12DL	.	.	.
+12B	4rc	.	.
+12gJ	.	.	.
+12GGL	.	.	.
+12D	4rc	8.ddL	.
+12BJ	.	.	.
+12GGL	.	.	.
+.	.	16ddJk	.
+=13	=13	=13	=13
+12C	2e	12ddL	.
+12B-XJ	.	12f#	.
+12CL	.	12gJ	.
+12B-	.	12ddL	.
+12eJ	.	12cc	.
+12GGL	.	12b-XJ	.
+12C	12d#XL	12aL	.
+12B-J	12e	12g	.
+12GGL	24r	24r	.
+.	24A#XJk	24eJk	.
+=14	=14	=14	=14
+12D	[4Bn	[4d	.
+12BnJ	.	.	.
+12BBL	.	.	.
+12B	4B]	6d]	.
+12gJ	.	.	.
+12GGL	.	12b	.
+12C	12d#XL	12aL	.
+12B-XJ	12e	12g	.
+12GGL	24r	24r	.
+.	24A#XJk	24eJk	.
+=15	=15	=15	=15
+12D	[4Bn	[4d	.
+12BnJ	.	.	.
+12DL	.	.	.
+12B	4B]	6d]	.
+12gJ	.	.	.
+12GGL	.	12b	.
+12C	12d#XL	12aL	.
+12B-XJ	12e	12g	.
+12GGL	24r	24r	.
+.	24A#XJ	24eJk	.
+=16	=16	=16	=16
+12D	2Bn	2d	.
+12BnJ	.	.	.
+12DL	.	.	.
+12B	.	.	.
+12gJ	.	.	.
+12GGL	.	.	.
+12D	8.gL 8.b	8.ddL	.
+12BJ	.	.	.
+12CC#XL	.	.	.
+.	16f#Jk 16b	16ddJk	.
+*	*v	*v	*
+=17||	=17||	=17||
+*k[b-e-a-d-g-]	*k[b-e-a-d-g-]	*
+*	*^	*
+12D-	2f 2a-	[4ee-	.
+12c-XJ	.	.	.
+12D-L	.	.	.
+12c-	.	8ee-L]	.
+12fJ	.	.	.
+.	.	8dd-J	.
+12AA-L	.	.	.
+12F	4e- 4f	8cc-XL	.
+12c-J	.	.	.
+.	.	8e-J	.
+12DD-L	.	.	.
+=18	=18	=18	=18
+*	*	*^	*
+12D-	4e-\	2c-X	8b-L	.
+12c-XJ	.	.	.	.
+.	.	.	8gnJ	.
+12D-L	.	.	.	.
+12c-	4f\	.	8b-L	.
+12fJ	.	.	.	.
+.	.	.	8a-J	.
+12GG-L	.	.	.	.
+12D-	4r	4B-	8.g-XL	.
+12B-J	.	.	.	.
+12GG-L	.	.	.	.
+.	.	.	16fJk	.
+*	*	*v	*v	*
+=19	=19	=19	=19
+12E--	4B- 4c 4g-	2b-	.
+12B-J	.	.	.
+12E--L	.	.	.
+12B-	4rc	.	.
+12g-J	.	.	.
+12GG-L	.	.	.
+12D-	4B- 4d-	8.g-L	.
+12B-J	.	.	.
+12GG-L	.	.	.
+.	.	16fJk	.
+=20	=20	=20	=20
+.	.	8qc/	.
+12C-X	2e- 2g-	2dd-	.
+12B-J	.	.	.
+12C-L	.	.	.
+12A-	.	.	.
+12g-J	.	.	.
+12GG-L	.	.	.
+12Cn	4B- 4en	12ccL	.
+12B-J	.	12.b-	.
+12FFL	.	.	.
+.	.	24anJk	.
+=21	=21	=21	=21
+.	.	8qB-/	.
+12C	8e-XL 8b-	8ggnL	.
+12B-J	.	.	.
+.	8gnJ 8b-	8ddnJ	.
+12CL	.	.	.
+12B-	[4g [4b-	8ffL	.
+12gnJ	.	.	.
+.	.	[8ee-J	.
+12FFL	.	.	.
+12C	8.gL] 8.b-]	8.ee-L]	.
+12B-J	.	.	.
+12FFL	.	.	.
+.	16e-Jk 16g	16ddJk	.
+=22	=22	=22	=22
+12F	4e- 4f	8ddnL	.
+12AnJ	.	.	.
+.	.	8ccJ	.
+12BB-L	.	.	.
+12F	4dn 4f	8anL	.
+12B-J	.	.	.
+.	.	8b-J	.
+12EE-L	.	.	.
+12E-	4d-X 4gn	8.dd-XL	.
+12B-J	.	.	.
+12AA-L	.	.	.
+.	.	16ccJk	.
+=23	=23	=23	=23
+.	.	8qd-/	.
+12E-	8g-XL 8dd-	8bb-L	.
+12d-J	.	.	.
+.	8b-J 8dd-	8ffJ	.
+12E-L	.	.	.
+12d-	[4b- [4dd-	8aa-L	.
+12b-J	.	.	.
+.	.	[8gg-J	.
+12AA-L	.	.	.
+12E-	8.b-L] 8.dd-]	8.gg-L]	.
+12d-J	.	.	.
+12AA-L	.	.	.
+.	16g-Jk 16b-	16ffJk	.
+=24	=24	=24	=24
+12A-	4g- 4a-	4.ff	.
+12cJ	.	.	.
+12A-L	.	.	.
+12g-	4rc	.	.
+12ccJ	.	.	.
+.	.	8ee-	.
+12DD-L	.	.	.
+12AA-	4f 4a-	8.dd-L	.
+12FJ	.	.	.
+12D-L	.	.	.
+.	.	16ccJk	.
+=25	=25	=25	=25
+12B--	2f 2gn 2dd-	2ff	.
+12fJ	.	.	.
+12DD-L	.	.	.
+12BB--	.	.	.
+12FJ	.	.	.
+12D-L	.	.	.
+12A-	4f 4a-	8.dd-L	.
+12fJ	.	.	.
+12DD-L	.	.	.
+.	.	16ccJk	.
+*	*v	*v	*
+=26	=26	=26
+.	8qf/	.
+*	*^	*
+12GG-	2b- 2dd-	2aa-	.
+12FJ	.	.	.
+12D-L	.	.	.
+12G-	.	.	.
+12e-J	.	.	.
+12DD-L	.	.	.
+12GGn	4f 4bn	12ggnL	.
+12FJ	.	12.ff	.
+12GGGnL 12GG	.	.	.
+.	.	24eenJ	.
+*	*v	*v	*
+=27||	=27||	=27||
+*k[]	*k[]	*
+*	*^	*
+12F	12ffL 12aa	12ccc#XL	.
+12BJ	12cc#X 12ff	12aa	.
+12FL	12aJ 12cc#	12ffJ	.
+12B	12aL 12cc#	12ffL	.
+12aJ	12f	12ccn	.
+12GGL	12fJ 12a	12cc#XJ	.
+12F	4f 4b	6ee	.
+12BJ	.	.	.
+12CCL	.	12dd	.
+=28	=28	=28	=28
+12GG	4e	2cc	.
+12EJ	.	.	.
+12CL	.	.	.
+12G	4rc	.	.
+12eJ	.	.	.
+12CCL	.	.	.
+12GG	4rc	8.ggL	.
+12EJ	.	.	.
+12CL	.	.	.
+.	.	16ggJk	.
+*	*v	*v	*
+=29	=29	=29
+*	*^	*
+12F	2a	12ggL	.
+12e-XJ	.	12b	.
+12CCL	.	12ccJ	.
+12AA	.	12ggL	.
+12E-XJ	.	12ff	.
+12CL	.	12ee-XJ	.
+12F	12g#XL	12ddL	.
+12e-J	12a	12cc	.
+12CCL	24r	24r	.
+.	24d#XJk	24aJ	.
+=30	=30	=30	=30
+12GG	4en	2g	.
+12EnXJ	.	.	.
+12CL	.	.	.
+12G	4rc	.	.
+12eJ	.	.	.
+12CCL	.	.	.
+12GG	4rc	8.ggL	.
+12EJ	.	.	.
+12CL	.	.	.
+.	.	16ggJk	.
+=31	=31	=31	=31
+12F	2a	12ggL	.
+12e-XJ	.	12b	.
+12CCL	.	12ccJ	.
+12AA	.	12ggL	.
+12E-XJ	.	12ff	.
+12CL	.	12ee-XJ	.
+12F	12g#XL	12ddL	.
+12e-J	12a	12cc	.
+12CCL	24r	24r	.
+.	24d#XJk	24aJk	.
+=32	=32	=32	=32
+12GG	[4en	[4g	.
+12EnJ	.	.	.
+12CL	.	.	.
+12G	4e]	6g]	.
+12eJ	.	.	.
+12CCL	.	12ee	.
+12FF	12g#XL	12ddL	.
+12E-XJ	12a	12cc	.
+12CL	24r	24r	.
+.	24d#XJk	24aJk	.
+=33	=33	=33	=33
+12G	[4en	[4g	.
+12enJ	.	.	.
+12CCL	.	.	.
+12GG	4e]	6g]	.
+12EJ	.	.	.
+12CL	.	12ee	.
+12F	12g#XL	12ddL	.
+12e-XJ	12a	12cc	.
+12CCL	24r	24r	.
+.	24d#XJk	24aJk	.
+=34	=34	=34	=34
+12GG	[4en	[4g	.
+12EnJ	.	.	.
+12CL	.	.	.
+12G	4e]	6g]	.
+12eJ	.	.	.
+12r	.	12c	.
+4r	4rc	12gL	.
+.	.	12cc	.
+.	.	12eeJ	.
+*	*v	*v	*
+=35	=35	=35
+4CCC	4ccc	.
+4r	4r	.
+4r	4r	.
+==	==	==
+*-	*-	*-
+!!!system-decoration: {(*)}
+!!!ENC: Bryan Jacob Bell
+!!!END: November 2021 to April 2022
+!!!PED: Konstantin Igumnov and Yakov Milstein
+!!!PTL: A.N. Skryabin: Polnoe sobranie sochinenii dlia fortepiano (Muzgiz)

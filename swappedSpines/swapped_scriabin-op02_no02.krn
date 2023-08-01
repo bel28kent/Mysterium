@@ -1,0 +1,159 @@
+!!!COM: Scriabin, Alexander
+!!!OTL@@FR: Prélude en si majeur
+!!!OTL@@EN: Prelude in B Major
+!!!OPR@@FR: 3 Morceaux
+!!!OPR@@EN: 3 Pieces
+!!!OPS: 2
+!!!ONM: 2
+!!!ODT: 1886
+!!!AGN: Prelude
+**kern	**kern	**dynam
+*staff2	*staff1	*staff1/2
+*Ipiano	*Ipiano	*
+*clefF4	*clefG2	*
+*k[f#c#g#d#a#]	*k[f#c#g#d#a#]	*
+*B:	*B:	*
+*M3/4	*M3/4	*
+=1	=1	=1
+4r	2.r	.
+4.e	.	.
+8d#	.	.
+=2	=2	=2
+*^	*^	*
+4rEE	[2.d#	4rc	12raa	.
+.	.	.	12dd#L	.
+.	.	.	12g#J	.
+2E#X	.	4rc	12a#L	.
+.	.	.	12cc#	.
+.	.	.	12bJ	.
+.	.	[4B	12BL	.
+.	.	.	12a#	.
+.	.	.	12g#J	.
+=3	=3	=3	=3	=3
+4F#	4d#]	4B]	4f#	.
+4rEE	4FF#	4rc	4raa	.
+4rEE	4D# 4B	4rc	4f# 4b 4ff#	.
+*v	*v	*	*	*
+=4	=4	=4	=4
+4FF#	12rc	4raa	.
+.	12gg#L	.	.
+.	12ff#J	.	.
+4E 4B	12g#L	4raa	.
+.	12ee	.	.
+.	[12eJ	.	.
+[4F# 4A#	4e]	6dd#	.
+.	.	12cc#	.
+=5	=5	=5	=5
+4BB 4F#] 4B	4d#	4b	.
+*clefG2	*	*	*
+4.b	4rc	4raa	.
+.	4rc	4raa	.
+8a#	.	.	.
+=6	=6	=6	=6
+*^	*	*	*
+4rc	[2.a#	4rc	12raa	.
+.	.	.	12aa#L	.
+.	.	.	12dd#J	.
+2B#X	.	4rc	12ee#XL	.
+.	.	.	12gg#	.
+.	.	.	12ff#J	.
+.	.	[4f#	12f#L	.
+.	.	.	12ee#	.
+.	.	.	12dd#J	.
+=7	=7	=7	=7	=7
+4c#	4a#]	4f#]	4cc#	.
+*clefF4	*	*	*	*
+4rEE	4C#	4rc	4raa	.
+4rEE	4A# 4f#	4rc	4cc# 4ff# 4ccc#	.
+*v	*v	*	*	*
+=8	=8	=8	=8
+4C#	12rc	4raa	.
+.	12ddd#L	.	.
+.	12ccc#J	.	.
+4G# 4f#	12dd#L	4raa	.
+.	12bb	.	.
+.	[12bJ	.	.
+4c# 4e#X	4b]	6aa#	.
+.	.	[12gg#	.
+=9	=9	=9	=9
+4F# 4c# 4f#	4a#	4gg#]	.
+2F# 2c#	4rc	4.a# 4.ff#	.
+.	4rc	.	.
+.	.	8g# 8ee	.
+=10	=10	=10	=10
+4BB	12rc	4raa	.
+.	12dd#L	.	.
+.	[12f#J	.	.
+4An 4d# 4an	4f#]	12cc#L	.
+.	.	12dd#	.
+.	.	12bJ	.
+8F# 8B 8f#	4an	12cc#L	.
+.	.	12dd#	.
+8FF#	.	.	.
+.	.	12gg#J	.
+*	*v	*v	*
+=11	=11	=11
+*^	*	*
+4BBB	12rc	4ff#	.
+.	12d#L	.	.
+.	12F#J	.	.
+2An	12c#L	12eeL	.
+.	12d#	12dd#	.
+.	12BJ	12cc#J	.
+.	12c#L	4b	.
+.	12d#	.	.
+.	12g#J	.	.
+=12	=12	=12	=12
+*	*	*^	*
+*	*	*	*^	*
+[2G#	4f#	4r	12rc	2.ryy	.
+.	.	.	12bL	.	.
+.	.	.	12a#J	.	.
+.	[4e	[4b\	12bL	.	.
+.	.	.	12dd#	.	.
+.	.	.	12eeJ	.	.
+[4BB 4G#_	4e]	4b\_	12ff#L	.	.
+.	.	.	12gg#	.	.
+.	.	.	[12bbJ	.	.
+=13	=13	=13	=13	=13	=13
+4EE 4BB] 4G#]	4e	4b\]	4bb]	4eee	.
+4rEE	4.e	4r	4rc	4raa	.
+4rEE	.	4r	4rc	4raa	.
+.	8d#	.	.	.	.
+*	*	*	*v	*v	*
+=14	=14	=14	=14	=14
+4rEE	[2.d#	4rc	12raa	.
+.	.	.	12dd#L	.
+.	.	.	12g#J	.
+2E#X	.	4rc	12a#L	.
+.	.	.	12cc#	.
+.	.	.	12bJ	.
+.	.	[4B	12BL	.
+.	.	.	12a#	.
+.	.	.	12g#J	.
+=15	=15	=15	=15	=15
+4F#	4d#]	4B]	4f#	.
+4rEE	4FF#	4rc	4raa	.
+4rEE	4D# 4B	4rc	4f# 4b 4ff#	.
+*v	*v	*	*	*
+*	*v	*v	*
+=16	=16	=16
+4FF#	12r	.
+.	12gg#L	.
+.	12ff#J	.
+4C# 4B	12g#L	.
+.	12ee	.
+.	12eJ	.
+*clefG2	*	*
+8.d#L 8.b	8.ddd#L	.
+16f#Jk 16a#	16eeJk 16ccc#	.
+=17	=17	=17
+4B 4f# 4b	4dd# 4bb	.
+4r	4r	.
+4r	4r	.
+==	==	==
+*-	*-	*-
+!!!system-decoration: {(*)}
+!!!ENC: Bryan Jacob Bell
+!!!END: November 2021 to April 2022
+!!!PED: P. Jurgenson

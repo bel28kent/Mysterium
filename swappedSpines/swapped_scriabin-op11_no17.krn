@@ -1,0 +1,127 @@
+!!!COM: Scriabin, Alexander
+!!!OTL@@FR: Prélude en la bémol majeur
+!!!OTL@@EN: Prelude in Ab Major
+!!!OPR@@FR: 24 Préludes
+!!!OPR@@EN: 24 Preludes
+!!!OPS: 11
+!!!ONM: 17
+!!!ODT: 1895
+!!!AGN: Prelude
+**kern	**kern	**dynam
+*staff2	*staff1	*staff1/2
+*Ipiano	*Ipiano	*
+*clefG2	*clefG2	*
+*k[b-e-a-d-]	*k[b-e-a-d-]	*
+*A-:	*A-:	*
+*M6/4	*M6/4	*
+=1	=1	=1
+4e- 4a- 4cc	4ee-	.
+4dn 4a- 4cc-X	4ff	.
+4d-X 4a- 4b-	4aa-	.
+4cn 4e- 4a-	4a-	.
+4A- 4d- 4f-X	4b-	.
+4F-X 4B- 4d- 4a-	4dd-	.
+*clefF4	*	*
+=2	=2	=2
+*^	*^	*
+4EE-	4rc	4rc	4raa	.
+2E-	4d-	4g	4ee-	.
+.	4c	4a-	4a-	.
+4AA-	4rc	2rc	2raa	.
+2E-	4d-	.	.	.
+.	4c	4rc	4raa	.
+*v	*v	*	*	*
+*	*v	*v	*
+*clefG2	*	*
+=3	=3	=3
+4c 4f 4a-	4cc	.
+4Bn 4f 4a-	4dd-	.
+4B-X 4f 4g	4ff	.
+4A- 4c 4f	4f	.
+*clefF4	*	*
+4F 4B- 4d-	4g	.
+4D- 4G 4B- 4f	4b-	.
+=4	=4	=4
+*^	*^	*
+4CC	4rc	4rc	4raa	.
+2C	4B-	4en	4cc	.
+.	4A-	4f	4f	.
+4FF	4rc	2rc	2raa	.
+2C	4B-	.	.	.
+.	4A-	4rc	4raa	.
+*	*	*v	*v	*
+=5	=5	=5	=5
+4DD-	4rc	4r	.
+4AA-	2A-	4a-	.
+4D-	.	4f	.
+4DD-	4rc	4r	.
+4AA-	2A-	4f-X	.
+4D-	.	4b-	.
+=6	=6	=6	=6
+4CC	4rc	4r	.
+4AA-	2A-	4cc	.
+4E-	.	4e-	.
+2.rEE	4BBB-	4r	.
+.	4BB- 4A-	4d-	.
+*clefG2	*	*	*
+.	4B- 4a- 4dd-	4ff	.
+*v	*v	*	*
+=7	=7	=7
+4e- 4a- 4cc	4ee-	.
+4dn 4a- 4cc-X	4ff	.
+4d-X 4a- 4b-	4aa-	.
+4cn 4e- 4a-	4a-	.
+4A- 4d- 4f-X	4b-	.
+4F-X 4B- 4d- 4a-	4dd-	.
+*clefF4	*	*
+=8	=8	=8
+*^	*^	*
+4EE-	4rc	4rc	4raa	.
+2E-	4d-	4g	4ee-	.
+.	4c	4a-	4a-	.
+4AA-	4rc	2rc	2raa	.
+2E-	4d-	.	.	.
+.	4c	4rc	4raa	.
+*	*	*v	*v	*
+=9	=9	=9	=9
+4DD-	4rc	4r	.
+4AA-	2A-	4a-	.
+4D-	.	4f	.
+4DD-	4rc	4r	.
+4AA-	2A-	4f-X	.
+4D-	.	4b-	.
+=10	=10	=10	=10
+4CC	4rc	4r	.
+4AA-	2A-	4cc	.
+4E-	.	4e-	.
+2.rEE	4BBB-	4r	.
+.	4BB- 4A-	4d-	.
+*clefG2	*	*	*
+.	4B- 4a- 4dd-	4ff	.
+*v	*v	*	*
+=11	=11	=11
+4e- 4a- 4cc	4ee-	.
+4dn 4a- 4cc-X	4ff	.
+4d-X 4a- 4b-	4aa-	.
+4cn 4e- 4a-	4a-	.
+4A- 4d- 4f-X	4b-	.
+8.F-X 8.B- 8.d- 8.a-	8.dd-	.
+16r	16r	.
+*clefF4	*	*
+=12	=12	=12
+*^	*^	*
+4EE-	4rc	4rc	4raa	.
+2E-	4d-	4g	4ee-	.
+.	4c	4a-	4a-	.
+4AA-	4rc	2rc	2raa	.
+4E-	4d-	.	.	.
+4A-	4c	4rc	4raa	.
+*v	*v	*	*	*
+*	*v	*v	*
+==	==	==
+*-	*-	*-
+!!!system-decoration: {(*)}
+!!!ENC: Bryan Jacob Bell
+!!!END: November 2021 to April 2022
+!!!PED: Günter Philipp
+!!!PTL: Ausgewählte Klavierwerke (Edition Peters)

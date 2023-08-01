@@ -1,0 +1,196 @@
+!!!COM: Scriabin, Alexander
+!!!OTL@@FR: Nuances
+!!!OTL@@EN: Nuances
+!!!OPR@@FR: 4 Morceaux
+!!!OPR@@EN: 4 Pieces
+!!!OPS: 56
+!!!ONM: 3
+!!!ODT: 1908
+!!!AGN: Miniature
+**kern	**kern	**dynam
+*staff2	*staff1	*staff1/2
+*Ipiano	*Ipiano	*
+*clefF4	*clefG2	*
+*k[]	*k[]	*
+*C:	*C:	*
+*M9/8	*M9/8	*
+=1	=1	=1
+*	*^	*
+8r	2.f 2.a	[2.dd	.
+8B-XL	.	.	.
+8AJ	.	.	.
+8cL	.	.	.
+8B-	.	.	.
+8CJ	.	.	.
+[4B-	4.e 4.g#X	4dd]	.
+16B-LL]	.	8cc#X	.
+16B-JJ	.	.	.
+=2	=2	=2	=2
+8AL	2.f 2.ccn	2.ee	.
+8GG	.	.	.
+8FJ	.	.	.
+8cL	.	.	.
+8Bn	.	.	.
+8AJ	.	.	.
+8fL	4.f 4.a	4cc	.
+8e	.	.	.
+8dJ	.	8dd	.
+=3	=3	=3	=3
+8d-XL	2.g-X 2.b-X	[2.ee-X	.
+8c-X	.	.	.
+8B-XJ	.	.	.
+8d-L	.	.	.
+8c-	.	.	.
+8D-XJ	.	.	.
+[4c-	4.f 4.a	4ee-]	.
+16c-LL]	.	8ddn	.
+16c-JJ	.	.	.
+=4	=4	=4	=4
+*	*	*^	*
+8B-XL	2.g-X\	2.dd-X	2.ff	.
+8AA-X	.	.	.	.
+8G-XJ	.	.	.	.
+8d-XL	.	.	.	.
+8cn	.	.	.	.
+8B-J	.	.	.	.
+4g-X	4.b-X\	4cc#X	8eenL	.
+.	.	.	8ff	.
+8fn	.	8ddn	8ff#XJ	.
+*	*	*v	*v	*
+=5	=5	=5	=5
+8fL	4.b-X 4.dd	[2.ggn	.
+8e-X	.	.	.
+8dJ	.	.	.
+8fL	4.a 4.cc#X	.	.
+8e-	.	.	.
+8FJ	.	.	.
+[4.e-	4.a-X 4.ccn	4gg]	.
+.	.	8gg-X	.
+=6	=6	=6	=6
+8e-L]	4.a-X 4.cc	[2.ff	.
+8d-X	.	.	.
+8cJ	.	.	.
+8e-XL	4.gn 4.bn	.	.
+8d-	.	.	.
+8E-XJ	.	.	.
+[4.c	4.a- 4.cc	4ff]	.
+.	.	8een	.
+=7	=7	=7	=7
+4c]	2.g 2.b	[2.ee	.
+8B	.	.	.
+8dnL	.	.	.
+8c	.	.	.
+8DJ	.	.	.
+[4.c	4.f#X 4.a#X	4ee]	.
+.	.	8ee	.
+=8	=8	=8	=8
+8cL]	2.fn 2.an	2.ee	.
+8GG	.	.	.
+8FJ	.	.	.
+8AL	.	.	.
+8c	.	.	.
+8eJ	.	.	.
+4g	4.a 4.cc	4.ee	.
+8f#X	.	.	.
+=9	=9	=9	=9
+8fnL	4.b-X 4.dd	[2.gg	.
+8e-X	.	.	.
+8dJ	.	.	.
+8fL	4.a 4.cc#X	.	.
+8e-	.	.	.
+8FJ	.	.	.
+[4.e-	4.a-X 4.ccn	4gg]	.
+.	.	8gg-X	.
+=10	=10	=10	=10
+8e-L]	4.a-X 4.cc	[2.ff	.
+8d-X	.	.	.
+8cJ	.	.	.
+8e-XL	4.gn 4.bn	.	.
+8d-	.	.	.
+8E-XJ	.	.	.
+[4.d-	4.g-X 4.b-X	4ff]	.
+.	.	8ff-X	.
+=11	=11	=11	=11
+8d-L]	2.g-X 2.b-X	[2.ee-X	.
+8c-X	.	.	.
+8B-XJ	.	.	.
+8d-XL	.	.	.
+8c-	.	.	.
+8D-XJ	.	.	.
+4.c-	4.fn 4.an	4ee-]	.
+.	.	8ddn	.
+=12	=12	=12	=12
+8B-XL	2.g-X 2.b-X 2.dd-X	2.ff	.
+8GG-X	.	.	.
+8D-XJ	.	.	.
+8B-L	.	.	.
+8d-X	.	.	.
+8cnJ	.	.	.
+4.c-X	4.g- 4.b-	4ee-X	.
+.	.	8ddn	.
+=13	=13	=13	=13
+8B-XL	[2.g-X [2.dd-X	[2.ff	.
+8GG-X	.	.	.
+8D-XJ	.	.	.
+8B-L	.	.	.
+8d-X	.	.	.
+8b-XJ	.	.	.
+4r	4.g-] 4.dd-]	4.ff]	.
+8r	.	.	.
+=14	=14	=14	=14
+8r	2.g-X 2.b-X	[2.ee-X	.
+8c-XL	.	.	.
+8B-XJ	.	.	.
+8d-XL	.	.	.
+8c-	.	.	.
+8D-XJ	.	.	.
+4.c-	4.f 4.a	8ee-L]	.
+.	.	8ddn	.
+.	.	8cc#XJ	.
+=15	=15	=15	=15
+*^	*	*	*
+8GnL	2.cn	2.a	[2.en [2.een	.
+8F#X	.	.	.	.
+8EJ	.	.	.	.
+8GL	.	.	.	.
+8F#	.	.	.	.
+8GGJ	.	.	.	.
+4.F# 4.c	4.rc	4.a	4e] 4ee]	.
+.	.	.	8d#X 8dd#X	.
+=16	=16	=16	=16	=16
+8GL	2.c	2.ee	[2.a [2.aa	.
+8Fn	.	.	.	.
+8EJ	.	.	.	.
+8GL	.	.	.	.
+8F	.	.	.	.
+8GGJ	.	.	.	.
+4.F 4.c	4.rc	4.dd#X	4a] 4aa]	.
+.	.	.	8g#X 8gg#X	.
+*v	*v	*	*	*
+=17	=17	=17	=17
+8EL 8c	2.ee 2.ggn	2.b 2.bb	.
+8CC	.	.	.
+8GGJ	.	.	.
+8EL	.	.	.
+8G	.	.	.
+8eJ	.	.	.
+4.F 4.c	4.dd#X	4a 4aa	.
+.	.	8g#X 8gg#X	.
+=18	=18	=18	=18
+*^	*	*	*
+4.rEE	8EL 8c	[2.ee [2.ggn	[2.b [2.bb	.
+.	8CC	.	.	.
+.	8GGJ	.	.	.
+8rEE	8EL	.	.	.
+[4G	8G	.	.	.
+.	[8eJ	.	.	.
+4.G]	4.e]	4.ee] 4.gg]	4.b] 4.bb]	.
+*v	*v	*	*	*
+*	*v	*v	*
+==	==	==
+*-	*-	*-
+!!!system-decoration: {(*)}
+!!!ENC: Bryan Jacob Bell
+!!!END: November 2021 to April 2022
+!!!PED: Günter Philipp
+!!!PTL: Ausgewählte Klavierwerke (Edition Peters)
