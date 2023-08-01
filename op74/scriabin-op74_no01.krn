@@ -84,7 +84,8 @@
 [8fn	.	[8F#X\	.	.	4dd-\	.
 8fL]	8B-L]	8F#\L]	8cccL]	8aaL]	.	.
 8f-XJ	8AJ	8E-X\J	8ddd-XJ	8ggJ	8cc\	.
-*v	*v	*v	*	*	*	*
+*	*v	*v	*	*	*	*
+*v	*v	*	*	*	*
 =8	=8	=8	=8	=8
 8E-XL 8A 8f-X	8ddd-XL	8ggL	8cc\L	.
 8E-J 8A 8g	8dddnJ	8bb-XJ	8dd-X\J	.
@@ -154,7 +155,8 @@
 .	.	.	[2dn\	.
 =16	=16	=16	=16	=16
 2.FF#] 2.BB#] 2.A#]	2.ee]	2.g]	2.d\]	.
-*	*v	*v	*v	*
+*	*	*v	*v	*
+*	*v	*v	*
 ==	==	==
 *-	*-	*-
 !!!system-decoration: {(*)}

@@ -1,5 +1,8 @@
 #!/opt/homebrew/bin/gawk -f
 
+# checkForV (AWK): Check if file has
+#  multiple spine rejoins on a line
+
   {
   if($0 !~ /\*v/) {
     next
