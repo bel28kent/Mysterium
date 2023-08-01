@@ -24,12 +24,12 @@
 *clefF4	*	*
 =2	=2	=2
 *^	*^	*
-4rc	4EE-	4raa	4rc	.
-4d-	2E-	4ee-	4g	.
-4c	.	4a-	4a-	.
-4rc	4AA-	2raa	2rc	.
-4d-	2E-	.	.	.
-4c	.	4raa	4rc	.
+4EE-	4rc	4rc	4raa	.
+2E-	4d-	4g	4ee-	.
+.	4c	4a-	4a-	.
+4AA-	4rc	2rc	2raa	.
+2E-	4d-	.	.	.
+.	4c	4rc	4raa	.
 *v	*v	*	*	*
 *	*v	*v	*
 *clefG2	*	*
@@ -43,28 +43,28 @@
 4D- 4G 4B- 4f	4b-	.
 =4	=4	=4
 *^	*^	*
-4rc	4CC	4raa	4rc	.
-4B-	2C	4cc	4en	.
-4A-	.	4f	4f	.
-4rc	4FF	2raa	2rc	.
-4B-	2C	.	.	.
-4A-	.	4raa	4rc	.
+4CC	4rc	4rc	4raa	.
+2C	4B-	4en	4cc	.
+.	4A-	4f	4f	.
+4FF	4rc	2rc	2raa	.
+2C	4B-	.	.	.
+.	4A-	4rc	4raa	.
 *	*	*v	*v	*
 =5	=5	=5	=5
-4rc	4DD-	4r	.
-2A-	4AA-	4a-	.
-.	4D-	4f	.
-4rc	4DD-	4r	.
-2A-	4AA-	4f-X	.
-.	4D-	4b-	.
+4DD-	4rc	4r	.
+4AA-	2A-	4a-	.
+4D-	.	4f	.
+4DD-	4rc	4r	.
+4AA-	2A-	4f-X	.
+4D-	.	4b-	.
 =6	=6	=6	=6
-4rc	4CC	4r	.
-2A-	4AA-	4cc	.
-.	4E-	4e-	.
-4BBB-	2.rEE	4r	.
-4BB- 4A-	.	4d-	.
+4CC	4rc	4r	.
+4AA-	2A-	4cc	.
+4E-	.	4e-	.
+2.rEE	4BBB-	4r	.
+.	4BB- 4A-	4d-	.
 *clefG2	*	*	*
-4B- 4a- 4dd-	.	4ff	.
+.	4B- 4a- 4dd-	4ff	.
 *v	*v	*	*
 =7	=7	=7
 4e- 4a- 4cc	4ee-	.
@@ -76,28 +76,28 @@
 *clefF4	*	*
 =8	=8	=8
 *^	*^	*
-4rc	4EE-	4raa	4rc	.
-4d-	2E-	4ee-	4g	.
-4c	.	4a-	4a-	.
-4rc	4AA-	2raa	2rc	.
-4d-	2E-	.	.	.
-4c	.	4raa	4rc	.
+4EE-	4rc	4rc	4raa	.
+2E-	4d-	4g	4ee-	.
+.	4c	4a-	4a-	.
+4AA-	4rc	2rc	2raa	.
+2E-	4d-	.	.	.
+.	4c	4rc	4raa	.
 *	*	*v	*v	*
 =9	=9	=9	=9
-4rc	4DD-	4r	.
-2A-	4AA-	4a-	.
-.	4D-	4f	.
-4rc	4DD-	4r	.
-2A-	4AA-	4f-X	.
-.	4D-	4b-	.
+4DD-	4rc	4r	.
+4AA-	2A-	4a-	.
+4D-	.	4f	.
+4DD-	4rc	4r	.
+4AA-	2A-	4f-X	.
+4D-	.	4b-	.
 =10	=10	=10	=10
-4rc	4CC	4r	.
-2A-	4AA-	4cc	.
-.	4E-	4e-	.
-4BBB-	2.rEE	4r	.
-4BB- 4A-	.	4d-	.
+4CC	4rc	4r	.
+4AA-	2A-	4cc	.
+4E-	.	4e-	.
+2.rEE	4BBB-	4r	.
+.	4BB- 4A-	4d-	.
 *clefG2	*	*	*
-4B- 4a- 4dd-	.	4ff	.
+.	4B- 4a- 4dd-	4ff	.
 *v	*v	*	*
 =11	=11	=11
 4e- 4a- 4cc	4ee-	.
@@ -110,12 +110,12 @@
 *clefF4	*	*
 =12	=12	=12
 *^	*^	*
-4rc	4EE-	4raa	4rc	.
-4d-	2E-	4ee-	4g	.
-4c	.	4a-	4a-	.
-4rc	4AA-	2raa	2rc	.
-4d-	4E-	.	.	.
-4c	4A-	4raa	4rc	.
+4EE-	4rc	4rc	4raa	.
+2E-	4d-	4g	4ee-	.
+.	4c	4a-	4a-	.
+4AA-	4rc	2rc	2raa	.
+4E-	4d-	.	.	.
+4A-	4c	4rc	4raa	.
 *v	*v	*	*	*
 *	*v	*v	*
 ==	==	==

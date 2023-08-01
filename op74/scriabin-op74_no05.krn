@@ -35,23 +35,23 @@
 .	[12ffJ	.
 =2	=2	=2
 *^	*^	*
-4rc	12GGG 12GG	12ffL]	4rc	.
-.	[6DDD-X [6DD-X	12ee-X	.	.
-.	.	12b-XJ	.	.
-12E-X 12e-X	2DDD-] 2DD-]	[4cc-X	2c-X 2f	.
-[6E-- [6e--	.	.	.	.
-1E--] 1e--]	.	1cc-]	.	.
-.	20DD-LL	.	2c- 2f	.
-.	20GG	.	.	.
-.	20E--	.	.	.
-.	20D-X	.	.	.
-.	20GJJ	.	.	.
-.	20e--LL	.	.	.
-.	20G	.	.	.
-.	20D-X	.	.	.
-.	20E--	.	.	.
-.	20GGJJ	.	.	.
-.	4DD-	.	4c- 4f	.
+12GGG 12GG	4rc	4rc	12ffL]	.
+[6DDD-X [6DD-X	.	.	12ee-X	.
+.	.	.	12b-XJ	.
+2DDD-] 2DD-]	12E-X 12e-X	2c-X 2f	[4cc-X	.
+.	[6E-- [6e--	.	.	.
+.	1E--] 1e--]	.	1cc-]	.
+20DD-LL	.	2c- 2f	.	.
+20GG	.	.	.	.
+20E--	.	.	.	.
+20D-X	.	.	.	.
+20GJJ	.	.	.	.
+20e--LL	.	.	.	.
+20G	.	.	.	.
+20D-X	.	.	.	.
+20E--	.	.	.	.
+20GGJJ	.	.	.	.
+4DD-	.	4c- 4f	.	.
 *v	*v	*	*	*
 *	*v	*v	*
 =3	=3	=3
@@ -75,79 +75,79 @@
 .	[12cc#J	.
 =4	=4	=4
 *^	*^	*
-4rc	12DDD#X 12DD#X	12cc#L]	4rc	.
-.	[6AAAA [6AAA	12b	.	.
-.	.	12f#XJ	.	.
-12BB 12B	2AAAA] 2AAA]	[4g	2G 2c#X	.
-[6BB-X [6B-X	.	.	.	.
-1BB-] 1B-]	.	1g]	.	.
-.	20AAALL	.	2G 2c#	.
-.	20DD#	.	.	.
-.	20BB-	.	.	.
-.	20AA	.	.	.
-.	20D#XJJ	.	.	.
-.	20B-LL	.	.	.
-.	20D#	.	.	.
-.	20AA	.	.	.
-.	20BB-	.	.	.
-.	20DD#JJ	.	.	.
-.	4AAA	.	4G 4c#	.
+12DDD#X 12DD#X	4rc	4rc	12cc#L]	.
+[6AAAA [6AAA	.	.	12b	.
+.	.	.	12f#XJ	.
+2AAAA] 2AAA]	12BB 12B	2G 2c#X	[4g	.
+.	[6BB-X [6B-X	.	.	.
+.	1BB-] 1B-]	.	1g]	.
+20AAALL	.	2G 2c#	.	.
+20DD#	.	.	.	.
+20BB-	.	.	.	.
+20AA	.	.	.	.
+20D#XJJ	.	.	.	.
+20B-LL	.	.	.	.
+20D#	.	.	.	.
+20AA	.	.	.	.
+20BB-	.	.	.	.
+20DD#JJ	.	.	.	.
+4AAA	.	4G 4c#	.	.
 =5	=5	=5	=5	=5
-4rc	12DDD#X 12DD#X	12raa	4rc	.
-.	[6AAAA [6AAA	12f#XL	.	.
-.	.	12gJ	.	.
-[4BB-X [4B-X	4AAAA_ 4AAA_	12b-X	12rc	.
-.	.	[6ff#X	[6f# [6cc#X	.
-8BB-] 8B-]	1AAAA] 1AAA]	2.ff#]	2f#] 2cc#]	.
-4BB- 4B-	.	.	.	.
-8BB- 8B-	.	.	.	.
-2rc	.	.	12rc	.
-.	.	.	12F#XL	.
-.	.	.	12GJ	.
-.	.	4dd#X	12B-X	.
-.	.	.	6f#	.
+12DDD#X 12DD#X	4rc	4rc	12raa	.
+[6AAAA [6AAA	.	.	12f#XL	.
+.	.	.	12gJ	.
+4AAAA_ 4AAA_	[4BB-X [4B-X	12rc	12b-X	.
+.	.	[6f# [6cc#X	[6ff#X	.
+1AAAA] 1AAA]	8BB-] 8B-]	2f#] 2cc#]	2.ff#]	.
+.	4BB- 4B-	.	.	.
+.	8BB- 8B-	.	.	.
+.	2rc	12rc	.	.
+.	.	12F#XL	.	.
+.	.	12GJ	.	.
+.	.	12B-X	4dd#X	.
+.	.	6f#	.	.
 =6	=6	=6	=6	=6
-4rc	12AAA 12AA	12raa	12rc	.
-.	[6DDD#X [6DD#X	6g 6b-X 6ff#X	12eeL	.
-.	.	.	12dd#XJ	.
-2E 2c#X 2e	4DDD#_ 4DD#_	2g 2b- 2ff#	[4ee	.
-.	1DDD#] 1DD#]	.	6ee]	.
-.	.	.	12dd#	.
-2E 2c# 2e	.	2g 2b- 2ff#	[4ee	.
-.	.	.	6ee]	.
-.	.	.	12dd#	.
-4E 4c# 4e	.	4g 4b- 4ff#	4ee	.
+12AAA 12AA	4rc	12rc	12raa	.
+[6DDD#X [6DD#X	.	12eeL	6g 6b-X 6ff#X	.
+.	.	12dd#XJ	.	.
+4DDD#_ 4DD#_	2E 2c#X 2e	[4ee	2g 2b- 2ff#	.
+1DDD#] 1DD#]	.	6ee]	.	.
+.	.	12dd#	.	.
+.	2E 2c# 2e	[4ee	2g 2b- 2ff#	.
+.	.	6ee]	.	.
+.	.	12dd#	.	.
+.	4E 4c# 4e	4ee	4g 4b- 4ff#	.
 =7	=7	=7	=7	=7
-4rc	12CCn 12Cn	12raa	12rc	.
-.	[6FFF#X [6FF#X	6b-X 6dd-X 6aa	12ggL	.
-.	.	.	12ff#XJ	.
-2G 2e 2g	4FFF#_ 4FF#_	2b- 2dd- 2aa	[4gg	.
-.	1FFF#] 1FF#]	.	6gg]	.
-.	.	.	12ff#	.
-2G 2e 2g	.	2b- 2dd- 2aa	[4gg	.
-.	.	.	6gg]	.
-.	.	.	12ff#	.
-4G 4e 4g	.	4b- 4dd- 4aa	4gg	.
+12CCn 12Cn	4rc	12rc	12raa	.
+[6FFF#X [6FF#X	.	12ggL	6b-X 6dd-X 6aa	.
+.	.	12ff#XJ	.	.
+4FFF#_ 4FF#_	2G 2e 2g	[4gg	2b- 2dd- 2aa	.
+1FFF#] 1FF#]	.	6gg]	.	.
+.	.	12ff#	.	.
+.	2G 2e 2g	[4gg	2b- 2dd- 2aa	.
+.	.	6gg]	.	.
+.	.	12ff#	.	.
+.	4G 4e 4g	4gg	4b- 4dd- 4aa	.
 =8	=8	=8	=8	=8
-4rc	12EE-X 12E-X	12raa	2rc	.
-.	[6AAA [6AA	12dd-XL 12ff-X 12ccc	.	.
-.	.	12bb-X	.	.
-[4B-X [4gn [4b-X	4AAA_ 4AA_	12aa	.	.
-.	.	12gg-X	.	.
-.	.	12ee-XJ	.	.
-8B-] 8g] 8b-]	2AAA] 2AA]	12dd-L	2rc	.
-.	.	12d-X 12f-X 12cc	.	.
-8rc	.	.	.	.
-.	.	12b-X	.	.
-4rc	.	12a	.	.
-.	.	12g-X	.	.
-.	.	12e-XJ	.	.
-2rc	2rEE	6d-	12rc	.
-.	.	.	12cL	.
-.	.	[12d-	12B-XJ	.
-.	.	12d-]	12AL	.
-.	.	6d-	12G-X	.
-.	.	.	12E-XJ	.
+12EE-X 12E-X	4rc	2rc	12raa	.
+[6AAA [6AA	.	.	12dd-XL 12ff-X 12ccc	.
+.	.	.	12bb-X	.
+4AAA_ 4AA_	[4B-X [4gn [4b-X	.	12aa	.
+.	.	.	12gg-X	.
+.	.	.	12ee-XJ	.
+2AAA] 2AA]	8B-] 8g] 8b-]	2rc	12dd-L	.
+.	.	.	12d-X 12f-X 12cc	.
+.	8rc	.	.	.
+.	.	.	12b-X	.
+.	4rc	.	12a	.
+.	.	.	12g-X	.
+.	.	.	12e-XJ	.
+2rEE	2rc	12rc	6d-	.
+.	.	12cL	.	.
+.	.	12B-XJ	[12d-	.
+.	.	12AL	12d-]	.
+.	.	12G-X	6d-	.
+.	.	12E-XJ	.	.
 *v	*v	*	*	*
 *	*v	*v	*
 =9	=9	=9
@@ -171,23 +171,23 @@
 .	[12ffJ	.
 =10	=10	=10
 *^	*^	*
-4rc	12GGG 12GG	12ffL]	4rc	.
-.	[6DDD-X [6DD-X	12ee-X	.	.
-.	.	12b-XJ	.	.
-12E-X 12e-X	2DDD-] 2DD-]	[4cc-X	2c-X 2f	.
-[6E-- [6e--	.	.	.	.
-1E--] 1e--]	.	1cc-]	.	.
-.	20DD-LL	.	2c- 2f	.
-.	20GG	.	.	.
-.	20E--	.	.	.
-.	20D-X	.	.	.
-.	20GJJ	.	.	.
-.	20e--LL	.	.	.
-.	20G	.	.	.
-.	20D-X	.	.	.
-.	20E--	.	.	.
-.	20GGJJ	.	.	.
-.	4DD-	.	4c- 4f	.
+12GGG 12GG	4rc	4rc	12ffL]	.
+[6DDD-X [6DD-X	.	.	12ee-X	.
+.	.	.	12b-XJ	.
+2DDD-] 2DD-]	12E-X 12e-X	2c-X 2f	[4cc-X	.
+.	[6E-- [6e--	.	.	.
+.	1E--] 1e--]	.	1cc-]	.
+20DD-LL	.	2c- 2f	.	.
+20GG	.	.	.	.
+20E--	.	.	.	.
+20D-X	.	.	.	.
+20GJJ	.	.	.	.
+20e--LL	.	.	.	.
+20G	.	.	.	.
+20D-X	.	.	.	.
+20E--	.	.	.	.
+20GGJJ	.	.	.	.
+4DD-	.	4c- 4f	.	.
 *v	*v	*	*	*
 *	*v	*v	*
 =11	=11	=11
@@ -211,84 +211,84 @@
 .	[12ggJ	.
 =12	=12	=12
 *^	*^	*
-4rc	12AAA 12AA	12ggL]	4rc	.
-.	[6EEE-X [6EE-X	12ff	.	.
-.	.	12ccJ	.	.
-12F 12f	2EEE-] 2EE-]	[4dd-X	2d-X 2g	.
-[6F-X [6f-X	.	.	.	.
-1F-] 1f-]	.	1dd-]	.	.
-.	20EE-LL	.	2d- 2g	.
-.	20AA	.	.	.
-.	20F-	.	.	.
-.	20E-X	.	.	.
-.	20AJJ	.	.	.
-.	20f-LL	.	.	.
-.	20A	.	.	.
-.	20E-X	.	.	.
-.	20F-	.	.	.
-.	20AAJJ	.	.	.
-.	4EE-	.	4d- 4g	.
+12AAA 12AA	4rc	4rc	12ggL]	.
+[6EEE-X [6EE-X	.	.	12ff	.
+.	.	.	12ccJ	.
+2EEE-] 2EE-]	12F 12f	2d-X 2g	[4dd-X	.
+.	[6F-X [6f-X	.	.	.
+.	1F-] 1f-]	.	1dd-]	.
+20EE-LL	.	2d- 2g	.	.
+20AA	.	.	.	.
+20F-	.	.	.	.
+20E-X	.	.	.	.
+20AJJ	.	.	.	.
+20f-LL	.	.	.	.
+20A	.	.	.	.
+20E-X	.	.	.	.
+20F-	.	.	.	.
+20AAJJ	.	.	.	.
+4EE-	.	4d- 4g	.	.
 =13	=13	=13	=13	=13
-4rc	12AAA 12AA	12raa	4rc	.
-.	[6EEE-X [6EE-X	12ccL	.	.
-.	.	12dd-XJ	.	.
-12rc	4EEE-_ 4EE-_	12ff-X	12rc	.
-[6F-X [6f-X	.	[6ccc	[6cc [6gg	.
-8F-] 8f-]	1EEE-] 1EE-]	2.ccc]	2cc] 2gg]	.
-4F- 4f-	.	.	.	.
-[8F- [8f-	.	.	.	.
-2F-] 2f-]	.	.	12rc	.
-.	.	.	12cL	.
-.	.	.	12d-XJ	.
-.	.	4aa	12f-X	.
-.	.	.	6cc	.
+12AAA 12AA	4rc	4rc	12raa	.
+[6EEE-X [6EE-X	.	.	12ccL	.
+.	.	.	12dd-XJ	.
+4EEE-_ 4EE-_	12rc	12rc	12ff-X	.
+.	[6F-X [6f-X	[6cc [6gg	[6ccc	.
+1EEE-] 1EE-]	8F-] 8f-]	2cc] 2gg]	2.ccc]	.
+.	4F- 4f-	.	.	.
+.	[8F- [8f-	.	.	.
+.	2F-] 2f-]	12rc	.	.
+.	.	12cL	.	.
+.	.	12d-XJ	.	.
+.	.	12f-X	4aa	.
+.	.	6cc	.	.
 =14	=14	=14	=14	=14
-4rc	12EE-X 12E-X	12raa	12rc	.
-.	[6AAA [6AA	6dd-X 6ff-X 6ccc	12bb-XL	.
-.	.	.	12aaJ	.
-2B-X 2g 2b-X	4AAA_ 4AA_	2dd- 2ff- 2ccc	[4bb-	.
-.	1AAA] 1AA]	.	6bb-]	.
-.	.	.	12aa	.
-2B- 2g 2b-	.	2dd- 2ff- 2ccc	[4bb-	.
-.	.	.	6bb-]	.
-.	.	.	12aa	.
-4B- 4g 4b-	.	4dd- 4ff- 4ccc	4bb-	.
+12EE-X 12E-X	4rc	12rc	12raa	.
+[6AAA [6AA	.	12bb-XL	6dd-X 6ff-X 6ccc	.
+.	.	12aaJ	.	.
+4AAA_ 4AA_	2B-X 2g 2b-X	[4bb-	2dd- 2ff- 2ccc	.
+1AAA] 1AA]	.	6bb-]	.	.
+.	.	12aa	.	.
+.	2B- 2g 2b-	[4bb-	2dd- 2ff- 2ccc	.
+.	.	6bb-]	.	.
+.	.	12aa	.	.
+.	4B- 4g 4b-	4bb-	4dd- 4ff- 4ccc	.
 =15	=15	=15	=15	=15
-4rc	12FF#X 12F#X	12raa	12rc	.
-.	[6BBB#X [6BB#X	6ee 6gg 6ddd#X	12ccc#XL	.
-.	.	.	12bb#XJ	.
-2c#X 2a#X 2cc#X	4BBB#_ 4BB#_	2ee 2gg 2ddd#	[4ccc#	.
-.	1BBB#] 1BB#]	.	6ccc#]	.
-.	.	.	12bb#	.
-2c# 2a# 2cc#	.	2ee 2gg 2ddd#	[4ccc#	.
-.	.	.	6ccc#]	.
-.	.	.	12bb#	.
-4c# 4a# 4cc#	.	4ee 4gg 4ddd#	4ccc#	.
+12FF#X 12F#X	4rc	12rc	12raa	.
+[6BBB#X [6BB#X	.	12ccc#XL	6ee 6gg 6ddd#X	.
+.	.	12bb#XJ	.	.
+4BBB#_ 4BB#_	2c#X 2a#X 2cc#X	[4ccc#	2ee 2gg 2ddd#	.
+1BBB#] 1BB#]	.	6ccc#]	.	.
+.	.	12bb#	.	.
+.	2c# 2a# 2cc#	[4ccc#	2ee 2gg 2ddd#	.
+.	.	6ccc#]	.	.
+.	.	12bb#	.	.
+.	4c# 4a# 4cc#	4ccc#	4ee 4gg 4ddd#	.
 *v	*v	*	*	*
 =16	=16	=16	=16
-12AAn 12An	12raa	4rc	.
-[6DD#X [6D#X	12ggL 12bb-X 12fff#X	.	.
-.	12eee	.	.
-4DD#_ 4D#_	12ddd#X	[4e [4cc#X [4ee	.
-.	12cccn	.	.
-.	12aaJ	.	.
-2DD#] 2D#]	12ggL	8e] 8cc#] 8ee]	.
-.	12g 12b-X 12ff#X	.	.
-.	.	8rc	.
-.	12ee	.	.
-.	12dd#X	4rc	.
-.	12ccn	.	.
-.	12aJ	.	.
-2AA 2E-X 2d-X	12gL	2rc	.
-.	12Gn 12B-X 12g-X	.	.
-.	12f-X	.	.
-.	12e-X	.	.
-.	12c	.	.
-.	12AJ	.	.
+12AAn 12An	4rc	12raa	.
+[6DD#X [6D#X	.	12ggL 12bb-X 12fff#X	.
+.	.	12eee	.
+4DD#_ 4D#_	[4e [4cc#X [4ee	12ddd#X	.
+.	.	12cccn	.
+.	.	12aaJ	.
+2DD#] 2D#]	8e] 8cc#] 8ee]	12ggL	.
+.	.	12g 12b-X 12ff#X	.
+.	8rc	.	.
+.	.	12ee	.
+.	4rc	12dd#X	.
+.	.	12ccn	.
+.	.	12aJ	.
+2AA 2E-X 2d-X	2rc	12gL	.
+.	.	12Gn 12B-X 12g-X	.
+.	.	12f-X	.
+.	.	12e-X	.
+.	.	12c	.
+.	.	12AJ	.
 *	*clefF4	*	*
 =17	=17	=17	=17
-[1EEE-X [1EE-X	1.ryy	[1D-X [1Gn	.
-2EEE-] 2EE-]	.	2D-] 2G]	.
+[1EEE-X [1EE-X	[1D-X [1Gn	1.ryy	.
+2EEE-] 2EE-]	2D-] 2G]	.	.
 *	*v	*v	*
 ==	==	==
 *-	*-	*-

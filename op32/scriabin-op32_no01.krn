@@ -15,45 +15,45 @@
 *F#:	*F#:	*
 *M9/8	*M9/8	*
 *^	*	*
-8rc	8DnL	4.b#X	.
-8rc	8G#	.	.
-8B#X	8f#J	.	.
+8DnL	8rc	4.b#X	.
+8G#	8rc	.	.
+8f#J	8B#X	.	.
 =1	=1	=1	=1
-4.BnX	[8BnL	2.dd#X	.
-.	8B_ 8C#	.	.
-.	8B_ [8e#J	.	.
-8A#L	4.B] 4.e#]	.	.
-8F##X	.	.	.
-8G#J	.	.	.
-4d#	8rc	8.f##L	.
-.	4C# 4B 4e#	.	.
+[8BnL	4.BnX	2.dd#X	.
+8B_ 8C#	.	.	.
+8B_ [8e#J	.	.	.
+4.B] 4.e#]	8A#L	.	.
+.	8F##X	.	.
+.	8G#J	.	.
+8rc	4d#	8.f##L	.
+4C# 4B 4e#	.	.	.
 .	.	[16g#LL	.
-8c#	.	16g#]	.
+.	8c#	16g#]	.
 .	.	32r	.
 .	.	32a#JJJ	.
 =2	=2	=2	=2
 .	.	16qqd#/LL	.
 .	.	16qqe#/JJ	.
-[4.A#	8A#L	[4.cc#	.
-.	8E#	.	.
-.	8GGnJ	.	.
-4A#]	8E#L	4cc#]	.
-.	8d#	.	.
-8B	8BJ	8b	.
-4.B	8BL	4dd#	.
-.	8e#	.	.
-.	8d#J	8b	.
+8A#L	[4.A#	[4.cc#	.
+8E#	.	.	.
+8GGnJ	.	.	.
+8E#L	4A#]	4cc#]	.
+8d#	.	.	.
+8BJ	8B	8b	.
+8BL	4.B	4dd#	.
+8e#	.	.	.
+8d#J	.	8b	.
 =3	=3	=3	=3
 *	*	*^	*
-4.d#	8d#L	8a#L	[2.e#	.
-.	8B	8f##X	.	.
-.	8C#J	8g#J	.	.
-4.dn	8dL	4b	.	.
-.	8B	.	.	.
-.	8C#J	[8a#	.	.
-4.c#	8c#L	4a#]	4e#]	.
-.	8B	.	.	.
-.	8C#J	8c#	8rc	.
+8d#L	4.d#	[2.e#	8a#L	.
+8B	.	.	8f##X	.
+8C#J	.	.	8g#J	.
+8dL	4.dn	.	4b	.
+8B	.	.	.	.
+8C#J	.	.	[8a#	.
+8c#L	4.c#	4e#]	4a#]	.
+8B	.	.	.	.
+8C#J	.	8rc	8c#	.
 *v	*v	*	*	*
 *	*v	*v	*
 =4	=4	=4
@@ -74,53 +74,53 @@
 =5	=5	=5
 .	8qA#/	.
 *^	*	*
-8FF#L	4.rEE	[4.d#	.
-8C#	.	.	.
-8A#J	.	.	.
-4.c#	4.rEE	16d#LL]	.
+4.rEE	8FF#L	[4.d#	.
+.	8C#	.	.
+.	8A#J	.	.
+4.rEE	4.c#	16d#LL]	.
 .	.	16f#	.
 .	.	16g#X	.
 .	.	16a#	.
 .	.	16cc#	.
 .	.	16dd#JJ	.
-8rc	8GnL	4.ee#	.
-8rc	8c#	.	.
-8e#	8bJ	.	.
+8GnL	8rc	4.ee#	.
+8c#	8rc	.	.
+8bJ	8e#	.	.
 =6	=6	=6	=6
-4.enX	[8enL	2.gg#	.
-.	8e_ 8F#	.	.
-.	8e_ [8a#J	.	.
-8d#L	4.en] 4.a#]	.	.
-8B#X	.	.	.
-8c#J	.	.	.
-4g#	8rc	8.b#XL	.
-.	4F# 4en 4a#	.	.
+[8enL	4.enX	2.gg#	.
+8e_ 8F#	.	.	.
+8e_ [8a#J	.	.	.
+4.en] 4.a#]	8d#L	.	.
+.	8B#X	.	.
+.	8c#J	.	.
+8rc	4g#	8.b#XL	.
+4F# 4en 4a#	.	.	.
 .	.	[16cc#L	.
-8f#	.	16cc#]	.
+.	8f#	16cc#]	.
 .	.	16dd#JJ	.
 =7	=7	=7	=7
 .	.	16qqg#/LL	.
 .	.	16qqa#/JJ	.
-[4.d#	8d#L	[4.ff#	.
-.	8A#	.	.
-.	8CnJ	.	.
-4d#]	8A#L	4ff#]	.
-.	8g#	.	.
-8en	8eJ	8een	.
-4.e	8eL	4gg#	.
-.	8a#	.	.
-.	8g#J	8ee	.
+8d#L	[4.d#	[4.ff#	.
+8A#	.	.	.
+8CnJ	.	.	.
+8A#L	4d#]	4ff#]	.
+8g#	.	.	.
+8eJ	8en	8een	.
+8eL	4.e	4gg#	.
+8a#	.	.	.
+8g#J	.	8ee	.
 =8	=8	=8	=8
 *	*	*^	*
-4.g#	8g#L	8dd#L	[2.a#	.
-.	8en	8b#X	.	.
-.	8F#J	8cc#XJ	.	.
-4.gn	8gL	4een	.	.
-.	8e	.	.	.
-.	8F#J	[8dd#	.	.
-4.f#	8f#L	4dd#]	4a#]	.
-.	8e	.	.	.
-.	8F#J	8f#	8rc	.
+8g#L	4.g#	[2.a#	8dd#L	.
+8en	.	.	8b#X	.
+8F#J	.	.	8cc#XJ	.
+8gL	4.gn	.	4een	.
+8e	.	.	.	.
+8F#J	.	.	[8dd#	.
+8f#L	4.f#	4a#]	4dd#]	.
+8e	.	.	.	.
+8F#J	.	8rc	8f#	.
 *v	*v	*	*	*
 *	*v	*v	*
 =9	=9	=9
@@ -159,42 +159,42 @@
 =11	=11	=11
 .	8qdd#/	.
 *^	*^	*
-8BBL	4.rEE	4.ddd#	4.rc	.
-8F#	.	.	.	.
-[8d#J	.	.	.	.
-4.d#]	4E#	40%3bL 40%3aa#	4.rc	.
-.	.	40%3gg#	.	.
-.	.	40%3dd#	.	.
-.	.	40%3a#	.	.
+4.rEE	8BBL	4.rc	4.ddd#	.
 .	8F#	.	.	.
-.	.	40%3bJ	.	.
-4.rc	8BBL	[4dd#	40%3rc	.
-.	.	.	40%3d#L	.
-.	8E#	.	.	.
+.	[8d#J	.	.	.
+4E#	4.d#]	4.rc	40%3bL 40%3aa#	.
+.	.	.	40%3gg#	.
+.	.	.	40%3dd#	.
 .	.	.	40%3a#	.
-.	.	.	40%3an	.
-.	8d#J	16dd#LL]	.	.
-.	.	.	40%3g#J	.
-.	.	16dd#JJ	.	.
+8F#	.	.	.	.
+.	.	.	40%3bJ	.
+8BBL	4.rc	40%3rc	[4dd#	.
+.	.	40%3d#L	.	.
+8E#	.	.	.	.
+.	.	40%3a#	.	.
+.	.	40%3an	.	.
+8d#J	.	.	16dd#LL]	.
+.	.	40%3g#J	.	.
+.	.	.	16dd#JJ	.
 *v	*v	*	*	*
 =12	=12	=12	=12
-8AA#L	4.ccc#	4.rc	.
+8AA#L	4.rc	4.ccc#	.
 8F#	.	.	.
 8a#J	.	.	.
-4B#X	40%3ee#L	4.rc	.
-.	40%3dd#	.	.
-.	40%3a#X	.	.
-.	40%3e#	.	.
-8c#	.	.	.
-.	40%3f#J	.	.
-8GG#L	[4a#	40%3rc	.
-.	.	40%3B#XL	.
-8F#	.	.	.
+4B#X	4.rc	40%3ee#L	.
+.	.	40%3dd#	.
+.	.	40%3a#X	.
 .	.	40%3e#	.
-.	.	40%3en	.
-8B#J	16a#LL]	.	.
-.	.	40%3d#J	.
-.	16a#JJ	.	.
+8c#	.	.	.
+.	.	40%3f#J	.
+8GG#L	40%3rc	[4a#	.
+.	40%3B#XL	.	.
+8F#	.	.	.
+.	40%3e#	.	.
+.	40%3en	.	.
+8B#J	.	16a#LL]	.
+.	40%3d#J	.	.
+.	.	16a#JJ	.
 *	*v	*v	*
 =13	=13	=13
 .	8qB#X/	.
@@ -216,229 +216,229 @@
 =15	=15	=15
 *M3/4	*M3/4	*
 *	*^	*
-12BL	10.dd#	20dd#LL	.
-.	.	20g#	.
+12BL	20dd#LL	10.dd#	.
+.	20g#	.	.
 12C#	.	.	.
-.	.	20e#	.
-.	20dd#KL	20dd#J	.
+.	20e#	.	.
+.	20dd#J	20dd#KL	.
 24r	.	.	.
 .	40r	40r	.
 24GG#Jk	.	.	.
 .	40gg#Jkk	40gg#Jkk	.
-12CC#L	10.dd#	20dd#LL	.
-.	.	20g#	.
+12CC#L	20dd#LL	10.dd#	.
+.	20g#	.	.
 12GG#	.	.	.
-.	.	20e#	.
-.	20dd#LL	20dd#	.
+.	20e#	.	.
+.	20dd#	20dd#LL	.
 24r	.	.	.
 .	20bJJ	20bJJ	.
 24C#Jk	.	.	.
-4B	10.dd#	20dd#LL	.
-.	.	20g#	.
-.	.	20e#	.
-.	20dd#KL	20dd#J	.
+4B	20dd#LL	10.dd#	.
+.	20g#	.	.
+.	20e#	.	.
+.	20dd#J	20dd#KL	.
 .	40r	40r	.
 .	40dd#Jkk	40dd#Jkk	.
 =16	=16	=16	=16
-12A#L	10.dd#	20dd#LL	.
-.	.	20f##X	.
+12A#L	20dd#LL	10.dd#	.
+.	20f##X	.	.
 12C#	.	.	.
-.	.	20en	.
-.	20dd#KL	20dd#J	.
+.	20en	.	.
+.	20dd#J	20dd#KL	.
 24r	.	.	.
 .	40r	40r	.
 24FF##XJk	.	.	.
-.	40ff##XJkk	40ff##Jkk	.
-12CC#L	10.dd#	20dd#LL	.
-.	.	20f##	.
+.	40ff##Jkk	40ff##XJkk	.
+12CC#L	20dd#LL	10.dd#	.
+.	20f##	.	.
 12FF##	.	.	.
-.	.	20e	.
-.	20dd#LL	20dd#	.
+.	20e	.	.
+.	20dd#	20dd#LL	.
 24r	.	.	.
 .	20a#JJ	20a#JJ	.
 24C#Jk	.	.	.
-4A#	10.dd#	20dd#LL	.
-.	.	20f##	.
-.	.	20e	.
-.	20dd#LL	20dd#	.
+4A#	20dd#LL	10.dd#	.
+.	20f##	.	.
+.	20e	.	.
+.	20dd#	20dd#LL	.
 .	20a#JJ	20a#JJ	.
 =17	=17	=17	=17
-12AnL	10.cc#	20cc#LL	.
-.	.	20f#X	.
+12AnL	20cc#LL	10.cc#	.
+.	20f#X	.	.
 12C#	.	.	.
-.	.	20d#	.
-.	20cc#KL	20cc#J	.
+.	20d#	.	.
+.	20cc#J	20cc#KL	.
 24r	.	.	.
 .	40r	40r	.
 24FF#XJk	.	.	.
 .	40ff#Jkk	40ff#Jkk	.
-12CC#L	10.cc#	20cc#LL	.
-.	.	20f#	.
+12CC#L	20cc#LL	10.cc#	.
+.	20f#	.	.
 12FF#	.	.	.
-.	.	20d#	.
-.	20cc#LL	20cc#	.
+.	20d#	.	.
+.	20cc#	20cc#LL	.
 24r	.	.	.
-.	20anJJ	20aJJ	.
+.	20aJJ	20anJJ	.
 24C#Jk	.	.	.
-4A	10.cc#	20cc#LL	.
-.	.	20f#	.
-.	.	20d#	.
-.	20cc#KL	20cc#J	.
+4A	20cc#LL	10.cc#	.
+.	20f#	.	.
+.	20d#	.	.
+.	20cc#J	20cc#KL	.
 .	40r	40r	.
 .	40cc#Jkk	40cc#Jkk	.
 =18	=18	=18	=18
-12G#L	10.cc#	20cc#LL	.
-.	.	20e#	.
+12G#L	20cc#LL	10.cc#	.
+.	20e#	.	.
 12C#	.	.	.
-.	.	20dn	.
-.	20cc#LL	20cc#	.
+.	20dn	.	.
+.	20cc#	20cc#LL	.
 24r	.	.	.
 .	20ee#JJ	20ee#JJ	.
 24EE#Jk	.	.	.
-12CC#L	10.cc#	20cc#LL	.
-.	.	20e#	.
+12CC#L	20cc#LL	10.cc#	.
+.	20e#	.	.
 12EE#	.	.	.
-.	.	20d	.
-.	20cc#LL	20cc#	.
+.	20d	.	.
+.	20cc#	20cc#LL	.
 24r	.	.	.
 .	20g#JJ	20g#JJ	.
 24C#Jk	.	.	.
-4G#	10.cc#	20cc#LL	.
-.	.	20e#	.
-.	.	20d	.
-.	20cc#LL	20cc#	.
+4G#	20cc#LL	10.cc#	.
+.	20e#	.	.
+.	20d	.	.
+.	20cc#	20cc#LL	.
 .	20g#JJ	20g#JJ	.
 =19	=19	=19	=19
-12G#L	10.b	20bLL	.
-.	.	20en	.
+12G#L	20bLL	10.b	.
+.	20en	.	.
 12C#	.	.	.
-.	.	20c#	.
-.	20bKL	20bJ	.
+.	20c#	.	.
+.	20bJ	20bKL	.
 24r	.	.	.
 .	40r	40r	.
 24FF#Jk	.	.	.
-.	40eenJkk	40eeJkk	.
-12CC#L	10.b	20bLL	.
-.	.	20e	.
+.	40eeJkk	40eenJkk	.
+12CC#L	20bLL	10.b	.
+.	20e	.	.
 12FF#	.	.	.
-.	.	20c#	.
-.	20bLL	20b	.
+.	20c#	.	.
+.	20b	20bLL	.
 24r	.	.	.
 .	20g#JJ	20g#JJ	.
 24C#Jk	.	.	.
-[10.G#	10.b	20bLL	.
-.	.	20e	.
-.	.	20c#	.
-20G#LL]	20bLL	20b	.
-20F#JJ	20anJJ	20aJJ	.
+[10.G#	20bLL	10.b	.
+.	20e	.	.
+.	20c#	.	.
+20G#LL]	20b	20bLL	.
+20F#JJ	20aJJ	20anJJ	.
 =20	=20	=20	=20
 *^	*	*	*
-4rc	6En	10.g#	20g#LL	.
-.	.	.	20c#	.
-.	.	.	20An	.
-.	.	20g#KL	20g#J	.
-.	12FF#	.	.	.
+6En	4rc	20g#LL	10.g#	.
+.	.	20c#	.	.
+.	.	20An	.	.
+.	.	20g#J	20g#KL	.
+12FF#	.	.	.	.
 .	.	40r	40r	.
 .	.	40cc#Jkk	40cc#Jkk	.
-4rc	6CC#	10.g#	20g#LL	.
-.	.	.	20c#	.
-.	.	.	20A	.
-.	.	20g#LL	20g#	.
-.	[12FF#	.	.	.
-.	.	20enJJ	20eJJ	.
-[10.E	4FF#]	[10.g#	20g#LL	.
-.	.	.	20B#X	.
-.	.	.	[20A	.
-20ELL]	.	20g#LL]	20A] 20B#	.
-20DnJJ	.	20f#JJ	20f#JJ	.
+6CC#	4rc	20g#LL	10.g#	.
+.	.	20c#	.	.
+.	.	20A	.	.
+.	.	20g#	20g#LL	.
+[12FF#	.	.	.	.
+.	.	20eJJ	20enJJ	.
+4FF#]	[10.E	20g#LL	[10.g#	.
+.	.	20B#X	.	.
+.	.	[20A	.	.
+.	20ELL]	20A] 20B#	20g#LL]	.
+.	20DnJJ	20f#JJ	20f#JJ	.
 =21	=21	=21	=21	=21
-4CC# 4GG#X 4C#	4rEE	10.e#	20e#XLL	.
-.	.	.	20c#	.
-.	.	.	20G#	.
-.	.	20c#LL	20c#	.
+4rEE	4CC# 4GG#X 4C#	20e#XLL	10.e#	.
+.	.	20c#	.	.
+.	.	20G#	.	.
+.	.	20c#	20c#LL	.
 .	.	20e#JJ	20e#JJ	.
-4CC# 4GG# 4E#X	4rEE	10.g#	20g#LL	.
-.	.	.	20c#	.
-.	.	.	20G#	.
-.	.	20c#LL	20c#	.
+4rEE	4CC# 4GG# 4E#X	20g#LL	10.g#	.
+.	.	20c#	.	.
+.	.	20G#	.	.
+.	.	20c#	20c#LL	.
 .	.	20g#JJ	20g#JJ	.
-[10.En	4FF#	[10.g#	20g#LL	.
-.	.	.	20B#X	.
-.	.	.	[20An	.
-20ELL]	.	20g#LL]	20A] 20B#	.
-20DnJJ	.	20f#JJ	20f#JJ	.
+4FF#	[10.En	20g#LL	[10.g#	.
+.	.	20B#X	.	.
+.	.	[20An	.	.
+.	20ELL]	20A] 20B#	20g#LL]	.
+.	20DnJJ	20f#JJ	20f#JJ	.
 =22	=22	=22	=22	=22
-4CC# 4GG# 4C#	4rEE	10.e#	20e#XLL	.
-.	.	.	20c#	.
-.	.	.	20G#	.
-.	.	20c#LL	20c#	.
+4rEE	4CC# 4GG# 4C#	20e#XLL	10.e#	.
+.	.	20c#	.	.
+.	.	20G#	.	.
+.	.	20c#	20c#LL	.
 .	.	20e#JJ	20e#JJ	.
-4CC# 4GG# 4E#X	4rEE	10.g#	20g#LL	.
-.	.	.	20c#	.
-.	.	.	20G#	.
-.	.	20c#LL	20c#	.
+4rEE	4CC# 4GG# 4E#X	20g#LL	10.g#	.
+.	.	20c#	.	.
+.	.	20G#	.	.
+.	.	20c#	20c#LL	.
 .	.	20g#JJ	20g#JJ	.
-[10.En	4FF#	[10.g#	20g#LL	.
-.	.	.	20B#X	.
-.	.	.	[20An	.
-20ELL]	.	20g#LL]	20A] 20B#	.
-20DnJJ	.	20f#JJ	20f#JJ	.
+4FF#	[10.En	20g#LL	[10.g#	.
+.	.	20B#X	.	.
+.	.	[20An	.	.
+.	20ELL]	20A] 20B#	20g#LL]	.
+.	20DnJJ	20f#JJ	20f#JJ	.
 =23	=23	=23	=23	=23
-4C#	2CC# 2GG#	10.e#	20e#XLL	.
-.	.	.	20c#	.
-.	.	.	20G#	.
-.	.	20c#LL	20c#	.
+2CC# 2GG#	4C#	20e#XLL	10.e#	.
+.	.	20c#	.	.
+.	.	20G#	.	.
+.	.	20c#	20c#LL	.
 .	.	20e#JJ	20e#JJ	.
-4E#X	.	10.g#	20g#LL	.
-.	.	.	20e#	.
-.	.	.	20c#	.
-.	.	20e#LL	20e#	.
+.	4E#X	20g#LL	10.g#	.
+.	.	20e#	.	.
+.	.	20c#	.	.
+.	.	20e#	20e#LL	.
 .	.	20g#JJ	20g#JJ	.
-[4C# [4G#	4rEE	[4dd#	[4e#	.
+4rEE	[4C# [4G#	[4e#	[4dd#	.
 *v	*v	*	*	*
 =24	=24	=24	=24
-2C#] 2G#]	4.dd#]	2e#]	.
-.	8cc#	.	.
-12DnL	4b#X	4rc	.
+2C#] 2G#]	2e#]	4.dd#]	.
+.	.	8cc#	.
+12DnL	4rc	4b#X	.
 12G#	.	.	.
 12f#J	.	.	.
 *	*v	*v	*
 =25	=25	=25
 *M9/8	*M9/8	*
 *^	*^	*
-8dd#XL	4.rEE	8raa	2.dd#X	.
-8e#	.	8raa	.	.
-8BnJ	.	8bbn	.	.
-8C#L	8rEE	8aa#L	.	.
-8B	[4B	8ff##X	.	.
-[8e#J	.	8gg#J	.	.
-.	.	8qee#/	.	.
-4.e#]	8BL]	4ddd#	8.f##XL	.
-.	8B	.	.	.
-.	.	.	[16g#L	.
-.	8c#J	8ccc#	16g#]	.
-.	.	.	16a#JJ	.
+4.rEE	8dd#XL	2.dd#X	8raa	.
+.	8e#	.	8raa	.
+.	8BnJ	.	8bbn	.
+8rEE	8C#L	.	8aa#L	.
+[4B	8B	.	8ff##X	.
+.	[8e#J	.	8gg#J	.
+.	.	.	8qee#/	.
+8BL]	4.e#]	8.f##XL	4ddd#	.
+8B	.	.	.	.
+.	.	[16g#L	.	.
+8c#J	.	16g#]	8ccc#	.
+.	.	16a#JJ	.	.
 =26	=26	=26	=26	=26
-8d#L 8e#	4.rEE	[4.aa#	[4.cc#	.
-8GGn	.	.	.	.
-8E#J	.	.	.	.
-8d#L	4.rEE	4aa#]	4cc#]	.
-8e#	.	.	.	.
-8bJ	.	[8bb	8b	.
-8BL	4B	4bb]	4dd#	.
-8e#	.	.	.	.
-8d#J	8d#	8dd#	8b	.
+4.rEE	8d#L 8e#	[4.cc#	[4.aa#	.
+.	8GGn	.	.	.
+.	8E#J	.	.	.
+4.rEE	8d#L	4cc#]	4aa#]	.
+.	8e#	.	.	.
+.	8bJ	8b	[8bb	.
+4B	8BL	4dd#	4bb]	.
+.	8e#	.	.	.
+8d#	8d#J	8b	8dd#	.
 *v	*v	*	*	*
 =27	=27	=27	=27
-8BL	4dd#	8a#L	.
-8e#	.	8f##X	.
-[8C#J	8ddn	8g#J	.
-8C#L]	4dd	4b	.
+8BL	8a#L	4dd#	.
+8e#	8f##X	.	.
+[8C#J	8g#J	8ddn	.
+8C#L]	4b	4dd	.
 8B	.	.	.
-[8e#J	8cc#	[8a#	.
-8e#L]	8cc#	4a#]	.
-8B	8raa	.	.
-8C#J	8raa	8c#	.
+[8e#J	[8a#	8cc#	.
+8e#L]	4a#]	8cc#	.
+8B	.	8raa	.
+8C#J	8c#	8raa	.
 *	*v	*v	*
 =28	=28	=28
 .	8qA#/	.
@@ -471,39 +471,39 @@
 8bJ	.	.
 =30	=30	=30
 *^	*^	*
-8gg#L	4.rEE	8raa	2.gg#X	.
-8a#	.	8raa	.	.
-8enJ	.	8eeen	.	.
-8F#L	8rEE	8ddd#L	.	.
-8e	[4e	8bb#X	.	.
-[8a#J	.	8ccc#J	.	.
-.	.	8qaa#/	.	.
-4.a#]	8eL]	4ggg#	8.b#XL	.
-.	8e	.	.	.
-.	.	.	[16cc#L	.
-.	8f#J	8fff#	16cc#]	.
-.	.	.	16dd#JJ	.
+4.rEE	8gg#L	2.gg#X	8raa	.
+.	8a#	.	8raa	.
+.	8enJ	.	8eeen	.
+8rEE	8F#L	.	8ddd#L	.
+[4e	8e	.	8bb#X	.
+.	[8a#J	.	8ccc#J	.
+.	.	.	8qaa#/	.
+8eL]	4.a#]	8.b#XL	4ggg#	.
+8e	.	.	.	.
+.	.	[16cc#L	.	.
+8f#J	.	16cc#]	8fff#	.
+.	.	16dd#JJ	.	.
 =31	=31	=31	=31	=31
-8g#L 8a#	4.rEE	[4.ddd#	[4.ff#	.
-8Cn	.	.	.	.
-8A#J	.	.	.	.
-8g#L	4.rEE	4ddd#]	4ff#]	.
-8a#	.	.	.	.
-8eenJ	.	[8eeen	8een	.
-8enL	4e	4eee]	4gg#	.
-8a#	.	.	.	.
-8g#J	8g#	8gg#	8ee	.
+4.rEE	8g#L 8a#	[4.ff#	[4.ddd#	.
+.	8Cn	.	.	.
+.	8A#J	.	.	.
+4.rEE	8g#L	4ff#]	4ddd#]	.
+.	8a#	.	.	.
+.	8eenJ	8een	[8eeen	.
+4e	8enL	4gg#	4eee]	.
+.	8a#	.	.	.
+8g#	8g#J	8ee	8gg#	.
 *v	*v	*	*	*
 =32	=32	=32	=32
-8enL	4gg#	8dd#L	.
-8a#	.	8b#X	.
-[8F#J	8ggn	8cc#XJ	.
-8F#L]	4gg	4een	.
+8enL	8dd#L	4gg#	.
+8a#	8b#X	.	.
+[8F#J	8cc#XJ	8ggn	.
+8F#L]	4een	4gg	.
 8e	.	.	.
-[8a#J	8ff#	[8dd#	.
-8a#L]	8ff#	4dd#]	.
-8e	8raa	.	.
-8F#J	8raa	8f#	.
+[8a#J	[8dd#	8ff#	.
+8a#L]	4dd#]	8ff#	.
+8e	.	8raa	.
+8F#J	8f#	8raa	.
 *	*v	*v	*
 =33	=33	=33
 .	8qd#/	.
@@ -542,55 +542,55 @@
 =35	=35	=35
 .	8qdd#/	.
 *^	*^	*
-8BBL	4.rEE	4.ddd#	4.rc	.
-8F#	.	.	.	.
-[8d#J	.	.	.	.
-4.d#]	4E#	40%3bL 40%3aa#	4.rc	.
-.	.	40%3gg#	.	.
-.	.	40%3dd#	.	.
-.	.	40%3a#	.	.
+4.rEE	8BBL	4.rc	4.ddd#	.
 .	8F#	.	.	.
-.	.	40%3bJ	.	.
-4.rc	8BBL	[4dd#	40%3rc	.
-.	.	.	40%3d#L	.
-.	8E#	.	.	.
+.	[8d#J	.	.	.
+4E#	4.d#]	4.rc	40%3bL 40%3aa#	.
+.	.	.	40%3gg#	.
+.	.	.	40%3dd#	.
 .	.	.	40%3a#	.
-.	.	.	40%3an	.
-.	8d#J	16dd#LL]	.	.
-.	.	.	40%3g#J	.
-.	.	16dd#JJ	.	.
+8F#	.	.	.	.
+.	.	.	40%3bJ	.
+8BBL	4.rc	40%3rc	[4dd#	.
+.	.	40%3d#L	.	.
+8E#	.	.	.	.
+.	.	40%3a#	.	.
+.	.	40%3an	.	.
+8d#J	.	.	16dd#LL]	.
+.	.	40%3g#J	.	.
+.	.	.	16dd#JJ	.
 *v	*v	*	*	*
 =36	=36	=36	=36
-8AA#L	4.ccc#	4.rc	.
+8AA#L	4.rc	4.ccc#	.
 8F#	.	.	.
 8a#J	.	.	.
-4B#X	40%3ee#L	4.rc	.
-.	40%3dd#	.	.
-.	40%3a#X	.	.
-.	40%3e#	.	.
-8c#	.	.	.
-.	40%3f#J	.	.
-8GG#L	[4a#	40%3rc	.
-.	.	40%3B#XL	.
-8F#	.	.	.
+4B#X	4.rc	40%3ee#L	.
+.	.	40%3dd#	.
+.	.	40%3a#X	.
 .	.	40%3e#	.
-.	.	40%3en	.
-8B#J	16a#LL]	.	.
-.	.	40%3d#J	.
-.	16a#JJ	.	.
+8c#	.	.	.
+.	.	40%3f#J	.
+8GG#L	40%3rc	[4a#	.
+.	40%3B#XL	.	.
+8F#	.	.	.
+.	40%3e#	.	.
+.	40%3en	.	.
+8B#J	.	16a#LL]	.
+.	40%3d#J	.	.
+.	.	16a#JJ	.
 =37	=37	=37	=37
-8CC#L	2.aa#	4.rc	.
+8CC#L	4.rc	2.aa#	.
 8GG#	.	.	.
 8F#J	.	.	.
-8BnL	.	4.rc	.
+8BnL	4.rc	.	.
 8d#	.	.	.
 8bJ	.	.	.
 8qCC#/ 8qC#	.	.	.
-4.E# 4.B 4.d#	40%3ee#L	40%3rc	.
-.	40%3dd#	40%3d#L	.
+4.E# 4.B 4.d#	40%3rc	40%3ee#L	.
+.	40%3d#L	40%3dd#	.
 .	40%3a#	40%3a#	.
-.	40%3b	40%3an	.
-.	40%3dd#J	40%3g#J	.
+.	40%3an	40%3b	.
+.	40%3g#J	40%3dd#J	.
 *	*v	*v	*
 =38	=38	=38
 .	16qqe#/LL	.
@@ -609,188 +609,188 @@
 =39	=39	=39
 *M3/4	*M3/4	*
 *	*^	*
-12enL	10.gg#	20gg#LL	.
-.	.	20cc#	.
+12enL	20gg#LL	10.gg#	.
+.	20cc#	.	.
 12F#	.	.	.
-.	.	20a#	.
-.	20gg#KL	20gg#J	.
+.	20a#	.	.
+.	20gg#J	20gg#KL	.
 24r	.	.	.
 .	40r	40r	.
 24C#Jk	.	.	.
 .	40ccc#Jkk	40ccc#Jkk	.
-12FF#L	10.gg#	20gg#LL	.
-.	.	20cc#	.
+12FF#L	20gg#LL	10.gg#	.
+.	20cc#	.	.
 12C#	.	.	.
-.	.	20a#	.
-.	20gg#LL	20gg#	.
+.	20a#	.	.
+.	20gg#	20gg#LL	.
 24r	.	.	.
-.	20eenJJ	20eeJJ	.
+.	20eeJJ	20eenJJ	.
 24F#Jk	.	.	.
-4e	10.gg#	20gg#LL	.
-.	.	20cc#	.
-.	.	20a#	.
-.	20gg#KL	20gg#J	.
+4e	20gg#LL	10.gg#	.
+.	20cc#	.	.
+.	20a#	.	.
+.	20gg#J	20gg#KL	.
 .	40r	40r	.
 .	40gg#Jkk	40gg#Jkk	.
 =40	=40	=40	=40
-12d#L	10.gg#	20gg#LL	.
-.	.	20b#X	.
+12d#L	20gg#LL	10.gg#	.
+.	20b#X	.	.
 12F#	.	.	.
-.	.	20an	.
-.	20gg#KL	20gg#J	.
+.	20an	.	.
+.	20gg#J	20gg#KL	.
 24r	.	.	.
 .	40r	40r	.
 24BB#XJk	.	.	.
-.	40bb#XJkk	40bb#Jkk	.
-12FF#L	10.gg#	20gg#LL	.
-.	.	20b#	.
+.	40bb#Jkk	40bb#XJkk	.
+12FF#L	20gg#LL	10.gg#	.
+.	20b#	.	.
 12BB#	.	.	.
-.	.	20a	.
-.	20gg#LL	20gg#	.
+.	20a	.	.
+.	20gg#	20gg#LL	.
 24r	.	.	.
 .	20dd#JJ	20dd#JJ	.
 24F#Jk	.	.	.
-4d#	10.gg#	20gg#LL	.
-.	.	20b#	.
-.	.	20a	.
-.	20gg#LL	20gg#	.
+4d#	20gg#LL	10.gg#	.
+.	20b#	.	.
+.	20a	.	.
+.	20gg#	20gg#LL	.
 .	20dd#JJ	20dd#JJ	.
 =41	=41	=41	=41
-12dnL	10.ff#	20ff#LL	.
-.	.	20bn	.
+12dnL	20ff#LL	10.ff#	.
+.	20bn	.	.
 12F#	.	.	.
-.	.	20g#	.
-.	20ff#KL	20ff#J	.
+.	20g#	.	.
+.	20ff#J	20ff#KL	.
 24r	.	.	.
 .	40r	40r	.
 24BBnJk	.	.	.
 .	40bbJkk	40bbJkk	.
-12FF#L	10.ff#	20ff#LL	.
-.	.	20b	.
+12FF#L	20ff#LL	10.ff#	.
+.	20b	.	.
 12BB	.	.	.
-.	.	20g#	.
-.	20ff#LL	20ff#	.
+.	20g#	.	.
+.	20ff#	20ff#LL	.
 24r	.	.	.
-.	20ddnJJ	20ddJJ	.
+.	20ddJJ	20ddnJJ	.
 24F#Jk	.	.	.
-4d	10.ff#	20ff#LL	.
-.	.	20b	.
-.	.	20g#	.
-.	20ff#KL	20ff#J	.
+4d	20ff#LL	10.ff#	.
+.	20b	.	.
+.	20g#	.	.
+.	20ff#J	20ff#KL	.
 .	40r	40r	.
 .	40ff#Jkk	40ff#Jkk	.
 =42	=42	=42	=42
-12c#L	10.ff#	20ff#LL	.
-.	.	20a#	.
+12c#L	20ff#LL	10.ff#	.
+.	20a#	.	.
 12F#	.	.	.
-.	.	20gn	.
-.	20ff#LL	20ff#	.
+.	20gn	.	.
+.	20ff#	20ff#LL	.
 24r	.	.	.
 .	20aa#JJ	20aa#JJ	.
 24AA#Jk	.	.	.
-12FF#L	10.ff#	20ff#LL	.
-.	.	20a#	.
+12FF#L	20ff#LL	10.ff#	.
+.	20a#	.	.
 12AA#	.	.	.
-.	.	20g	.
-.	20ff#LL	20ff#	.
+.	20g	.	.
+.	20ff#	20ff#LL	.
 24r	.	.	.
 .	20cc#JJ	20cc#JJ	.
 24F#Jk	.	.	.
-4c#	10.ff#	20ff#LL	.
-.	.	20a#	.
-.	.	20g	.
-.	20ff#LL	20ff#	.
+4c#	20ff#LL	10.ff#	.
+.	20a#	.	.
+.	20g	.	.
+.	20ff#	20ff#LL	.
 .	20cc#JJ	20cc#JJ	.
 =43	=43	=43	=43
-12c#L	10.een	20eeLL	.
-.	.	20an	.
+12c#L	20eeLL	10.een	.
+.	20an	.	.
 12F#	.	.	.
-.	.	20f#	.
-.	20eeKL	20eeJ	.
+.	20f#	.	.
+.	20eeJ	20eeKL	.
 24r	.	.	.
 .	40r	40r	.
 24BBJk	.	.	.
-.	40aanJkk	40aaJkk	.
-12FF#L	10.ee	20eeLL	.
-.	.	20a	.
+.	40aaJkk	40aanJkk	.
+12FF#L	20eeLL	10.ee	.
+.	20a	.	.
 12BB	.	.	.
-.	.	20f#	.
-.	20eeLL	20ee	.
+.	20f#	.	.
+.	20ee	20eeLL	.
 24r	.	.	.
 .	20cc#JJ	20cc#JJ	.
 24F#Jk	.	.	.
-[10.c#	10.ee	20eeLL	.
-.	.	20a	.
-.	.	20f#	.
-20c#LL]	20eeLL	20ee	.
-20BJJ	20ddnJJ	20ddJJ	.
+[10.c#	20eeLL	10.ee	.
+.	20a	.	.
+.	20f#	.	.
+20c#LL]	20ee	20eeLL	.
+20BJJ	20ddJJ	20ddnJJ	.
 =44	=44	=44	=44
 *^	*	*	*
-4rc	6An	10.cc#	20cc#LL	.
-.	.	.	20f#	.
-.	.	.	20dn	.
-.	.	20cc#KL	20cc#J	.
-.	12BB	.	.	.
+6An	4rc	20cc#LL	10.cc#	.
+.	.	20f#	.	.
+.	.	20dn	.	.
+.	.	20cc#J	20cc#KL	.
+12BB	.	.	.	.
 .	.	40r	40r	.
 .	.	40ff#Jkk	40ff#Jkk	.
-4rc	6FF#	10.cc#	20cc#LL	.
-.	.	.	20f#	.
-.	.	.	20d	.
-.	.	20cc#LL	20cc#	.
-.	[12BB	.	.	.
-.	.	20anJJ	20aJJ	.
-[10.A	4BB]	[10.cc#	20cc#LL	.
-.	.	.	20e#X	.
-.	.	.	[20d	.
-20ALL]	.	20cc#LL]	20d] 20e#	.
-20GnJJ	.	20bJJ	20bJJ	.
+6FF#	4rc	20cc#LL	10.cc#	.
+.	.	20f#	.	.
+.	.	20d	.	.
+.	.	20cc#	20cc#LL	.
+[12BB	.	.	.	.
+.	.	20aJJ	20anJJ	.
+4BB]	[10.A	20cc#LL	[10.cc#	.
+.	.	20e#X	.	.
+.	.	[20d	.	.
+.	20ALL]	20d] 20e#	20cc#LL]	.
+.	20GnJJ	20bJJ	20bJJ	.
 =45	=45	=45	=45	=45
-4FF# 4C# 4F#	4rEE	10.a#	20a#XLL	.
-.	.	.	20f#	.
-.	.	.	20c#	.
-.	.	20f#LL	20f#	.
+4rEE	4FF# 4C# 4F#	20a#XLL	10.a#	.
+.	.	20f#	.	.
+.	.	20c#	.	.
+.	.	20f#	20f#LL	.
 .	.	20a#JJ	20a#JJ	.
-4FF# 4C# 4A#X	4rEE	10.cc#	20cc#LL	.
-.	.	.	20f#	.
-.	.	.	20c#	.
-.	.	20f#LL	20f#	.
+4rEE	4FF# 4C# 4A#X	20cc#LL	10.cc#	.
+.	.	20f#	.	.
+.	.	20c#	.	.
+.	.	20f#	20f#LL	.
 .	.	20cc#JJ	20cc#JJ	.
-[10.An	4BB	[10.cc#	20cc#LL	.
-.	.	.	20e#	.
-.	.	.	[20dn	.
-20ALL]	.	20cc#LL]	20d] 20e#	.
-20GnJJ	.	20bJJ	20bJJ	.
+4BB	[10.An	20cc#LL	[10.cc#	.
+.	.	20e#	.	.
+.	.	[20dn	.	.
+.	20ALL]	20d] 20e#	20cc#LL]	.
+.	20GnJJ	20bJJ	20bJJ	.
 =46	=46	=46	=46	=46
-4FF# 4C# 4F#	4rEE	10.a#	20a#XLL	.
-.	.	.	20f#	.
-.	.	.	20c#	.
-.	.	20f#LL	20f#	.
+4rEE	4FF# 4C# 4F#	20a#XLL	10.a#	.
+.	.	20f#	.	.
+.	.	20c#	.	.
+.	.	20f#	20f#LL	.
 .	.	20a#JJ	20a#JJ	.
-4FF# 4C# 4A#X	4rEE	10.cc#	20cc#LL	.
-.	.	.	20f#	.
-.	.	.	20c#	.
-.	.	20f#LL	20f#	.
+4rEE	4FF# 4C# 4A#X	20cc#LL	10.cc#	.
+.	.	20f#	.	.
+.	.	20c#	.	.
+.	.	20f#	20f#LL	.
 .	.	20cc#JJ	20cc#JJ	.
-[10.An	4BB	[10.cc#	20cc#LL	.
-.	.	.	20e#	.
-.	.	.	[20dn	.
-20ALL]	.	20cc#LL]	20d] 20e#	.
-20GnJJ	.	20bJJ	20bJJ	.
+4BB	[10.An	20cc#LL	[10.cc#	.
+.	.	20e#	.	.
+.	.	[20dn	.	.
+.	20ALL]	20d] 20e#	20cc#LL]	.
+.	20GnJJ	20bJJ	20bJJ	.
 =47	=47	=47	=47	=47
-4F#	2.FF# 2.C#	10.a#	20a#XLL	.
-.	.	.	20f#	.
-.	.	.	20c#	.
-.	.	20f#LL	20f#	.
+2.FF# 2.C#	4F#	20a#XLL	10.a#	.
+.	.	20f#	.	.
+.	.	20c#	.	.
+.	.	20f#	20f#LL	.
 .	.	20a#JJ	20a#JJ	.
-4A#X	.	10.cc#	20cc#LL	.
-.	.	.	20a#	.
-.	.	.	20f#	.
-.	.	20a#LL	20a#	.
+.	4A#X	20cc#LL	10.cc#	.
+.	.	20a#	.	.
+.	.	20f#	.	.
+.	.	20a#	20a#LL	.
 .	.	20cc#JJ	20cc#JJ	.
-4c#	.	10.ff#	20ff#LL	.
-.	.	.	20cc#	.
-.	.	.	20a#	.
-.	.	20cc#LL	20cc#	.
+.	4c#	20ff#LL	10.ff#	.
+.	.	20cc#	.	.
+.	.	20a#	.	.
+.	.	20cc#	20cc#LL	.
 .	.	20ff#JJ	20ff#JJ	.
 *v	*v	*	*	*
 *	*v	*v	*

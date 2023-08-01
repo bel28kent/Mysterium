@@ -47,19 +47,19 @@
 =5	=5	=5
 *^	*^	*
 *	*	*	*^	*
-4B	4rEE	2.ryy	8e#XL	4.r	.
+4rEE	4B	4.r	8e#XL	2.ryy	.
 .	.	.	8f#X	.	.
-[8B-X	8rEE	.	8d#XJ	.	.
-4.B-]	8rEE	.	8gL	8r	.
-.	[4E-X	.	8g#X	[4c#X\	.
+8rEE	[8B-X	.	8d#XJ	.	.
+8rEE	4.B-]	8r	8gL	.	.
+[4E-X	.	[4c#X\	8g#X	.	.
 .	.	.	[8fnJ	.	.
 =6	=6	=6	=6	=6	=6
-[4.A	4.E-_	8aL	4.f_ [4.a	4.d-X\_	.
-.	.	8dd-X	.	.	.
-.	.	[8ee-XJ	.	.	.
-8A]	8FF 8E-]	8ee-L]	8f] 8a]	8d-\]	.
-8rc	8rEE	8f#X	8rc	8r	.
-8BBn 8A	8rEE	8d#XJ	8rc	8r	.
+4.E-_	[4.A	4.d-X\_	4.f_ [4.a	8aL	.
+.	.	.	.	8dd-X	.
+.	.	.	.	[8ee-XJ	.
+8FF 8E-]	8A]	8d-\]	8f] 8a]	8ee-L]	.
+8rEE	8rc	8r	8rc	8f#X	.
+8rEE	8BBn 8A	8r	8rc	8d#XJ	.
 *v	*v	*	*	*	*
 *	*	*v	*v	*
 *	*v	*v	*
@@ -209,12 +209,12 @@
 16GJJ	.	.
 =30	=30	=30
 *	*^	*
-4.AA	4.bb	4.rc	.
-8r	8raa	8rc	.
-20bLL	8ffL 8fff	4ccc#X	.
+4.AA	4.rc	4.bb	.
+8r	8rc	8raa	.
+20bLL	4ccc#X	8ffL 8fff	.
 20g	.	.	.
 20c#X	.	.	.
-.	8aaJ 8aaa	.	.
+.	.	8aaJ 8aaa	.
 20G	.	.	.
 20AAJJ	.	.	.
 *	*v	*v	*

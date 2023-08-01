@@ -463,13 +463,13 @@
 6GGG 6GG	.	.
 =30	=30	=30
 *	*^	*
-6GGGn 6GGn	2E- 2e-	4d-	.
+6GGGn 6GGn	4d-	2E- 2e-	.
 6AAA- 6AA-	.	.	.
-.	.	4c-	.
+.	4c-	.	.
 6AAA- 6AA-	.	.	.
-6DD- 6D-	2F 2d-	4B-	.
+6DD- 6D-	4B-	2F 2d-	.
 6CC- 6C-	.	.	.
-.	.	4A-	.
+.	4A-	.	.
 6CC- 6C-	.	.	.
 *	*v	*v	*
 =31	=31	=31
@@ -500,11 +500,11 @@
 6GGG 6GG	.	.
 =34	=34	=34
 *	*^	*
-6GGGn 6GGn	2E- 2e-	4d-	.
+6GGGn 6GGn	4d-	2E- 2e-	.
 6AAA- 6AA-	.	.	.
-.	.	4cn	.
+.	4cn	.	.
 6AAA- 6AA-	.	.	.
-6AAA- 6AA-	[2F [2d- [2f	2rEE	.
+6AAA- 6AA-	2rEE	[2F [2d- [2f	.
 6DD- 6D-	.	.	.
 6DD- 6D-	.	.	.
 *	*v	*v	*
@@ -527,21 +527,21 @@
 6AAA 6AA	.	.
 =37	=37	=37
 *	*^	*
-6AAAn 6AAn	2d- 2f 2dd-	2rc	.
+6AAAn 6AAn	2rc	2d- 2f 2dd-	.
 6AAA-X 6AA-X	.	.	.
 6AAA- 6AA-	.	.	.
-6AAA- 6AA-	4cn 4ccn	2f	.
+6AAA- 6AA-	2f	4cn 4ccn	.
 6EE-- 6E--	.	.	.
-.	4c-X 4cc-X	.	.
+.	.	4c-X 4cc-X	.
 6EE-- 6E--	.	.	.
 =38	=38	=38	=38
-6EE-- 6E--	4c- 4cc-	2f	.
+6EE-- 6E--	2f	4c- 4cc-	.
 6DD- 6D-	.	.	.
-.	4B- 4b-	.	.
+.	.	4B- 4b-	.
 6DD- 6D-	.	.	.
-6DD- 6D-	4B- 4b-	2f	.
+6DD- 6D-	2f	4B- 4b-	.
 6CC- 6C-	.	.	.
-.	4A- 4a-	.	.
+.	.	4A- 4a-	.
 6CC- 6C-	.	.	.
 *	*v	*v	*
 *	*clefF4	*
