@@ -406,7 +406,7 @@
 =25	=25	=25
 *M9/8	*M9/8	*
 *^	*^	*
-4.ryy	8dd#X\L	2.dd#X\	8raa	.
+4.ryy	8dd#X>\L	2.dd#X\	8raa	.
 .	8e#/	.	8raa	.
 .	8BnJ	.	8bbn/	.
 8ryy	8C#\L	.	8aa#/L	.
@@ -424,7 +424,7 @@
 8E#J	.	.	.	.
 8d#/L	4.ryy	4cc#\]	4aa#/]	.
 8e#	.	.	.	.
-8bJ	.	8b\	[8bb/	.
+8b>\J	.	8b\	[8bb/	.
 8B\L	4B/	4dd#\	4bb/]	.
 8e#	.	.	.	.
 8d#J	8d#/	8b\	8dd#/	.
@@ -471,7 +471,7 @@
 8bJ	.	.
 =30	=30	=30
 *^	*^	*
-4.ryy	8gg#\L	2.gg#X\	8reee	.
+4.ryy	8gg#>\L	2.gg#X\	8reee	.
 .	8a#/	.	8reee	.
 .	8enJ	.	8eeen/	.
 8ryy	8F#\L	.	8ddd#/L	.
@@ -489,7 +489,7 @@
 8A#J	.	.	.	.
 8g#/L	4.ryy	4ff#\]	4ddd#/]	.
 8a#	.	.	.	.
-8een\J	.	8een\	[8eeen/	.
+8een>\J	.	8een\	[8eeen/	.
 8en\L	4e/	4gg#\	4eee/]	.
 8a#	.	.	.	.
 8g#J	8g#/	8ee\	8gg#/	.
@@ -798,6 +798,8 @@
 2.FF# 2.C# 2.F# 2.c#\	2.a# 2.cc# 2.ff# 2.aa#\	.
 ==	==	==
 *-	*-	*-
+!!!RDF**kern: < = below
+!!!RDF**kern: > = above
 !!!system-decoration: {(*)}
 !!!ENC: Bryan Jacob Bell
 !!!END: November 2021 to April 2022
