@@ -69,7 +69,6 @@
 40%3cc-X/L	.	.
 .	8ff	.
 40%3f	.	.
-*clefF4	*	*
 40%3c-X	.	.
 .	8aa-XJ	.
 40%3D-XJ	.	.
@@ -82,7 +81,6 @@
 8r	.	.
 4r	8eee-\]	.
 .	8r	.
-*clefG2	*	*
 8g/	56r	.
 .	56bn\LLL	.
 .	56cc#X	.
@@ -106,14 +104,66 @@
 [4.d-X/	2.r	.
 4d-/]	.	.
 8qg/	.	.
-16ee--\L	.	.
-16dd-XJ	.	.
+*tremolo	*	*
+32ee--\LLL	.	.
+32dd-	.	.
+32ee--	.	.
+32dd-JJJ	.	.
+*Xtremolo	*	*
 =9	=9	=9
-4.ee--\LLL	2.r	.
-4.dd-XJJJ	.	.
+*tremolo	*	*
+32ee--\LLL	2.r	.
+32dd-	.	.
+32ee--	.	.
+32dd-	.	.
+32ee--	.	.
+32dd-	.	.
+32ee--	.	.
+32dd-	.	.
+32ee--	.	.
+32dd-	.	.
+32ee--	.	.
+32dd-	.	.
+32ee--	.	.
+32dd-	.	.
+32ee--	.	.
+32dd-	.	.
+32ee--	.	.
+32dd-	.	.
+32ee--	.	.
+32dd-	.	.
+32ee--	.	.
+32dd-	.	.
+32ee--	.	.
+32dd-JJJ	.	.
+*Xtremolo	*	*
 =10	=10	=10
-4.ee--\LLL	2.r	.
-4.dd-XJJJ	.	.
+*tremolo	*	*
+32ee--\LLL	2.r	.
+32dd-	.	.
+32ee--	.	.
+32dd-	.	.
+32ee--	.	.
+32dd-	.	.
+32ee--	.	.
+32dd-	.	.
+32ee--	.	.
+32dd-	.	.
+32ee--	.	.
+32dd-	.	.
+32ee--	.	.
+32dd-	.	.
+32ee--	.	.
+32dd-	.	.
+32ee--	.	.
+32dd-	.	.
+32ee--	.	.
+32dd-	.	.
+32ee--	.	.
+32dd-	.	.
+32ee--	.	.
+32dd-JJJ	.	.
+*Xtremolo	*	*
 *clefF4	*	*
 =11	=11	=11
 8D-X 8c-X 8f\	8cc-XL 8ee-X\	.
@@ -125,10 +175,10 @@
 =12	=12	=12
 *	*^	*
 8D-X 8c-X 8f\	8ee-X 8bb--\	[4.eee-X/	.
-8r	8rc	.	.
-8r	8rc	.	.
-8G 8f 8cc-X\	4.rc	8eee-/]	.
-8r	.	24ee-\LL	.
+8r	8ra	.	.
+8r	8ra	.	.
+8G 8f 8cc-X\	8ra	8eee-/]	.
+8r	4ryy	24ee-\LL	.
 .	.	24ff	.
 .	.	24aa-X	.
 8r	.	24bb--	.
@@ -271,9 +321,9 @@
 40%3F	.	.	.
 .	.	8ddJ 8ddd	.
 40%3GGJ	.	.	.
-8GGG/	4.rc	8ee-XL 8eee-X\	.
+8GGG/	4.ryy	8ee-XL 8eee-X\	.
 8r	.	8gg 8ggg	.
-8r	.	16r	.
+8r	.	16ree	.
 .	.	16bbJk 16bbb	.
 *	*v	*v	*
 =24	=24	=24
@@ -303,15 +353,67 @@
 =26	=26	=26
 [4.G\	2.r	.
 4G\]	.	.
-8qc#X/	.	.
-16a-X\L	.	.
-16gJ	.	.
+8qc#/	.	.
+*tremolo	*	*
+32a-\LLL	.	.
+32g	.	.
+32a-	.	.
+32gJJJ	.	.
+*Xtremolo	*	*
 =27	=27	=27
-4.a-X\LLL	2.r	.
-4.gJJJ	.	.
+*tremolo	*	*
+32a-\LLL	2.r	.
+32g	.	.
+32a-	.	.
+32g	.	.
+32a-	.	.
+32g	.	.
+32a-	.	.
+32g	.	.
+32a-	.	.
+32g	.	.
+32a-	.	.
+32g	.	.
+32a-	.	.
+32g	.	.
+32a-	.	.
+32g	.	.
+32a-	.	.
+32g	.	.
+32a-	.	.
+32g	.	.
+32a-	.	.
+32g	.	.
+32a-	.	.
+32gJJJ	.	.
+*Xtremolo	*	*
 =28	=28	=28
-4.a-X\LLL	2.r	.
-4.gJJJ	.	.
+*tremolo	*	*
+32a-\LLL	2.r	.
+32g	.	.
+32a-	.	.
+32g	.	.
+32a-	.	.
+32g	.	.
+32a-	.	.
+32g	.	.
+32a-	.	.
+32g	.	.
+32a-	.	.
+32g	.	.
+32a-	.	.
+32g	.	.
+32a-	.	.
+32g	.	.
+32a-	.	.
+32g	.	.
+32a-	.	.
+32g	.	.
+32a-	.	.
+32g	.	.
+32a-	.	.
+32gJJJ	.	.
+*Xtremolo	*	*
 =29	=29	=29
 8GG 8F 8B\	8fL 8an/	.
 8r	8b	.
@@ -322,10 +424,10 @@
 =30	=30	=30
 *	*^	*
 8GG 8F 8B\	8a 8ee-X\	[4.aa/	.
-8r	8rc	.	.
-8r	8rc	.	.
-8C#X 8B 8f\	4.rc	8aa/]	.
-8r	.	24a\LL	.
+8r	8ra	.	.
+8r	8ra	.	.
+8C#X 8B 8f\	8ra	8aa/]	.
+8r	4ryy	24a\LL	.
 .	.	24b	.
 .	.	24dd	.
 8r	.	24ee-	.
@@ -489,7 +591,9 @@
 .	112r	.
 *clefF4	*	*
 =43	=43	=43
-2.D-X 2.c-X 2.f\	2.cc-X 2.ee-X 2.ff 2.ccc-X 2.eee-X\	.
+*	*^	*
+2.D-X 2.c-X 2.f\	2.cc-X 2.ee-X 2.ff 2.ccc-X\	2.eee-X/	.
+*	*v	*v	*
 ==	==	==
 *-	*-	*-
 !!!system-decoration: {(*)}
