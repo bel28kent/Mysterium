@@ -48,20 +48,20 @@
 16CCJJ 16C	.	.
 =5	=5	=5
 *^	*	*
-*	*^	*	*
-2BBB-/ 2BB-	4rEE	8FL 8d-	4f	.
+*^	*	*	*
+2BBB- 2BB-\	4ryy	8FL 8d-	4f	.
 .	.	16FL 16d-	.	.
 .	.	16FJJ 16d-	.	.
 .	8.G-L	8d-L	8.enL	.
 .	.	8d-J	.	.
 .	16FJk	.	16fJk	.
-8FF\L 8D- 8B-	4rEE	4rc	16g-LL	.
-.	.	.	16gn	.
-8En\J 8d- 8gn	.	.	16ccJ	.
-.	.	.	32r	.
-.	.	.	32b-Jkk	.
 *	*v	*v	*	*
 *v	*v	*	*
+8FFL 8D- 8B-	16g-LL	.
+.	16gn	.
+8EnJ 8d- 8gn	16ccJ	.
+.	32r	.
+.	32b-Jkk	.
 =6	=6	=6
 *	*^	*
 8BBB-L 8BB- 8F	8d-L 8f	[4b-	.
@@ -70,7 +70,7 @@
 16FLL]	16B-KL 16d-	16b-LL]	.
 16B-	16r	16d-	.
 16E-X	16B-Jk 16d-	16a-	.
-16EnJJ	16rc	16g-XJJ	.
+16EnJJ	16r	16g-XJJ	.
 8FL	4B- 4d-	8fL	.
 16G-L	.	16enL	.
 16FJJ	.	16fJJ	.
@@ -122,17 +122,17 @@
 =11	=11	=11	=11
 *^	*	*	*
 8CL	8F	8A-	8cL	.
-16A-L 16f	8rc	8rc	[8ccJ	.
-16A-JJ 16f	.	.	.	.
-8A-L 8f	4rc	4rc	8ccL]	.
-8cJ 8f	.	.	16b-L	.
-.	.	.	16a-JJ	.
-8B-L 8en	4rc	4rc	4g-X	.
-8CJ	.	.	.	.
-*v	*v	*	*	*
-*	*v	*v	*
-.	16qqf/LL	.
-.	16qqg-/JJ	.
+*	*	*v	*v	*
+16A-L 16f	8ryy	[8ccJ	.
+16A-JJ 16f	.	.	.
+*v	*v	*	*
+8A-L 8f	8ccL]	.
+8cJ 8f	16b-L	.
+.	16a-JJ	.
+8B-L 8en	4g-X	.
+8CJ	.	.
+.	16qfLL	.
+.	16qg-JJ	.
 =12	=12	=12
 16FF 16F	16f	.
 16CCLL 16C	16cLL 16cc	.
@@ -147,22 +147,25 @@
 16DDD- 16DD-	16D- 16d-	.
 16CCCJJ 16CC	16CJJ 16c	.
 =13	=13	=13
-*^	*^	*
-4rEE	8BBBB-L 8BBB-	8b-L	4f 4ff	.
-.	16FL 16d-	16b-L	.	.
-.	16FJJ 16d-	16b-JJ	.	.
+*	*^	*
+8BBBB-L 8BBB-	8b-L	4f 4ff	.
+16FL 16d-	16b-L	.	.
+16FJJ 16d-	16b-JJ	.	.
+*^	*	*	*
 8.G-L	8d-L	8b-L	8.enL 8.een	.
 .	8d-J	8b-J	.	.
 16FJk	.	.	16fJk 16ff	.
-4rEE	16FFLL 16D- 16B-	8dd-L	16g-LL 16gg-	.
-.	16EnJ	.	16gn 16ggn	.
-*clefG2	*	*	*	*
-.	8d-J 8gn 8dd-	16ggL	16ccJ 16ccc	.
-.	.	16dd-JJ	32r	.
-.	.	.	32b-Jkk 32bb-	.
-*clefF4	*	*	*	*
-=14	=14	=14	=14	=14
-8rEE	8BBB-L 8BB- 8F	8dd-L	[4b- [4bb-	.
+*v	*v	*	*	*
+16FFLL 16D- 16B-/	8dd-L	16g-LL 16gg-	.
+16EnJ	.	16gn 16ggn	.
+*clefG2	*	*	*
+8d-J 8gn 8dd-	16ggL	16ccJ 16ccc	.
+.	16dd-JJ	32r	.
+.	.	32b-Jkk 32bb-	.
+*clefF4	*	*	*
+=14	=14	=14	=14
+8BBB-L 8BB- 8F	8dd-L	[4b- [4bb-	.
+*^	*	*	*
 [8F	16d-L 16f	16b-L 16dd-	.	.
 .	16d-JJ 16f	16b-JJ 16dd-	.	.
 16FLL]	16d-KL 16f	16b-KL 16dd-	16b-LL] 16bb-]	.
@@ -216,30 +219,32 @@
 8BBnJ 8Bn	.	8fJ 8a-	.	.
 =19	=19	=19	=19	=19
 8CL 8c	8A-	8fL	8cL 8cc	.
-16A-L 16f 16a-	8rc	[8ffJ	[8ccJ [8ccc	.
+16A-L 16f 16a-	8ryy	[8ffJ	[8ccJ [8ccc	.
 16A-JJ 16f 16a-	.	.	.	.
-8A-L 8f 8a-	4rc	4ff]	8ccL] 8ccc]	.
-8cJ 8f 8cc	.	.	16b-L 16bb-	.
-.	.	.	16a-JJ 16aa-	.
-8B-L 8en 8b-	4rc	4cc 4een	24gnLL 24ggn	.
-.	.	.	24a- 24aa-	.
-.	.	.	24g 24gg	.
-8CJ 8B- 8e	.	.	32a-L 32aa-	.
-.	.	.	32g 32gg	.
-.	.	.	32a- 32aa-	.
-.	.	.	32gJJJ 32gg	.
 *v	*v	*	*	*
+8A-L 8f 8a-	4ff]	8ccL] 8ccc]	.
+8cJ 8f 8cc	.	16b-L 16bb-	.
+.	.	16a-JJ 16aa-	.
+8B-L 8en 8b-	4cc 4een	24gnLL 24ggn	.
+.	.	24a- 24aa-	.
+.	.	24g 24gg	.
+8CJ 8B- 8e	.	32a-L 32aa-	.
+.	.	32g 32gg	.
+.	.	32a- 32aa-	.
+.	.	32gJJJ 32gg	.
 =20	=20	=20	=20
 16FF 16C 16A-	16cc	16f 16ff	.
-16FFLL 16F	8.rc	16fLL 16ff	.
-16EEn 16En	.	16en 16een	.
-16DD-JJ 16D-	.	16d-JJ 16dd-	.
-16CCLL 16C	4rc	16cLL 16cc	.
-16BBBn 16BBn	.	16Bn 16bn	.
-16AAA- 16AA-	.	16A- 16a-	.
-16GGGnJJ 16GGn	.	16GnJJ 16gn	.
-4FFF 4FF	4rc	4F 4f	.
-=21	=21	=21	=21
+*	*v	*v	*
+16FFLL 16F	16fLL 16ff	.
+16EEn 16En	16en 16een	.
+16DD-JJ 16D-	16d-JJ 16dd-	.
+16CCLL 16C	16cLL 16cc	.
+16BBBn 16BBn	16Bn 16bn	.
+16AAA- 16AA-	16A- 16a-	.
+16GGGnJJ 16GGn	16GnJJ 16gn	.
+4FFF 4FF	4F 4f	.
+=21	=21	=21
+*	*^	*
 8AA-L 8A-	4d-	4A- 4a-	.
 8DD-J 8D-	.	.	.
 8AAA-L 8AA-	2d-	16A-LL 16a-	.
@@ -273,8 +278,8 @@
 4c-X 4f 4cc-X	4an 4ee- 4ff 4aan	.
 8B- 8g-X 8b-	8b- 8ddn 8gg-X 8bb-	.
 =25	=25	=25
-8BB- 8E- 8B-	8r	.
-16B-LL 16e- 16b-	16g-LL 16ee- 16gg-	.
+8BB-L 8E- 8B-	8r	.
+16B-L 16e- 16b-	16g-LL 16ee- 16gg-	.
 16B-JJ 16e- 16b-	16g-JJ 16ee- 16gg-	.
 8B-L 8e- 8b-	8g-L 8ee- 8gg-	.
 8B-J 8e- 8b-	8g-J 8ee- 8gg-	.
@@ -298,7 +303,7 @@
 8AA-J 8A-	.	.	.
 .	.	16B-Jk 16b-	.
 =28	=28	=28	=28
-8AA-L 8A-	4a-	4B- 4b-	.
+8AA-L 8A-/	4a-	4B- 4b-	.
 8GG-J 8G-	.	.	.
 8FFL 8F	[4a-	16cLL 16cc	.
 .	.	[16cJ [16cc	.
@@ -369,7 +374,7 @@
 8GGG-XL 8GG-X	8EnL 8B- 8d- 8en	.
 8FFFJ 8FF	8FJ 8B- 8d- 8f	.
 =37	=37	=37
-8qFFF/ 8qFF	.	.
+8qFFF 8qFF	.	.
 8DD-L 8D-	8G-L 8B- 8d- 8g-	.
 16G-L 16d- 16g-	16b-L 16gg-	.
 16G-JJ 16d- 16g-	16b-JJ 16gg-	.
@@ -378,7 +383,7 @@
 8G-J 8d- 8g-	8b-J 8gg-	.
 8FFF 8FF	[8G- [8c-X [8e- [8g-	.
 =38	=38	=38
-8qFFF/ 8qFF	.	.
+8qFFF 8qFF	.	.
 8EE- 8E-	8G-] 8c-] 8e-] 8g-]	.
 16G-LL 16c-X 16e- 16g-	16cc-XLL 16ee- 16gg-	.
 16G-JJ 16c- 16e- 16g-	16cc-JJ 16ee- 16gg-	.
@@ -420,40 +425,40 @@
 16DDD- 16DD-	8r	.
 16CCCJJ 16CC	.	.
 =42	=42	=42
+16BBBB- 16BBB-	16ff 16bb- 16ddd- 16fff	.
+32FFLLL	48FLLL	.
+.	48B-	.
+32D-JJ	.	.
+.	48d-JJ	.
+48B-LL	64g-LLL	.
+.	64f	.
+48F	.	.
+.	64b-	.
+48B-JJ	.	.
+.	64dd-JJJ	.
+48d-LL	64gg-LLL	.
+.	64ff	.
+48f	.	.
+.	64bb-	.
+48FJJJ	.	.
+.	64ddd-JJJJ	.
 *^	*^	*
-*	*^	*	*	*
-24BBBB-/LL 24BBB-	4rEE	4rc	24ffLL 24bb- 24ddd- 24fff	4raa	.
-48FF/L	.	.	72FL	.	.
-.	.	.	72B-	.	.
-48D-/J	.	.	.	.	.
-.	.	.	72d-	.	.
-36B-/	.	.	48g-	.	.
-.	.	.	48f	.	.
-36F/	.	.	.	.	.
-.	.	.	48b-	.	.
-36B-/	.	.	.	.	.
-.	.	.	48dd-	.	.
-36d-/	.	.	48gg-	.	.
-.	.	.	48ff	.	.
-36f/	.	.	.	.	.
-.	.	.	48bb-	.	.
-36F/JJ	.	.	.	.	.
-.	.	.	48ddd-JJJ	.	.
+*^	*	*	*	*
 8F\L	4B- 4d-	8.g-L	8.eenL 8.eeen	8bb-L	.
-8F\J	.	.	.	8bb-J	.
+8FJ	.	.	.	8bb-J	.
 .	.	16fJk	16ffJk 16fff	.	.
-4r	4rEE	8FL 8B- 8d- 8en	16gg-LL 16ggg-	8ddd-	.
-.	.	.	16ggn 16gggn	.	.
-*clefG2	*	*	*	*	*
-.	.	8d-J 8gn 8een	16cccJ 16cccc	8ggg	.
-.	.	.	32r	.	.
-.	.	.	32bb-Jkk 32bbb-	.	.
 *	*v	*v	*	*	*
 *v	*v	*	*	*
+8FL 8B- 8d- 8en	16gg-LL 16ggg-	8ddd-	.
+.	16ggn 16gggn	.	.
+*clefG2	*	*	*
+8d-J 8gn 8een	16cccJ 16cccc	8ggg	.
+.	32r	.	.
+.	32bb-Jkk 32bbb-	.	.
 *clefF4	*	*	*
 =43	=43	=43	=43
+8BBB-L 8FF 8D-	8fffL	[4bb- [4bbb-	.
 *^	*	*	*
-8rEE	8BBB-L 8FF 8D-	8fffL	[4bb- [4bbb-	.
 [8F	16d-L 16f	16b-L 16ff	.	.
 .	16d-JJ 16f	16b-JJ 16ff	.	.
 16FLL]	8d-L 8f	8b-L 8ff	16bb-LL] 16bbb-]	.
@@ -463,33 +468,36 @@
 8FL	4B- 4d- 4b-	4bb- 4ddd-	8ffL 8fff	.
 16G-L	.	.	16eenL 16eeen	.
 16FJJ	.	.	16ffJJ 16fff	.
-=44	=44	=44	=44	=44
-8rEE	8E-X 8B- 8d- 8b-	8bb-L 8ddd-	8aa-L 8aaa-	.
-*clefG2	*	*	*	*
+*v	*v	*	*	*
+=44	=44	=44	=44
+8E-X 8B- 8d- 8b-	8bb-L 8ddd-	8aa-L 8aaa-	.
+*clefG2	*	*	*
+*^	*	*	*
+*	*clefG2	*	*	*
 8g- 8b-	16fLL 16ff	16bb-L 16ddd-	[8gg-J [8ggg-	.
 .	16B-JJ 16b-	16dd-JJ 16gg- 16ddd-	.	.
 4g- 4b-	4e- 4ee-	8dd-L 8gg- 8ddd-	8gg-L] 8ggg-]	.
 .	.	8ddd-J	16ffL 16fff	.
 .	.	.	16gg-JJ 16ggg-	.
-*clefF4	*	*	*	*
-4rEE	8AA-L 8G- 8c	8cccL	16bb-LL 16bbb-	.
-.	.	.	16aa- 16aaa-	.
-.	8A-J 8g- 8cc	8aa-J 8ccc	16ee- 16eee-	.
-.	.	.	16eenJJ 16eeen	.
 *v	*v	*	*	*
+*clefF4	*	*	*
+8AA-L 8G- 8c	8cccL	16bb-LL 16bbb-	.
+.	.	16aa- 16aaa-	.
+8A-J 8g- 8cc	8aa-J 8ccc	16ee- 16eee-	.
+.	.	16eenJJ 16eeen	.
 =45	=45	=45	=45
 8.DD-L 8.AA- 8.F	8cccL	4ff 4fff	.
 .	24ccL 24ff 24aa- 24ccc	.	.
 .	24cc 24ff 24aa- 24ccc	.	.
 16AA-Jk 16A-	.	.	.
 .	24ccJJ 24ff 24aa- 24ccc	.	.
-8FL 8e- 8f	8ccL 8ff 8aa- 8ccc	4raa	.
+8FL 8e- 8f	8ccL 8ff 8aa- 8ccc	4r	.
 8AA-J 8A-	8aa-J 8aaa-	.	.
-8.FL 8.d- 8.f	4dd- 4aa- 4ddd-	8raa	.
+8.FL 8.d- 8.f	4dd- 4aa- 4ddd-	8r	.
 .	.	8ff 8fff	.
 16CC-XJk 16C-X	.	.	.
 =46	=46	=46	=46
-8qCC-X/ 8qC-X	.	.	.
+8qCC-X 8qC-X	.	.	.
 8FFL 8F	8eee-L	8bb-L 8bbb-	.
 16E-L 16A- 16e-	16eee-L	[8aa-J [8aaa-	.
 16A-JJ 16e- 16a-	16ee-JJ 16eee-	.	.
@@ -501,13 +509,13 @@
 8B-J 8a- 8ddn	8bb-J 8ddd	16een 16eeen	.
 .	.	16ffJJ 16fff	.
 =47	=47	=47	=47
+8.EE-L 8.BB- 8.F	8bb-L 8ddd-X	4aa- 4aaa-	.
+.	24dd-L 24bb- 24ddd-	.	.
+.	24dd- 24bb- 24ddd-	.	.
+16BB-Jk 16B-	.	.	.
+.	24dd-JJ 24bb- 24ddd-	.	.
 *^	*	*	*
-8.EE-L 8.BB- 8.F	4rc	8bb-L 8ddd-X	4aa- 4aaa-	.
-.	.	24dd-L 24bb- 24ddd-	.	.
-.	.	24dd- 24bb- 24ddd-	.	.
-16BB-Jk 16B-	.	.	.	.
-.	.	24dd-JJ 24bb- 24ddd-	.	.
-8G-L 8d- 8g-	8rc	8bb-L 8ddd-	4gg-X 4ggg-X	.
+8G-L 8d- 8g-	8ryy	8bb-L 8ddd-	4gg-X 4ggg-X	.
 24BB-L	8B-	8dd-J 8bb- 8ddd-	.	.
 24C	.	.	.	.
 24D-JJ	.	.	.	.
@@ -538,27 +546,28 @@
 .	.	32ccJJJ 32ccc	.
 =49	=49	=49	=49
 16BBB- 16FF 16D- 16B-	16ff	16b- 16bb-	.
-16BB-LL 16B-	8.rc	16b-LL 16bb-	.
-16AAn 16An	.	16an 16aan	.
-16GG-JJ 16G-	.	16g-JJ 16gg-	.
-16FFLL 16F	4rc	16fLL 16ff	.
-16EEn 16En	.	16en 16een	.
-16DD- 16D-	.	16d- 16dd-	.
-16CCJJ 16C	.	16cJJ 16cc	.
-4BBB- 4BB-	4rc	4B- 4b-	.
 *	*v	*v	*
-=50||	=50||	=50||
+16BB-LL 16B-	16b-LL 16bb-	.
+16AAn 16An	16an 16aan	.
+16GG-JJ 16G-	16g-JJ 16gg-	.
+16FFLL 16F	16fLL 16ff	.
+16EEn 16En	16en 16een	.
+16DD- 16D-	16d- 16dd-	.
+16CCJJ 16C	16cJJ 16cc	.
+4BBB- 4BB-	4B- 4b-	.
+=50	=50	=50
 *k[b-e-a-d-g-c-]	*k[b-e-a-d-g-c-]	*
-*^	*^	*
-8GGG- 8GG-	4rc	8rc	4raa	.
-4D- 4B-	.	4g-	.	.
-.	4rc	.	4raa	.
-8D- 8B-	.	8g-	.	.
+*	*^	*
+8GGG- 8GG-	8r	4rff	.
+4D- 4B-	4g-	.	.
+.	.	4rff	.
+8D- 8B-	8g-	.	.
+*^	*	*	*
 8E-L	4B-	4g-	8.b-L	.
 8D-J	.	.	.	.
 .	.	.	16cc-Jk	.
 =51	=51	=51	=51	=51
-8GGG- 8GG-	8rc	8g-	8.dd-L	.
+8GGG- 8GG-	8ryy	8g-	8.dd-L	.
 4D-	[8A-	4g-	.	.
 .	.	.	16a-Jk	.
 .	8A-L]	.	8dd-L	.
@@ -581,8 +590,8 @@
 16CnJk	.	16B--JJ	16dnJJ	.
 .	24G-JJ	.	.	.
 4.C	4B--	4.g-	[4f	.
-.	16qqA-/LL	.	.	.
-.	16qqB--/JJ	.	.	.
+.	16qA-LL	.	.	.
+.	16qB--JJ	.	.	.
 .	8A-	.	8fL]	.
 8C	8rc	16GnLL	8e-J	.
 .	.	16A-JJ	.	.
@@ -590,8 +599,8 @@
 4D-	4c-X	4d-	8d-L	.
 .	.	.	16e-L	.
 .	.	.	16fJJ	.
-16qqCn\LL	.	.	.	.
-16qqD-\JJ	.	.	.	.
+16qCnLL	.	.	.	.
+16qD-JJ	.	.	.	.
 12E-L	4B-	4d-	20g-LL	.
 .	.	.	20a-	.
 12BB-	.	.	.	.
@@ -617,7 +626,7 @@
 .	8d-J	[8g-J	.	.
 .	.	.	16cc-Jk	.
 =55	=55	=55	=55	=55
-8GGG- 8GG-	8rc	8g-]	8.dd-L	.
+8GGG- 8GG-	8ryy	8g-]	8.dd-L	.
 4D-	[8A-	4g-	.	.
 .	.	.	16a-Jk	.
 .	8A-L]	.	8dd-L	.
@@ -653,29 +662,31 @@
 8AA-L	4F	4d-	8.a-L	.
 8A-J	.	.	.	.
 .	.	.	16b-Jk	.
-16g-LL	4rc	8a-L	16ccnLL	.
-16f	.	.	16dd-	.
-16en	.	8dd-J	16bb-	.
-16fJJ	.	.	16aa-JJ	.
-16g-LL	4rc	8.b-L	16ee-XLL	.
-16f	.	.	16ff	.
-16e-X	.	.	16gg-	.
-16G-JJ	.	16e-Jk	16b-JJ	.
-=58	=58	=58	=58	=58
-4A-	[4A-	4g-	4ccn	.
-.	.	.	16qqb-/LL	.
-.	.	.	16qqcc/JJ	.
+*v	*v	*	*	*
+16g-LL	8a-L	16ccnLL	.
+16f	.	16dd-	.
+16en	8dd-J	16bb-	.
+16fJJ	.	16aa-JJ	.
+16g-LL	8.b-L	16ee-XLL	.
+16f	.	16ff	.
+16e-X	.	16gg-	.
+16G-JJ	16e-Jk	16b-JJ	.
+=58	=58	=58	=58
+[4A-	4g-	4ccn	.
+*^	*	*	*
+.	.	.	16qb-LL	.
+.	.	.	16qccJJ	.
 8D-L	4A-]	4f	4dd-	.
 16D-L	.	.	.	.
 16D-JJ	.	.	.	.
-24D-LL	4rc	4rc	4raa	.
+24D-LL	4r	4r	4r	.
 24E-	.	.	.	.
 24D-	.	.	.	.
 24D-	.	.	.	.
 24C-X	.	.	.	.
 24BB-JJ	.	.	.	.
-*v	*v	*	*	*
-*	*v	*v	*
+*	*	*v	*v	*
+*v	*v	*	*
 =59	=59	=59
 24r	8a-L 8cc-	.
 24AA-LL	.	.
@@ -713,19 +724,19 @@
 8c-J	8e-J 8g- 8cc-	.
 =62	=62	=62
 *	*^	*
+4d-	4g-	8d-L 8b-	.
+.	.	8c-J 8a-	.
+4.D-	4f	8B-L 8gn	.
+.	.	8c-J 8a-	.
 *	*	*^	*
-4d-	4r	4g-	8d-L 8b-	.
-.	.	.	8c-J 8a-	.
-4.D-	4r	4f	8B-L 8gn	.
-.	.	.	8c-J 8a-	.
 .	8d-\L	[4f	8.b-L	.
-8D-	8c-\J	.	.	.
+8D-	8c-J	.	.	.
 .	.	.	16cc-Jk	.
 *	*	*v	*v	*
 =63	=63	=63	=63
 *^	*	*	*
-8GGG-L 8GG-	8rc	8fL]	8.dd-L	.
-[8D-J	[8c-	[8f-XJ	.	.
+8GGG- 8GG-	8ryy	8fL]	8.dd-L	.
+[8D-	[8c-	[8f-XJ	.	.
 .	.	.	16g-Jk	.
 8D-L]	8c-L]	8f-L]	8dd-L	.
 8GG-J	16A-L	8f-J	16ee-L	.
@@ -748,8 +759,8 @@
 24E-JJ	.	.	.	.
 .	32G-Jkk	32B-Jkk	.	.
 8D-L	4G-	8B-L	[4f	.
-16qqCn\LL	.	.	.	.
-16qqD-\JJ	.	.	.	.
+16qCnLL	.	.	.	.
+16qD-JJ	.	.	.	.
 8CJ	.	8A-J	.	.
 12BB-L	4G-	12B-L	8fL]	.
 12BB--	.	12c-X	.	.
@@ -759,32 +770,36 @@
 8DD-L	4B-	4d-	8.d-L	.
 8D-J	.	.	.	.
 .	.	.	16e-Jk	.
-16c-XLL	4rc	8d-L	16fLL	.
-16B-	.	.	16g-	.
-16An	.	8g-J	16ee-	.
-16B-JJ	.	.	16dd-JJ	.
-16c-LL	4rc	8.e-L	16a-LL	.
-16B-	.	.	16b-	.
-16A-X	.	.	16cc-	.
-16C-JJ	.	16A-Jk	16e-JJ	.
-=66	=66	=66	=66	=66
-4D-	[4D-	4c-	4f	.
-.	.	.	16qqe-/LL	.
-.	.	.	16qqf/JJ	.
-8GG-L	4D-]	8B-	8g-	.
-16BB-L	.	8rc	8raa	.
-16BB-JJ	.	.	.	.
-24BB-LL	4rc	4rc	4raa	.
-24C-	.	.	.	.
-24BB-	.	.	.	.
-24AA-	.	.	.	.
-24GG-	.	.	.	.
-24FFJJ	.	.	.	.
 *v	*v	*	*	*
-=67	=67	=67	=67
-8EEE-L 8EE-	4rc	8.raa	.
-16r	.	.	.
-16BB-Jk 16B-	.	16b-	.
+16c-XLL	8d-L	16fLL	.
+16B-	.	16g-	.
+16An	8g-J	16ee-	.
+16B-JJ	.	16dd-JJ	.
+16c-LL	8.e-L	16a-LL	.
+16B-	.	16b-	.
+16A-X	.	16cc-	.
+16C-JJ	16A-Jk	16e-JJ	.
+=66	=66	=66	=66
+[4D-	4c-	4f	.
+.	.	16qe-LL	.
+.	.	16qfJJ	.
+*^	*	*	*
+8GG-L	4D-]	8B-	8g-	.
+16BB-L	.	8r	8r	.
+16BB-JJ	.	.	.	.
+*	*	*v	*v	*
+*v	*v	*	*
+24BB-LL	4r	.
+24C-	.	.
+24BB-	.	.
+24AA-	.	.
+24GG-	.	.
+24FFJJ	.	.
+=67	=67	=67
+8EEE-L 8EE-	8.r	.
+16r	.	.
+16BB-Jk 16B-	16b-/	.
+*	*^	*
 4G- 4e-	4b-	4gg-	.
 4E- 4c- 4dn	4a-	8.ffL	.
 .	.	16gg-Jk	.
@@ -792,17 +807,19 @@
 *^	*	*	*
 8E-L 8B-	16dnLL	8g-L	16ffLL	.
 .	16e-JJ	.	16ee-	.
-8BB-J 8B-	8rc	8e-J 8g-	16an	.
+8BB-J 8B-	8ryy	8e-J 8g-	16an	.
 .	.	.	16b-JJ	.
-8EE-L 8E-	4rc	8d-XL 8g- 8b-	2dd-	.
-8BB-J 8B-	.	16d-L 16f 16b-	.	.
-.	.	16d-JJ 16f 16b-	.	.
-8EE-L 8E-	4rc	8d-L 8g- 8b-	.	.
-8BBB-J 8BB-	.	8G-J 8d- 8g-	.	.
 *v	*v	*	*	*
-=69	=69	=69	=69
-4EEE- 4EE-	4rc	8.raa	.
-.	.	16g-	.
+8EE-L 8E-	8d-XL 8g- 8b-	2dd-	.
+8BB-J 8B-	16d-L 16f 16b-	.	.
+.	16d-JJ 16f 16b-	.	.
+8EE-L 8E-	8d-L 8g- 8b-	.	.
+8BBB-J 8BB-	8G-J 8d- 8g-	.	.
+*	*v	*v	*
+=69	=69	=69
+4EEE- 4EE-	8.r	.
+.	16g-	.
+*	*^	*
 4EE- 4AA- 4G-	4c- 4e- 4g-	4cc-	.
 4EE- 4BB- 4G-	4d- 4e- 4g-	8.b-L	.
 .	.	16cc-Jk	.
@@ -818,7 +835,7 @@
 .	.	8G-L 8c- 8e-	.	.
 .	.	8G-J 8c- 8e-	.	.
 =71	=71	=71	=71	=71
-8EE-L	2Cn	2An	8raa	.
+8EE-L	2Cn	2An	8r	.
 8EE-J	.	.	16FLL 16f	.
 .	.	.	16FJJ 16f	.
 8EE-L	.	.	8FL 8f	.
@@ -826,7 +843,7 @@
 8EE-L	4C-X	4c-X	8G-L 8g-	.
 8EE-J	.	.	8E-J 8e-	.
 =72	=72	=72	=72	=72
-8EE-L	2Cn	2An	8raa	.
+8EE-L	2Cn	2An	8r	.
 8EE-J	.	.	16FLL 16f	.
 .	.	.	16FJJ 16f	.
 8EE-L	.	.	8FL 8f	.
@@ -836,18 +853,18 @@
 =73	=73	=73	=73	=73
 4FF	4D-	4B-	8.D-L 8.d-	.
 .	.	.	16FJk 16f	.
-4rEE	16FFLL 16F	4rc	4d- 4b- 4dd-	.
-.	16FF 16F	.	.	.
-.	16GG- 16G-	.	.	.
-.	16FFJJ 16F	.	.	.
-4rEE	16FFLL 16F	4rc	12c-XL 12e- 12cc-X	.
-.	16FF 16F	.	.	.
-.	.	.	12e- 12cc- 12ee-	.
-.	16GG- 16G-	.	.	.
-.	.	.	12dnJ 12b- 12ddn	.
-.	16FFJJ 16F	.	.	.
-*v	*v	*	*	*
-*	*v	*v	*
+*	*	*v	*v	*
+*v	*v	*	*
+16FFLL 16F	4d- 4b- 4dd-	.
+16FF 16F	.	.
+16GG- 16G-	.	.
+16FFJJ 16F	.	.
+16FFLL 16F	12c-XL 12e- 12cc-X	.
+16FF 16F	.	.
+.	12e- 12cc- 12ee-	.
+16GG- 16G-	.	.
+.	12dnJ 12b- 12ddn	.
+16FFJJ 16F	.	.
 =74	=74	=74
 16FFLL 16F	4B- 4dn 4b-	.
 16BBB- 16BB-	.	.
@@ -862,9 +879,9 @@
 16BBB- 16BB-	.	.
 16GGG-JJ 16GG-	.	.
 =75	=75	=75
+8.EEE-L 8.EE-	8.r	.
+16EEE-Jk 16EE-	16b-/	.
 *	*^	*
-8.EEE-L 8.EE-	4rc	8.raa	.
-16EEE-Jk 16EE-	.	16b-	.
 8.D-L 8.d-	8ffL	4g- 4b- 4gg-	.
 .	8ee-J	.	.
 16EEE-Jk 16EE-	.	.	.
@@ -875,21 +892,25 @@
 *	*	*^	*
 8BB-L 8G- 8B-	8b-\	16ddnLL	16fLL 16ff	.
 .	.	16ee-JJ	16e- 16ee-	.
-8BB-J 8B-	8r	16.e-LL 16.g-	16an	.
-.	.	.	16b-JJ	.
-.	.	32e-JJk 32g-	.	.
-8EE-L 8E-	4r	8d-L 8g- 8b-	2dd-X	.
-8BB-J 8B-	.	16d-L 16f 16b-	.	.
-.	.	16d-JJ 16f 16b-	.	.
-8EE-L 8E-	4r	8d-L 8g- 8b-	.	.
-8BBB-J 8BB-	.	8G-J 8d- 8g-	.	.
-=77	=77	=77	=77	=77
-8.EEE-L 8.EE-	4r	4rc	8.raa	.
-16EEE-Jk 16EE-	.	.	16g-	.
-8.AA-L 8.A-	4r	8g-L	4c- 4e- 4cc-	.
-.	.	8fJ	.	.
-16EEE-Jk 16EE-	.	.	.	.
-8.BB-L 8.B-	4d-/ 4e-	8a-L	8.b-L	.
+*	*v	*v	*	*
+8BB-J 8B-	16.e-LL 16.g-	16an	.
+.	.	16b-JJ	.
+.	32e-JJk 32g-	.	.
+8EE-L 8E-	8d-L 8g- 8b-	2dd-X	.
+8BB-J 8B-	16d-L 16f 16b-	.	.
+.	16d-JJ 16f 16b-	.	.
+8EE-L 8E-	8d-L 8g- 8b-	.	.
+8BBB-J 8BB-	8G-J 8d- 8g-	.	.
+*	*v	*v	*
+=77	=77	=77
+8.EEE-L 8.EE-	8.r	.
+16EEE-Jk 16EE-	16g-	.
+*	*^	*
+8.AA-L 8.A-	8g-L	4c- 4e- 4cc-	.
+.	8fJ	.	.
+16EEE-Jk 16EE-	.	.	.
+*	*^	*	*
+8.BB-L 8.B-	4d- 4e-\	8a-L	8.b-L	.
 .	.	8g-J	.	.
 16EEE-Jk 16EE-	.	.	16cc-Jk	.
 *	*	*v	*v	*
@@ -905,7 +926,7 @@
 .	.	8G-L 8c- 8e-	.	.
 .	.	8G-J 8c- 8e-	.	.
 =79	=79	=79	=79	=79
-8EE-L	2Cn	2An	8raa	.
+8EE-L	2Cn	2An	8r	.
 8EE-J	.	.	16FLL 16f	.
 .	.	.	16FJJ 16f	.
 8EE-L	.	.	8FL 8f	.
@@ -913,16 +934,20 @@
 8EE-L	4C-X	4c-X	8G-L 8g-	.
 8EE-J	.	.	8E-J 8e-	.
 =80	=80	=80	=80	=80
-8EE-L	2Cn	2An	8raa	.
+8EE-L	2Cn	2An	8r	.
 8EE-J	.	.	16FLL 16f	.
 .	.	.	16FJJ 16f	.
 8EE-L	.	.	8FL 8f	.
 8EE-J	.	.	8FJ 8f	.
-8EE-L	4C	4rc	[4G- [4B- [4g-	.
-8EE--J	.	.	.	.
-=81	=81	=81	=81	=81
-4DD- 4D-	4rc	8rc	8G-] 8B-] 8g-]	.
-.	.	8g-	8b-	.
+*	*	*v	*v	*
+8EE-L	4C	[4G- [4B- [4g-	.
+8EE--J	.	.	.
+*v	*v	*	*
+=81	=81	=81
+4DD- 4D-	8G-] 8B-] 8g-]	.
+*	*^	*
+.	8g-	8b-	.
+*^	*	*	*
 2D-	8e-L	2g-	8cc-XL	.
 .	8e--J	.	8anJ 8ccn	.
 .	8d-L	.	8b-L 8dd-	.
@@ -936,7 +961,7 @@
 8D-J	.	.	.	.
 .	16c-Jk	.	.	.
 =83	=83	=83	=83	=83
-8GGG- 8GG-	8.d-L	8rc	8raa	.
+8GGG- 8GG-	8.d-L	8r	8r	.
 4D-	.	[8g-X	[8a-	.
 .	16A-Jk	.	.	.
 .	8d-L	4g-]	8a-L]	.
@@ -958,41 +983,41 @@
 .	.	.	24f	.
 .	16DnJJ	16B--JJ	.	.
 .	.	.	24g-JJ	.
-8DL	4rc	4cn 4g-	2b--	.
-[8FJ	.	.	.	.
-8FL]	4rc	4c 4g-	.	.
-8E-J	.	.	.	.
-=85	=85	=85	=85	=85
-8D-L	2.ryy	8fL	4d- 4b-X	.
-16E-L	.	16g-L	.	.
-16FJJ	.	16fJJ	.	.
-20G-LL	.	4d- 4e-	8.b-L	.
-20A-	.	.	.	.
-20G-	.	.	.	.
-20F	.	.	.	.
-.	.	.	16g-Jk	.
-20G-JJ	.	.	.	.
-8B-L	.	4c-X 4e-	8g-L	.
-16A-L	.	.	16a-L	.
-16E-JJ	.	.	16cc-JJ	.
-=86	=86	=86	=86	=86
-*	*	*	*^	*
-8.A-L	2.ryy	4r	4c- 4g-	8ee-L	.
-.	.	.	.	8ee--J	.
-16D-Jk	.	.	.	.	.
-8A-L	.	4r	4c- 4f	4dd-	.
-16D-L	.	.	.	.	.
-16D-JJ	.	.	.	.	.
-4D-	.	8B-/L	[4g-	8.b-L	.
-.	.	8d-/J	.	.	.
-.	.	.	.	16cc-XJk	.
-*	*	*	*v	*v	*
-*	*	*v	*v	*
-16qqCn/LL	.	.	.
-16qqD-/JJ	.	.	.
+*v	*v	*	*	*
+8DL	4cn 4g-	2b--	.
+[8FJ	.	.	.
+8FL]	4c 4g-	.	.
+8E-J	.	.	.
+=85	=85	=85	=85
+8D-L	8fL	4d- 4b-X	.
+16E-L	16g-L	.	.
+16FJJ	16fJJ	.	.
+20G-LL	4d- 4e-	8.b-L	.
+20A-	.	.	.
+20G-	.	.	.
+20F	.	.	.
+.	.	16g-Jk	.
+20G-JJ	.	.	.
+8B-L	4c-X 4e-	8g-L	.
+16A-L	.	16a-L	.
+16E-JJ	.	16cc-JJ	.
+=86	=86	=86	=86
+8.A-L	4c- 4g-	8ee-L	.
+.	.	8ee--J	.
+16D-Jk	.	.	.
+8A-L	4c- 4f	4dd-	.
+16D-L	.	.	.
+16D-JJ	.	.	.
+*	*^	*	*
+4D-	8B-\L	[4g-	8.b-L	.
+.	8d-J	.	.	.
+.	.	.	16cc-XJk	.
+*	*v	*v	*	*
+16qCnLL	.	.	.
+16qD-JJ	.	.	.
 =87	=87	=87	=87
-*	*	*^	*
-8GGG- 8GG-	8rc	8g-L]	8.dd-L	.
+8GGG- 8GG-	8g-L]	8.dd-L	.
+*^	*	*	*
 [8D-	[8c-	[8f-XJ	.	.
 .	.	.	16g-Jk	.
 8D-L]	8c-L]	8f-L]	8dd-L	.
@@ -1015,26 +1040,28 @@
 .	32r	32r	16d-JJ	.
 24E-JJ	.	.	.	.
 .	32G-Jkk	32B-Jkk	.	.
-4D-	4rc	8G-L 8B-	4.f	.
-.	.	8G-J 8B-	.	.
-16qqCn\LL	.	.	.	.
-16qqD-\JJ	.	.	.	.
-4C	4rc	8G-L 8B-	.	.
-.	.	8G-J 8B-	8en	.
-=89	=89	=89	=89	=89
-8FFL 8D-	4rc	4F 4B-	[8fL	.
-8FJ	.	.	16fL]	.
-.	.	.	16gnJJ	.
+*v	*v	*	*	*
+4D-	8G-L 8B-	4.f	.
+.	8G-J 8B-	.	.
+16qCnLL	.	.	.
+16qD-JJ	.	.	.
+4C	8G-L 8B-	.	.
+.	8G-J 8B-	8en	.
+=89	=89	=89	=89
+8FFL 8D-	4F 4B-	[8fL	.
+8FJ	.	16fL]	.
+.	.	16gnJJ	.
+*^	*	*	*
 4F	8e-L	8fL	16anLL	.
 .	.	.	16b-	.
 .	8d-J	8b-J	16gg-X	.
 .	.	.	16ffJJ	.
-4F 4cn	8rc	4b-	4een	.
+4F 4cn	8r	4b-	4een	.
 .	8g-X	.	.	.
-*v	*v	*	*	*
-*	*v	*v	*
-.	16qqee-X/LL	.
-.	16qqeen/JJ	.
+.	.	.	16qee-XLL	.
+.	.	.	16qeenJJ	.
+*	*	*v	*v	*
+*v	*v	*	*
 =90	=90	=90
 16F 16cn 16f	16an 16ff	.
 16FFLL 16F	16r	.
@@ -1048,7 +1075,8 @@
 16BBB- 16BB-	.	.
 16AAA-X 16AA-X	8EJ 8B- 8en	.
 16GGG-JJ 16GG-	.	.
-=91||	=91||	=91||
+*kcancel	*kcancel	*
+=91	=91	=91
 *k[b-e-a-d-g-]	*k[b-e-a-d-g-]	*
 *	*^	*
 4FFF 4FF	8B-L 8d-	4F 4f	.
@@ -1095,23 +1123,23 @@
 4FFF 4FF	8D-L 8A-	.	.
 .	8A-J	8D- 8d-	.
 =95	=95	=95	=95
-8FFFL 8FF	4An	8D-L 8d-	.
-[8EEE-J [8EE-	.	16CL 16c	.
-.	.	16BBnJJ 16Bn	.
-8EEE-L] 8EE-]	4A	16D-KL 16d-	.
-.	.	8C 8c	.
+8FFFL 8FF	8D-L 8d-	4An	.
+[8EEE-J [8EE-	16CL 16c	.	.
+.	16BBnJJ 16Bn	.	.
+8EEE-L] 8EE-]	16D-KL 16d-	4A	.
+.	8C 8c	.	.
 16DDDnL 16DDn	.	.	.
-16EEE-JJ 16EE-	.	16CJk 16c	.
-16GGG-LL 16GG-	4A	8D-L 8d-	.
+16EEE-JJ 16EE-	16CJk 16c	.	.
+16GGG-LL 16GG-	8D-L 8d-	4A	.
 16FFF 16FF	.	.	.
-16BBBBn 16BBBn	.	8FJ 8f	.
+16BBBBn 16BBBn	8FJ 8f	.	.
 16CCCJJ 16CC	.	.	.
 =96	=96	=96	=96
-2DDD- 2DD-	4F	8.BB-XL 8.B-X	.
-.	.	16FFJk 16F	.
-.	4F	4BB- 4B-	.
-4DDD- 4DD-	4rEE	4BBn 4F 4A- 4Bn	.
+2DDD- 2DD-	8.BB-XL 8.B-X	4F	.
+.	16FFJk 16F	.	.
+.	4BB- 4B-	4F	.
 *	*v	*v	*
+4DDD- 4DD-	4BBn 4F 4A- 4Bn	.
 =97	=97	=97
 8CCCL 8CC	8CL 8F 8A- 8c	.
 *	*clefG2	*
@@ -1122,8 +1150,8 @@
 .	16a-JJ	.
 8B-L 8en	4g-	.
 8CJ	.	.
-.	16qqf/LL	.
-.	16qqg-/JJ	.
+.	16qfLL	.
+.	16qg-JJ	.
 =98	=98	=98
 16FF 16F	16f	.
 16CCLL 16C	16cLL 16cc	.
@@ -1138,53 +1166,56 @@
 16DDD- 16DD-	16D- 16d-	.
 16CCCJJ 16CC	16CJJ 16c	.
 =99	=99	=99
-*^	*^	*
-8BBBB-L 8BBB-	4rc	8b-L	4f 4ff	.
-16FL 16d-	.	16b-L	.	.
-16FJJ 16d-	.	16b-JJ	.	.
+*	*^	*
+8BBBB-L 8BBB-	8b-L	4f 4ff	.
+16FL 16d-	16b-L	.	.
+16FJJ 16d-	16b-JJ	.	.
+*^	*	*	*
 8.G-L	8d-L	8b-L	8.enL 8.een	.
 .	8d-J	8b-J	.	.
 16FJk	.	.	16fJk 16ff	.
-16FFLL 16D- 16B-	4rc	8dd-L	16g-LL 16gg-	.
-16EnJ	.	.	16gn 16ggn	.
-*clefG2	*	*	*	*
-8d-J 8gn 8dd-	.	16ggL	16ccJ 16ccc	.
-.	.	16dd-JJ	32r	.
-.	.	.	32b-Jkk 32bb-	.
-*clefF4	*	*	*	*
-=100	=100	=100	=100	=100
-4FFF 4FF	8rc	8dd-L	[4b- [4bb-	.
+*v	*v	*	*	*
+16FFLL 16D- 16B-/	8dd-L	16g-LL 16gg-	.
+16EnJ	.	16gn 16ggn	.
+*clefG2	*	*	*
+8d-J 8gn 8dd-	16ggL	16ccJ 16ccc	.
+.	16dd-JJ	32r	.
+.	.	32b-Jkk 32bb-	.
+*clefF4	*	*	*
+=100	=100	=100	=100
+*^	*	*	*
+4FFF 4FF	8r	8dd-L	[4b- [4bb-	.
 .	16D-LL 16B-	16d-L 16b- 16dd-	.	.
 .	16D-JJ 16B-	16d-JJ 16b- 16dd-	.	.
-8..EEEnL 8..EEn	8rc	8d-L 8b- 8dd-	16b-LL] 16bb-]	.
+8..EEEnL 8..EEn	8r	8d-L 8b- 8dd-	16b-LL] 16bb-]	.
 .	.	.	16d- 16dd-	.
 .	8D- 8B-	8b-J 8dd-	16a- 16aa-	.
 .	.	.	16g-XJJ 16gg-X	.
 32FFFJkk 32FF	.	.	.	.
-16AAAnLL 16AAn	4rc	8dd-L	4f 4ff	.
+16AAAnLL 16AAn\	4ryy	8dd-L	4f 4ff	.
 16BBB- 16BB-	.	.	.	.
 16EE-XJ 16E-X	.	8B-J 8f 8b-	.	.
 32r	.	.	.	.
 32DD-Jkk 32D-	.	.	.	.
 =101	=101	=101	=101	=101
-[4DD- [4D-	8rc	8g-L	[4g- [4gg-	.
+[4DD- [4D-	8r	8g-L	[4g- [4gg-	.
 .	16G-LL 16B- 16f	16g-L 16b-	.	.
 .	16G-JJ 16B- 16f	16g-JJ 16b-	.	.
 8DD-L] 8D-]	4B- 4e-	8g-L 8b-	8g-L] 8gg-]	.
 16CCL 16C	.	16a-L	16fL 16ff	.
 16BBB-JJ 16BB-	.	16dd-JJ	16g-JJ 16gg-	.
-8AAA-L 8AA-	4rc	8ccL	16b-LL 16bb-	.
+8AAA-L 8AA-\	4ryy	8ccL	16b-LL 16bb-	.
 .	.	.	16a- 16aa-	.
 8AA-J 8G- 8c	.	8a-J 8cc	16e- 16ee-	.
 .	.	.	16enJJ 16een	.
 =102	=102	=102	=102	=102
-[4CC [4C	8rc	8a-L 8cc	2f 2ff	.
+[4CC [4C	8r	8a-L 8cc	2f 2ff	.
 .	16FLL 16A-	16fL 16a-	.	.
 .	16FJJ 16A-	16fJJ 16a-	.	.
 8CCL] 8C]	4F 4A-	8fL 8a-	.	.
 16BBB-L 16BB-	.	16A-L 16f 16a-	.	.
 16CCJJ 16C	.	16A-JJ 16f 16a-	.	.
-16EE-LL 16E-	4rc	8A-L 8f 8a-	8raa	.
+16EE-LL 16E-\	4ryy	8A-L 8f 8a-	8r	.
 16DD- 16D-	.	.	.	.
 16AA- 16A-	.	8cc-XJ	8f 8ff	.
 16D-JJ 16d-	.	.	.	.
@@ -1210,30 +1241,32 @@
 8BBnJ 8Bn	.	8fJ 8a-	.	.
 =105	=105	=105	=105	=105
 8CL 8c	8A-	8fL	8cL 8cc	.
-16A-L 16f 16a-	8rc	[8ffJ	[8ccJ [8ccc	.
+16A-L 16f 16a-	8ryy	[8ffJ	[8ccJ [8ccc	.
 16A-JJ 16f 16a-	.	.	.	.
-8A-L 8f 8a-	4rc	4ff]	8ccL] 8ccc]	.
-8cJ 8f 8cc	.	.	16b-L 16bb-	.
-.	.	.	16a-JJ 16aa-	.
-8B-L 8en 8b-	4rc	4cc 4een	24gnLL 24ggn	.
-.	.	.	24a- 24aa-	.
-.	.	.	24g 24gg	.
-8CJ 8B- 8e	.	.	32a-L 32aa-	.
-.	.	.	32g 32gg	.
-.	.	.	32a- 32aa-	.
-.	.	.	32gJJJ 32gg	.
 *v	*v	*	*	*
+8A-L 8f 8a-	4ff]	8ccL] 8ccc]	.
+8cJ 8f 8cc	.	16b-L 16bb-	.
+.	.	16a-JJ 16aa-	.
+8B-L 8en 8b-	4cc 4een	24gnLL 24ggn	.
+.	.	24a- 24aa-	.
+.	.	24g 24gg	.
+8CJ 8B- 8e	.	32a-L 32aa-	.
+.	.	32g 32gg	.
+.	.	32a- 32aa-	.
+.	.	32gJJJ 32gg	.
 =106	=106	=106	=106
 16FF 16C 16A-	16cc	16f 16ff	.
-16FFLL 16F	8.rc	16fLL 16ff	.
-16EEn 16En	.	16en 16een	.
-16DD-JJ 16D-	.	16d-JJ 16dd-	.
-16CCLL 16C	4rc	16cLL 16cc	.
-16BBBn 16BBn	.	16Bn 16bn	.
-16AAA- 16AA-	.	16A- 16a-	.
-16GGGnJJ 16GGn	.	16GnJJ 16gn	.
-4FFF 4FF	4rc	4F 4f	.
-=107	=107	=107	=107
+*	*v	*v	*
+16FFLL 16F	16fLL 16ff	.
+16EEn 16En	16en 16een	.
+16DD-JJ 16D-	16d-JJ 16dd-	.
+16CCLL 16C	16cLL 16cc	.
+16BBBn 16BBn	16Bn 16bn	.
+16AAA- 16AA-	16A- 16a-	.
+16GGGnJJ 16GGn	16GnJJ 16gn	.
+4FFF 4FF	4F 4f	.
+=107	=107	=107
+*	*^	*
 8AA-L 8A-	4d-	4A- 4a-	.
 8DD-J 8D-	.	.	.
 8AAA-L 8AA-	2d-	16A-LL 16a-	.
@@ -1292,7 +1325,7 @@
 8AA-J 8A-	.	.	.
 .	.	16B-Jk 16b-	.
 =114	=114	=114	=114
-8AA-L 8A-	4a-	4B- 4b-	.
+8AA-L 8A-/	4a-	4B- 4b-	.
 8GG-J 8G-	.	.	.
 8FFL 8F	[4a-	16cLL 16cc	.
 .	.	[16cJ [16cc	.
@@ -1363,7 +1396,7 @@
 8GGG-XL 8GG-X	8EnL 8B- 8d- 8en	.
 8FFFJ 8FF	8FJ 8B- 8d- 8f	.
 =123	=123	=123
-8qFFF/ 8qFF	.	.
+8qFFF 8qFF	.	.
 8DD-L 8D-	8G-L 8B- 8d- 8g-	.
 16G-L 16d- 16g-	16b-L 16gg-	.
 16G-JJ 16d- 16g-	16b-JJ 16gg-	.
@@ -1372,7 +1405,7 @@
 8G-J 8d- 8g-	8b-J 8gg-	.
 8FFF 8FF	[8G- [8c-X [8e- [8g-	.
 =124	=124	=124
-8qFFF/ 8qFF	.	.
+8qFFF 8qFF	.	.
 8EE- 8E-	8G-] 8c-] 8e-] 8g-]	.
 16G-LL 16c-X 16e- 16g-	16cc-XLL 16ee- 16gg-	.
 16G-JJ 16c- 16e- 16g-	16cc-JJ 16ee- 16gg-	.
@@ -1414,40 +1447,40 @@
 16DDD- 16DD-	8r	.
 16CCCJJ 16CC	.	.
 =128	=128	=128
+16BBBB- 16BBB-	16ff 16bb- 16ddd- 16fff	.
+32FFLLL	48FLLL	.
+.	48B-	.
+32D-JJ	.	.
+.	48d-JJ	.
+48B-LL	64g-LLL	.
+.	64f	.
+48F	.	.
+.	64b-	.
+48B-JJ	.	.
+.	64dd-JJJ	.
+48d-LL	64gg-LLL	.
+.	64ff	.
+48f	.	.
+.	64bb-	.
+48FJJJ	.	.
+.	64ddd-JJJJ	.
 *^	*^	*
-*	*^	*	*	*
-24BBBB-/LL 24BBB-	4rEE	4rc	24ffLL 24bb- 24ddd- 24fff	4raa	.
-48FF/L	.	.	72FL	.	.
-.	.	.	72B-	.	.
-48D-/J	.	.	.	.	.
-.	.	.	72d-	.	.
-36B-/	.	.	48g-	.	.
-.	.	.	48f	.	.
-36F/	.	.	.	.	.
-.	.	.	48b-	.	.
-36B-/	.	.	.	.	.
-.	.	.	48dd-	.	.
-36d-/	.	.	48gg-	.	.
-.	.	.	48ff	.	.
-36f/	.	.	.	.	.
-.	.	.	48bb-	.	.
-36F/JJ	.	.	.	.	.
-.	.	.	48ddd-JJJ	.	.
+*^	*	*	*	*
 8F\L	4B- 4d-	8.g-L	8.eenL 8.eeen	8bb-L	.
-8F\J	.	.	.	8bb-J	.
+8FJ	.	.	.	8bb-J	.
 .	.	16fJk	16ffJk 16fff	.	.
-4r	4rEE	8FL 8B- 8d- 8en	16gg-LL 16ggg-	8ddd-	.
-.	.	.	16ggn 16gggn	.	.
-*clefG2	*	*	*	*	*
-.	.	8d-J 8gn 8een	16cccJ 16cccc	8ggg	.
-.	.	.	32r	.	.
-.	.	.	32bb-Jkk 32bbb-	.	.
 *	*v	*v	*	*	*
 *v	*v	*	*	*
+8FL 8B- 8d- 8en	16gg-LL 16ggg-	8ddd-	.
+.	16ggn 16gggn	.	.
+*clefG2	*	*	*
+8d-J 8gn 8een	16cccJ 16cccc	8ggg	.
+.	32r	.	.
+.	32bb-Jkk 32bbb-	.	.
 *clefF4	*	*	*
 =129	=129	=129	=129
+8BBB-L 8FF 8D-	8fffL	[4bb- [4bbb-	.
 *^	*	*	*
-8rEE	8BBB-L 8FF 8D-	8fffL	[4bb- [4bbb-	.
 [8F	16d-L 16f	16b-L 16ff	.	.
 .	16d-JJ 16f	16b-JJ 16ff	.	.
 16FLL]	8d-L 8f	8b-L 8ff	16bb-LL] 16bbb-]	.
@@ -1457,33 +1490,35 @@
 8FL	4B- 4d- 4b-	4bb- 4ddd-	8ffL 8fff	.
 16G-L	.	.	16eenL 16eeen	.
 16FJJ	.	.	16ffJJ 16fff	.
-=130	=130	=130	=130	=130
-8rEE	8E-X 8B- 8d- 8b-	8bb-L 8ddd-	8aa-L 8aaa-	.
-*clefG2	*	*	*	*
+*v	*v	*	*	*
+=130	=130	=130	=130
+8E-X 8B- 8d- 8b-	8bb-L 8ddd-	8aa-L 8aaa-	.
+*clefG2	*	*	*
+*^	*	*	*
 8g- 8b-	16fLL 16ff	16bb-L 16ddd-	[8gg-J [8ggg-	.
 .	16B-JJ 16b-	16dd-JJ 16gg- 16ddd-	.	.
 4g- 4b-	4e- 4ee-	8dd-L 8gg- 8ddd-	8gg-L] 8ggg-]	.
 .	.	8ddd-J	16ffL 16fff	.
 .	.	.	16gg-JJ 16ggg-	.
-*clefF4	*	*	*	*
-4rEE	8AA-L 8G- 8c	8cccL	16bb-LL 16bbb-	.
-.	.	.	16aa- 16aaa-	.
-.	8A-J 8g- 8cc	8aa-J 8ccc	16ee- 16eee-	.
-.	.	.	16eenJJ 16eeen	.
 *v	*v	*	*	*
+*clefF4	*	*	*
+8AA-L 8G- 8c	8cccL	16bb-LL 16bbb-	.
+.	.	16aa- 16aaa-	.
+8A-J 8g- 8cc	8aa-J 8ccc	16ee- 16eee-	.
+.	.	16eenJJ 16eeen	.
 =131	=131	=131	=131
 8.DD-L 8.AA- 8.F	8cccL	4ff 4fff	.
 .	24ccL 24ff 24aa- 24ccc	.	.
 .	24cc 24ff 24aa- 24ccc	.	.
 16AA-Jk 16A-	.	.	.
 .	24ccJJ 24ff 24aa- 24ccc	.	.
-8FL 8e- 8f	8ccL 8ff 8aa- 8ccc	4raa	.
+8FL 8e- 8f	8ccL 8ff 8aa- 8ccc	4r	.
 8AA-J 8A-	8aa-J 8aaa-	.	.
-8.FL 8.d- 8.f	4dd- 4aa- 4ddd-	8raa	.
+8.FL 8.d- 8.f	4dd- 4aa- 4ddd-	8r	.
 .	.	8ff 8fff	.
 16CC-XJk 16C-X	.	.	.
 =132	=132	=132	=132
-8qCC-X/ 8qC-X	.	.	.
+8qCC-X 8qC-X	.	.	.
 8FFL 8F	8eee-L	8bb-L 8bbb-	.
 16E-L 16A- 16e-	16eee-L	[8aa-J [8aaa-	.
 16A-JJ 16e- 16a-	16ee-JJ 16eee-	.	.
@@ -1495,13 +1530,13 @@
 8B-J 8a- 8ddn	8bb-J 8ddd	16een 16eeen	.
 .	.	16ffJJ 16fff	.
 =133	=133	=133	=133
+8.EE-L 8.BB- 8.F	8bb-L 8ddd-X	4aa- 4aaa-	.
+.	24dd-L 24bb- 24ddd-	.	.
+.	24dd- 24bb- 24ddd-	.	.
+16BB-Jk 16B-	.	.	.
+.	24dd-JJ 24bb- 24ddd-	.	.
 *^	*	*	*
-8.EE-L 8.BB- 8.F	4rc	8bb-L 8ddd-X	4aa- 4aaa-	.
-.	.	24dd-L 24bb- 24ddd-	.	.
-.	.	24dd- 24bb- 24ddd-	.	.
-16BB-Jk 16B-	.	.	.	.
-.	.	24dd-JJ 24bb- 24ddd-	.	.
-8G-L 8d- 8g-	8rc	8bb-L 8ddd-	4gg-X 4ggg-X	.
+8G-L 8d- 8g-	8ryy	8bb-L 8ddd-	4gg-X 4ggg-X	.
 24BB-L	8B-	8dd-J 8bb- 8ddd-	.	.
 24C	.	.	.	.
 24D-JJ	.	.	.	.
@@ -1531,7 +1566,7 @@
 .	.	32dd- 32ddd-	.
 .	.	32ccJJJ 32ccc	.
 =135	=135	=135	=135
-8FFFL 8FF	8rc	8raa	.
+8FFFL 8FF	8r	8r	.
 16D-L 16B- 16d-	[8b-	[8f [8ff	.
 16D-JJ 16B- 16d-	.	.	.
 8D-L 8B- 8d-	8b-L]	8fL] 8ff]	.
@@ -1548,25 +1583,25 @@
 8FF-XL 8D-	4B- 4g-	[2b-	.
 16D-L 16B-	.	.	.
 16D-JJ 16B-	.	.	.
-8D-L 8B-	4rc	.	.
+8D-L 8B-	4r	.	.
 16G-L 16g-	.	.	.
 16G-JJ 16g-	.	.	.
-8G- 8g-	8rc	8b-L]	.
+8G- 8g-	8r	8b-L]	.
 8EE- 8BB- 8G-	8e- 8g-	8b-J	.
 =137	=137	=137	=137
+8EEnL 8BB- 8G-	4d- 4g-	8b-L	.
+16G-L 16g-	.	8anJ	.
+16G-JJ 16g-	.	.	.
+4G- 4g-	4r	8b-L	.
+.	.	8ccJ	.
 *	*	*^	*
-8EEnL 8BB- 8G-	4r	4d- 4g-	8b-L	.
-16G-L 16g-	.	.	8anJ	.
-16G-JJ 16g-	.	.	.	.
-4G- 4g-	4r	4rc	8b-L	.
-.	.	.	8ccJ	.
-8D-L 8B-	8g-/L	4b-	8.dd-L	.
-8FFJ	8f/J	.	.	.
+8D-L 8B-	8g-\L	4b-	8.dd-L	.
+8FFJ	8fJ	.	.	.
 .	.	.	16ee-Jk	.
 *	*	*v	*v	*
 =138	=138	=138	=138
+8BBB- 8FF 8F	8e- 8b-	8.ffL	.
 *^	*	*	*
-8rEE	8BBB- 8FF 8F	8e- 8b-	8.ffL	.
 4F	4f	4b-	.	.
 .	.	.	16ccJk	.
 .	.	.	8ffL	.
@@ -1589,9 +1624,9 @@
 .	.	32r	16fJJ	.
 .	24B-JJ	.	.	.
 .	.	32d-Jkk	.	.
-4.F	4rc	8B-L 8d-	4.a-X	.
+4.F	4ryy	8B-L 8d-	4.a-X	.
 .	.	8B-J 8d-	.	.
-.	4rc	8B-L 8d-	.	.
+.	4ryy	8B-L 8d-	.	.
 8E-	.	8B-J 8d-	8g-	.
 =140	=140	=140	=140	=140
 4E-	8AnL	8d-L	8fL	.
@@ -1616,8 +1651,8 @@
 8FFJ 8F	.	.	.
 .	.	16ee-Jk	.
 =142	=142	=142	=142
+8BBB- 8FF 8F	8e- 8b-	8.ffL	.
 *^	*	*	*
-8rEE	8BBB- 8FF 8F	8e- 8b-	8.ffL	.
 4F	4f	4b-	.	.
 .	.	.	16ccJk	.
 .	.	.	8ffL	.
@@ -1640,21 +1675,23 @@
 .	.	32r	16fJJ	.
 .	24B-JJ	.	.	.
 .	.	32d-Jkk	.	.
-4.E-X	4rc	8B-L 8d-	4.a-X	.
-.	.	8B-J 8d-	.	.
-.	4rc	8B-L 8d-	.	.
-8En	.	8B-J 8d-	8g-	.
-=144	=144	=144	=144	=144
-8FL	4rc	4d-	[8fL	.
-8FJ	.	.	16fL]	.
-.	.	.	16gnJJ	.
+*v	*v	*	*	*
+4.E-X	8B-L 8d-	[4a-X	.
+.	8B-J 8d-	.	.
+.	8B-L 8d-	8a-L]	.
+8En	8B-J 8d-	8g-J	.
+=144	=144	=144	=144
+8FL	4d-	[8fL	.
+8FJ	.	16fL]	.
+.	.	16gnJJ	.
+*^	*	*	*
 4F	8e-L	8fL	16anLL	.
 .	.	.	16b-	.
 .	8d-J	8b-J	16gg-X	.
 .	.	.	16ffJJ	.
 4F	4c	4b-	4een	.
-.	.	.	16qqee-X/LL	.
-.	.	.	16qqeen/JJ	.
+.	.	.	16qee-XLL	.
+.	.	.	16qeenJJ	.
 =145	=145	=145	=145	=145
 8FFL	4D-	4B-	[8FL [8f	.
 8FFJ	.	.	16FL] 16f]	.
@@ -1663,19 +1700,19 @@
 .	.	.	16B- 16b-	.
 .	8D-J 8B-	8b-J	16g-X 16gg-X	.
 .	.	.	16fJJ 16ff	.
-8rEE	4C 4B-	4b-	20enLL 20een	.
+8r	4C 4B-	4b-	20enLL 20een	.
 .	.	.	20f 20ff	.
 .	.	.	20e 20ee	.
 8FF	.	.	.	.
 .	.	.	20f 20ff	.
 .	.	.	20eJJ 20ee	.
 =146	=146	=146	=146	=146
-8rEE	2C 2B-	2g-	8.e-XL 8.ee-X	.
+8r	2C 2B-	2g-	8.e-XL 8.ee-X	.
 4FF	.	.	.	.
 .	.	.	16B-Jk 16b-	.
 .	.	.	[4e- [4ee-	.
 8FF	.	.	.	.
-8rEE	4D- 4B-	4g- 4b-	8e-L] 8ee-]	.
+8r	4D- 4B-	4g- 4b-	8e-L] 8ee-]	.
 8FF	.	.	8d-J 8dd-	.
 =147	=147	=147	=147	=147
 2FF	8E-L 8B-	8g-L	2dd-	.
@@ -1683,7 +1720,7 @@
 .	16E-JJ 16B-	16g-JJ	.	.
 .	8E-L 8B-	8g-L	.	.
 .	8E-J 8B-	8g-J	.	.
-4rEE	8FFL 8E- 8An	8g-L	4cc	.
+4ryy	8FFL 8E- 8An	8g-L	4cc	.
 .	8FJ 8e-	8fJ	.	.
 =148	=148	=148	=148	=148
 4BB-	8FL 8d-	4f	2b-	.
@@ -1692,24 +1729,24 @@
 8.G-L	8d-L	8.enL	.	.
 .	8d-J	.	.	.
 16FJk	.	16fJk	.	.
-8FFL 8D- 8B-	4rc	16g-LL	4dd-	.
-.	.	16gn	.	.
-8EnJ 8d- 8gn	.	16ccJ	.	.
-.	.	32r	.	.
-.	.	32b-Jkk	.	.
 *v	*v	*	*	*
+8FFL 8D- 8B-	16g-LL	4dd-	.
+.	16gn	.	.
+8EnJ 8d- 8gn	16ccJ	.	.
+.	32r	.	.
+.	32b-Jkk	.	.
 =149	=149	=149	=149
-*	*	*^	*
-8BBB-L 8FF 8D-	4r	[4b-	4.dd- 4.ff	.
-16FL 16B- 16f	.	.	.	.
-16FJJ 16B- 16f	.	.	.	.
-8FL 8B- 8f	16r	16b-LL]	.	.
-.	[16d-\KL	16d-	.	.
-8EnJ 8B- 8en	8d-\J]	16a-	8b- 8dd-	.
+8BBB-L 8FF 8D-	[4b-	4.dd- 4.ff	.
+16FL 16B- 16f	.	.	.
+16FJJ 16B- 16f	.	.	.
+8FL 8B- 8f	16b-LL]	.	.
+.	[16d-	.	.
+*	*^	*	*
+8EnJ 8B- 8en	8d-J\]	16a-	8b- 8dd-	.
 .	.	16g-XJJ	.	.
-8FL 8B- 8f	4r	4d- 4f	4b-	.
-8FJ	.	.	.	.
-*	*	*v	*v	*
+*	*v	*v	*	*
+8FL 8B- 8f	4d- 4f	4b-	.
+8FJ	.	.	.
 =150	=150	=150	=150
 *^	*	*	*
 2BB-	8FL 8B-	4d-	2f	.
@@ -1718,11 +1755,11 @@
 .	8FL 8B-	8.cL	.	.
 .	8FJ 8B-	.	.	.
 .	.	16d-Jk	.	.
-8FFL 8D- 8B-	4rc	16e-LL	4b-	.
-.	.	16en	.	.
-8EnJ 8B- 8d-	.	16a-	.	.
-.	.	16g-JJ	.	.
 *v	*v	*	*	*
+8FFL 8D- 8B-	16e-LL	4b-	.
+.	16en	.	.
+8EnJ 8B- 8d-	16a-	.	.
+.	16g-JJ	.	.
 =151	=151	=151	=151
 8BBB-L 8FF 8D-	[4f	4.b- 4.dd-	.
 16FFL 16BB- 16F	.	.	.
@@ -1741,7 +1778,7 @@
 .	16B-	.	.
 8FFJ 8BB- 8F	16f	8b- 8dd-	.
 .	16e-JJ	.	.
-8FFL 8BB- 8F	4rc	4d- 4f 4b-	.
+8FFL 8BB- 8F	4r	4d- 4f 4b-	.
 8FFFJ 8FF	.	.	.
 *	*v	*v	*
 =153	=153	=153
@@ -1750,6 +1787,7 @@
 2BB- 2F 2d-	2b- 2ff 2bb-	.
 ==	==	==
 *-	*-	*-
+!!!filter: flipper -a
 !!!system-decoration: {(*)}
 !!!ENC: Bryan Jacob Bell
 !!!END: November 2021 to April 2022

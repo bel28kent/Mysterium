@@ -24,7 +24,7 @@
 .	12eeJ	.
 =2	=2	=2
 *^	*^	*
-4rEE	4rc	4rc	12ddL	.
+4r	4r	4rc	12ddL	.
 .	.	.	12cc#	.
 .	.	.	12aJ	.
 4D	12AL	12c#L	4f#	.
@@ -38,23 +38,22 @@
 4CC#	4E#X	12c#L	.
 .	.	12B#X	.
 .	.	12c#J	.
-4C# 4B	4rc	4d	.
-4r	4rc	12e#XL	.
+4C# 4B	4rF	4d	.
+4r	4rF	12e#XL	.
 .	.	12a	.
 .	.	12g#J	.
 =4	=4	=4	=4
-*^	*	*^	*
-2.FF# 2.D	12AL	[4B\	[4d	12f#L	.
-.	12.G#	.	.	12.g#	.
-.	24F#Jk	.	.	24aJk	.
-.	12F#L	4B\_	12dL]	[4a	.
-.	12E	.	12e	.	.
-.	12DJ	.	12f#J	.	.
-.	4D	4B\]	4f#	12aL]	.
-.	.	.	.	12g#	.
-.	.	.	.	12aJ	.
-*v	*v	*	*	*	*
-*	*	*v	*v	*
+*^	*	*	*
+2.FF# 2.D	12AL	[4B [4d	12f#L	.
+.	12.G#	.	12.g#	.
+.	24F#Jk	.	24aJk	.
+.	12F#L	12dL]	4B_ [4a	.
+.	12E	12e	.	.
+.	12DJ	12f#J	.	.
+.	4D	4B] 4f#	12aL]	.
+.	.	.	12g#	.
+.	.	.	12aJ	.
+*v	*v	*	*	*
 =5	=5	=5	=5
 4FF# 4C#	4A 4f#	[4cc#	.
 4C# 4A 4c#	4rc	12cc#L]	.
@@ -65,7 +64,7 @@
 .	.	12eeJ	.
 =6	=6	=6	=6
 *^	*	*	*
-4rEE	4rc	4rc	12ddL	.
+4r	4r	4rc	12ddL	.
 .	.	.	12cc#	.
 .	.	.	12aJ	.
 4D	2A	12c#L	[4f#	.
@@ -77,11 +76,11 @@
 *v	*v	*	*	*
 =7	=7	=7	=7
 *	*	*^	*
-4EE	2d\	4f#	12cc#L	.
+4EE	2.d\	4f#	12cc#L	.
 .	.	.	12b	.
 .	.	.	12cc#J	.
 [4E	.	4f##X	4ee	.
-4E] 4e	4r	4g#	12cc#L	.
+4E] 4e	.	4g#	12cc#L	.
 .	.	.	12b#X	.
 .	.	.	12gg#J	.
 *	*	*v	*v	*
@@ -89,10 +88,10 @@
 4AA 4D#X	4a 4cc#	12ff#L	.
 .	.	12ffn	.
 .	.	12aaJ	.
-4E 4c#	4rc	12ee	.
+4E 4c#	4ryy	12ee/	.
 .	.	12eL	.
 .	.	12f#J	.
-4r	4rc	12g#L	.
+4r	4ryy	12g#L	.
 .	.	12a	.
 .	.	12bJ	.
 *	*v	*v	*
@@ -130,7 +129,7 @@
 .	12a#XJ	.
 =12	=12	=12
 *^	*^	*
-4rEE	4GGn 4D 4Gn	12BL	[4b	.
+4ryy	4GGn 4D 4Gn	12BL	[4b	.
 .	.	12gn	.	.
 .	.	12f#J	.	.
 2C#	6B	2e#X	12bL]	.
@@ -152,7 +151,7 @@
 .	12eeJ	.
 =14	=14	=14
 *^	*^	*
-4rEE	4rc	4rc	12ddL	.
+4r	4r	4rc	12ddL	.
 .	.	.	12cc#	.
 .	.	.	12aJ	.
 4D	12AL	12c#L	4f#	.
@@ -166,30 +165,29 @@
 4CC#	4E#X	12c#L	.
 .	.	12B#X	.
 .	.	12c#J	.
-4C# 4B	4rc	4d	.
-4r	4rc	12e#XL	.
+4C# 4Bn	4rF	4d	.
+4r	4rF	12e#XL	.
 .	.	12a	.
 .	.	12g#J	.
 =16	=16	=16	=16
-*^	*	*^	*
-2.FF# 2.D	12AL	[4B\	[4d	12f#L	.
-.	12.G#	.	.	12.g#	.
-.	24F#Jk	.	.	24aJk	.
-.	12F#L	4B\_	12dL]	[4a	.
-.	12E	.	12e	.	.
-.	12DJ	.	12f#J	.	.
-.	4D	4B\]	4f#	12aL]	.
-.	.	.	.	12g#	.
-.	.	.	.	12aJ	.
-*	*	*	*v	*v	*
+*^	*	*	*
+2.FF# 2.D	12AL	[4B [4d	12f#L	.
+.	12.G#	.	12.g#	.
+.	24F#Jk	.	24aJk	.
+.	12F#L	12dL]	4B_ [4a	.
+.	12E	12e	.	.
+.	12DJ	12f#J	.	.
+.	4D	4B] 4f#	12aL]	.
+.	.	.	12g#	.
+.	.	.	12aJ	.
 =17	=17	=17	=17	=17
-2FF# 2C#	4rc	4B 4e#X 4a	12cc#L	.
+2FF# 2C#	4ryy	4B 4e#X 4a	12cc#L	.
 .	.	.	12dd#X	.
 .	.	.	12ee#XJ	.
 .	4A	4c#	12ff#L	.
 .	.	.	12cc#	.
 .	.	.	12aJ	.
-4rEE	4rc	4rc	12g#L	.
+4rEE	4rc	4rA	12g#L	.
 .	.	.	12f#J	.
 .	.	.	12raa	.
 *v	*v	*	*	*
@@ -197,17 +195,17 @@
 =18||	=18||	=18||
 *k[f#c#]	*k[f#c#]	*
 *M3/8	*M3/8	*
+24AALL	8F# 8d 8f#	.
+24GG#X	.	.
+24AAJJ	.	.
+24BB-XLL	4G 4d 4f#	.
+24AA	.	.
+24BB-JJ	.	.
+24DLL	.	.
+24Cn	.	.
+24BB-JJ	.	.
+=19	=19	=19
 *	*^	*
-24AALL	8F#	8d 8f#	.
-24GG#X	.	.	.
-24AAJJ	.	.	.
-24BB-XLL	4G	4d 4f#	.
-24AA	.	.	.
-24BB-JJ	.	.	.
-24DLL	.	.	.
-24Cn	.	.	.
-24BB-JJ	.	.	.
-=19	=19	=19	=19
 24AALL	24F#LL	8d 8f#	.
 24BB-X	24d	.	.
 24AAJJ	24cnJJ	.	.
@@ -218,7 +216,7 @@
 24GG	.	.	.
 24DDJJ	.	.	.
 =20	=20	=20	=20
-24DDLL	8Fn	8B-X 8fn	.
+24DDLL	8ryy	8Fn 8B-X 8fn	.
 24BB-X	.	.	.
 24FnJJ	.	.	.
 24GnLL	4B- 4d	16dLL	.
@@ -240,17 +238,19 @@
 24E	.	.	.
 .	.	16b#XJJ	.
 24FJJ	.	.	.
-=22	=22	=22	=22
-24ELL	8c#	8a 8cc#	.
-24D#X	.	.	.
-24EJJ	.	.	.
-24FnLL	4d	4a 4cc#	.
-24E	.	.	.
-24FJJ	.	.	.
-24ALL	.	.	.
-24G	.	.	.
-24FJJ	.	.	.
-=23	=23	=23	=23
+*	*v	*v	*
+=22	=22	=22
+24ELL	8c# 8a 8cc#	.
+24D#X	.	.
+24EJJ	.	.
+24FnLL	4d 4a 4cc#	.
+24E	.	.
+24FJJ	.	.
+24ALL	.	.
+24G	.	.
+24FJJ	.	.
+=23	=23	=23
+*	*^	*
 24ELL	24c#LL	8a 8cc#	.
 24Fn	24a	.	.
 24EJJ	24gJJ	.	.
@@ -261,7 +261,7 @@
 24D	.	.	.
 24AAJJ	.	.	.
 =24	=24	=24	=24
-24AALL	8rc	8cn 8fn 8ccn	.
+24AALL	8ryy	8cn 8fn 8ccn	.
 24Fn	.	.	.
 24cnJJ	.	.	.
 24dnLL	4f 4a	16aLL	.
@@ -273,7 +273,7 @@
 .	.	16eeJJ	.
 24cJJ	.	.	.
 =25	=25	=25	=25
-24ALL	8rc	8f#X 8ccn 8dd#X	.
+24ALL	8ryy	8f#X 8ccn 8dd#X	.
 24BB	.	.	.
 24F#JJ	.	.	.
 24cnLL	8a 8dd#	16ee#XLL	.
@@ -291,7 +291,7 @@
 8B	.	24bbLL]	.
 .	.	24gg#X	.
 .	.	24aaJJ	.
-8r	8rc	24eeeLL	.
+8r	8rf	24eeeLL	.
 .	.	24ddd	.
 .	.	24ffnJJ	.
 *	*clefF4	*	*
@@ -310,11 +310,11 @@
 8FFn	24DLL	8Fn	24dLL	.
 .	24Cn	.	24cn	.
 .	24BB-XJJ	.	24B-XJJ	.
-*	*	*clefG2	*	*
+*	*	*clefG2	*clefG2	*
 8BB-	24FnLL	8B-X	24fnLL	.
 .	24G	.	24g	.
 .	24FJJ	.	24fJJ	.
-8rEE	24ELL	8rc	24eLL	.
+8rFF	24ELL	8rA	24eLL	.
 .	24F	.	24f	.
 .	24AJJ	.	24aJJ	.
 *v	*v	*	*	*
@@ -331,29 +331,27 @@
 .	.	16aaJJ	.
 24fJJ	.	.	.
 =30	=30	=30	=30
-*	*	*^	*
-24dLL	8r	8bn	8ffn 8gg#X	.
-24E	.	.	.	.
-24BJJ	.	.	.	.
-8r	24fn\LL	8dd 8gg#	16aa#XLL	.
-.	24e\	.	.	.
-.	.	.	16bbJJ	.
-.	24f\JJ	.	.	.
-8r	24cc#\LL	8dd 8gg#	16eeeLL	.
-.	24b\	.	.	.
-.	.	.	16eeeJJ	.
-.	24b-X\JJ	.	.	.
-=31	=31	=31	=31	=31
-4.r	24b-X\LL	4dd 4ggn	8eee	.
-.	24e\	.	.	.
-.	24b-\JJ	.	.	.
-.	4e\	.	24eeeLL	.
-.	.	.	24ccc#X	.
-.	.	.	24dddJJ	.
-.	.	8rc	24aaaLL	.
-.	.	.	24ggg	.
-.	.	.	24bb-XJJ	.
-*	*	*v	*v	*
+24dLL	8bn	8ffn 8gg#X	.
+24E	.	.	.
+24BJJ	.	.	.
+24fn>LL	8dd 8gg#	16aa#XLL	.
+24e>	.	.	.
+.	.	16bbJJ	.
+24f>JJ	.	.	.
+24cc#>LL	8dd 8gg#	16eeeLL	.
+24b>	.	.	.
+.	.	16eeeJJ	.
+24b-X>JJ	.	.	.
+=31	=31	=31	=31
+24b-X>LL	4dd 4ggn	[8eee	.
+24e>	.	.	.
+24b->JJ	.	.	.
+8e>	.	24eeeLL]	.
+.	.	24ccc#X	.
+.	.	24dddJJ	.
+8r	8rf	24aaaLL	.
+.	.	24ggg	.
+.	.	24bb-XJJ	.
 =32	=32	=32	=32
 *^	*	*	*
 24DLL	8D	24dLL	8d	.
@@ -370,17 +368,17 @@
 8BB-X\	24GLL	8G	8B-X	24gLL	.
 .	24Fn	.	.	24fn	.
 .	24E-XJJ	.	.	24e-XJJ	.
-8r	8E-	24B-XLL	8e-	24b-XLL	.
-.	.	24cn	.	24ccn	.
-.	.	24B-JJ	.	24b-JJ	.
-8r	8rEE	24ALL	8rc	24aLL	.
-.	.	24B-	.	24b-	.
-.	.	24dJJ	.	24ddJJ	.
-*	*v	*v	*	*	*
+*v	*v	*	*	*	*
+8E-	24B-XLL	8e-	24b-XLL	.
+.	24cn	.	24ccn	.
+.	24B-JJ	.	24b-JJ	.
+8rEE	24ALL	8rc	24aLL	.
+.	24B-	.	24b-	.
+.	24dJJ	.	24ddJJ	.
 *v	*v	*	*	*
 *clefG2	*	*	*
 =34	=34	=34	=34
-24GLL	8ee-X	8bb-X	.
+24GLL	8ryy	8ee-X 8bb-X	.
 24e-X	.	.	.
 24b-XJJ	.	.	.
 24ccnLL	4ee-	16ggLL	.
@@ -419,9 +417,9 @@
 24D	.	.
 24AJJ	.	.
 24e-LL	24ccnLL	.
-24a	24ff#	.
-24ee-XJJ	24cccnJJ	.
-8ee-	8ccc	.
+24a>	24ff#	.
+24ee-X>JJ	24cccnJJ	.
+8ee->	8ccc	.
 =38	=38	=38
 24AA-XLL	8e-XL 8ccn	.
 24E-X	.	.
@@ -437,9 +435,9 @@
 24D	.	.
 24AJJ	.	.
 24e-LL	24ccnLL	.
-24a	24ff#	.
-24ee-XJJ	24cccnJJ	.
-8ee-	8ccc	.
+24a>	24ff#	.
+24ee-X>JJ	24cccnJJ	.
+8ee->	8ccc	.
 =40	=40	=40
 24GGLL	8dL 8b	.
 24D	.	.
@@ -455,10 +453,10 @@
 24dLL	8f# 8b	8ff#	.
 24G#X	.	.	.
 24dJJ	.	.	.
-8r	4b	24ff#LL	.
+8b>	4ryy	24ff#LL	.
 .	.	24ff#	.
 .	.	24ff#JJ	.
-8r	.	24ff#LL	.
+8r	.	24ff#/LL	.
 .	.	24ee	.
 .	.	24ddJJ	.
 =42	=42	=42	=42
@@ -466,10 +464,10 @@
 24G#XLL	4.B 4.d	4.e#X	24ddLL	.
 24C#	.	.	24cc#	.
 24G#JJ	.	.	24bJJ	.
-24C#LL	.	.	8b	.
+24C#LL	.	.	8bL	.
 24G#	.	.	.	.
 24C#JJ	.	.	.	.
-24G#LL	.	.	8b	.
+24G#LL	.	.	8bJ	.
 24C#	.	.	.	.
 24G#JJ	.	.	.	.
 *v	*v	*	*	*
@@ -488,10 +486,10 @@
 24G#XLL	4.B 4.d	4.e#X	24ddLL	.
 24C#	.	.	24cc#	.
 24G#JJ	.	.	24bJJ	.
-24C#LL	.	.	8b	.
+24C#LL	.	.	8bL	.
 24G#	.	.	.	.
 24C#JJ	.	.	.	.
-24G#LL	.	.	8b	.
+24G#LL	.	.	8bJ	.
 24C#	.	.	.	.
 24G#JJ	.	.	.	.
 *v	*v	*	*	*
@@ -511,14 +509,14 @@
 24FF#LL	4.FF# 4.F#	4.d 4.cc#	24bLL	.
 24CC#	.	.	24a	.
 24FF#JJ	.	.	24g#XJJ	.
-24CC#LL	.	.	8g#	.
+24CC#LL	.	.	8g#L	.
 24FF#	.	.	.	.
 24CC#JJ	.	.	.	.
-24FF#LL	.	.	8g#	.
+24FF#LL	.	.	8g#J	.
 24CC#	.	.	.	.
 24FF#JJ	.	.	.	.
 =47	=47	=47	=47	=47
-24EE#XLL	4.E#X	24dLL	4.g#X 4.cc#	.
+24EE#XLL	4.EE#X 4.E#X	24dLL	4.g#X 4.cc#	.
 24CC#	.	24c#	.	.
 24EE#JJ	.	24BJJ	.	.
 24CC#LL	.	4B	.	.
@@ -531,10 +529,10 @@
 24BBLL	4.BB 4.B	4.gn 4.ff#	24eeLL	.
 24CC#	.	.	24dd	.
 24BBJJ	.	.	24cc#JJ	.
-24CC#LL	.	.	8cc#	.
+24CC#LL	.	.	8cc#L	.
 24BB	.	.	.	.
 24CC#JJ	.	.	.	.
-24BBLL	.	.	8cc#	.
+24BBLL	.	.	8cc#J	.
 24CC#	.	.	.	.
 24BBJJ	.	.	.	.
 =49	=49	=49	=49	=49
@@ -548,13 +546,13 @@
 24CC#	.	.	.	.
 24AA#JJ	.	.	.	.
 =50	=50	=50	=50	=50
-24rEE	4.F##X 4.B 4.d 4.f##X	4ggn	24ddLL 24ddd	.
+24rEE	4.Gn 4.B 4.d 4.gn	4ggn/	24ddLL 24ddd\	.
 24CC#LL	.	.	24cc# 24ccc#	.
 24C#JJ	.	.	24bJJ 24bb	.
-24CC#LL	.	.	8b 8bb	.
+24CC#LL	.	.	8b 8bb\	.
 24C#	.	.	.	.
 24CC#JJ	.	.	.	.
-24C#LL	.	8ff#	8raa	.
+24C#LL	.	8ff#/	8ryy	.
 24CC#	.	.	.	.
 24C#JJ	.	.	.	.
 *	*	*v	*v	*
@@ -570,13 +568,13 @@
 24C#JJ	.	.	.
 =52	=52	=52	=52
 *	*	*^	*
-24rEE	4.F##X 4.B 4.d 4.f##X	4ggn	24ddLL 24ddd	.
+24rEE	4.Gn 4.B 4.d 4.gn	4ggn/	24ddLL 24ddd\	.
 24CC#LL	.	.	24cc# 24ccc#	.
 24C#JJ	.	.	24bJJ 24bb	.
-24CC#LL	.	.	8b 8bb	.
+24CC#LL	.	.	8b 8bb\	.
 24C#	.	.	.	.
 24CC#JJ	.	.	.	.
-24C#LL	.	8ff#	8raa	.
+24C#LL	.	8ff#/	8ryy	.
 24CC#	.	.	.	.
 24C#JJ	.	.	.	.
 *	*	*v	*v	*
@@ -589,7 +587,7 @@
 24CC#JJ	.	.	.
 8C#	.	.	.
 *v	*v	*	*
-=54||	=54||	=54||
+=54	=54	=54
 *k[f#c#g#]	*k[f#c#g#]	*
 *M3/4	*M3/4	*
 *	*^	*
@@ -603,17 +601,19 @@
 .	.	16f#Jk	.
 .	.	2f#	.
 =56	=56	=56	=56
-2.GG#X 2.D 2.F# 2.B-X	12f#L	2.f# 2.b-X 2.dd	.
-.	12e	.	.
-.	12dJ	.	.
-.	4d	.	.
-.	4d	.	.
+*^	*	*	*
+2.GG#X 2.D	2.F# 2.B-X	12f#L	2.f# 2.b-X 2.dd	.
+.	.	12e	.	.
+.	.	12dJ	.	.
+.	.	4d	.	.
+.	.	4d	.	.
+*v	*v	*	*	*
 =57	=57	=57	=57
 2.AA 2.D 2.F# 2.A	8.dL	2.f# 2.a 2.dd	.
 .	16AJk	.	.
 .	2A	.	.
 =58	=58	=58	=58
-8qAAA#X/ 8qAA#X	.	.	.
+8qAAA#X 8qAA#X	.	.	.
 2.F# 2.A#X 2.d	2.a#X	12f#L 12ff#	.
 .	.	12e 12ee	.
 .	.	12dJ 12dd	.
@@ -625,8 +625,8 @@
 2C] 2F#] 2A]	.	2a	.
 *	*v	*v	*
 =60	=60	=60
-4C# 4A	4c# 4f# 4cc#	.
-4r	12f#L	.
+4C# 4A	4c# [4f# 4cc#	.
+4r	12f#L]	.
 .	12g#	.
 .	12aJ	.
 4r	12cc#L	.
@@ -639,7 +639,7 @@
 2C# 2B	2e#X 2a	4.cc#	.
 .	.	8c#	.
 *	*v	*v	*
-=62||	=62||	=62||
+=62	=62	=62
 12FF#L	[4f#	.
 12C#	.	.
 12AJ	.	.
@@ -651,9 +651,9 @@
 .	12eeJ	.
 =63	=63	=63
 *^	*^	*
-4rEE	4rc	4rc	12ddL	.
+4r	4r	4rc	12ddL	.
 .	.	.	12cc#	.
-.	.	.	12bJ	.
+.	.	.	12aJ	.
 4D	12AL	12c#L	4f#	.
 .	12G#	12B	.	.
 .	12F#J	12AJ	.	.
@@ -665,23 +665,22 @@
 4CC#	4E#X	12c#L	.
 .	.	12B#X	.
 .	.	12c#J	.
-4C# 4B	4rc	4d	.
-4r	4rc	12e#XL	.
+4C# 4Bn	4rF	4d	.
+4r	4rF	12e#XL	.
 .	.	12a	.
 .	.	12g#J	.
 =65	=65	=65	=65
-*^	*	*^	*
-2.FF# 2.D	12AL	[4B\	[4d	12f#L	.
-.	12.G#	.	.	12.g#	.
-.	24F#Jk	.	.	24aJk	.
-.	12F#L	4B\_	12dL]	[4a	.
-.	12E	.	12e	.	.
-.	12DJ	.	12f#J	.	.
-.	4D	4B\]	4f#	12aL]	.
-.	.	.	.	12g#	.
-.	.	.	.	12aJ	.
-*v	*v	*	*	*	*
-*	*	*v	*v	*
+*^	*	*	*
+2.FF# 2.D	12AL	[4B [4d	12f#L	.
+.	12.G#	.	12.g#	.
+.	24F#Jk	.	24aJk	.
+.	12F#L	12dL]	4B_ [4a	.
+.	12E	12e	.	.
+.	12DJ	12f#J	.	.
+.	4D	4B] 4f#	12aL]	.
+.	.	.	12g#	.
+.	.	.	12aJ	.
+*v	*v	*	*	*
 =66	=66	=66	=66
 4FF# 4C#	4A 4f#	[4cc#	.
 4C# 4A 4c#	4rc	12cc#L]	.
@@ -692,7 +691,7 @@
 .	.	12eeJ	.
 =67	=67	=67	=67
 *^	*	*	*
-4rEE	4rc	4rc	12ddL	.
+4r	4r	4rc	12ddL	.
 .	.	.	12cc#	.
 .	.	.	12aJ	.
 4D	2A	12c#L	[4f#	.
@@ -704,11 +703,11 @@
 *v	*v	*	*	*
 =68	=68	=68	=68
 *	*	*^	*
-4EE	2d\	4f#	12cc#L	.
+4EE	2.d\	4f#	12cc#L	.
 .	.	.	12b	.
 .	.	.	12cc#J	.
 [4E	.	4f##X	4ee	.
-4E] 4e	4r	4g#	12cc#L	.
+4E] 4e	.	4g#	12cc#L	.
 .	.	.	12b#X	.
 .	.	.	12gg#J	.
 *	*	*v	*v	*
@@ -716,10 +715,10 @@
 4AA 4D#X	4a 4cc#	12ff#L	.
 .	.	12ffn	.
 .	.	12aaJ	.
-4E 4c#	4rc	12ee	.
+4E 4c#	4ryy	12ee	.
 .	.	12eL	.
 .	.	12f#J	.
-4r	4rc	12g#L	.
+4r	4ryy	12g#L	.
 .	.	12a	.
 .	.	12bJ	.
 *	*v	*v	*
@@ -737,7 +736,7 @@
 4F# 4c# 4f#	12aaL	.
 .	12gg#	.
 .	12ff#J	.
-4G# 4A 4c# 4g#	12eeL	.
+4Gn 4A 4c# 4gn	12eeL	.
 .	12eee	.
 .	12ccc#J	.
 8r	16bbLL	.
@@ -757,7 +756,7 @@
 .	12a#XJ	.
 =73	=73	=73
 *^	*^	*
-4rEE	4GGn 4D 4Gn	12BL	[4b	.
+4ryy	4GGn 4D 4Gn	12BL	[4b	.
 .	.	12gn	.	.
 .	.	12f#J	.	.
 2C#	6B	2e#X	12bL]	.
@@ -766,7 +765,7 @@
 .	8dL	.	16b#XLL	.
 .	.	.	16bn	.
 .	16.c#L	.	16.a	.
-.	32BJJk	.	32gJJk	.
+.	32BJJk	.	32g#JJk	.
 *v	*v	*	*	*
 *	*v	*v	*
 =74	=74	=74
@@ -779,7 +778,7 @@
 .	12eeJ	.
 =75	=75	=75
 *^	*^	*
-4rEE	4rc	4rc	12ddL	.
+4r	4r	4rc	12ddL	.
 .	.	.	12cc#	.
 .	.	.	12aJ	.
 4D	12AL	12c#L	4f#	.
@@ -793,56 +792,57 @@
 4CC#	4E#X	12c#L	.
 .	.	12B#X	.
 .	.	12c#J	.
-4C# 4B	4rc	4d	.
-4r	4rc	12e#XL	.
+4C# 4Bn	4rF	4d	.
+4r	4rF	12e#XL	.
 .	.	12a	.
 .	.	12g#J	.
 =77	=77	=77	=77
-*^	*	*^	*
-2.FF# 2.D	12AL	[4B\	[4d	12f#L	.
-.	12.G#	.	.	12.g#	.
-.	24F#Jk	.	.	24aJk	.
-.	12F#L	4B\_	12dL]	[4a	.
-.	12E	.	12e	.	.
-.	12DJ	.	12f#J	.	.
-.	4D	4B\]	4f#	12aL]	.
-.	.	.	.	12g#	.
-.	.	.	.	12aJ	.
-*	*	*	*v	*v	*
+*^	*	*	*
+2.FF# 2.D	12AL	[4B [4d	12f#L	.
+.	12.G#	.	12.g#	.
+.	24F#Jk	.	24aJk	.
+.	12F#L	12dL]	4B_ [4a	.
+.	12E	12e	.	.
+.	12DJ	12f#J	.	.
+.	4D	4B] 4f#	12aL]	.
+.	.	.	12g#	.
+.	.	.	12aJ	.
 =78	=78	=78	=78	=78
-*	*^	*	*	*
-8r	2.C#	2.ryy	2B 2e#X 2a	12cc#L	.
-.	.	.	.	12dd#X	.
-4FF#\	.	.	.	.	.
-.	.	.	.	12ee#XJ	.
-.	.	.	.	4ee#	.
-4FF#\	.	.	.	.	.
-.	.	.	4B	4e# 4g#	.
-[8FF#\	.	.	.	.	.
-=79	=79	=79	=79	=79	=79
-4.FF#\]	2.BB#X	12F#L	12dL	2.A 2.a	.
+8rEE	2.C#	2B 2e#X 2a	12cc#L	.
+.	.	.	12dd#X	.
+4FF#	.	.	.	.
+.	.	.	12ee#XJ	.
+.	.	.	4ee#	.
+4FF#	.	.	.	.
+.	.	4B	4e# 4g#	.
+[8FF#	.	.	.	.
+=79	=79	=79	=79	=79
+*^	*	*	*	*
+4.FF#\]	2.BB#X/	12F#L	12dL	2.A 2.a	.
 .	.	12E	12e	.	.
 .	.	12DJ	12f#J	.	.
 .	.	2D	2f#	.	.
 4FF#\	.	.	.	.	.
 8FF#\	.	.	.	.	.
-=80	=80	=80	=80	=80	=80
-8r	2.C#	2.ryy	2B 2e#X 2a	12cc#L	.
-.	.	.	.	12dd#X	.
-4FF#\	.	.	.	.	.
-.	.	.	.	12ee#XJ	.
-.	.	.	.	4ee#	.
-4FF#\	.	.	.	.	.
-.	.	.	4B	4e# 4g#	.
-8FF#\	.	.	.	.	.
-=81	=81	=81	=81	=81	=81
-4.FF#/	2BB#X	12F#L	12dL	2A 2a	.
+*v	*v	*	*	*	*
+=80	=80	=80	=80	=80
+8rEE	2.C#	2B 2e#X 2a	12cc#L	.
+.	.	.	12dd#X	.
+4FF#	.	.	.	.
+.	.	.	12ee#XJ	.
+.	.	.	4ee#	.
+4FF#	.	.	.	.
+.	.	4B	4e# 4g#	.
+[8FF#	.	.	.	.
+=81	=81	=81	=81	=81
+*^	*	*	*	*
+4.FF#\]	2BB#X	12F#L	12dL	2A 2a	.
 .	.	12E	12en	.	.
 .	.	12DJ	12f#J	.	.
 .	.	4D	4f#	.	.
-4FF#/	.	.	.	.	.
-.	4C#	4C#	4rc	4B 4e#X 4a 4cc#	.
-[8FF#/	.	.	.	.	.
+4FF#\	.	.	.	.	.
+.	4C#	4C#	4ryy	4B 4e#X 4a 4cc#	.
+[8FF#\	.	.	.	.	.
 *	*v	*v	*	*	*
 *	*	*v	*v	*
 =82	=82	=82	=82
@@ -861,6 +861,9 @@
 *	*v	*v	*
 ==	==	==
 *-	*-	*-
+!!!filter: flipper -a
+!!!RDF**kern: < = below
+!!!RDF**kern: > = above
 !!!system-decoration: {(*)}
 !!!ENC: Bryan Jacob Bell
 !!!END: November 2021 to April 2022

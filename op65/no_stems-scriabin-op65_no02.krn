@@ -1,0 +1,462 @@
+!!!COM: Scriabin, Alexander
+!!!OTL@@FR: Étude
+!!!OTL@@EN: Etude
+!!!OPR@@FR: 3 Études
+!!!OPR@@EN: 3 Etudes
+!!!OPS: 65
+!!!ONM: 2
+!!!ODT: 1912
+!!!AGN: Etude
+!!!OMD: Allegretto. M.M. [quarter] = 80
+**kern	**kern	**dynam
+*part1	*part1	*part1
+*staff2	*staff1	*staff1/2
+*Ipiano	*Ipiano	*Ipiano
+*clefF4	*clefG2	*
+*k[]	*k[]	*
+*X:	*X:	*
+*M4/4	*M4/4	*
+*MM80	*MM80	*
+=1	=1	=1
+*Xtuplet	*	*
+!	!	!LO:DY:t=%s dolce
+12f#L	4r	p
+12G#	.	.
+[12D#J	.	.
+12D#L]	2b (2aa#	.
+12G#	.	.
+12f#J	.	.
+12f#L	.	.
+12G#	.	.
+[12DnJ	.	.
+12DL]	[4b [4aa#	.
+12G#	.	.
+12f#J	.	.
+=2	=2	=2
+*	*Xtuplet	*
+!	!LO:TX:b:i:t=rit.	!
+12e#L	6b] 6aa#]	.
+12B	.	.
+12C#J	12b 12aa#	.
+2.FF##: 2.E#: 2.B: 2.e#:	[2.dd [2.ccc#	.
+=3	=3	=3
+!	!LO:TX:b:i:t=a tempo	!
+12e#L	4dd] 4ccc#])	.
+12B	.	.
+[<12C#J	.	.
+2.C#] 2.F## 2.B	2e (2dd#	.
+.	4f/ 4ee/	.
+=4	=4	=4
+*^	*	*
+12dL	4ryy	[1a- [1gg	.
+12A-	.	.	.
+[12BB-J	.	.	.
+12BB-L]	4ryy	.	.
+12A-	.	.	.
+12dJ	.	.	.
+4r	4c~ 4cc~	.	.
+4r	4c-~ 4cc-~	.	.
+!!LO:LB:g=original
+=5	=5	=5	=5
+4r	4c-~ 4cc-~	4a-] 4gg])	.
+!	!	!	!LO:HP:t=poco %s
+12dL	4ryy	4cc- (4bb-	<
+12A-	.	.	.
+[<12BB-J	.	.	.
+2BB-] 2E 2A-	2ryy	4d- 4ccn	.
+.	.	4dn 4cc#	.
+=6	=6	=6	=6
+12BL	4r	[1f [1ee	.
+12F	.	.	.
+12GGJ	.	.	.
+4rGG	(2A~ 2a~	.	.
+2rGG	.	.	.
+.	4A-~ 4a-~	.	.
+=7	=7	=7	=7
+(8CC#q	.	.	.
+2CC#) 2C# 2F 2B	2A-~ 2a-~)	2f/] 2ee~>/])	.
+2BB- 2E 2A-X	2ryy	4d- (4cc	.
+.	.	4dn 4cc#	.
+=8	=8	=8	=8
+12BL	4r	[1f [1ee	.
+12F	.	.	.
+12GGJ	.	.	.
+4rGG	(2A~ 2a~	.	.
+2rGG	.	.	.
+.	4A-~ 4a-~	.	.
+*v	*v	*	*
+=9	=9	=9
+*^	*	*
+[8CC#q [8C#q	.	.	.
+1CC#] 1C#] 1F 1B	1A-~ 1a-~)	2f] 2ee])	.
+.	.	2f (2ee	.
+*v	*v	*	*
+!!LO:LB:g=original
+=10	=10	=10
+*	*tuplet	*
+1DD: 1GG: 1F: 1B:	4r	p
+.	[4f [4ee	.
+.	6f] 6ee]	.
+.	12f 12ee	.
+.	6a- 6gg	.
+.	12f 12ee	.
+=11	=11	=11
+1DD: 1GG: 1F: 1B-:	2f 2ee	.
+.	2B- 2a)	.
+=12	=12	=12
+*^	*	*
+(>12BnL	1Bn	4r	pp
+12F	.	.	.
+12GGJ	.	.	.
+12FL	.	[4f ([4ee	.
+12GG	.	.	.
+12DDJ)	.	.	.
+12r	.	6f] 6ee]	.
+(>12DDL	.	.	.
+12GGJ	.	12f 12ee	.
+12FL	.	6a- 6gg	.
+12GG	.	.	.
+12FJ	.	12f 12ee	.
+=13	=13	=13	=13
+12B-L	1B-	2f 2ee	.
+12F	.	.	.
+12GGJ	.	.	.
+12FL	.	.	.
+12GG	.	.	.
+12DDJ)	.	.	.
+12r	.	2B- 2a)	.
+(>12DDL	.	.	.
+12GGJ	.	.	.
+12FL	.	.	.
+12GG	.	.	.
+12FJ	.	.	.
+!!LO:LB:g=original
+=14	=14	=14	=14
+12B-L	1B-	(2f 2ee	.
+12F	.	.	.
+12GGJ	.	.	.
+12FL	.	.	.
+12GG	.	.	.
+12DDJ)	.	.	.
+12r	.	2B- 2a)	.
+(>12DDL	.	.	.
+12GGJ	.	.	.
+12FL	.	.	.
+12GG	.	.	.
+12FJ	.	.	.
+*v	*v	*	*
+=15	=15	=15
+12c-L	(8f 8eeL	.
+12D-	.	.
+.	8f- 8ee-J	.
+12AA-J	.	.
+12BL	8fn 8eenL	.
+12F	.	.
+!	!	!LO:HP:t=molto accel. e %s
+.	8a- 8ggJ)	<
+12GGJ)	.	.
+(12e--L	(8a- 8ggL	.
+12F-	.	.
+.	8a-- 8gg-J	.
+12C-J	.	.
+12dL	8a- 8ggnL	.
+12A-	.	.
+.	8cc- 8bb-J)	.
+12BB-J)	.	.
+=16	=16	=16
+(12fL	8b (8aa#L	.
+12G	.	.
+.	8b- 8aanJ	.
+12DJ	.	.
+12fL	8cc- 8bb-L	.
+12c-	.	.
+.	8ee-- 8ddd-J)	.
+12D-J)	.	.
+(12a-L	8dd (8ccc#L	.
+12B-	.	.
+.	8dd- 8cccnJ	.
+12FJ	.	.
+12g#L	8ddn 8ccc#L	.
+12d	.	.
+.	8ff 8eeeJ)	.
+12EJ)	.	.
+*clefG2	*	*
+!!LO:LB:g=original
+=17	=17	=17
+!	!	!LO:DY:t=%s presto volando
+(12cc-L	4r	pp
+12d-	.	.
+12A-J)	.	.
+.	(8cc-q	.
+4r	4ff~ 4eee~)	.
+!	!LO:TUP:a	!
+(12bL	6r	.
+12f	.	.
+12GJ)	12ff (12eee	.
+4r	4aa- 4ggg)	.
+*clefF4	*	*
+=18	=18	=18
+(12a-L	4r	.
+12f	.	.
+12BJ	.	.
+.	(8cc-q	.
+8C#)	4ff~) 4eee~	.
+8r	.	.
+!	!LO:TUP:a	!
+(12a-L	6r	.
+12f	.	.
+12BJ	12ff (12eee	.
+12FL	4aa-~ 4ggg~)	.
+12GGJ)	.	.
+12r	.	.
+=19	=19	=19
+(<12cL	4r	.
+12D	.	.
+[12AAniJ	.	.
+12AAL]	2f (2ee	.
+12D	.	.
+[12cJ)	.	.
+!	!LO:TX:i:b:t=rit.	!
+(<12cL]	.	.
+12D	.	.
+[12AA-J	.	.
+12AA-]L	[4f [4ee	<
+12D	.	.
+12cJ)	.	.
+!!LO:LB:g=original
+=20	=20	=20
+(12BL	6f] 6ee]	.
+12F	.	.
+12GGJ)	12f 12ee	.
+2.CC#: 2.BB: 2.F: 2.B:	[2.a- [2.gg	[
+=21	=21	=21
+!!LO:TX:a:B:t=Tempo I.
+(12BL	4a-] 4gg])	.
+12F	.	.
+[<12GGJ)	.	.
+2.GG] 2.C# 2.F	2B- (>2any	.
+.	4c- 4b-	.
+=22	=22	=22
+*^	*	*
+12G#L<	2ryy	[1d [1cc#	.
+12D	.	.	.
+12EEJ	.	.	.
+12EEL<	.	.	.
+12D	.	.	.
+12G#J	.	.	.
+4r	(4F#~ 4f#~	.	.
+4r	4Fn~ 4fn~	.	.
+=23	=23	=23	=23
+4r	2F~ 2f~)	4d] 4cc#])	.
+!	!	!	!LO:HP:t=poco %s
+(12G#L	.	(>4f/ 4ee/	<
+12D	.	.	.
+[12EEJ)	.	.	.
+2EE] 2AA# 2D	2ryy	4G 4f#	.
+.	.	4G# 4f##	.
+!!LO:LB:g=original
+=24	=24	=24	=24
+12FL<	4ryy	[1c- [1b-	.
+12C-	.	.	.
+12DD-J	.	.	.
+4rEE	2E-~ (2e-~	.	.
+2rGG	.	.	.
+.	4E--~ 4e--~	.	.
+=25	=25	=25	=25
+2GG 2F	2E--~ 2e--~)	2c-] 2b-])	.
+*v	*v	*	*
+2EE\ 2D\ 2A#\	(4g 4ff#	.
+.	4g# 4ff##	.
+=26	=26	=26
+*^	*	*
+.	.	(8fq	.
+12c-L<	4ryy	[1cc-) [1bb-	.
+12F	.	.	.
+12DD-J	.	.	.
+4r	2e-~ (2ee-~	.	.
+2rD	.	.	.
+.	4e--~ 4ee--~	.	.
+=27	=27	=27	=27
+1GG 1F 1c- 1f	1e--~ 1ee--~)	2cc-] 2bb-])	.
+.	.	(2cc- 2bb-	.
+*v	*v	*	*
+=28	=28	=28
+1AA-: 1D-: 1c-: 1f:	4r	pp
+.	[4cc- [4bb-	.
+.	6cc-] 6bb-]	.
+.	12cc- 12bb-	.
+.	6ee-- 6ddd-	.
+.	12cc- 12bb-	.
+=29	=29	=29
+1AA-: 1D-: 1c-: 1f-:	2cc- 2bb-	.
+.	2ee- 2f-)	.
+!!LO:LB:g=original
+=30	=30	=30
+*^	*	*
+(>12fnL	1f	4r	.
+12c-	.	.	.
+12D-J	.	.	.
+12c-L	.	[4cc- ([4bb-	.
+12D-	.	.	.
+12AA-J)	.	.	.
+12r	.	6cc-] 6bb-]	.
+(>12AA-L	.	.	.
+12D-J	.	12cc- 12bb-	.
+12c-L	.	6ee-- 6ddd-	.
+12D-	.	.	.
+12c-J	.	12cc- 12bb-	.
+=31	=31	=31	=31
+12f-L	1f-	2cc- 2bb-	.
+12c-	.	.	.
+12D-J	.	.	.
+12c-L	.	.	.
+12D-	.	.	.
+12AA-J)	.	.	.
+12r	.	2f- 2ee-)	.
+(>12AA-L	.	.	.
+12D-J	.	.	.
+12c-L	.	.	.
+12D-	.	.	.
+12c-J	.	.	.
+=32	=32	=32	=32
+12f-L	1f-	(2cc- 2bb-	.
+12c-	.	.	.
+12D-J	.	.	.
+12c-L	.	.	.
+12D-	.	.	.
+12AA-J)	.	.	.
+12r	.	2f- 2ee-)	.
+(>12AA-L	.	.	.
+12D-J	.	.	.
+12c-L	.	.	.
+12D-	.	.	.
+12c-J	.	.	.
+*v	*v	*	*
+!!LO:LB:g=original
+=33	=33	=33
+12fL	(8b 8aa#L	.
+12G	.	.
+!	!	!LO:HP:t=molto accel. e %s
+.	8b- 8aanJ	<
+12DJ	.	.
+12fL	8cc- 8bb-L	.
+12c-	.	.
+.	8ee-- 8ddd-J)	.
+12D-J)	.	.
+(12a-L	(8dd 8ccc#L	.
+12B-	.	.
+.	8dd- 8cccnJ	.
+12FJ	.	.
+12g#L	8ddn 8ccc#L	.
+12d	.	.
+.	8ff 8eeeJ)	.
+12EJ)	.	.
+*clefG2	*	*
+=34	=34	=34
+*	*8va	*
+(12cc-L	8ff (8eeeL
+.	12d-
+.	.
+.	8ff- 8eee-J
+.	12A-J
+.	.
+12bnL	8ffn 8eeenL
+.	12f
+.	.
+.	8aa- 8gggJ)
+.	12GJ)
+.	.
+(12ddL	8gg# (8fff##L
+.	12e
+.	.
+.	8ggn 8fff#J
+.	12BJ
+.	.
+12ddL	8aa-X 8gggL
+.	12a-
+.	.
+.	8ccc- 8bbb-J)
+pp	12B-J)
+.	.
+=35	=35	=35
+!	!LO:TX:b:i:t=presto volando	!
+(12ffL	4r
+.	12g
+.	.
+12dJ)	.
+.	.
+(8ffq	.
+4r	[4ccc-) [4bbb-
+.	(12ffL
+6ccc-] 6bbb-]	.
+12cc-	.
+.	12d-J)
+12ccc- (12bbb-	.
+4r	4eee-- 4dddd-)
+.	!!LO:LB:g=original
+=36	=36	=36
+(12ee--L	4r
+.	12cc-
+.	.
+12fJ	.
+.	.
+(8ffq	.
+8G)	4ccc-) 4bbb-
+.	8r
+.	.
+(<12ee--L	6r
+.	12cc-
+.	.
+12fJ	12ccc- (12bbb-
+.	12c-L
+4eee-- 4dddd-)	.
+12D-J)	.
+.	12r
+.	.
+=37	=37	=37
+(<12ee--L	6r
+.	12cc-
+.	.
+12fJ	12ccc- 12bbb-
+.	8c-L
+4eee-- 4dddd-	.
+8D-J)	.
+.	2r
+2r	.
+=38	=38	=38
+(<12ee--L	6r
+.	12cc-
+.	.
+12fJ	12ccc- 12bbb-
+.	8c-L
+4eee-- 4dddd-	.
+*	*X8va	*
+8D-J)
+.
+.
+2r
+4r
+.
+.
+4c- 4b-
+mf
+*clefF4	*	*
+=39	=39	=39
+[8DDD-q [8DD-q
+.
+.
+1DDD-;] 1DD-;] 1F; 1c-;
+1e--; 1dd-;
+.
+==	==	==
+*-	*-	*-
+!!!system-decoration: {(*)}
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!RDF**kern: i = editorial accidental, paren
+!!!PPP: Moscow: P. Jurgenson, n.d.(ca.1912). Plate 36377-36379.
+!!!URL-pdf: https://s9.imslp.org/files/imglnks/usimg/9/96/IMSLP507374-PMLP9367-Scriabin_-_3_Etudes,_Op.65.pdf#page=10 First edition
+!!!ENC: Craig Stuart Sapp
+!!!END: 2004/10/22
+!!!EED: Craig Stuart Sapp
+!!!EEV: 2023/02/20

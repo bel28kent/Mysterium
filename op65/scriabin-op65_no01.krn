@@ -180,8 +180,8 @@
 *v	*v	*	*
 =21	=21	=21
 *M12/16	*M12/16	*
-[16qqBBB#X/LL	.	.
-[16qqFF#X/JJ	.	.
+[16qBBB#X/LL	.	.
+[16qFF#X/JJ	.	.
 *^	*	*
 8d#XL	4.BBB#] 4.FF#] 4.E 4.A#X	16r	.
 .	.	16gg#XLL 16aaa#X	.
@@ -718,8 +718,8 @@
 *v	*v	*	*
 =85	=85	=85
 *M12/16	*M12/16	*
-[16qqEE/LL	.	.
-[16qqBB-X/JJ	.	.
+[16qEE/LL	.	.
+[16qBB-X/JJ	.	.
 *^	*	*
 8gL	4.EE] 4.BB-] 4.A-X 4.d	16r	.
 .	.	16cccLL 16dddd	.

@@ -1,0 +1,281 @@
+!!!COM: Scriabin, Alexander
+!!!OTL@@FR: Étude
+!!!OTL@@EN: Etude
+!!!OPR@@FR: 4 Morceaux
+!!!OPR@@EN: 4 Pieces
+!!!OPS: 56
+!!!ONM: 4
+!!!ODT: 1908
+!!!AGN: Etude
+**kern	**kern	**dynam
+*staff2	*staff1	*staff1/2
+*Ipiano	*Ipiano	*
+*clefF4	*clefG2	*
+*k[]	*k[]	*
+*X:	*X:	*
+*M2/8	*M2/8	*
+=1	=1	=1
+16F 16e-X 16a	24bLL	.
+.	24ee-X	.
+16r	.	.
+.	24ddJJ	.
+16BB 16A 16d#X	24cc#XLL	.
+.	24gg	.
+16r	.	.
+.	24cc#JJ	.
+=2	=2	=2
+16G#X 16f#X 16b#X	24cc##XLL	.
+.	24ff#X	.
+16r	.	.
+.	24ee#XJJ	.
+16D 16cn 16f#	24eenLL	.
+.	24bb-X	.
+16r	.	.
+.	24eeJJ	.
+=3	=3	=3
+16G 16fn 16b	24ffnLL	.
+.	24aa	.
+16r	.	.
+.	24aa-XJJ	.
+16D-X 16c-X 16f	24ggLL	.
+.	24eee-X	.
+16r	.	.
+.	24bb-XJJ	.
+=4	=4	=4
+16G 16f 16b	24bbnLL	.
+.	24ee-X	.
+16r	.	.
+.	24eenJJ	.
+*clefG2	*	*
+16d-X 16f 16cc-X	24ffLL	.
+.	24a-X	.
+16r	.	.
+.	24gJJ	.
+*clefF4	*	*
+=5	=5	=5
+16D-X 16c-X 16f	24cc-XLL	.
+.	24b-XJ	.
+16r	.	.
+.	48r	.
+.	48anJkk	.
+16GG 16F 16Bn	12ee-X	.
+16r	.	.
+.	24ee-	.
+=6	=6	=6
+4r	24aaLL	.
+.	24ee-XJ	.
+.	48r	.
+.	48aaJk	.
+.	24eee-XLL	.
+.	24aaJ	.
+.	48r	.
+.	48dd-XJk	.
+=7	=7	=7
+16G 16f 16b	24ffLL	.
+.	24eenJ	.
+16r	.	.
+.	48r	.
+.	48dd#XJkk	.
+16C 16G 16f 16b	12aa	.
+16r	.	.
+.	48r	.
+.	48ee	.
+=8	=8	=8
+16e 16cc	24aa-XLL	.
+.	24ggJ	.
+16r	.	.
+.	48r	.
+.	48ff#XJkk	.
+16A-X 16g-X 16cc	12ccc	.
+16r	.	.
+.	24f#X	.
+=9	=9	=9
+16C 16B-X 16e	24b-XLL	.
+.	24aJ	.
+16r	.	.
+.	48r	.
+.	48g#XJkk	.
+16FF#X 16E 16A#X	12dd	.
+16r	.	.
+.	24dd	.
+=10	=10	=10
+4r	24gg#XLL	.
+.	24ddJ	.
+.	48r	.
+.	48gg#Jkk	.
+.	24dddLL	.
+.	24gg#J	.
+.	48r	.
+.	48b#XJkk	.
+=11	=11	=11
+16F#X 16e 16a#X	24eeLL	.
+.	24dd#XJ	.
+16r	.	.
+.	48r	.
+.	48cc##XJkk	.
+16BB 16F# 16e 16a#	12gg#X	.
+16r	.	.
+.	24dd#	.
+=12	=12	=12
+16d#X 16b	24ggnLL	.
+.	24ff#XJ	.
+16r	.	.
+.	48r	.
+.	48ee#XJkk	.
+32GLLL 32fn 32b	8bb	.
+32D-XJJJ	.	.
+16r	.	.
+=13	=13	=13
+16F 16e-X 16a	24bLL	.
+.	24ee-X	.
+16r	.	.
+.	24ddJJ	.
+16BB 16A 16d#X	24cc#XLL	.
+.	24gg	.
+16r	.	.
+.	24cc#JJ	.
+=14	=14	=14
+16G#X 16f#X 16b#X	24cc##XLL	.
+.	24ff#X	.
+16r	.	.
+.	24ee#XJJ	.
+16D 16cn 16f#	24eenLL	.
+.	24bb-X	.
+16r	.	.
+.	24eeJJ	.
+=15	=15	=15
+16G 16fn 16b	24ffnLL	.
+.	24aa	.
+16r	.	.
+.	24aa-XJJ	.
+16D-X 16c-X 16f	24ggLL	.
+.	24eee-X	.
+16r	.	.
+.	24bb-XJJ	.
+=16	=16	=16
+*^	*	*
+8rEE	16G 16f 16b	24bbnLL	.
+.	.	24ee-X	.
+.	16rc	.	.
+.	.	24eenJJ	.
+*clefG2	*	*	*
+12d-X	8f 8cc-X	24ffLL	.
+.	.	24cc-X	.
+24dn	.	24b-XJJ	.
+*v	*v	*	*
+*clefF4	*	*
+=17	=17	=17
+8r	24aLL	.
+.	24dd-X	.
+.	24ccnJJ	.
+16E-X 16d-X 16g	24bnLL	.
+.	24ff	.
+16r	.	.
+.	24bJJ	.
+=18	=18	=18
+8r	24ccLL	.
+.	24ff-X	.
+.	24ee-XJJ	.
+16AA-X 16G-X 16c	24ddnLL	.
+.	24aa-X	.
+16r	.	.
+.	24ddJJ	.
+=19	=19	=19
+8r	24gnLL	.
+.	24cc-X	.
+.	24b-XJJ	.
+16D-X 16c-X 16f	24anLL	.
+.	24ee-X	.
+16r	.	.
+.	24aJJ	.
+=20	=20	=20
+8r	24ee--LL	.
+.	24dd-X	.
+.	24b-XJJ	.
+16GG-X 16D-X 16B-X	24d-XLL	.
+.	24g-XJ	.
+16r	.	.
+.	48r	.
+.	48aJkk	.
+=21	=21	=21
+8r	24dd-XLL	.
+.	24ccJ	.
+.	48r	.
+.	48bnJkk	.
+16E-X 16d-X 16g	24ff	.
+.	24r	.
+16r	.	.
+.	24cc	.
+=22	=22	=22
+8r	24ff-XLL	.
+.	24ee-XJ	.
+.	48r	.
+.	48ddnJkk	.
+16AA-X 16G-X 16c	24aa-X	.
+.	24r	.
+16r	.	.
+.	24gn	.
+=23	=23	=23
+8r	24cc-XLL	.
+.	24b-XJ	.
+.	48r	.
+.	48anJkk	.
+16D-X 16c-X 16f	24ee-X	.
+.	24r	.
+16r	.	.
+.	24b-	.
+=24	=24	=24
+16GG-X 16D-X 16B-X	24ee--LL	.
+.	24dd-X	.
+16r	.	.
+.	24b-XJJ	.
+16D- 16c-X	24fLL	.
+.	24b--	.
+16r	.	.
+.	24a-XJJ	.
+=25	=25	=25
+16F 16e-X 16an	24bnLL	.
+.	24ee-X	.
+16r	.	.
+.	24ddJJ	.
+16BB 16A 16d#X	24cc#XLL	.
+.	24gg	.
+16r	.	.
+.	24cc#JJ	.
+=26	=26	=26
+16GG#X 16F#X 16B#X	24cc##XLL	.
+.	24ff#X	.
+16r	.	.
+.	24ee#XJJ	.
+16DD 16Cn 16F#	24eenLL	.
+.	24bb-X	.
+16r	.	.
+.	24eeJJ	.
+=27	=27	=27
+[8qGGG [8qGG	.	.
+16GGG] 16GG] 16B 16fn	24ffnLL	.
+.	24aa	.
+16r	.	.
+.	24aa-XJJ	.
+[8qDDD-X [8qDD-X	.	.
+16DDD-] 16DD-] 16F 16c-X 16f	24ggLL	.
+.	24eee-XJJ	.
+16r	.	.
+.	24r	.
+=28	=28	=28
+4r	4r	.
+=29	=29	=29
+4r	4r	.
+=30	=30	=30
+8D-X 8c-X 8f	8cc-X 8ee-X 8ff 8bb-X	.
+8r	8r	.
+=31	=31	=31
+8GG-X 8D-X 8c-X 8f	8cc-X 8ee-X 8ff 8bb-X 8eee-X	.
+8r	8r	.
+==	==	==
+*-	*-	*-
+!!!system-decoration: {(*)}
+!!!ENC: Bryan Jacob Bell
+!!!END: November 2021 to April 2022
+!!!PED: Günter Philipp
+!!!PTL: Ausgewählte Klavierwerke (Edition Peters)

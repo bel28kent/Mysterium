@@ -59,7 +59,7 @@
 4GG 4F 4B	4fn	16aLL	.
 .	.	16g#XJJ	.
 .	.	8ee	.
-8r	[8ee	8raa	.
+8r	[8ee	8r	.
 *clefG2	*	*	*
 =9	=9	=9	=9
 4.f 4.b	16eeLL]	[4.aa	.
@@ -105,23 +105,23 @@
 =16	=16	=16	=16
 4C 4G 4en	8.b	8.ddL	.
 .	16cc	8cc	.
-8r	8rc	.	.
+8r	8r	.	.
 .	.	16bJk	.
 *	*v	*v	*
 *clefG2	*	*
 =17	=17	=17
 *^	*	*
-16rc	4raa	8.b	.
+16rc	4rcc	8.b	.
 [16c	.	.	.
 4c_ [4f#X	.	.	.
 .	.	16a#X	.
-.	16raa	[8ee	.
+.	16rcc	[8ee	.
 .	16a#X	.	.
 =18	=18	=18	=18
-4.c] 4.f	8bL	8.ee]	.
+4.c] 4.f#]	8bL	8.ee]	.
 .	8a#XJ	.	.
 .	.	16dd#X	.
-.	8raa	16eeLL	.
+.	8r	16eeLL	.
 .	.	16ff#XJJ	.
 *v	*v	*	*
 =19	=19	=19
@@ -137,17 +137,17 @@
 .	16aJJ	.
 =21	=21	=21
 *^	*	*
-16rc	4raa	8.a-X	.
+16rc	4rcc	8.a-X	.
 [16B--	.	.	.
 4B--_ [4e-X	.	.	.
 .	.	16g	.
-.	16raa	[8dd-X	.
+.	16rcc	[8dd-X	.
 .	16g	.	.
 =22	=22	=22	=22
 4.B--] 4.e-]	8a-XL	8.dd-]	.
 .	8gJ	.	.
 .	.	16cc	.
-.	8raa	16dd-XLL	.
+.	8r	16dd-XLL	.
 .	.	16ee-XJJ	.
 *v	*v	*	*
 =23	=23	=23
@@ -163,28 +163,28 @@
 .	16g-XJJ	.
 =25	=25	=25
 *^	*	*
-16rc	4raa	8.gn	.
+16rc	4rcc	8.gn	.
 [16A-X	.	.	.
 4A-_ [4d	.	.	.
 .	.	16f#X	.
-.	16raa	[8cc	.
+.	16rcc	[8cc	.
 .	16f#X	.	.
 =26	=26	=26	=26
 4.A-] 4.d]	8gL	8.cc]	.
 .	8f#XJ	.	.
 .	.	16b	.
-.	8raa	16ccLL	.
+.	8r	16ccLL	.
 .	.	16ddJJ	.
 =27	=27	=27	=27
-8rc	8raa	16dd#XLL	.
+8r	8r	16dd#XLL	.
 .	.	16eeJJ	.
 [4G	8GnL	[4gg#X	.
 .	[8f#XJ	.	.
-=28	=28	=28	=28
-4.G]	4.f#] 4.cc	16gg#LL]	.
-.	.	16aaJJ	.
-.	.	4eee	.
 *v	*v	*	*
+=28	=28	=28
+4.G] 4.f#] 4.cc	16gg#LL]	.
+.	16aaJJ	.
+.	4eee	.
 =29	=29	=29
 4.G 4.f#X 4.cc	16r	.
 .	16ee	.
@@ -261,7 +261,6 @@
 32%3F	.	.
 32%3BJ	.	.
 .	16a	.
-*clefG2	*	*
 =41	=41	=41
 *^	*	*
 8eL	4.e	8.a	.
@@ -272,7 +271,6 @@
 8e-L	4.e-X	16ccLL]	.
 .	.	16cc-XJJ	.
 8a	.	8.ee-X	.
-*clefF4	*	*	*
 8FJ	.	.	.
 .	.	16gnX	.
 =43	=43	=43	=43
@@ -362,10 +360,10 @@
 .	.	.	[16fJk	.
 =57	=57	=57	=57	=57
 4D-]	4A-]	4d-]	4f]	.
-8rEE	8rc	8rc	8raa	.
+8r	8r	8r	8r	.
 *v	*v	*	*	*
 =58	=58	=58	=58
-16r	16rc	16raa	.
+16r	16r	16r	.
 [16GGn [16F	[16B	16e	.
 4GG] 4F]	4B]	16bKL	.
 .	.	8e	.
@@ -375,6 +373,7 @@
 4.CC 4.GG 4.E	4.G 4.c 4.e 4.g	.
 ==	==	==
 *-	*-	*-
+!!!filter: flipper -a
 !!!system-decoration: {(*)}
 !!!ENC: Bryan Jacob Bell
 !!!END: November 2021 to April 2022

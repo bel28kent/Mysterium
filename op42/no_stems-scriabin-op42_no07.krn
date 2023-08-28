@@ -1,0 +1,604 @@
+!!!COM: Scriabin, Alexander
+!!!OTL@@FR: Étude en fa mineur
+!!!OTL@@EN: Etude in F Minor
+!!!OPR@@FR: 8 Études
+!!!OPR@@EN: 8 Etudes
+!!!OPS: 42
+!!!ONM: 7
+!!!ODT: 1903
+!!!AGN: Etude
+**kern	**kern	**dynam
+*staff2	*staff1	*staff1/2
+*Ipiano	*Ipiano	*
+*clefF4	*clefG2	*
+*k[b-e-a-d-]	*k[b-e-a-d-]	*
+*f:	*f:	*
+*M2/4	*M2/4	*
+=1	=1	=1
+16A-LL	12a-L 12ff	.
+16C	.	.
+.	12c	.
+16FF	.	.
+.	12gJ 12ee-	.
+16FFJJ	.	.
+16FFFLL	12e-L	.
+16FF	.	.
+.	12f	.
+16FF	.	.
+.	12a-J 12cc	.
+16CJJ	.	.
+=2	=2	=2
+16A-LL	12fL 12dd-	.
+16BB-	.	.
+.	12A-	.
+16FF	.	.
+.	12e-J 12cc	.
+16FFJJ	.	.
+16FFFLL	12cL	.
+16FF	.	.
+.	12d-	.
+16FF	.	.
+.	12fJ 12a-	.
+16BB-JJ	.	.
+=3	=3	=3
+16A-LL	12d-L 12b-	.
+16D-	.	.
+.	12F	.
+16FF	.	.
+.	12cJ 12a-	.
+16FFJJ	.	.
+16FFFLL	12A-L	.
+16FF	.	.
+.	12B-	.
+16FF	.	.
+.	12d-J 12f	.
+16D-JJ	.	.
+=4	=4	=4
+16A-LL	12cL 12a-	.
+16C	.	.
+.	12c	.
+16FF	.	.
+.	12fJ	.
+16FFJJ	.	.
+16FFFLL	12gL	.
+16FF	.	.
+.	12a-	.
+16FF	.	.
+.	12ccJ	.
+16CJJ	.	.
+=5	=5	=5
+16A-LL	12a-L 12ff	.
+16C	.	.
+.	12c	.
+16FF	.	.
+.	12gJ 12ee-	.
+16FFJJ	.	.
+16FFFLL	12e-L	.
+16FF	.	.
+.	12f	.
+16FF	.	.
+.	12a-J 12cc	.
+16CJJ	.	.
+=6	=6	=6
+16A-LL	12fL 12dd-	.
+16D-	.	.
+.	12A-	.
+16BB-	.	.
+.	12e-J 12cc	.
+16BB-JJ	.	.
+16BBB-LL	12cL	.
+16BB-	.	.
+.	12d-	.
+16BB-	.	.
+.	12fJ 12a-	.
+16A-JJ	.	.
+=7	=7	=7
+16GLL	12e-L 12cc	.
+16E-	.	.
+.	12G	.
+16EE-	.	.
+.	12e-J 12cc	.
+16E-JJ	.	.
+16GLL	12GL	.
+16E-	.	.
+.	12d- 12b-	.
+16EE-	.	.
+.	12GJ	.
+16E-JJ	.	.
+=8	=8	=8
+16A-LL	12cL 12a-	.
+16E-	.	.
+.	12e-	.
+16AA-	.	.
+.	12a-J	.
+16AA-JJ	.	.
+16AAA-LL	12b-L	.
+16AA-	.	.
+.	12cc	.
+16AA-	.	.
+.	12ee-J	.
+16E-JJ	.	.
+=9	=9	=9
+16cLL	12ccL 12aa-	.
+16E-	.	.
+.	12e-	.
+16AA-	.	.
+.	12b-J 12gg	.
+16AA-JJ	.	.
+16AAA-LL	12gL	.
+16AA-	.	.
+.	12a-	.
+16AA-	.	.
+.	12ccJ 12ee-	.
+16E-JJ	.	.
+=10	=10	=10
+16cLL	12a-L 12ff	.
+16Dn	.	.
+.	12c	.
+16AA-	.	.
+.	12gJ 12ee-	.
+16AA-JJ	.	.
+16AAA-LL	12e-L	.
+16AA-	.	.
+.	12f	.
+16AA-	.	.
+.	12a-J 12cc	.
+16DJJ	.	.
+=11	=11	=11
+16BnLL	12gL 12ee-	.
+16F	.	.
+.	12Bn	.
+16GG	.	.
+.	12gJ 12ee-	.
+16GGJJ	.	.
+16GGGLL	12BL	.
+16GG	.	.
+.	12f 12dd-X	.
+16GG	.	.
+.	12BJ	.
+16FJJ	.	.
+=12	=12	=12
+16cLL	12enL 12cc	.
+16En	.	.
+.	12c	.
+16C	.	.
+.	12eJ	.
+16CJJ	.	.
+16CCLL	12f#XL	.
+16C	.	.
+.	12g	.
+16C	.	.
+.	12ccJ	.
+16EJJ	.	.
+=13	=13	=13
+16BnLL	12gL 12ee-X	.
+16F	.	.
+.	12Bn	.
+16GG	.	.
+.	12gJ 12ee-	.
+16GGJJ	.	.
+16GGGLL	12BL	.
+16GG	.	.
+.	12f 12dd-	.
+16GG	.	.
+.	12BJ	.
+16FJJ	.	.
+=14	=14	=14
+16cLL	12enL 12cc	.
+16En	.	.
+.	12c	.
+16C	.	.
+.	12eJ 12cc	.
+16EJJ	.	.
+16BnLL	12fL 12dd-	.
+16F	.	.
+.	12Bn	.
+16GG	.	.
+.	12fJ 12dd-	.
+16FJJ	.	.
+=15	=15	=15
+20GLL	12enL 12cc	.
+20C	.	.
+.	12c	.
+20C	.	.
+20CC	.	.
+.	12eJ 12cc	.
+20CJJ	.	.
+20A-LL	12cL	.
+20C	.	.
+.	12f 12dd-	.
+20C	.	.
+20CC	.	.
+.	12cJ	.
+20CJJ	.	.
+=16	=16	=16
+20AnLL	12f#XL 12ddn	.
+20C	.	.
+.	12c	.
+20C	.	.
+20CC	.	.
+.	12gJ 12ee-	.
+20CJJ	.	.
+20B-LL	12cL	.
+20C	.	.
+.	12g 12een	.
+20C	.	.
+20CC	.	.
+.	12cJ	.
+20CJJ	.	.
+=17	=17	=17
+16A-LL	12a-L 12ff	.
+16C	.	.
+.	12c	.
+16FF	.	.
+.	12gJ 12ee-	.
+16FFJJ	.	.
+16FFFLL	12e-L	.
+16FF	.	.
+.	12f	.
+16FF	.	.
+.	12a-J 12cc	.
+16CJJ	.	.
+=18	=18	=18
+16A-LL	12fL 12dd-	.
+16BB-	.	.
+.	12A-	.
+16FF	.	.
+.	12e-J 12cc	.
+16FFJJ	.	.
+16FFFLL	12cL	.
+16FF	.	.
+.	12d-	.
+16FF	.	.
+.	12fJ 12a-	.
+16BB-JJ	.	.
+=19	=19	=19
+16A-LL	12d-L 12b-	.
+16D-	.	.
+.	12F	.
+16FF	.	.
+.	12cJ 12a-	.
+16FFJJ	.	.
+16FFFLL	12A-L	.
+16FF	.	.
+.	12B-	.
+16FF	.	.
+.	12d-J 12f	.
+16D-JJ	.	.
+=20	=20	=20
+16A-LL	12cL 12a-	.
+16C	.	.
+.	12c	.
+16FF	.	.
+.	12fJ	.
+16FFJJ	.	.
+16FFFLL	12gL	.
+16FF	.	.
+.	12a-	.
+16FF	.	.
+.	12ccJ	.
+16CJJ	.	.
+=21	=21	=21
+16A-LL	12a-L 12ff	.
+16C	.	.
+.	12c	.
+16FF	.	.
+.	12gJ 12ee-	.
+16FFJJ	.	.
+16FFFLL	12e-L	.
+16FF	.	.
+.	12f	.
+16FF	.	.
+.	12a-J 12cc	.
+16CJJ	.	.
+=22	=22	=22
+16A-LL	12fL 12dd-	.
+16D-	.	.
+.	12A-	.
+16BB-	.	.
+.	12e-J 12cc	.
+16BB-JJ	.	.
+16BBB-LL	12cL	.
+16BB-	.	.
+.	12d-	.
+16BB-	.	.
+.	12fJ 12a-	.
+16A-JJ	.	.
+=23	=23	=23
+16GLL	12e-L 12cc	.
+16E-	.	.
+.	12G	.
+16EE-	.	.
+.	12e-J 12cc	.
+16E-JJ	.	.
+16GLL	12GL	.
+16E-	.	.
+.	12d- 12b-	.
+16EE-	.	.
+.	12GJ	.
+16E-JJ	.	.
+=24	=24	=24
+16A-LL	12cL 12a-	.
+16E-	.	.
+.	12e-	.
+16AA-	.	.
+.	12a-J	.
+16AA-JJ	.	.
+16AAA-LL	12b-L	.
+16AA-	.	.
+.	12cc	.
+16AA-	.	.
+.	12ee-J	.
+16E-JJ	.	.
+=25	=25	=25
+.	8qdn	.
+16cLL	12ccL 12aa-	.
+16G-X	.	.
+.	12e-	.
+16AA-	.	.
+.	12b-J 12gg-X	.
+16AA-JJ	.	.
+16AAA-LL	12gnL	.
+16AA-	.	.
+.	12a-	.
+16AA-	.	.
+.	12ccJ 12ee-	.
+16G-JJ	.	.
+=26	=26	=26
+16d-LL	12ffL	.
+16F	.	.
+.	12f 12a-	.
+16D-	.	.
+.	12dd-J	.
+16D-JJ	.	.
+16DD-LL	12ee-L	.
+16D-	.	.
+.	12ff	.
+16D-	.	.
+.	12dd-J 12bb-	.
+16FJJ	.	.
+=27	=27	=27
+16cLL	12ccL 12aa-	.
+16G-X	.	.
+.	12e-	.
+16AA-	.	.
+.	12b-J 12gg-X	.
+16AA-JJ	.	.
+16AAA-LL	12gnL	.
+16AA-	.	.
+.	12a-	.
+16AA-	.	.
+.	12ccJ 12ee-	.
+16G-JJ	.	.
+=28	=28	=28
+16d-LL	12a-L 12ff	.
+16F	.	.
+.	12f	.
+16D-	.	.
+.	12a-J 12ff	.
+16D-JJ	.	.
+16DD-LL	12fL	.
+16D-	.	.
+.	12f 12dd-	.
+16D-	.	.
+.	12d-J	.
+16FJJ	.	.
+=29	=29	=29
+.	8qc	.
+16AnLL	12anL 12ff	.
+16E-	.	.
+.	12c	.
+16FF	.	.
+.	12g-XJ 12ee-	.
+16FFJJ	.	.
+16FFFLL	12enL	.
+16FF	.	.
+.	12f	.
+16FF	.	.
+.	12aJ 12cc	.
+16E-JJ	.	.
+=30	=30	=30
+16B-LL	12fL 12dd-	.
+16F	.	.
+.	12d-	.
+16BB-	.	.
+.	12fJ 12dd-	.
+16D-JJ	.	.
+16d-LL	12B-L	.
+16F	.	.
+.	12d- 12b-	.
+16GG	.	.
+.	12B-J	.
+16BB-JJ	.	.
+=31	=31	=31
+16d-LL	12B-L 12a-	.
+16En	.	.
+.	12A-	.
+16C	.	.
+.	12B-J 12a-	.
+16CJJ	.	.
+16CCLL	12A-L	.
+16C	.	.
+.	12B- 12g	.
+16C	.	.
+.	12GJ	.
+16EJJ	.	.
+=32	=32	=32
+16cLL	12A-L 12f	.
+16F	.	.
+.	12c 12g	.
+16C	.	.
+.	12fJ 12a-	.
+16FFJJ	.	.
+16FFFLL	12gL 12bn	.
+16FF	.	.
+.	12a- 12cc	.
+16C	.	.
+.	12ffJ	.
+16A-JJ	.	.
+=33	=33	=33
+.	8qdn	.
+16cLL	12ccL 12aa-	.
+16G-X	.	.
+.	12e-	.
+16AA-	.	.
+.	12b-J 12gg-X	.
+16AA-JJ	.	.
+16AAA-LL	12gnL	.
+16AA-	.	.
+.	12a-	.
+16AA-	.	.
+.	12ccJ 12ee-	.
+16G-JJ	.	.
+=34	=34	=34
+16d-LL	12ffL	.
+16F	.	.
+.	12f 12a-	.
+16D-	.	.
+.	12dd-J	.
+16D-JJ	.	.
+16DD-LL	12ee-L	.
+16D-	.	.
+.	12ff	.
+16D-	.	.
+.	12dd-J 12bb-	.
+16FJJ	.	.
+=35	=35	=35
+16cLL	12ccL 12aa-	.
+16G-X	.	.
+.	12e-	.
+16AA-	.	.
+.	12b-J 12gg-X	.
+16AA-JJ	.	.
+16AAA-LL	12gnL	.
+16AA-	.	.
+.	12a-	.
+16AA-	.	.
+.	12ccJ 12ee-	.
+16G-JJ	.	.
+=36	=36	=36
+16d-LL	12a-L 12ff	.
+16F	.	.
+.	12f	.
+16D-	.	.
+.	12a-J 12ff	.
+16D-JJ	.	.
+16DD-LL	12fL	.
+16D-	.	.
+.	12f 12dd-	.
+16D-	.	.
+.	12d-J	.
+16FJJ	.	.
+=37	=37	=37
+.	8qc	.
+16AnLL	12anL 12ff	.
+16E-	.	.
+.	12c	.
+16FF	.	.
+.	12g-XJ 12ee-	.
+16FFJJ	.	.
+16FFFLL	12enL	.
+16FF	.	.
+.	12f	.
+16FF	.	.
+.	12aJ 12cc	.
+16E-JJ	.	.
+=38	=38	=38
+16B-LL	12fL 12dd-	.
+16F	.	.
+.	12d-	.
+16BB-	.	.
+.	12fJ 12dd-	.
+16D-JJ	.	.
+16d-LL	12B-L	.
+16F	.	.
+.	12d- 12b-	.
+16GG	.	.
+.	12B-J	.
+16BB-JJ	.	.
+=39	=39	=39
+16d-LL	12B-L 12a-	.
+16En	.	.
+.	12A-	.
+16C	.	.
+.	12B-J 12a-	.
+16CJJ	.	.
+16CCLL	12A-L	.
+16C	.	.
+.	12B- 12g	.
+16C	.	.
+.	12A-J	.
+16EJJ	.	.
+=40	=40	=40
+2r	12B-L 12a-	.
+.	12A-	.
+.	12B-J 12a-	.
+.	12A-L	.
+.	12B- 12g	.
+.	12GJ	.
+=41	=41	=41
+8FF 8C 8F 8c	12A-L 12f	.
+.	12c	.
+8r	.	.
+.	12fJ	.
+4r	12gL	.
+.	12a-	.
+.	12ccJ	.
+=42	=42	=42
+16d-LL	12B-L 12a-	.
+16En	.	.
+.	12A-	.
+16C	.	.
+.	12B-J 12a-	.
+16CJJ	.	.
+8CC	12A-L	.
+.	12B- 12g	.
+8r	.	.
+.	12GJ	.
+=43	=43	=43
+8FF 8C 8F 8c	12A-L 12f	.
+.	12c	.
+8r	.	.
+.	12fJ	.
+4r	12gL	.
+.	12a-	.
+.	12ccJ	.
+=44	=44	=44
+16d-LL	12B-L 12a-	.
+16En	.	.
+.	12A-	.
+16C	.	.
+.	12B-J 12a-	.
+16CJJ	.	.
+8CC	12A-L	.
+.	12B- 12g	.
+8r	.	.
+.	12GJ	.
+=45	=45	=45
+8FF 8C 8F 8c	12A-L 12f	.
+.	12c	.
+8r	.	.
+.	12fJ	.
+4r	12gL	.
+.	12a-	.
+.	12ccJ	.
+=46	=46	=46
+8F 8c 8a-	12ffL	.
+.	12cc	.
+8r	.	.
+.	12ffJ	.
+4r	12ggL	.
+.	12aa-	.
+.	12cccJ	.
+*clefG2	*	*
+=47	=47	=47
+8f 8cc	8aa- 8fff	.
+8r	8r	.
+4r	4r	.
+==	==	==
+*-	*-	*-
+!!!system-decoration: {(*)}
+!!!ENC: Bryan Jacob Bell
+!!!END: November 2021 to April 2022
+!!!PED: Konstantin Igumnov and Yakov Milstein
+!!!PTL: A.N. Skryabin: Polnoe sobranie sochinenii dlia fortepiano (Muzgiz)

@@ -1,0 +1,346 @@
+!!!COM: Scriabin, Alexander
+!!!OTL@@FR: Étude en fa dièse mineur
+!!!OTL@@EN: Etude in F# Minor
+!!!OPR@@FR: 8 Études
+!!!OPR@@EN: 8 Etudes
+!!!OPS: 42
+!!!ONM: 2
+!!!ODT: 1903
+!!!AGN: Etude
+**kern	**kern	**dynam
+*staff2	*staff1	*staff1/2
+*Ipiano	*Ipiano	*
+*clefF4	*clefG2	*
+*k[f#c#g#]	*k[f#c#g#]	*
+*f#:	*f#:	*
+*M2/4	*M2/4	*
+=1	=1	=1
+10.r	4r	.
+20G#LL	.	.
+20A	.	.
+20d	8..f#L	.
+20c#	.	.
+20f#JJ	.	.
+20G#LL	.	.
+20A	.	.
+.	32g#Jkk	.
+=2	=2	=2
+20c#	[4a	.
+20B#X	.	.
+20eJJ	.	.
+20ELL	.	.
+20E#X	.	.
+20Bn	6a]	.
+20A	.	.
+20dJJ	.	.
+20E#LL	.	.
+.	12b	.
+20F#	.	.
+=3	=3	=3
+*	*^	*
+20B	4f#	12ddL	.
+20A	.	.	.
+.	.	12cc#	.
+20c#JJ	.	.	.
+20GG#LL	.	.	.
+.	.	12f#J	.
+20AA	.	.	.
+20D	6f#	6a	.
+20C#	.	.	.
+20F#JJ	.	.	.
+20AA#XLL	.	.	.
+.	12d	12a	.
+20BB	.	.	.
+=4	=4	=4	=4
+20E	4B	4gn	.
+20D	.	.	.
+20GnJJ	.	.	.
+20BB#XLL	.	.	.
+20C#	.	.	.
+20D	4B	4e#X	.
+20C#	.	.	.
+20GG#XJJ	.	.	.
+20CC#LL	.	.	.
+20GG#	.	.	.
+*	*v	*v	*
+=5	=5	=5
+20C#	4r	.
+20G#	.	.
+20c#JJ	.	.
+20G#LL	.	.
+20A	.	.
+20d	8..f#L	.
+20c#	.	.
+20f#JJ	.	.
+20G#LL	.	.
+20A	.	.
+.	32g#Jkk	.
+=6	=6	=6
+20c#	[4a	.
+20B#X	.	.
+20eJJ	.	.
+20ELL	.	.
+20E#X	.	.
+20Bn	6a]	.
+20A	.	.
+20dJJ	.	.
+20E#LL	.	.
+.	12b	.
+20F#	.	.
+=7	=7	=7
+*	*^	*
+20B	4f#	12ddL	.
+20A	.	.	.
+.	.	12cc#	.
+20c#JJ	.	.	.
+20BB#XLL	.	.	.
+.	.	12f#J	.
+20C#	.	.	.
+20F#	4c#	6a	.
+20E	.	.	.
+20AJJ	.	.	.
+20D#XLL	.	.	.
+.	.	12a	.
+20E	.	.	.
+=8	=8	=8	=8
+20A	4e	4b	.
+20G#	.	.	.
+20EJJ	.	.	.
+20G#LL	.	.	.
+20A	.	.	.
+20B	4e	4cc#	.
+20A	.	.	.
+20EJJ	.	.	.
+20AALL	.	.	.
+20E	.	.	.
+*	*v	*v	*
+=9	=9	=9
+20A	4r	.
+20e	.	.
+20aJJ	.	.
+*clefG2	*	*
+20d#XLL	.	.
+20e	.	.
+20a	8..cc#L	.
+20g#	.	.
+20cc#JJ	.	.
+20d#LL	.	.
+20e	.	.
+.	32dd#XJkk	.
+=10	=10	=10
+20g#	4ee	.
+20gn	.	.
+20bJJ	.	.
+20E#XLL	.	.
+20F#	.	.
+20f#	4a#X 4ff#	.
+20en	.	.
+20a#XJJ	.	.
+20A#XLL	.	.
+20B	.	.
+=11	=11	=11
+*	*^	*
+20e	4rc	10.b 10.ff#	.
+20d	.	.	.
+20bJJ	.	.	.
+10r	.	20e#XLL	.
+.	.	20f#	.
+*clefF4	*	*	*
+[4FF# 4F#	8en 8f#	20b	.
+.	.	20a#X	.
+.	.	20ddJJ	.
+.	8rc	.	.
+.	.	20e#XLL	.
+.	.	20f#	.
+=12	=12	=12	=12
+4BBB 4FF#] 4BB	8d 8f#	20cc#	.
+.	.	20b	.
+.	.	20ddJJ	.
+.	8rc	.	.
+.	.	20a#XLL	.
+.	.	20b	.
+*clefG2	*	*	*
+10.r	4rc	20ee	.
+.	.	20dd	.
+.	.	20ff#JJ	.
+20e#XLL	.	10raa	.
+20f#	.	.	.
+*	*v	*v	*
+=13	=13	=13
+20cc#	4r	.
+20b	.	.
+20ddJJ	.	.
+20c#LL	.	.
+20d	.	.
+20gn	8..bL	.
+20f#	.	.
+20bJJ	.	.
+20c#LL	.	.
+20d	.	.
+.	32cc#Jkk	.
+=14	=14	=14
+20f#	4dd	.
+20fn	.	.
+20aJJ	.	.
+*clefF4	*	*
+20D#XLL	.	.
+20E	.	.
+20e	4g# 4ee	.
+20dn	.	.
+20g#JJ	.	.
+20G#LL	.	.
+20A	.	.
+=15	=15	=15
+20d	4a 4ee	.
+20c#	.	.
+20aJJ	.	.
+20C#LL	.	.
+20D	.	.
+20d	4f# 4dd	.
+20cn	.	.
+20f#JJ	.	.
+20F#LL	.	.
+20Gn	.	.
+=16	=16	=16
+20cn	4gn 4dd	.
+20B	.	.
+20gnJJ	.	.
+20BB#XLL	.	.
+20C#X	.	.
+20c#X	10.e#X 10.cc#	.
+20Bn	.	.
+20e#XJJ	.	.
+10r	20B#XLL	.
+.	20c#	.
+=17	=17	=17
+*	*^	*
+10.CC# 10.C#	8Bn 8c#	20f#	.
+.	.	20e#X	.
+.	.	20aJJ	.
+.	8rc	.	.
+20G#LL	.	10raa	.
+20A	.	.	.
+20d	4rc	8..f#L	.
+20c#	.	.	.
+20f#JJ	.	.	.
+20G#LL	.	.	.
+20A	.	.	.
+.	.	32g#Jkk	.
+*	*v	*v	*
+=18	=18	=18
+20c#	[4a	.
+20B#X	.	.
+20eJJ	.	.
+20ELL	.	.
+20E#X	.	.
+20Bn	6a]	.
+20A	.	.
+20dJJ	.	.
+20E#LL	.	.
+.	12b	.
+20F#	.	.
+=19	=19	=19
+*	*^	*
+20B	4f#	12ddL	.
+20A	.	.	.
+.	.	12cc#	.
+20c#JJ	.	.	.
+20BB#XLL	.	.	.
+.	.	12f#J	.
+20C#	.	.	.
+20G#	6c#	6a	.
+20F#	.	.	.
+20AJJ	.	.	.
+20BBnLL	.	.	.
+.	12d	12a	.
+20Cn	.	.	.
+=20	=20	=20	=20
+20E	4A	4f#	.
+20D	.	.	.
+20AJJ	.	.	.
+20AA#XLL	.	.	.
+20BB	.	.	.
+20E	10.Gn	10.gn	.
+20D	.	.	.
+20dJJ	.	.	.
+10r	10rc	20c#LL	.
+.	.	20d	.
+=21	=21	=21	=21
+*^	*	*	*
+4rEE	4rc	4rc	20a	.
+.	.	.	20gn	.
+.	.	.	20dJJ	.
+.	.	.	10raa	.
+[4BB	[4Gn	[4d	8.gL	.
+.	.	.	16aJk	.
+=22	=22	=22	=22	=22
+2BB_	2G_	2d_	[4b	.
+.	.	.	6b]	.
+.	.	.	12cc#	.
+=23	=23	=23	=23	=23
+2BB]	2G]	2d]	12eeL	.
+.	.	.	12dd	.
+.	.	.	12gnJ	.
+.	.	.	6b	.
+.	.	.	12b	.
+=24	=24	=24	=24	=24
+2Cn	2F#	2d	4b	.
+.	.	.	4a	.
+*v	*v	*	*	*
+*	*v	*v	*
+=25	=25	=25
+2r	2r	.
+=26	=26	=26
+2r	2r	.
+=27	=27	=27
+*	*^	*
+2CC# 2C#	2B 2c# 2e#X	4a	.
+.	.	4g#	.
+*	*v	*v	*
+=28	=28	=28
+10.r	10.rb	.
+20G#LL	20g#LL	.
+20A	20a	.
+20d	20dd	.
+20c#	20cc#	.
+20f#JJ	20ff#JJ	.
+20G#LL	20g#LL	.
+20A	20a	.
+=29	=29	=29
+20c#	20cc#	.
+20B#X	20b#X	.
+20eJJ	20eeJJ	.
+20ELL	20eLL	.
+20E#X	20e#X	.
+20Bn	20bn	.
+20A	20a	.
+20dJJ	20ddJJ	.
+20E#LL	20e#LL	.
+20F#	20f#	.
+=30	=30	=30
+20B	20b	.
+20A	20a	.
+20c#JJ	20cc#JJ	.
+20GG#LL	20G#LL	.
+20AA	20A	.
+20D	20d	.
+20C#	20c#	.
+20F#JJ	20f#JJ	.
+20AA#XLL	20A#XLL	.
+20BB	20B	.
+=31	=31	=31
+20E	20e	.
+20D	20d	.
+20GnJJ	20gnJJ	.
+10r	10r	.
+4CC# 4C#	4B 4c# 4e#X	.
+=32	=32	=32
+4FFF# 4FF#	4A 4c# 4f#	.
+4r	4r	.
+==	==	==
+*-	*-	*-
+!!!system-decoration: {(*)}
+!!!ENC: Bryan Jacob Bell
+!!!END: November 2021 to April 2022
+!!!PED: Konstantin Igumnov and Yakov Milstein
+!!!PTL: A.N. Skryabin: Polnoe sobranie sochinenii dlia fortepiano (Muzgiz)

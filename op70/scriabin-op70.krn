@@ -579,16 +579,16 @@
 4.r	8BBB-X 8EE-X 8BB-X 8G	24fLL]	.	8r	.
 .	.	24g	.	.	.
 .	.	24f-XJJ	.	.	.
-.	.	.	.	16qqg/LL	.
-.	.	.	.	16qqb-X/JJ	.
+.	.	.	.	16qg/LL	.
+.	.	.	.	16qb-X/JJ	.
 .	8rEE	[4e-X	.	4dd	.
 .	8rEE	.	.	.	.
 =60	=60	=60	=60	=60	=60
 4.r	4rEE	8e-]	.	24dd-XLL	.
 .	.	.	.	24ee-X	.
 .	.	.	.	24ccJJ	.
-.	.	16qqG/LL	.	.	.
-.	.	16qqB-X/JJ	.	.	.
+.	.	16qG/LL	.	.	.
+.	.	16qB-X/JJ	.	.	.
 .	.	4dn	.	[4bn	.
 .	8rEE	.	.	.	.
 =61	=61	=61	=61	=61	=61
@@ -596,23 +596,23 @@
 4.r	8AAA 8EEn 8En	8c#X	.	24bLL]	8raa	.
 .	.	.	.	24cc#X	.	.
 .	.	.	.	24b-XJJ	.	.
-.	.	.	.	.	16qqcc#/LL	.
-.	.	.	.	.	16qqee/JJ	.
+.	.	.	.	.	16qcc#/LL	.
+.	.	.	.	.	16qee/JJ	.
 .	8rEE	8rc	.	4a	4gg#X	.
 .	8rEE	8rc	.	.	.	.
 =62	=62	=62	=62	=62	=62	=62
 4.r	4.r	4.r	.	8rc	24ggnLL	.
 .	.	.	.	.	24aa	.
 .	.	.	.	.	24ff#XJJ	.
-.	.	.	.	16qqc#X\LL	.	.
-.	.	.	.	16qqe\JJ	.	.
+.	.	.	.	16qc#X\LL	.	.
+.	.	.	.	16qe\JJ	.	.
 .	.	.	.	4g#X	[4ffn	.
 =63	=63	=63	=63	=63	=63	=63
 4.r	8BBB-X 8EE-X 8E-X	8rc	.	4.gn	24ffLL]	.
 .	.	.	.	.	24gg	.
 .	.	.	.	.	24ff-XJJ	.
-.	.	16qqG/LL	.	.	.	.
-.	.	16qqB-X/JJ	.	.	.	.
+.	.	16qG/LL	.	.	.	.
+.	.	16qB-X/JJ	.	.	.	.
 .	8rEE	4d	.	.	[4ee-X	.
 .	8rEE	.	.	.	.	.
 =64	=64	=64	=64	=64	=64	=64
@@ -620,16 +620,16 @@
 4.r	4.rEE	24d-XLL	.	8ee-]	.
 .	.	24e-X	.	.	.
 .	.	24cJJ	.	.	.
-.	.	.	.	16qqg/LL	.
-.	.	.	.	16qqb-X/JJ	.
+.	.	.	.	16qg/LL	.
+.	.	.	.	16qb-X/JJ	.
 .	.	[4Bn	.	4dd	.
 =65	=65	=65	=65	=65	=65
 *	*	*	*	*^	*
 4.r	8AAA 8EEn 8En	24BLL]	.	8rc	8cc#X	.
 .	.	24c#X	.	.	.	.
 .	.	24B-XJJ	.	.	.	.
-.	.	.	.	.	16qqc#X/LL	.
-.	.	.	.	[8qc#\	16qqe/JJ	.
+.	.	.	.	.	16qc#X/LL	.
+.	.	.	.	[8qc#\	16qe/JJ	.
 .	4r	4A	.	4c#]	4g#X	.
 *	*v	*v	*	*	*	*
 =66	=66	=66	=66	=66	=66
@@ -640,8 +640,8 @@
 .	8E-XJ	.	.	.	.
 =67	=67	=67	=67	=67	=67
 4.r	8EnL	.	8rc	8raa	.
-.	.	.	.	16qqc#X/LL	.
-.	.	.	[8qc#\	16qqe/JJ	.
+.	.	.	.	16qc#X/LL	.
+.	.	.	[8qc#\	16qe/JJ	.
 .	8EEn	.	4c#]	4g#X	.
 .	8AAAJ	.	.	.	.
 =68	=68	=68	=68	=68	=68
@@ -653,31 +653,31 @@
 *	*	*	*v	*v	*
 =69	=69	=69	=69	=69
 4.r	8EnL	.	8raa	.
-.	.	.	16qqc#X/LL	.
-.	.	.	16qqe/JJ	.
+.	.	.	16qc#X/LL	.
+.	.	.	16qe/JJ	.
 .	8EEn	.	4g#X	.
 .	[8AAAJ	.	.	.
 =70	=70	=70	=70	=70
 4.r	8AAAL]	.	8r	.
-.	.	.	16qqc#X/LL	.
-.	.	.	16qqe/JJ	.
+.	.	.	16qc#X/LL	.
+.	.	.	16qe/JJ	.
 .	8EE	.	4g#X	.
 .	8EJ	.	.	.
 =71	=71	=71	=71	=71
 4.r	4r	.	4r	.
-.	.	.	16qqc#X/LL	.
-.	.	.	16qqe/JJ	.
+.	.	.	16qc#X/LL	.
+.	.	.	16qe/JJ	.
 .	[8AA [8E	.	[8g#X	.
 =72	=72	=72	=72	=72
 4.r	8AA] 8E]	.	8g#]	.
-.	.	.	16qqe#X/LL	.
-.	.	.	16qqg#X/JJ	.
+.	.	.	16qe#X/LL	.
+.	.	.	16qg#X/JJ	.
 .	4GG#X 4E#X 4c#X	.	4b#X	.
 =73||	=73||	=73||	=73||	=73||
 *M3/4	*M3/4	*	*M3/4	*
 *	*^	*	*	*
-.	.	.	.	16qqa#X/LL	.
-.	.	.	.	16qqdd/JJ	.
+.	.	.	.	16qa#X/LL	.
+.	.	.	.	16qdd/JJ	.
 2.r	4rEE	4GG#X 4En 4d	.	4ff#X	.
 .	4rEE	12rc	.	4.A#X	.
 .	.	12f#XL	.	.	.
@@ -696,8 +696,8 @@
 .	16cJJ	.	.	.	.	.
 .	.	.	.	24bJJ	.	.
 .	8f#	4rc	.	4.b-X	8r	.
-.	.	.	.	.	16qqccLL	.
-.	.	.	.	.	16qqeeJJ	.
+.	.	.	.	.	16qccLL	.
+.	.	.	.	.	16qeeJJ	.
 *	*	*	*	*tremolo	*	*
 .	8r	.	.	.	32ff#LLL	.
 .	.	.	.	.	32gg 32aa	.
@@ -731,16 +731,16 @@
 .	16E-XJJ	.	.	.	.	.
 .	8rEE	.	.	.	.	.
 .	.	.	.	12b-X	.	.
-.	.	.	.	.	16qqen/LL	.
-.	.	.	.	.	16qqg/JJ	.
+.	.	.	.	.	16qen/LL	.
+.	.	.	.	.	16qg/JJ	.
 .	4rEE	4C 4G	.	4rc	4bn	.
-.	.	.	.	.	16qqg#X/LL	.
-.	.	.	.	.	16qqb/JJ	.
+.	.	.	.	.	16qg#X/LL	.
+.	.	.	.	.	16qb/JJ	.
 .	4rEE	4BBn 4G#X 4en	.	4rc	4dd#X	.
 *	*	*	*	*v	*v	*
 =77	=77	=77	=77	=77	=77
-.	.	.	.	16qqcc#X/LL	.
-.	.	.	.	16qqff/JJ	.
+.	.	.	.	16qcc#X/LL	.
+.	.	.	.	16qff/JJ	.
 2.r	4rEE	4BB 4Gn 4f	.	4aaX	.
 .	4rEE	12rc	.	4.c#X	.
 .	.	12aL	.	.	.
@@ -759,8 +759,8 @@
 .	16e-JJ	.	.	.	.	.
 .	.	.	.	24ddJJ	.	.
 .	8a	4rc	.	4.dd-X	8r	.
-.	.	.	.	.	16qqee-LL	.
-.	.	.	.	.	16qqggJJ	.
+.	.	.	.	.	16qee-LL	.
+.	.	.	.	.	16qggJJ	.
 *	*	*	*	*tremolo	*	*
 .	8r	.	.	.	32aaLLL	.
 .	.	.	.	.	32bb- 32ccc	.
@@ -792,17 +792,17 @@
 =80	=80	=80	=80	=80	=80
 2.r	4AA 4G 4c#	.	6a	4eX 4g 4eenX	.
 .	.	.	12b-X	.	.
-.	.	.	.	16qqe/LL	.
-.	.	.	.	16qqg/JJ	.
+.	.	.	.	16qe/LL	.
+.	.	.	.	16qg/JJ	.
 .	4Cn 4G	.	4rc	4bn	.
-.	.	.	.	16qqg#X/LL	.
-.	.	.	.	16qqb/JJ	.
+.	.	.	.	16qg#X/LL	.
+.	.	.	.	16qb/JJ	.
 .	4BBn 4G#X 4e	.	4rc	4dd#X	.
 *	*	*	*v	*v	*
 =81	=81	=81	=81	=81
 *	*^	*	*	*
-.	.	.	.	16qqcc#X/LL	.
-.	.	.	.	16qqff/JJ	.
+.	.	.	.	16qcc#X/LL	.
+.	.	.	.	16qff/JJ	.
 2.r	4rEE	4BB 4Gn 4f	.	4aaX	.
 .	4rEE	12rc	.	4.c#X	.
 .	.	12aL	.	.	.
@@ -821,8 +821,8 @@
 .	16e-JJ	.	.	.	.	.
 .	.	.	.	24ddJJ	.	.
 .	8a	4rc	.	[2dd-X	8r	.
-.	.	.	.	.	16qqee-LL	.
-.	.	.	.	.	16qqggJJ	.
+.	.	.	.	.	16qee-LL	.
+.	.	.	.	.	16qggJJ	.
 *	*	*	*	*tremolo	*	*
 .	8r	.	.	.	32aaLLL	.
 .	.	.	.	.	32bb- 32ccc	.
@@ -897,8 +897,8 @@
 =89	=89	=89	=89	=89	=89
 *	*	*	*	*^	*
 4.r	4.DD#X 4.AA 4.G	4c	.	8b 8dd#X	4.gg	.
-.	.	.	.	16qqd#X\LL	.	.
-.	.	.	.	16qqg\JJ	.	.
+.	.	.	.	16qd#X\LL	.	.
+.	.	.	.	16qg\JJ	.	.
 .	.	.	.	4b	.	.
 .	.	8c	.	.	.	.
 =90	=90	=90	=90	=90	=90	=90
@@ -927,8 +927,8 @@
 =93	=93	=93	=93	=93	=93
 *	*	*	*	*^	*
 4.r	4.DD#X 4.AA 4.G	4c	.	8b 8dd#X	4.gg	.
-.	.	.	.	16qqd#X\LL	.	.
-.	.	.	.	16qqg\JJ	.	.
+.	.	.	.	16qd#X\LL	.	.
+.	.	.	.	16qg\JJ	.	.
 .	.	.	.	4b	.	.
 .	.	8c	.	.	.	.
 =94	=94	=94	=94	=94	=94	=94
@@ -961,8 +961,8 @@
 *	*	*v	*v	*	*	*	*
 =97	=97	=97	=97	=97	=97	=97
 4.r	4.AA 4.E-X 4.d-X	4g-X	.	8ff 8aa	4.ddd-X	.
-.	.	.	.	16qqa\LL	.	.
-.	.	.	.	16qqdd-X\JJ	.	.
+.	.	.	.	16qa\LL	.	.
+.	.	.	.	16qdd-X\JJ	.	.
 .	.	.	.	4ff	.	.
 .	.	8g-	.	.	.	.
 =98	=98	=98	=98	=98	=98	=98
@@ -980,8 +980,8 @@
 *	*	*	*	*	*v	*v	*
 =100||	=100||	=100||	=100||	=100||	=100||	=100||
 *M3/4	*M3/4	*M3/4	*	*M3/4	*M3/4	*
-.	.	.	.	16qqcc#X/LL	.	.
-.	.	.	.	16qqffn/JJ	.	.
+.	.	.	.	16qcc#X/LL	.	.
+.	.	.	.	16qffn/JJ	.	.
 2.r	4rEE	4BB 4Gn 4f	.	4aaX	4fffn	.
 .	4rEE	12rc	.	4.c#X	4r	.
 .	.	12aL	.	.	.	.
@@ -999,8 +999,8 @@
 .	16e-JJ	.	.	.	.	.
 .	.	.	.	24ddJJ	.	.
 .	8a	4rc	.	[2dd-X	8r	.
-.	.	.	.	.	16qqee-LL	.
-.	.	.	.	.	16qqggJJ	.
+.	.	.	.	.	16qee-LL	.
+.	.	.	.	.	16qggJJ	.
 *	*	*	*	*tremolo	*	*
 .	8r	.	.	.	32aaLLL	.
 .	.	.	.	.	32bb- 32ccc	.
@@ -1076,8 +1076,8 @@
 *	*	*	*	*^	*
 =108	=108	=108	=108	=108	=108	=108
 4.r	4.DD#X 4.AA 4.G	4c	.	8b 8dd#X	4.gg	.
-.	.	.	.	16qqd#X\LL	.	.
-.	.	.	.	16qqg\JJ	.	.
+.	.	.	.	16qd#X\LL	.	.
+.	.	.	.	16qg\JJ	.	.
 .	.	.	.	4b	.	.
 .	.	8c	.	.	.	.
 =109	=109	=109	=109	=109	=109	=109
@@ -1175,8 +1175,8 @@
 .	.	16A#X	.	.	.	.
 .	.	16GnJJ	.	.	.	.
 .	.	[4.F#	.	.	.	.
-.	.	.	.	.	16qqa#X/LL	.
-.	.	.	.	.	16qqcc#X/JJ	.
+.	.	.	.	.	16qa#X/LL	.
+.	.	.	.	.	16qcc#X/JJ	.
 8.CCC#] 8.CC#]	8.AA#_	.	[8.dn	.	8ee#XL	.
 .	.	.	.	.	[16eenJk	.
 =123	=123	=123	=123	=123	=123	=123
@@ -1245,21 +1245,21 @@
 *	*	*	*v	*v	*
 =128	=128	=128	=128	=128
 *M3/8	*M3/8	*	*M3/8	*
-.	.	.	16qqddn/LL	.
-.	.	.	16qqffn/JJ	.
+.	.	.	16qddn/LL	.
+.	.	.	16qffn/JJ	.
 8Dn 8B-X	8fn	.	8aanL	.
 8FFFL	8r	.	8aa-X	.
 8BBB-XJ	8r	.	8ggJ	.
 =129	=129	=129	=129	=129
-.	.	.	16qqb-X/LL	.
-.	.	.	16qqdd/JJ	.
+.	.	.	16qb-X/LL	.
+.	.	.	16qdd/JJ	.
 8FFL	4.r	.	8gg-XL	.
 8D	.	.	8ff	.
 8B-XJ	.	.	8eeJ	.
 =130	=130	=130	=130	=130
 *	*	*	*^	*
-.	16qqd/LL	.	.	.	.
-.	16qqf/JJ	.	.	.	.
+.	16qd/LL	.	.	.	.
+.	16qf/JJ	.	.	.	.
 4.r	8aL	.	[4.dd	24cccLL	.
 .	.	.	.	24ddd	.
 .	.	.	.	24ccc-XJJ	.
@@ -1327,8 +1327,8 @@
 .	.	16d	.	.	.	.
 .	.	16c-JJ	.	.	.	.
 .	.	[4.B-	.	.	.	.
-.	.	.	.	.	16qqddLL	.
-.	.	.	.	.	16qqffJJ	.
+.	.	.	.	.	16qddLL	.
+.	.	.	.	.	16qffJJ	.
 8.FFF] 8.FF]	8.D_	.	[8.g-	.	8aanL	.
 .	.	.	.	.	[16aa-J	.
 =139	=139	=139	=139	=139	=139	=139
@@ -1398,33 +1398,33 @@
 *	*	*	*v	*v	*
 =144	=144	=144	=144	=144
 *M3/8	*M3/8	*	*M3/8	*
-.	.	.	16qqff#X/LL	.
-.	.	.	16qqaa/JJ	.
+.	.	.	16qff#X/LL	.
+.	.	.	16qaa/JJ	.
 8F#X 8d	8an	.	8ccc#XL	.
-.	.	.	16qqff#/LL	.
-.	.	.	16qqaa/JJ	.
+.	.	.	16qff#/LL	.
+.	.	.	16qaa/JJ	.
 16AAALL	8r	.	8ccc#	.
 16DD	.	.	.	.
-.	.	.	16qqff#/LL	.
-.	.	.	16qqaa/JJ	.
+.	.	.	16qff#/LL	.
+.	.	.	16qaa/JJ	.
 16AA	8r	.	8ccc#J	.
 16F#JJ	.	.	.	.
 =145	=145	=145	=145	=145
-.	.	.	16qqff#X/LL	.
-.	.	.	16qqaa/JJ	.
+.	.	.	16qff#X/LL	.
+.	.	.	16qaa/JJ	.
 8r	4.r	.	8ccc#XL	.
-.	.	.	16qqff#/LL	.
-.	.	.	16qqaa/JJ	.
+.	.	.	16qff#/LL	.
+.	.	.	16qaa/JJ	.
 16AALL	.	.	8ccc#	.
 16D	.	.	.	.
-.	.	.	16qqff#/LL	.
-.	.	.	16qqaa/JJ	.
+.	.	.	16qff#/LL	.
+.	.	.	16qaa/JJ	.
 16A	.	.	8ccc#J	.
 16f#JJ	.	.	.	.
 *	*clefG2	*	*	*
 =146	=146	=146	=146	=146
-.	.	.	16qqff#X/LL	.
-.	.	.	16qqaa/JJ	.
+.	.	.	16qff#X/LL	.
+.	.	.	16qaa/JJ	.
 4.r	24eeLL	.	8ccc#XL	.
 .	24ff#X	.	.	.
 .	24ee-XJJ	.	.	.
@@ -1445,16 +1445,16 @@
 4.r	8A 8d 8a	.	8r	[4.ff#X	24eeeLL	.
 .	.	.	.	.	24fff#X	.
 .	.	.	.	.	24eee-XJJ	.
-.	.	.	16qqf#X/LL	.	.	.
-.	.	.	16qqa/JJ	.	.	.
+.	.	.	16qf#X/LL	.	.	.
+.	.	.	16qa/JJ	.	.	.
 .	8r	.	4cc#X\	.	[4ddd	.
 .	8r	.	.	.	.	.
 =149	=149	=149	=149	=149	=149	=149
 4.r	4.r	.	24ccn\LL	8ff#]	8ddd]	.
 .	.	.	24dd\	.	.	.
 .	.	.	24b\JJ	.	.	.
-.	.	.	.	.	16qqff#X/LL	.
-.	.	.	.	.	16qqaa/JJ	.
+.	.	.	.	.	16qff#X/LL	.
+.	.	.	.	.	16qaa/JJ	.
 .	.	.	[4b-X\	8rc	4ccc#X	.
 .	.	.	.	8rc	.	.
 *	*	*	*	*v	*v	*
@@ -1462,8 +1462,8 @@
 4.r	4AA-X 4E-X 4A-X	.	24b-LL]	8cccn	.
 .	.	.	24cc	.	.
 .	.	.	24b--JJ	.	.
-.	.	.	.	16qqcc/LL	.
-.	.	.	.	16qqee-X/JJ	.
+.	.	.	.	16qcc/LL	.
+.	.	.	.	16qee-X/JJ	.
 .	.	.	4a-X	4gg	.
 .	8r	.	.	.	.
 =151	=151	=151	=151	=151	=151
@@ -1473,28 +1473,28 @@
 4.r	8rc	24gg-XLL	.	4.r	.
 .	.	24aa-X	.	.	.
 .	.	24ffJJ	.	.	.
-.	16qqc\LL	.	.	.	.
-.	16qqe-X\JJ	.	.	.	.
+.	16qc\LL	.	.	.	.
+.	16qe-X\JJ	.	.	.	.
 .	4gn	[4een	.	.	.
 =152	=152	=152	=152	=152	=152
 4AAAn 4DD 4AAn	8f#X	24eeLL]	.	4.r	.
 .	.	24ff#X	.	.	.
 .	.	24ee-XJJ	.	.	.
-.	16qqF#X\LL	.	.	.	.
-.	16qqA\JJ	.	.	.	.
+.	16qF#X\LL	.	.	.	.
+.	16qA\JJ	.	.	.	.
 .	8c#XL	[4dd	.	.	.
-.	16qqF#\LL	.	.	.	.
-.	16qqA\JJ	.	.	.	.
+.	16qF#\LL	.	.	.	.
+.	16qA\JJ	.	.	.	.
 8r	8c#J	.	.	.	.
 =153	=153	=153	=153	=153	=153
 4CCn 4FFn 4Cn	8fn 8a	24ddLL]	.	4.r	.
 .	.	24een	.	.	.
 .	.	24dd-XJJ	.	.	.
-.	16qqA\LL	.	.	.	.
-.	16qqcn\JJ	.	.	.	.
+.	16qA\LL	.	.	.	.
+.	16qcn\JJ	.	.	.	.
 .	8eL	[4cc	.	.	.
-.	16qqA\LL	.	.	.	.
-.	16qqc\JJ	.	.	.	.
+.	16qA\LL	.	.	.	.
+.	16qc\JJ	.	.	.	.
 8r	8eJ	.	.	.	.
 =154	=154	=154	=154	=154	=154
 *M9/16	*M9/16	*M9/16	*	*M9/16	*
@@ -1740,11 +1740,11 @@
 *	*	*	*	*^	*
 4.r	4.DDn 4.GG 4.Dn	4.G] 4.B]	.	8d#L]	8.r	.
 .	.	.	.	16dnJk	.	.
-.	.	.	.	.	16qqb/LL	.
-.	.	.	.	.	16qqddn/JJ	.
+.	.	.	.	.	16qb/LL	.
+.	.	.	.	.	16qddn/JJ	.
 .	.	.	.	4.B	8.ff#X	.
-.	.	.	.	.	16qqb/LL	.
-.	.	.	.	.	16qqdd/JJ	.
+.	.	.	.	.	16qb/LL	.
+.	.	.	.	.	16qdd/JJ	.
 8.r	8.r	8.r	.	.	8.ff#	.
 *	*v	*v	*	*	*	*
 =174	=174	=174	=174	=174	=174
@@ -1784,11 +1784,11 @@
 *	*	*	*	*^	*
 4.r	4.DD- 4.GG- 4.D-	4.G-] 4.B-]	.	8dL]	8.r	.
 .	.	.	.	16d-Jk	.	.
-.	.	.	.	.	16qqb-/LL	.
-.	.	.	.	.	16qqdd-/JJ	.
+.	.	.	.	.	16qb-/LL	.
+.	.	.	.	.	16qdd-/JJ	.
 .	.	.	.	4.B-	8.ffX	.
-.	.	.	.	.	16qqb-/LL	.
-.	.	.	.	.	16qqdd-/JJ	.
+.	.	.	.	.	16qb-/LL	.
+.	.	.	.	.	16qdd-/JJ	.
 8.r	8.r	8.r	.	.	8.ff	.
 *	*v	*v	*	*	*	*
 *	*	*	*v	*v	*
@@ -1953,20 +1953,20 @@
 .	.	.	.	.	.	.	24ccc	.
 .	.	.	16g-XJJ	.	.	.	.	.
 .	.	.	.	.	.	.	24bb--JJ	.
-.	.	.	16qqc/LL	.	.	.	.	.
-.	.	.	16qqe-X/JJ	.	.	.	.	.
+.	.	.	16qc/LL	.	.	.	.	.
+.	.	.	16qe-X/JJ	.	.	.	.	.
 .	.	.	16gnLL	.	8r	16rc	[4aa-X	.
 .	.	.	16g-XJJ	.	.	32ff-XLLL	.	.
 .	.	.	.	.	.	32ccJJJ	.	.
-.	.	.	16qqc/LL	.	.	.	.	.
-.	.	.	16qqe-/JJ	.	.	.	.	.
+.	.	.	16qc/LL	.	.	.	.	.
+.	.	.	16qe-/JJ	.	.	.	.	.
 .	.	.	16gnLL	.	16r	16rc	.	.
 .	.	.	16g-XJJ	.	32ff-\LLL	[16ff-	.	.
 .	.	.	.	.	[32cc\JJJ	.	.	.
 =195	=195	=195	=195	=195	=195	=195	=195	=195
 *	*	*v	*v	*	*	*	*	*
-.	.	16qqc/LL	.	.	.	.	.
-.	.	16qqe-X/JJ	.	.	.	.	.
+.	.	16qc/LL	.	.	.	.	.
+.	.	16qe-X/JJ	.	.	.	.	.
 4.AAA-] 4.EE-] 4.AA-]	4.E-]	16gnLL	.	8cc\]	8ff-]	8aa-]	.
 .	.	16g-X	.	.	.	.	.
 .	.	16ffn	.	8r	8rc	8raa	.
@@ -2012,20 +2012,20 @@
 .	.	.	.	.	.	.	24ggg-X	.
 .	.	.	16ccnJJ	.	.	.	.	.
 .	.	.	.	.	.	.	24eee-XJJ	.
-.	.	.	16qqg-/LL	.	.	.	.	.
-.	.	.	16qqb--/JJ	.	.	.	.	.
+.	.	.	16qg-/LL	.	.	.	.	.
+.	.	.	16qb--/JJ	.	.	.	.	.
 .	.	.	16dd-XLL	.	8r	16rc	[4dddn	.
 .	.	.	16ccJJ	.	.	32bb-XLLL	.	.
 .	.	.	.	.	.	32gg-JJJ	.	.
-.	.	.	16qqg-/LL	.	.	.	.	.
-.	.	.	16qqb--/JJ	.	.	.	.	.
+.	.	.	16qg-/LL	.	.	.	.	.
+.	.	.	16qb--/JJ	.	.	.	.	.
 .	.	.	16dd-LL	.	16r	16rc	.	.
 .	.	.	16ccJJ	.	32bb-\LLL	[16bb-	.	.
 .	.	.	.	.	[32gg-\JJJ	.	.	.
 *	*	*v	*v	*	*	*	*	*
 =199	=199	=199	=199	=199	=199	=199	=199
-.	.	16qqg-X/LL	.	.	.	.	.
-.	.	16qqb--/JJ	.	.	.	.	.
+.	.	16qg-X/LL	.	.	.	.	.
+.	.	16qb--/JJ	.	.	.	.	.
 4.AAA-] 4.EE-] 4.AA-]	4.G-] 4.B-]	16dd-XLL	.	8gg-\]	8bb-]	4.ddd]	.
 .	.	16cc	.	.	.	.	.
 .	.	16ccc-X	.	8r	8rc	.	.
@@ -2062,8 +2062,8 @@
 =202	=202	=202	=202	=202	=202	=202
 4.r	8rEE	4.E-X	.	4.c 4.cc	16fLL 16ff	.
 .	.	.	.	.	16g-XJJ 16gg-X	.
-.	.	.	.	.	16qqcc/LL	.
-.	.	.	.	.	16qqee-X/JJ	.
+.	.	.	.	.	16qcc/LL	.
+.	.	.	.	.	16qee-X/JJ	.
 .	16AAA-XLL	.	.	.	4ggn	.
 .	16EE-X	.	.	.	.	.
 .	16AA-X	.	.	.	.	.
@@ -2073,13 +2073,13 @@
 4.r	8r	.	24b-XLL	8raa	.
 .	.	.	24cc	.	.
 .	.	.	24b--JJ	.	.
-.	.	.	8.qa-	16qqa-X/LL	.
-.	.	.	.	16qqcc/	.
-.	.	.	.	16qqee-X/JJ	.
+.	.	.	8.qa-	16qa-X/LL	.
+.	.	.	.	16qcc/	.
+.	.	.	.	16qee-X/JJ	.
 .	16AA-XLL	.	8rc	8ggL	.
 .	16E-X	.	.	.	.
-.	.	.	.	16qqcc/LL	.
-.	.	.	.	16qqee-/JJ	.
+.	.	.	.	16qcc/LL	.
+.	.	.	.	16qee-/JJ	.
 .	16A-X	.	8rc	8ggJ	.
 .	16e-XJJ	.	.	.	.
 =204	=204	=204	=204	=204	=204
@@ -2110,8 +2110,8 @@
 =206	=206	=206	=206	=206	=206	=206
 4.r	8rEE	4.G	.	4.e 4.ee	16aLL 16aa	.
 .	.	.	.	.	16b-XJJ 16bb-X	.
-.	.	.	.	.	16qqee/LL	.
-.	.	.	.	.	16qqgg/JJ	.
+.	.	.	.	.	16qee/LL	.
+.	.	.	.	.	16qgg/JJ	.
 .	16GGGLL	.	.	.	4bbn	.
 .	16CC	.	.	.	.	.
 .	16GG	.	.	.	.	.
@@ -2121,13 +2121,13 @@
 4.r	8r	.	24ddLL	8raa	.
 .	.	.	24ee	.	.
 .	.	.	24dd-XJJ	.	.
-.	.	.	8.qcc	16qqcc/LL	.
-.	.	.	.	16qqee/	.
-.	.	.	.	16qqgg/JJ	.
+.	.	.	8.qcc	16qcc/LL	.
+.	.	.	.	16qee/	.
+.	.	.	.	16qgg/JJ	.
 .	16GGLL	.	8rc	8bbL	.
 .	16C	.	.	.	.
-.	.	.	.	16qqee/LL	.
-.	.	.	.	16qqgg/JJ	.
+.	.	.	.	16qee/LL	.
+.	.	.	.	16qgg/JJ	.
 .	16G	.	8rc	8bbJ	.
 .	16eJJ	.	.	.	.
 =208	=208	=208	=208	=208	=208
@@ -2195,8 +2195,8 @@
 24GG	.	.	.	.	.
 24GGGJJ	.	.	.	.	.
 4r	4rc	4.A	.	8r	.
-.	.	.	.	16qqa/LL	.
-.	.	.	.	16qqdd-X/JJ	.
+.	.	.	.	16qa/LL	.
+.	.	.	.	16qdd-X/JJ	.
 .	.	.	.	48ffLLL	.
 .	.	.	.	48bb 48dddn 48fff 48ggg	.
 .	.	.	.	48ff 48ddd-X	.
@@ -2224,8 +2224,8 @@
 24D#	.	24e#X	.	.	.
 24BJJ	.	24a#XJJ	.	.	.
 8e#X	4rc	4.an	.	8r	.
-.	.	.	.	16qqb/LL	.
-.	.	.	.	16qqdd#X/JJ	.
+.	.	.	.	16qb/LL	.
+.	.	.	.	16qdd#X/JJ	.
 8rEE	.	.	.	48ee#XLLL	.
 .	.	.	.	48aa 48ddd#X 48fff#X 48ggg#X	.
 .	.	.	.	48ee# 48aa#X	.
@@ -2256,8 +2256,8 @@
 24Dn	.	.	.	.	.	.
 24AJJ	.	.	.	.	.	.
 8f#X	.	4b	4r	.	8r	.
-.	.	.	.	.	16qqdd/LL	.
-.	.	.	.	.	16qqff#/JJ	.
+.	.	.	.	.	16qdd/LL	.
+.	.	.	.	.	16qff#/JJ	.
 8r	.	.	.	.	48gg#XLLL	.
 .	.	.	.	.	48ccc 48fff# 48gggn 48aaa	.
 .	.	.	.	.	48gg# 48ccc#X	.
@@ -2293,8 +2293,8 @@
 .	.	.	.	.	.	48ggg#JJJ 48aaa	.
 [4qBB	.	.	.	.	.	.	.
 .	[8.qF#	.	.	.	.	.	.
-.	.	.	.	.	.	16qqd#LL	.
-.	.	.	.	.	.	16qqf#JJ	.
+.	.	.	.	.	.	16qd#LL	.
+.	.	.	.	.	.	16qf#JJ	.
 4BB]	4F#X]	2r	2r	2r	.	48a#XLLL	.
 .	.	.	.	.	.	48ddn 48ggn 48aan 48bb	.
 .	.	.	.	.	.	48a# 48dd#X	.
@@ -2311,8 +2311,8 @@
 [4qBB-	.	.	.	.	.	.	.	.
 .	[4qGn	.	.	.	.	.	.	.
 .	.	[8.qe-	.	.	.	.	.	.
-.	.	.	.	.	.	.	16qqgnLL	.
-16qqBB-_	.	.	.	.	.	.	16qqb-JJ	.
+.	.	.	.	.	.	.	16qgnLL	.
+16qBB-_	.	.	.	.	.	.	16qb-JJ	.
 4BB-]	4G]	4e-]	.	.	.	.	48ddLLL	.
 .	.	.	.	.	.	.	48gg-X 48ccc-X 48ddd-X 48eee-X	.
 .	.	.	.	.	.	.	48dd 48ggn	.
@@ -2336,8 +2336,8 @@
 24AA#	.	.	.	.
 24AAA#XJJ	.	.	.	.
 4r	4.B#X	.	8r	.
-.	.	.	16qqb#X/LL	.
-.	.	.	16qqee/JJ	.
+.	.	.	16qb#X/LL	.
+.	.	.	16qee/JJ	.
 .	.	.	48gg#XLLL	.
 .	.	.	48ccc##X 48eee#X 48ggg# 48aaa#X	.
 .	.	.	48gg# 48eeen	.
@@ -2364,8 +2364,8 @@
 24F#	.	24g#X	.	.	.
 24dJJ	.	24cc#XJJ	.	.	.
 8g#X	4rc	4.ccn	.	8r	.
-.	.	.	.	16qqdd/LL	.
-.	.	.	.	16qqff#X/JJ	.
+.	.	.	.	16qdd/LL	.
+.	.	.	.	16qff#X/JJ	.
 8r	.	.	.	48gg#XLLL	.
 .	.	.	.	48ccc 48fff#X 48aaan 48bbb	.
 .	.	.	.	48gg# 48ccc#X	.
@@ -2396,8 +2396,8 @@
 24D	.	.	.	.
 24AJJ	.	.	.	.
 8f#X	4dd	.	8r	.
-.	.	.	16qqdd/LL	.
-.	.	.	16qqff#X/JJ	.
+.	.	.	16qdd/LL	.
+.	.	.	16qff#X/JJ	.
 8r	.	.	48gg#LLL	.
 .	.	.	48ccc 48fff#X 48aaa 48bbb	.
 .	.	.	48gg# 48ccc#X	.
@@ -2419,8 +2419,8 @@
 =219	=219	=219	=219	=219
 *	*^	*	*	*
 [2.FF#X [2.BB [2.F#X	[2.f#X [2.b	[2.d#X [2.dd#X	.	4r	.
-.	.	.	.	16qqdd#X/LL	.
-.	.	.	.	16qqff#X/JJ	.
+.	.	.	.	16qdd#X/LL	.
+.	.	.	.	16qff#X/JJ	.
 .	.	.	.	48aa#XLLL	.
 .	.	.	.	48dddn 48gggn 48aaan 48bbb	.
 .	.	.	.	48aa# 48ddd#X	.
@@ -2433,8 +2433,8 @@
 .	.	.	.	48dddn 48ggg 48aaa 48bbb	.
 .	.	.	.	48aa# 48ddd#X	.
 .	.	.	.	48dddnJJJ 48ggg 48aaa 48bbb	.
-.	.	.	.	16qqdd#/LL	.
-.	.	.	.	16qqff#/JJ	.
+.	.	.	.	16qdd#/LL	.
+.	.	.	.	16qff#/JJ	.
 .	.	.	.	48aa#LLL	.
 .	.	.	.	48ddd 48ggg 48aaa 48bbb	.
 .	.	.	.	48aa# 48ddd#X	.
@@ -2448,8 +2448,8 @@
 .	.	.	.	48aa# 48ddd#X	.
 .	.	.	.	48dddnJJJ 48ggg 48aaa 48bbb	.
 =220	=220	=220	=220	=220	=220
-.	.	.	.	16qqdd#LL	.
-.	.	.	.	16qqff#JJ	.
+.	.	.	.	16qdd#LL	.
+.	.	.	.	16qff#JJ	.
 2.FF#] 2.BB] 2.F#]	2.f#] 2.b]	4d#] 4dd#]	.	48aa#LLL	.
 .	.	.	.	48dddn 48ggg 48aaan 48aaa#X 48bbb	.
 .	.	.	.	48dd#X 48aan 48aa#X 48ddd#X	.
@@ -2490,8 +2490,8 @@
 =221	=221	=221	=221	=221
 [8qCC/ [8qFFn [8qC	.	.	.	.
 2.CC] 2.FF] 2.C] 2.An 2.c	2.g 2.an 2.cc 2.gg	.	4r	.
-.	.	.	16qqee/LL	.
-.	.	.	16qqgg/JJ	.
+.	.	.	16qee/LL	.
+.	.	.	16qgg/JJ	.
 .	.	.	64bbLLLL	.
 .	.	.	64ccc 64eee 64ggg 64bbb	.
 .	.	.	64een 64gg 64bb 64eee-X	.
@@ -2508,8 +2508,8 @@
 .	.	.	64ccc 64eeen 64ggg 64bbb	.
 .	.	.	64een 64gg 64bb 64eee-X	.
 .	.	.	64cccJJJJ 64eeen 64ggg 64bbb	.
-.	.	.	16qqeen/LL	.
-.	.	.	16qqgg/JJ	.
+.	.	.	16qeen/LL	.
+.	.	.	16qgg/JJ	.
 .	.	.	64bbLLLL	.
 .	.	.	64ccc 64eee 64ggg 64bbb	.
 .	.	.	64een 64gg 64bb 64eee-X	.
@@ -2716,14 +2716,14 @@
 8.r	8.E	.	8.rc	8.gn	.
 =240	=240	=240	=240	=240	=240
 4.r	8.r	.	4.r	8.r	.
-.	.	.	.	16qqe/LL	.
-.	.	.	.	16qqg/JJ	.
+.	.	.	.	16qe/LL	.
+.	.	.	.	16qg/JJ	.
 .	8.GGGL	.	.	4.b	.
 8.r	8.CCJ	.	8.r	.	.
 =241	=241	=241	=241	=241	=241
 4.r	8.GGL	.	4.rc	8.raa	.
-.	.	.	.	16qqe/LL	.
-.	.	.	.	16qqg/JJ	.
+.	.	.	.	16qe/LL	.
+.	.	.	.	16qg/JJ	.
 .	8.EJ	.	.	4.b	.
 8.r	8.r	.	16dLL	.	.
 .	.	.	16e	.	.
@@ -2753,15 +2753,15 @@
 *	*	*	*v	*v	*
 =244	=244	=244	=244	=244
 4.r	8.r	.	8.r	.
-.	.	.	16qqd#X/LL	.
-.	.	.	16qqf#X/JJ	.
+.	.	.	16qd#X/LL	.
+.	.	.	16qf#X/JJ	.
 .	8.FFF#XL	.	4.a#X	.
 8.r	8.BBBJ	.	.	.
 =245	=245	=245	=245	=245
 *	*^	*	*	*
 4.r	8.FF#XL	4.rc	.	8.r	.
-.	.	.	.	16qqd#X/LL	.
-.	.	.	.	16qqf#X/JJ	.
+.	.	.	.	16qd#X/LL	.
+.	.	.	.	16qf#X/JJ	.
 .	8.D#XJ	.	.	4.a#X	.
 8.r	8.rEE	[8.c#X	.	.	.
 =246	=246	=246	=246	=246	=246
@@ -2771,16 +2771,16 @@
 4.r	8FFF#X 8BBB 8FF#X 8D#X	24c#LL]	.	8r	.
 .	.	24d#X	.	.	.
 .	.	24cnJJ	.	.	.
-.	.	.	.	16qqd#X/LL	.
-.	.	.	.	16qqf#X/JJ	.
+.	.	.	.	16qd#X/LL	.
+.	.	.	.	16qf#X/JJ	.
 .	8rEE	[4B	.	4a#X	.
 .	8rEE	.	.	.	.
 =247	=247	=247	=247	=247	=247
 4.r	4rEE	8B]	.	24anLL	.
 .	.	.	.	24b	.
 .	.	.	.	24g#XJJ	.
-.	.	16qqD#X/LL	.	.	.
-.	.	16qqF#X/JJ	.	.	.
+.	.	16qD#X/LL	.	.	.
+.	.	16qF#X/JJ	.	.	.
 .	.	4A#X	.	[4gn	.
 .	8rEE	.	.	.	.
 =248	=248	=248	=248	=248	=248
@@ -2788,39 +2788,39 @@
 4.r	8FFFn 8CC 8C	8An	.	8rc	24gLL]	.
 .	.	.	.	.	24a	.
 .	.	.	.	.	24g-XJJ	.
-.	.	.	.	.	16qqa/LL	.
-.	.	.	.	.	16qqcc/JJ	.
+.	.	.	.	.	16qa/LL	.
+.	.	.	.	.	16qcc/JJ	.
 .	8rEE	8rc	.	4f	4ee	.
 .	8rEE	8rc	.	.	.	.
 =249	=249	=249	=249	=249	=249	=249
 4.rr	4.rEE	4.rc	.	8rc	24ee-XLL	.
 .	.	.	.	.	24ff	.
 .	.	.	.	.	24ddJJ	.
-.	.	.	.	16qqA\LL	.	.
-.	.	.	.	16qqcn\JJ	.	.
+.	.	.	.	16qA\LL	.	.
+.	.	.	.	16qcn\JJ	.	.
 .	.	.	.	4en	[4cc#X	.
 =250	=250	=250	=250	=250	=250	=250
 4.r	8FFF#X 8BBB 8BB	8rc	.	[4.d#X	24cc#LL]	.
 .	.	.	.	.	24dd#X	.
 .	.	.	.	.	24ccnJJ	.
-.	.	16qqD#X/LL	.	.	.	.
-.	.	16qqF#X/JJ	.	.	.	.
+.	.	16qD#X/LL	.	.	.	.
+.	.	16qF#X/JJ	.	.	.	.
 .	8rEE	4A#X	.	.	[4b	.
 .	8rEE	.	.	.	.	.
 =251	=251	=251	=251	=251	=251	=251
 4.rr	4.rEE	24AnLL	.	8d#]	8b]	.
 .	.	24B	.	.	.	.
 .	.	24G#XJJ	.	.	.	.
-.	.	.	.	.	16qqd#X/LL	.
-.	.	.	.	.	16qqf#X/JJ	.
+.	.	.	.	.	16qd#X/LL	.
+.	.	.	.	.	16qf#X/JJ	.
 .	.	[4Gn	.	8rc	4a#X	.
 .	.	.	.	8rc	.	.
 =252	=252	=252	=252	=252	=252	=252
 4.r	8FFFn 8CC 8C	24GLL]	.	8rc	8an	.
 .	.	24A	.	.	.	.
 .	.	24G-XJJ	.	.	.	.
-.	.	.	.	.	16qqA/LL	.
-.	.	.	.	[8qA\	16qqc/JJ	.
+.	.	.	.	.	16qA/LL	.
+.	.	.	.	[8qA\	16qc/JJ	.
 .	8rEE	4F	.	4A]	4e	.
 .	8rEE	.	.	.	.	.
 =253	=253	=253	=253	=253	=253	=253
@@ -2832,8 +2832,8 @@
 .	8BBJ	.	.	.	.
 =254	=254	=254	=254	=254	=254
 4.r	8CnL	.	8rc	8raa	.
-.	.	.	.	16qqA/LL	.
-.	.	.	[8qA\	16qqcn/JJ	.
+.	.	.	.	16qA/LL	.
+.	.	.	[8qA\	16qcn/JJ	.
 .	8CCn	.	4A]	4e	.
 .	8FFFnJ	.	.	.	.
 =255	=255	=255	=255	=255	=255
@@ -2845,51 +2845,51 @@
 =256	=256	=256	=256	=256	=256
 *	*	*	*v	*v	*
 4.r	8CnL	.	8r	.
-.	.	.	16qqA/LL	.
-.	.	.	16qqcn/JJ	.
+.	.	.	16qA/LL	.
+.	.	.	16qcn/JJ	.
 .	8CCn	.	4e	.
 .	[8FFFJ	.	.	.
 =257	=257	=257	=257	=257
-.	.	.	16qqA/LL	.
-.	.	.	16qqc/JJ	.
+.	.	.	16qA/LL	.
+.	.	.	16qc/JJ	.
 4.r	8FFFL]	.	4e	.
 .	8CC	.	.	.
-.	.	.	16qqA/LL	.
-.	.	.	16qqc/JJ	.
+.	.	.	16qA/LL	.
+.	.	.	16qc/JJ	.
 .	8CJ	.	[8e	.
 =258	=258	=258	=258	=258
 4.r	4r	.	8e]	.
 .	.	.	8r	.
-.	.	.	16qqA/LL	.
-.	.	.	16qqc/JJ	.
+.	.	.	16qA/LL	.
+.	.	.	16qc/JJ	.
 .	[8FF [8C	.	[8e	.
 =259	=259	=259	=259	=259
 4.r	8FF] 8C]	.	8e]	.
-.	.	.	16qqc#X/LL	.
-.	.	.	16qqe/JJ	.
+.	.	.	16qc#X/LL	.
+.	.	.	16qe/JJ	.
 .	4EE 4C#X 4A	.	4g#X	.
 *	*clefG2	*	*	*
 =260	=260	=260	=260	=260
 *M3/4	*M3/4	*	*M3/4	*
 *^	*	*	*	*
-.	.	.	.	16qqf#X/LL	.
-.	.	.	.	16qqb-X/JJ	.
+.	.	.	.	16qf#X/LL	.
+.	.	.	.	16qb-X/JJ	.
 4rEE	4EE 4Cn 4B-X	4r	.	4dd	.
-.	.	.	.	16qqf#/LL	.
-.	.	.	.	16qqb-/JJ	.
+.	.	.	.	16qf#/LL	.
+.	.	.	.	16qb-/JJ	.
 4rEE	12rc	4.F#X	.	4dd	.
 .	12dL	.	.	.	.
 .	12B-J	.	.	.	.
-.	.	.	.	16qqg/LL	.
-.	.	.	.	16qqb-/JJ	.
+.	.	.	.	16qg/LL	.
+.	.	.	.	16qb-/JJ	.
 12CL	6C	.	.	4dd	.
 12EEJ	.	.	.	.	.
 .	.	[8G	.	.	.
 12rEE	12C	.	.	.	.
 =261	=261	=261	=261	=261	=261
 *	*	*	*	*tremolo	*
-.	.	.	.	16qqa-LL	.
-.	.	.	.	16qqccJJ	.
+.	.	.	.	16qa-LL	.
+.	.	.	.	16qccJJ	.
 2.EE-	2.C	24GL]	.	32ddLLL	.
 .	.	.	.	32ee- 32ffn	.
 .	.	12A-	.	.	.
@@ -2901,8 +2901,8 @@
 .	.	.	.	32dd	.
 .	.	24gJ	.	.	.
 .	.	.	.	32ee-JJJ 32ff	.
-.	.	.	.	16qqa-LL	.
-.	.	.	.	16qqccJJ	.
+.	.	.	.	16qa-LL	.
+.	.	.	.	16qccJJ	.
 .	.	4.g-	.	32ddLLL	.
 .	.	.	.	32ee- 32ff	.
 .	.	.	.	32dd	.
@@ -2911,8 +2911,8 @@
 .	.	.	.	32ee- 32ff	.
 .	.	.	.	32dd	.
 .	.	.	.	32ee-JJJ 32ff	.
-.	.	.	.	16qqa-LL	.
-.	.	.	.	16qqccJJ	.
+.	.	.	.	16qa-LL	.
+.	.	.	.	16qccJJ	.
 .	.	.	.	32ddLLL	.
 .	.	.	.	32ee- 32ff	.
 .	.	.	.	32dd	.
@@ -2923,18 +2923,18 @@
 .	.	.	.	32ee-JJJ 32ff	.
 *	*	*	*	*Xtremolo	*
 =262	=262	=262	=262	=262	=262
-.	.	.	.	16qqb/LL	.
-.	.	.	.	16qqdd#X/JJ	.
+.	.	.	.	16qb/LL	.
+.	.	.	.	16qdd#X/JJ	.
 16r	2r	4f]	.	4ee#X	.
 16FF#XLL	.	.	.	.	.
 16BB	.	.	.	.	.
 16F#XJJ	.	.	.	.	.
-.	.	.	.	16qqb/LL	.
-.	.	.	.	16qqdd#/JJ	.
+.	.	.	.	16qb/LL	.
+.	.	.	.	16qdd#/JJ	.
 8d#X	.	4g#X	.	4ee#	.
 8r	.	.	.	.	.
-.	.	.	.	16qqb/LL	.
-.	.	.	.	16qqdd#/JJ	.
+.	.	.	.	16qb/LL	.
+.	.	.	.	16qdd#/JJ	.
 4r	8r	4e#X	.	16ee#LL	.
 .	.	.	.	16dd#J	.
 .	24.r	.	.	8ee#J	.
@@ -2943,8 +2943,8 @@
 =263	=263	=263	=263	=263	=263
 *v	*v	*	*	*	*
 *	*^	*	*	*
-[8qF#X/	.	.	.	16qqb/LL	.
-.	.	.	.	16qqdd#X/JJ	.
+[8qF#X/	.	.	.	16qb/LL	.
+.	.	.	.	16qdd#X/JJ	.
 16F#LL]	8B 8d#X 8e#X	4a	.	[8ee#L	.
 16BBJJ	.	.	.	.	.
 8r	8rc	.	.	40ee#LL]	.
@@ -2952,33 +2952,33 @@
 .	.	.	.	40b	.
 .	.	.	.	40e#X	.
 .	.	.	.	40f#XJJJ	.
-.	.	.	.	16qqc/LL	.
-.	.	.	.	16qqe-/JJ	.
+.	.	.	.	16qc/LL	.
+.	.	.	.	16qe-/JJ	.
 4AA-X 4E-X	4rc	4raa	.	4g	.
-.	.	.	.	16qqen/LL	.
-.	.	.	.	16qqg/JJ	.
+.	.	.	.	16qen/LL	.
+.	.	.	.	16qg/JJ	.
 4GG 4En 4c	4rc	4raa	.	4b	.
 =264	=264	=264	=264	=264	=264
 *	*v	*v	*	*	*
 *^	*	*	*	*
-.	.	.	.	16qqa/LL	.
-.	.	.	.	16qqdd-X/JJ	.
+.	.	.	.	16qa/LL	.
+.	.	.	.	16qdd-X/JJ	.
 4rEE	4GG 4E-X 4d-X	4r	.	4ffn	.
-.	.	.	.	16qqf/LL	.
-.	.	.	.	16qqdd-/JJ	.
+.	.	.	.	16qf/LL	.
+.	.	.	.	16qdd-/JJ	.
 4rEE	12rc	4.A	.	4ff	.
 .	12fL	.	.	.	.
 .	12d-J	.	.	.	.
-.	.	.	.	16qqb-X/LL	.
-.	.	.	.	16qqdd-/JJ	.
+.	.	.	.	16qb-X/LL	.
+.	.	.	.	16qdd-/JJ	.
 12E-L	6E-	.	.	4ff	.
 12GGJ	.	.	.	.	.
 .	.	[8B-X	.	.	.
 12rEE	12E-	.	.	.	.
 =265	=265	=265	=265	=265	=265
 *	*	*	*	*tremolo	*
-.	.	.	.	16qqbnLL	.
-.	.	.	.	16qqdd#JJ	.
+.	.	.	.	16qbnLL	.
+.	.	.	.	16qdd#JJ	.
 2.FF#	2.D#	24B-L]	.	32ee#LLL	.
 .	.	.	.	32ff# 32gg#	.
 .	.	12Bn	.	.	.
@@ -2990,8 +2990,8 @@
 .	.	.	.	32ee#	.
 .	.	24a#J	.	.	.
 .	.	.	.	32ff#JJJ 32gg#	.
-.	.	.	.	16qqbLL	.
-.	.	.	.	16qqdd#JJ	.
+.	.	.	.	16qbLL	.
+.	.	.	.	16qdd#JJ	.
 .	.	4.an	.	32ee#LLL	.
 .	.	.	.	32ff# 32gg#	.
 .	.	.	.	32ee#	.
@@ -3000,8 +3000,8 @@
 .	.	.	.	32ff# 32gg#	.
 .	.	.	.	32ee#	.
 .	.	.	.	32ff#JJJ 32gg#	.
-.	.	.	.	116qqbLL	.
-.	.	.	.	16qqdd#JJ	.
+.	.	.	.	116qbLL	.
+.	.	.	.	16qdd#JJ	.
 .	.	.	.	32ee#LLL	.
 .	.	.	.	32ff# 32gg#	.
 .	.	.	.	32ee#	.
@@ -3012,8 +3012,8 @@
 .	.	.	.	32ff#JJJ 32gg#	.
 =266	=266	=266	=266	=266	=266
 *v	*v	*	*	*	*
-.	.	.	16qqbLL	.
-.	.	.	16qqdd#JJ	.
+.	.	.	16qbLL	.
+.	.	.	16qdd#JJ	.
 16r	4g#]	.	32ee#LLL	.
 .	.	.	32ff# 32gg#	.
 16FF#LL	.	.	32ee#	.
@@ -3022,8 +3022,8 @@
 .	.	.	32ff# 32gg#	.
 16AJJ	.	.	32ee#	.
 .	.	.	32ff#JJJ 32gg#	.
-.	.	.	16qqbLL	.
-.	.	.	16qqdd#JJ	.
+.	.	.	16qbLL	.
+.	.	.	16qdd#JJ	.
 8d#	4b	.	32ee#LLL	.
 .	.	.	32ff# 32gg#	.
 .	.	.	32ee#	.
@@ -3032,8 +3032,8 @@
 .	.	.	32ff# 32gg#	.
 .	.	.	32ee#	.
 .	.	.	32ff#JJJ 32gg#	.
-.	.	.	116qqbLL	.
-.	.	.	16qqdd#JJ	.
+.	.	.	116qbLL	.
+.	.	.	16qdd#JJ	.
 4r	4g#	.	32ee#LLL	.
 .	.	.	32ff# 32gg#	.
 .	.	.	32ee#	.
@@ -3044,8 +3044,8 @@
 .	.	.	32ff#JJJ 32gg#	.
 *	*	*	*Xtremolo	*
 =267	=267	=267	=267	=267
-.	.	.	16qqcc/LL	.
-.	.	.	16qqee-X/JJ	.
+.	.	.	16qcc/LL	.
+.	.	.	16qee-X/JJ	.
 16e-XLL	4cc	.	[8ggnL	.
 16A	.	.	.	.
 16E-X	.	.	48ggLL]	.
@@ -3054,32 +3054,32 @@
 16FFnJJ	.	.	48cc	.
 .	.	.	48f	.
 .	.	.	48f#XJJJ	.
-.	.	.	16qqc/LL	.
-.	.	.	16qqe-X/JJ	.
+.	.	.	16qc/LL	.
+.	.	.	16qe-X/JJ	.
 4AA-X 4E-	4r	.	4g	.
-.	.	.	16qqen/LL	.
-.	.	.	16qqg/JJ	.
+.	.	.	16qen/LL	.
+.	.	.	16qg/JJ	.
 4GG 4En 4c	4r	.	4b	.
 =268	=268	=268	=268	=268
 *^	*	*	*	*
-.	.	.	.	16qqan/LL	.
-.	.	.	.	16qqdd-X/JJ	.
+.	.	.	.	16qan/LL	.
+.	.	.	.	16qdd-X/JJ	.
 4rEE	4GG 4E-X 4d-X	4r	.	4ff	.
-.	.	.	.	16qqa/LL	.
-.	.	.	.	16qqdd-/JJ	.
+.	.	.	.	16qa/LL	.
+.	.	.	.	16qdd-/JJ	.
 4rEE	12rc	4.A	.	4ff	.
 .	12fL	.	.	.	.
 .	12d-J	.	.	.	.
-.	.	.	.	16qqb-X/LL	.
-.	.	.	.	16qqdd-/JJ	.
+.	.	.	.	16qb-X/LL	.
+.	.	.	.	16qdd-/JJ	.
 12E-L	6E-	.	.	4ff	.
 12GGJ	.	.	.	.	.
 .	.	[8B-X	.	.	.
 12rEE	12E-	.	.	.	.
 =269	=269	=269	=269	=269	=269
 *	*	*	*	*tremolo	*
-.	.	.	.	16qqbnLL	.
-.	.	.	.	16qqdd#JJ	.
+.	.	.	.	16qbnLL	.
+.	.	.	.	16qdd#JJ	.
 [2.FF#	[2.D#	24B-L]	.	32ee#LLL	.
 .	.	.	.	32ff# 32gg#	.
 .	.	12Bn	.	.	.
@@ -3091,8 +3091,8 @@
 .	.	.	.	32ee#	.
 .	.	24a#J	.	.	.
 .	.	.	.	32ff#JJJ 32gg#	.
-.	.	.	.	16qqbLL	.
-.	.	.	.	16qqdd#JJ	.
+.	.	.	.	16qbLL	.
+.	.	.	.	16qdd#JJ	.
 .	.	[2an	.	32ee#LLL	.
 .	.	.	.	32ff# 32gg#	.
 .	.	.	.	32ee#	.
@@ -3101,8 +3101,8 @@
 .	.	.	.	32ff# 32gg#	.
 .	.	.	.	32ee#	.
 .	.	.	.	32ff#JJJ 32gg#	.
-.	.	.	.	116qqbLL	.
-.	.	.	.	16qqdd#JJ	.
+.	.	.	.	116qbLL	.
+.	.	.	.	16qdd#JJ	.
 .	.	.	.	32ee#LLL	.
 .	.	.	.	32ff# 32gg#	.
 .	.	.	.	32ee#	.
@@ -3113,8 +3113,8 @@
 .	.	.	.	32ff#JJJ 32gg#	.
 =270	=270	=270	=270	=270	=270
 *v	*v	*	*	*	*
-.	.	.	16qqbLL	.
-.	.	.	16qqdd#JJ	.
+.	.	.	16qbLL	.
+.	.	.	16qdd#JJ	.
 2.r	2a]	.	32ee#LLL	.
 .	.	.	32ff# 32gg#	.
 .	.	.	32ee#	.
@@ -3123,8 +3123,8 @@
 .	.	.	32ff# 32gg#	.
 .	.	.	32ee#	.
 .	.	.	32ff# 32gg#	.
-.	.	.	16qqbLL	.
-.	.	.	16qqdd#JJ	.
+.	.	.	16qbLL	.
+.	.	.	16qdd#JJ	.
 .	.	.	32ee#	.
 .	.	.	32ff# 32gg#	.
 .	.	.	32ee#	.
@@ -3133,8 +3133,8 @@
 .	.	.	32ff# 32gg#	.
 .	.	.	32ee#	.
 .	.	.	32ff#JJJ 32gg#	.
-.	.	.	116qqbLL	.
-.	.	.	16qqdd#JJ	.
+.	.	.	116qbLL	.
+.	.	.	16qdd#JJ	.
 .	4g#	.	32ee#LLL	.
 .	.	.	32ff# 32gg#	.
 .	.	.	32ee#	.
@@ -3176,8 +3176,8 @@
 .	.	.	.	.	24bnJk	.
 =276	=276	=276	=276	=276	=276	=276
 4.r	4.BBBn 4.FF 4.E-X	4A-X	.	8g 8b	4.ee-X	.
-.	.	.	.	16qqB\LL	.	.
-.	.	.	.	16qqe-X\JJ	.	.
+.	.	.	.	16qB\LL	.	.
+.	.	.	.	16qe-X\JJ	.	.
 .	.	.	.	4g	.	.
 .	.	8A-	.	.	.	.
 =277	=277	=277	=277	=277	=277	=277
@@ -3201,8 +3201,8 @@
 .	.	.	.	.	24bnJk	.
 =280	=280	=280	=280	=280	=280	=280
 4.r	4.BBBn 4.FF 4.E-X	4A-X	.	8g 8b	4.ee-X	.
-.	.	.	.	16qqB\LL	.	.
-.	.	.	.	16qqe-X\JJ	.	.
+.	.	.	.	16qB\LL	.	.
+.	.	.	.	16qe-X\JJ	.	.
 .	.	.	.	4g	.	.
 .	.	8A-	.	.	.	.
 =281	=281	=281	=281	=281	=281	=281
@@ -3235,8 +3235,8 @@
 =284	=284	=284	=284	=284	=284	=284	=284
 *	*	*v	*v	*	*	*	*
 4.r	4.EE#X 4.BB 4.An	4d	.	8cc#X 8ee#X	4.aa	.
-.	.	.	.	16qqe#X\LL	.	.
-.	.	.	.	16qqa\JJ	.	.
+.	.	.	.	16qe#X\LL	.	.
+.	.	.	.	16qa\JJ	.	.
 .	.	.	.	4cc#	.	.
 .	.	8d	.	.	.	.
 =285	=285	=285	=285	=285	=285	=285
@@ -3259,13 +3259,13 @@
 *M3/4	*M3/4	*	*M3/4	*
 *^	*	*	*	*
 *	*	*	*	*^	*
-.	.	.	.	16qqa\LL	.	.
-.	.	.	.	16qqdd-X\JJ	.	.
+.	.	.	.	16qa\LL	.	.
+.	.	.	.	16qdd-X\JJ	.	.
 4rEE	4GG 4E-X 4d-X	4r	.	4ff	4ddd-X	.
 4rEE	12rc	4.A	.	8rc	4raa	.
 .	12fL	.	.	.	.	.
-.	.	.	.	16qqa\LL	.	.
-.	.	.	.	16qqdd-\JJ	.	.
+.	.	.	.	16qa\LL	.	.
+.	.	.	.	16qdd-\JJ	.	.
 .	.	.	.	[8ff	.	.
 .	12d-J	.	.	.	.	.
 12E-L	6E-	.	.	4ff]	4raa	.
@@ -3282,8 +3282,8 @@
 16BJJ	.	.	.	.	.
 .	.	24a#J	.	.	.
 8e#	.	[2an	.	8r	.
-.	.	.	.	16qqbLL	.
-.	.	.	.	16qqdd#JJ	.
+.	.	.	.	16qbLL	.
+.	.	.	.	16qdd#JJ	.
 *	*	*	*	*tremolo	*
 8r	.	.	.	32ee#LLL	.
 .	.	.	.	32ff# 32gg#	.
@@ -3378,31 +3378,31 @@
 .	.	.	24a	.	.
 .	.	.	.	16ee-XJJ	.
 .	.	.	24g-XJJ	.	.
-.	.	.	8.qf	16qqf/LL	.
-.	.	.	.	16qqa/	.
-.	.	.	.	16qqcc/JJ	.
+.	.	.	8.qf	16qf/LL	.
+.	.	.	.	16qa/	.
+.	.	.	.	16qcc/JJ	.
 .	16FFFLL	.	8rc	32eenLLL	.
 .	.	.	.	32ffJ	.
 .	16CC	.	.	16eeJJ	.
-.	.	.	.	16qqa/LL	.
-.	.	.	.	16qqcc/JJ	.
+.	.	.	.	16qa/LL	.
+.	.	.	.	16qcc/JJ	.
 .	16FF	.	8rc	32eeLLL	.
 .	.	.	.	32ffJ	.
 .	16CJJ	.	.	16eeJJ	.
 *	*	*	*v	*v	*
 =297	=297	=297	=297	=297
-.	.	.	16qqa/LL	.
-.	.	.	16qqcc/JJ	.
+.	.	.	16qa/LL	.
+.	.	.	16qcc/JJ	.
 4.r	8r	.	32eeLLL	.
 .	.	.	32ffJ	.
 .	.	.	16eeJJ	.
-.	.	.	16qqa/LL	.
-.	.	.	16qqcc/JJ	.
+.	.	.	16qa/LL	.
+.	.	.	16qcc/JJ	.
 .	16FFLL	.	32eeLLL	.
 .	.	.	32ffJ	.
 .	16C	.	16eeJJ	.
-.	.	.	16qqa/LL	.
-.	.	.	16qqcc/JJ	.
+.	.	.	16qa/LL	.
+.	.	.	16qcc/JJ	.
 .	16F	.	32eeLLL	.
 .	.	.	32ffJ	.
 .	16cJJ	.	16eeJJ	.
@@ -3440,31 +3440,31 @@
 .	.	.	24cc#	.	.
 .	.	.	.	16ggJJ	.
 .	.	.	24b-XJJ	.	.
-.	.	.	8.qa	16qqa/LL	.
-.	.	.	.	16qqcc#/	.
-.	.	.	.	16qqeen/JJ	.
+.	.	.	8.qa	16qa/LL	.
+.	.	.	.	16qcc#/	.
+.	.	.	.	16qeen/JJ	.
 .	16EEELL	.	8rc	32gg#LLL	.
 .	.	.	.	32aaJ	.
 .	16AAA	.	.	16gg#JJ	.
-.	.	.	.	16qqcc#/LL	.
-.	.	.	.	16qqee/JJ	.
+.	.	.	.	16qcc#/LL	.
+.	.	.	.	16qee/JJ	.
 .	16EE	.	8rc	32gg#LLL	.
 .	.	.	.	32aaJ	.
 .	16C#JJ	.	.	16gg#JJ	.
 *	*	*	*v	*v	*
 =301	=301	=301	=301	=301
-.	.	.	16qqcc#/LL	.
-.	.	.	16qqee/JJ	.
+.	.	.	16qcc#/LL	.
+.	.	.	16qee/JJ	.
 4.r	8r	.	32gg#LLL	.
 .	.	.	32aaJ	.
 .	.	.	16gg#JJ	.
-.	.	.	16qqcc#/LL	.
-.	.	.	16qqee/JJ	.
+.	.	.	16qcc#/LL	.
+.	.	.	16qee/JJ	.
 .	16EELL	.	32gg#LLL	.
 .	.	.	32aaJ	.
 .	16AA	.	16gg#JJ	.
-.	.	.	16qqcc#/LL	.
-.	.	.	16qqee/JJ	.
+.	.	.	16qcc#/LL	.
+.	.	.	16qee/JJ	.
 .	16E	.	32gg#LLL	.
 .	.	.	32aaJ	.
 .	16c#JJ	.	16gg#JJ	.

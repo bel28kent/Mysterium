@@ -46,13 +46,13 @@
 16c-LL]	.	8ddn	.
 16c-JJ	.	.	.
 =4	=4	=4	=4
+8B-XL	2.g-X 2.dd-X	2.ff	.
+8AA-X	.	.	.
+8G-XJ	.	.	.
+8d-XL	.	.	.
+8cn	.	.	.
+8B-J	.	.	.
 *	*	*^	*
-8B-XL	2.g-X\	2.dd-X	2.ff	.
-8AA-X	.	.	.	.
-8G-XJ	.	.	.	.
-8d-XL	.	.	.	.
-8cn	.	.	.	.
-8B-J	.	.	.	.
 4g-X	4.b-X\	4cc#X	8eenL	.
 .	.	.	8ff	.
 8fn	.	8ddn	8ff#XJ	.
@@ -155,18 +155,20 @@
 8GL	.	.	.	.
 8F#	.	.	.	.
 8GGJ	.	.	.	.
-4.F# 4.c	4.rc	4.a	4e] 4ee]	.
-.	.	.	8d#X 8dd#X	.
-=16	=16	=16	=16	=16
+*v	*v	*	*	*
+4.F# 4.c	4.a	4e] 4ee]	.
+.	.	8d#X 8dd#X	.
+=16	=16	=16	=16
+*^	*	*	*
 8GL	2.c	2.ee	[2.a [2.aa	.
 8Fn	.	.	.	.
 8EJ	.	.	.	.
 8GL	.	.	.	.
 8F	.	.	.	.
 8GGJ	.	.	.	.
-4.F 4.c	4.rc	4.dd#X	4a] 4aa]	.
-.	.	.	8g#X 8gg#X	.
 *v	*v	*	*	*
+4.F 4.c	4.dd#X	4a] 4aa]	.
+.	.	8g#X 8gg#X	.
 =17	=17	=17	=17
 8EL 8c	2.ee 2.ggn	2.b 2.bb	.
 8CC	.	.	.
@@ -177,18 +179,19 @@
 4.F 4.c	4.dd#X	4a 4aa	.
 .	.	8g#X 8gg#X	.
 =18	=18	=18	=18
+8EL 8c	[2.ee [2.ggn	[2.b [2.bb	.
+8CC	.	.	.
+8GGJ	.	.	.
+8E\L	.	.	.
 *^	*	*	*
-4.rEE	8EL 8c	[2.ee [2.ggn	[2.b [2.bb	.
-.	8CC	.	.	.
-.	8GGJ	.	.	.
-8rEE	8EL	.	.	.
-[4G	8G	.	.	.
+[4G/	8G	.	.	.
 .	[8eJ	.	.	.
-4.G]	4.e]	4.ee] 4.gg]	4.b] 4.bb]	.
 *v	*v	*	*	*
+4.G] 4.e]	4.ee] 4.gg]	4.b] 4.bb]	.
 *	*v	*v	*
 ==	==	==
 *-	*-	*-
+!!!filter: flipper -a
 !!!system-decoration: {(*)}
 !!!ENC: Bryan Jacob Bell
 !!!END: November 2021 to April 2022

@@ -1,0 +1,568 @@
+!!!COM: Scriabin, Alexander
+!!!OTL@@FR: Prélude en mi bémol majeur
+!!!OTL@@EN: Prelude in Eb Major
+!!!OPR@@FR: 24 Préludes
+!!!OPR@@EN: 24 Preludes
+!!!OPS: 11
+!!!ONM: 19
+!!!ODT: 1895
+!!!AGN: Prelude
+**kern	**kern	**dynam
+*staff2	*staff1	*staff1/2
+*Ipiano	*Ipiano	*
+*clefF4	*clefG2	*
+*k[b-e-a-]	*k[b-e-a-]	*
+*E-:	*E-:	*
+*M2/4	*M2/4	*
+5r	4r	.
+20EE-LL	.	.
+=1	=1	=1
+*^	*	*
+10rEE	20C	4ee-	.
+.	20BB-	.	.
+10A-	20A-	.	.
+.	20FJJ	.	.
+20rEE	20E-LL	.	.
+4rEE	20c	12ddL	.
+.	20B-	.	.
+.	.	12cc	.
+.	20a-	.	.
+.	20fJJ	.	.
+.	.	24r	.
+.	20EE-LL	.	.
+.	.	24b-Jk	.
+=2	=2	=2	=2
+10rEE	20C	4g	.
+.	20BB-	.	.
+10B-	20B-	.	.
+.	20A-JJ	.	.
+20rEE	20E-LL	.	.
+4rEE	20c	20fLL	.
+.	20B-	20g	.
+.	20f	20a-	.
+.	20B-JJ	20.b-	.
+.	20EE-LL	.	.
+.	.	40ddJJk	.
+=3	=3	=3	=3
+10rEE	20C	4gg	.
+.	20BB-	.	.
+10c	20c	.	.
+.	20A-JJ	.	.
+20rEE	20E-LL	.	.
+4rEE	20c	12ffL	.
+.	20B-	.	.
+.	.	12ee-	.
+.	20a-	.	.
+.	20fJJ	.	.
+.	.	24r	.
+.	20EE-LL	.	.
+.	.	24ccJk	.
+=4	=4	=4	=4
+10rEE	20F	4b-	.
+.	20BB-	.	.
+10d	20d	.	.
+.	20A-JJ	.	.
+20rEE	20E-LL	.	.
+4rEE	20c	20a-LL	.
+.	20B-	20b-	.
+.	20f	20cc	.
+.	20B-JJ	20.dd	.
+.	20EE-LL	.	.
+.	.	40ggJJk	.
+*v	*v	*	*
+=5	=5	=5
+*	*^	*
+20BB-	4rc	4cc-X 4ff-X 4aa- 4ccc-X	.
+20AA-	.	.	.
+20A-	.	.	.
+20F-XJJ	.	.	.
+20E-LL	.	.	.
+20B-	6cc- 6ff-	12bb-L	.
+20A-	.	.	.
+.	.	12.aa-	.
+20f-X	.	.	.
+20c-XJJ	.	.	.
+.	12d 12cc-	.	.
+20EE-LL	.	.	.
+.	.	24ff-XJk	.
+=6	=6	=6	=6
+*	*	*^	*
+20BB-	4r	4rc	4e- 4cc-X 4ee-	.
+20AA-	.	.	.	.
+20A-	.	.	.	.
+20F-XJJ	.	.	.	.
+20E-LL	.	.	.	.
+20B-	12f-XL	4b-	4ddn	.
+20A-	.	.	.	.
+.	12.a-	.	.	.
+20f-X	.	.	.	.
+20c-XJJ	.	.	.	.
+20EE-LL	.	.	.	.
+.	24f-Jk	.	.	.
+*	*	*v	*v	*
+*	*v	*v	*
+=7	=7	=7
+20D-X	2f-X 2a- 2ddn	.
+20C-X	.	.
+20A-	.	.
+20F-XJJ	.	.
+20E-LL	.	.
+20B-	.	.
+20A-	.	.
+20f-X	.	.
+20c-XJJ	.	.
+20EE-LL	.	.
+=8	=8	=8
+20C-X	2e- 2g 2ee-	.
+20BB-	.	.
+20G	.	.
+20E-JJ	.	.
+20E-LL	.	.
+20c-X	.	.
+20B-	.	.
+20g	.	.
+20e-JJ	.	.
+20EE-LL	.	.
+=9	=9	=9
+20AA-	4g-X 4cc-X 4gg-X	.
+20GG-X	.	.
+20G-X	.	.
+20C-XJJ	.	.
+20E-LL	.	.
+20A-	20ffLL	.
+20G-	20ee-	.
+20g-X	20dd-X	.
+20c-XJJ	20.cc-	.
+20EE-LL	.	.
+.	40b-JJk	.
+=10	=10	=10
+20BB-	12b-L	.
+20AA-	.	.
+.	12a-	.
+20G-X	.	.
+20C-XJJ	.	.
+.	12b-J	.
+20E-LL	.	.
+20B-	12cc-XL	.
+20A-	.	.
+.	12ee-	.
+20g-X	.	.
+20c-XJJ	.	.
+.	12gg-XJ	.
+20EE--LL	.	.
+=11	=11	=11
+20BB-	4cc-X 4gg-X 4bb-X	.
+20AA-	.	.
+20G-X	.	.
+20C-XJJ	.	.
+20E--LL	.	.
+20B-	6aa-	.
+20A-	.	.
+20g-X	.	.
+20c-XJJ	.	.
+.	12gg-	.
+20DD-XLL	.	.
+=12	=12	=12
+20BB-	12ffL	.
+20AA-	.	.
+.	12ee-X	.
+20F	.	.
+20D-XJJ	.	.
+.	12dd-XJ	.
+20D-LL	.	.
+20B-	12a-L	.
+20A-	.	.
+.	12dd-	.
+20f	.	.
+20d-XJJ	.	.
+.	12ee-J	.
+20CC#XLL	.	.
+=13||	=13||	=13||
+*k[f#c#g#]	*k[f#c#g#]	*
+20FF#	4e 4a 4ee	.
+20EE	.	.
+20E	.	.
+20AAJJ	.	.
+20C#LL	.	.
+20F#	20dd#XLL	.
+20E	20cc#	.
+20e	20b	.
+20AJJ	20.a	.
+20CC#LL	.	.
+.	40g#JJk	.
+=14	=14	=14
+20GG#	12g#L	.
+20FF#	.	.
+.	12f#	.
+20E	.	.
+20AAJJ	.	.
+.	12g#J	.
+20C#LL	.	.
+20G#	12aL	.
+20F#	.	.
+.	12cc#	.
+20e	.	.
+20AJJ	.	.
+.	12eeJ	.
+20CCnLL	.	.
+=15	=15	=15
+*	*^	*
+20GG#	4rc	4a 4dd#X 4gg#	.
+20FF#	.	.	.
+20D#X	.	.	.
+20AAJJ	.	.	.
+20CnLL	.	.	.
+20G#	4a 4dd#	6ff#	.
+20F#	.	.	.
+20d#X	.	.	.
+20AJJ	.	.	.
+.	.	12gg#	.
+20CC-XLL	.	.	.
+*	*v	*v	*
+=16||	=16||	=16||
+*k[b-e-a-]	*k[b-e-a-]	*
+*	*^	*
+20GG-X	4an 4ee-	2aan	.
+20FF	.	.	.
+20E-	.	.	.
+20AAnJJ	.	.	.
+20C-XLL	.	.	.
+20G-X	4rc	.	.
+20F	.	.	.
+20e-	.	.	.
+20AnJJ	.	.	.
+20BBB-LL	.	.	.
+*	*v	*v	*
+.	16qaa-XLL	.
+.	16qaanJJ	.
+=17	=17	=17
+20GG-X	4b- 4dd 4bb-	.
+20FF	.	.
+20D	.	.
+20BB-JJ	.	.
+20BB-LL	.	.
+20G-X	12b-L 12dd 12aan	.
+20F	.	.
+.	12b- 12dd 12aa-X	.
+20d	.	.
+20B-JJ	.	.
+.	12b-J 12dd 12ff	.
+20BBB-LL	.	.
+=18	=18	=18
+20AA-	12cc-XL 12ee- 12aa-	.
+20GG-X	.	.
+.	12cc- 12ee- 12gg-X	.
+20E-	.	.
+20C-XJJ	.	.
+.	12g-XJ 12cc- 12ee-	.
+20BB-LL	.	.
+20A-	12e-L 12g- 12dd-X	.
+20G-X	.	.
+.	12e- 12g- 12cc-	.
+20c-X	.	.
+20A-JJ	.	.
+.	12c-XJ 12e- 12a-	.
+20BBB-LL	.	.
+=19	=19	=19
+*	*^	*
+20GG-X	4rc	4B- 4dn 4b-	.
+20FF	.	.	.
+20D	.	.	.
+20BB-JJ	.	.	.
+20BB-LL	.	.	.
+20G-X	4d	12anL	.
+20F	.	.	.
+.	.	12a-X	.
+20c-X	.	.	.
+20A-JJ	.	.	.
+.	.	12fJ	.
+20BBB-LL	.	.	.
+=20	=20	=20	=20
+*	*	*^	*
+20AA-	4r	4e-	12a-L	.
+20GG-X	.	.	.	.
+.	.	.	12g-X	.
+20E-	.	.	.	.
+20C-XJJ	.	.	.	.
+.	.	.	12e-J	.
+20BB-LL	.	.	.	.
+20F	5r	4rc	12d-XL	.
+20E-	.	.	.	.
+.	.	.	12c-X	.
+20A-	.	.	.	.
+20G-XJJ	.	.	.	.
+.	.	.	24A-Jk	.
+*	*	*clefF4	*	*
+20BBBB- 20BBB-	20DnLL	.	.	.
+.	.	.	24raa	.
+*	*	*v	*v	*
+*	*v	*v	*
+*	*clefF4	*
+=21	=21	=21
+4BBB- 4BB-	20G-X	.
+.	20F	.
+.	20dn	.
+.	20B-JJ	.
+.	20E-LL	.
+12AAA-L 12AA-	20A-	.
+.	20G-	.
+12GGG-X 12GG-X	.	.
+.	20e-	.
+.	20c-XJJ	.
+12BBBB-J 12BBB-	.	.
+.	20EnLL	.
+=22	=22	=22
+4CCn 4Cn	20B-	.
+.	20A-	.
+.	20en	.
+.	20cJJ	.
+.	20FLL	.
+12BBB-L 12BB-	20B-	.
+.	20A-	.
+12AAA- 12AA-	.	.
+.	20f	.
+.	20d-XJJ	.
+12BBBB-J 12BBB-	.	.
+.	20FLL	.
+=23	=23	=23
+12CCL 12C	20e-X	.
+.	20A-	.
+12BBB- 12BB-	.	.
+.	20f	.
+.	20dnJJ	.
+12FFFJ 12FF	.	.
+*	*clefG2	*
+.	20A-LL	.
+6BBB- 6BB-	20g	.
+.	20d	.
+.	20b-	.
+.	20fJJ	.
+12BBB- 12BB-	.	.
+.	20dLL	.
+=24	=24	=24
+4BBB- 4BB-	20cc-X	.
+.	20a-	.
+.	20dd	.
+.	20b-JJ	.
+.	20a-LL	.
+5BB- 5A- 5d	20gg	.
+.	20dd	.
+.	20bb-	.
+.	20ffJJ	.
+20EEE-LL 20EE-	20r	.
+=25	=25	=25
+*^	*^	*
+10rEE	20C	4rc	4ee- 4eee-	.
+.	20BB-	.	.	.
+10A-	20A-	.	.	.
+.	20FJJ	.	.	.
+20rEE	20E-LL	.	.	.
+4rEE	20c	6aa-	12ddL 12ddd	.
+.	20B-	.	.	.
+.	.	.	12cc 12ccc	.
+.	20a-	.	.	.
+.	20fJJ	.	.	.
+.	.	12dd	24r	.
+.	20EE-LL	.	.	.
+.	.	.	24b-Jk 24bb-	.
+=26	=26	=26	=26	=26
+10rEE	20C	2dd	4g 4gg	.
+.	20BB-	.	.	.
+10B-	20B-	.	.	.
+.	20A-JJ	.	.	.
+20rEE	20E-LL	.	.	.
+4rEE	20c	.	20fLL 20ff	.
+.	20B-	.	20g 20gg	.
+.	20f	.	20a- 20aa-	.
+.	20B-JJ	.	20.b- 20.bb-	.
+.	20EE-LL	.	.	.
+.	.	.	40ddJJk 40ddd	.
+=27	=27	=27	=27	=27
+10rEE	20C	4rc	4gg 4ggg	.
+.	20BB-	.	.	.
+10c	20c	.	.	.
+.	20A-JJ	.	.	.
+20rEE	20E-LL	.	.	.
+4rEE	20c	6aa-	12ffL 12fff	.
+.	20B-	.	.	.
+.	.	.	12ee- 12eee-	.
+.	20a-	.	.	.
+.	20fJJ	.	.	.
+.	.	12ff	24r	.
+.	20EE-LL	.	.	.
+.	.	.	24ccJk 24ccc	.
+=28	=28	=28	=28	=28
+10rEE	20F	2dd	4b- 4bb-	.
+.	20BB-	.	.	.
+10d	20d	.	.	.
+.	20A-JJ	.	.	.
+20rEE	20E-LL	.	.	.
+4rEE	20c	.	20a-LL 20aa-	.
+.	20B-	.	20b- 20bb-	.
+.	20a-	.	20cc 20ccc	.
+.	20fJJ	.	20.dd 20.ddd	.
+.	20EEE-LL 20EE-	.	.	.
+.	.	.	40ggJJk 40ggg	.
+*v	*v	*	*	*
+=29	=29	=29	=29
+20E-	4rc	4ccc 4aaa- 4cccc	.
+20BB-	.	.	.
+20A-	.	.	.
+20FJJ	.	.	.
+20E-LL	.	.	.
+20d-X	4ddd-X	12bb-L 12bbb-	.
+20B-	.	.	.
+.	.	12aa- 12aaa-	.
+20a-	.	.	.
+20fJJ	.	.	.
+.	.	12ffJ 12fff	.
+20EE-LL	.	.	.
+=30	=30	=30	=30
+20E-	4ccc	12aa-L 12aaa-	.
+20AA-	.	.	.
+.	.	12gg 12ggg	.
+20c	.	.	.
+20A-JJ	.	.	.
+.	.	12ffJ 12fff	.
+20E-LL	.	.	.
+20e-	6aa-	12ee-L 12eee-	.
+20c	.	.	.
+.	.	12cc 12ccc	.
+20a-	.	.	.
+20e-JJ	.	.	.
+.	12cc	12a-J 12aa-	.
+20EE-LL	.	.	.
+=31	=31	=31	=31
+20C-X	2dd	[4g [4gg	.
+20BB-	.	.	.
+20A-	.	.	.
+20DJJ	.	.	.
+20E-LL	.	.	.
+20c-X	.	8gL] 8gg]	.
+20B-	.	.	.
+20a-	.	.	.
+.	.	8fJ 8ff	.
+20dJJ	.	.	.
+20EE-LL	.	.	.
+*	*v	*v	*
+=32	=32	=32
+20C-X	2e- 2ee-	.
+20BB-	.	.
+20G	.	.
+20E-JJ	.	.
+20E-LL	.	.
+20c-X	.	.
+20B-	.	.
+20g	.	.
+20e-JJ	.	.
+20EEE-LL 20EE-	.	.
+=33	=33	=33
+20E-	4dd-X 4aa- 4cccn	.
+20BB-	.	.
+20A-	.	.
+20FJJ	.	.
+20E-LL	.	.
+20d-X	12bb-L	.
+20B-	.	.
+.	12aa-	.
+20a-	.	.
+20fJJ	.	.
+.	12ffJ	.
+20EE-LL	.	.
+=34	=34	=34
+*	*^	*
+20E-	4cc	12aa-L	.
+20AA-	.	.	.
+.	.	12gg	.
+20c	.	.	.
+20A-JJ	.	.	.
+.	.	12ffJ	.
+20E-LL	.	.	.
+20e-	4rc	12ee-L	.
+20c	.	.	.
+.	.	12cc	.
+20a-	.	.	.
+20e-JJ	.	.	.
+.	.	12a-J	.
+20EE-LL	.	.	.
+=35	=35	=35	=35
+20C-X	2A-	[4g	.
+20BB-	.	.	.
+20A-	.	.	.
+20DJJ	.	.	.
+20E-LL	.	.	.
+20c-X	.	8gL]	.
+20B-	.	.	.
+20a-	.	.	.
+.	.	8fJ	.
+20dJJ	.	.	.
+20EE-LL	.	.	.
+*	*v	*v	*
+=36	=36	=36
+20C-X	2G 2e-	.
+20BB-	.	.
+20G	.	.
+20E-JJ	.	.
+20E-LL	.	.
+20c-X	.	.
+20B-	.	.
+20g	.	.
+20e-JJ	.	.
+20EE-LL	.	.
+=37	=37	=37
+*	*^	*
+20C-X	2A-	[4g	.
+20BB-	.	.	.
+20A-	.	.	.
+20DJJ	.	.	.
+20EE-LL	.	.	.
+20C-	.	8gL]	.
+20BB-	.	.	.
+20A-	.	.	.
+.	.	8fJ	.
+20DJJ	.	.	.
+20EE-LL	.	.	.
+*	*v	*v	*
+=38	=38	=38
+20C-X	4G 4e-	.
+20BB-	.	.
+20G	.	.
+20E-JJ	.	.
+20EE-LL	.	.
+20C-	4A- 4d 4g	.
+20BB-	.	.
+20A-	.	.
+20DJJ	.	.
+20EE-LL	.	.
+=39	=39	=39
+20C-X	2G 2e-	.
+20BB-	.	.
+20G	.	.
+20E-JJ	.	.
+20EE-LL	.	.
+20C-	.	.
+20BB-	.	.
+20G	.	.
+20E-JJ	.	.
+20EE-LL	.	.
+*	*clefF4	*
+=40	=40	=40
+20C-X	2BBB-	.
+20BB-	.	.
+20G	.	.
+20E-JJ	.	.
+20EE-LL	.	.
+20C-	.	.
+20BB-	.	.
+20G	.	.
+20E-	.	.
+20GJJ	.	.
+=41	=41	=41
+2BB- 2G 2e-	2EEE-	.
+==	==	==
+*-	*-	*-
+!!!system-decoration: {(*)}
+!!!ENC: Bryan Jacob Bell
+!!!END: November 2021 to April 2022
+!!!PED: Günter Philipp
+!!!PTL: Ausgewählte Klavierwerke (Edition Peters)
