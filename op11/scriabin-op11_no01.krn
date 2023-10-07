@@ -14,13 +14,13 @@
 *k[]	*k[]	*
 *C:	*C:	*
 *M2/2	*M2/2	*
-5.r	5.r	.
 10CCL	10ddL	.
 10GG	10a	.
 =1	=1	=1
 10F	10cc	.
 10G	10g	.
 10fJ	10dJ	.
+*Xtuplet	*Xtuplet	*
 5r	10ddL	.
 .	10ee	.
 5.r	10aa	.
@@ -98,12 +98,15 @@
 10F	10ee	.
 10B	10b	.
 10fJ	10gJ	.
-5B	10ddL	.
+*tuplet	*	*
+6B	10ddL	.
 .	10b	.
-10.F	10gg	.
+6F	.	.
+.	10gg	.
 .	10dd	.
-10.GG	.	.
+6GG	.	.
 .	10gJ	.
+*Xtuplet	*	*
 10CCL	10aaL	.
 10GG	10ee	.
 =9	=9	=9
@@ -137,11 +140,11 @@
 5.r	10eee	.
 .	10ddd	.
 .	10cccJ	.
-10AAL	10bbL	.
+10AA\L	10bbL	.
 10E	10ee	.
-*clefG2	*	*
 =12	=12	=12
 10d	10aa	.
+*clefG2	*	*
 10e	10ee	.
 10ddJ	10bJ	.
 *clefF4	*	*
@@ -299,9 +302,9 @@
 .	10CJ	.
 5GGG 5GG	10r	.
 .	10r	.
-*	*clefG2	*
 =25	=25	=25
 4CCC 4CC	4r	.
+*	*clefG2	*
 4E 4G 4c 4e	4cc 4ee 4gg 4ccc	.
 2r	2r	.
 ==	==	==
