@@ -213,7 +213,7 @@
 8EEEJ 8EE	16dd	8f#J 8ff#	.
 .	16g#JJ	.	.
 =16	=16	=16	=16
-8EEL 8BB 8G#	16ddLL	8f#L 8ff#	.
+8EEL 8BB 8G#\	16ddLL	8f#L 8ff#	.
 .	16g#	.	.
 8D 8G# 8d	16dd	8e 8ee	.
 .	16g#	.	.
@@ -310,11 +310,11 @@
 .	16E	.	.
 8r	16A	.	.
 .	16G#JJ	.	.
-4r	16F#LL	4raa	.
+4r	16F#LL	4r	.
 .	16E	.	.
 .	16A	.	.
 .	16G#	.	.
-8EEE 8EE	16F#	8raa	.
+8EEE 8EE	16F#	8r	.
 .	16EJJ	.	.
 *	*v	*v	*
 =24	=24	=24
@@ -324,6 +324,7 @@
 ==	==	==
 *-	*-	*-
 !!!system-decoration: {(*)}
+!!!filter: flipper -a
 !!!ENC: Bryan Jacob Bell
 !!!END: November 2021 to April 2022
 !!!PED: Günter Philipp
