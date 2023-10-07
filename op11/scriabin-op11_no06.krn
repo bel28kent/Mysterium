@@ -76,14 +76,14 @@
 8EJ 8e	.	.
 =13	=13	=13
 *	*^	*
-[4Cn [4cn	2ee	8gL] 8gg]	.
-.	.	8aJ 8aa	.
-8CL] 8c]	.	[4f# [4ff#	.
+[4Cn [4cn	8gL] 8gg]	2ee	.
+.	8aJ 8aa	.	.
+8CL] 8c]	[4f# [4ff#	.	.
 8DJ 8d	.	.	.
 =14	=14	=14	=14
-[4BB [4B	2dd	8f#L] 8ff#]	.
-.	.	8gJ 8gg	.
-8BBL] 8B]	.	[4e [4ee	.
+[4BB [4B	8f#L] 8ff#]	2dd	.
+.	8gJ 8gg	.	.
+8BBL] 8B]	[4e [4ee	.	.
 8CnJ 8cn	.	.	.
 =15	=15	=15	=15
 4AA 4A	2ccn	8eL] 8ee]	.
@@ -91,7 +91,7 @@
 [4DD [4D	.	8e#XL 8ee#X	.
 .	.	8f#J 8ff#	.
 =16	=16	=16	=16
-8DDL] 8D]	2b	2g 2gg	.
+8DDL] 8D]	2g 2gg	2b	.
 8GGJ 8G	.	.	.
 8AAL 8A	.	.	.
 8GGJ 8G	.	.	.
@@ -187,8 +187,8 @@
 8r	4c#] 4f# 4a#X 4cc#	.
 8FFF# 8FF#	.	.
 =35	=35	=35
+[4BBB [4BB	4r	.
 *	*^	*
-[4BBB [4BB	4rc	4raa	.
 8BBBL] 8BB]	[4F#	[4C# [4c#	.
 8AAA#XJ 8AA#X	.	.	.
 =36	=36	=36	=36
@@ -281,6 +281,7 @@
 ==	==	==
 *-	*-	*-
 !!!system-decoration: {(*)}
+!!!filter: flipper -a
 !!!ENC: Bryan Jacob Bell
 !!!END: November 2021 to April 2022
 !!!PED: Günter Philipp
