@@ -30,10 +30,10 @@
 .	8aa	.
 4BB	4a	.
 =3	=3	=3
-4EE	8r	.
-.	8dd	.
-*clefG2	*	*
 *^	*	*
+4EE	4ryy	8r	.
+.	.	8dd	.
+*clefG2	*clefG2	*	*
 4B	2a	8ggL	.
 .	.	8ffJ	.
 4d	.	4b	.
@@ -112,10 +112,10 @@
 .	.	8ffJ	.
 *v	*v	*	*
 =16	=16	=16
-4E	8ccL	.
-.	8a#XJ	.
-*clefG2	*	*
 *^	*	*
+4E	4ryy	8ccL	.
+.	.	8a#XJ	.
+*clefG2	*clefG2	*	*
 2d	4an	8b	.
 .	.	4ff	.
 .	4g#X	.	.
@@ -134,10 +134,10 @@
 .	8aa	.
 4BB	4a	.
 =19	=19	=19
-4EE	8r	.
-.	8dd	.
-*clefG2	*	*
 *^	*	*
+4EE	4ryy	8r	.
+.	.	8dd	.
+*clefG2	*clefG2	*	*
 4B	2a	8ggL	.
 .	.	8ffJ	.
 4c	.	4cc	.
@@ -164,7 +164,7 @@
 *^	*	*
 4DD#X	4D#X	8r	.
 .	.	8cc#X	.
-*clefG2	*	*	*
+*clefG2	*clefG2	*	*
 4A#X	2g#X	8ff#XL	.
 .	.	8eeJ	.
 4B	.	4b	.
@@ -364,10 +364,10 @@
 .	8aa	.
 4BB	4a	.
 =51	=51	=51
-4EE	8r	.
-.	8dd	.
-*clefG2	*	*
 *^	*	*
+4EE	4ryy	8r	.
+.	.	8dd	.
+*clefG2	*clefG2	*	*
 4B	2a	8ggL	.
 .	.	8ffJ	.
 4d	.	4b	.
