@@ -934,11 +934,11 @@
 20CCn 20Cn	.	.
 20CC#XJJ 20C#X	.	.
 =81	=81	=81
-12DDL 12D	12d 12f#X 12b 12dd	.
-*clefG2	*	*
-12B 12f#X 12b	12r	.
-12BJ 12f# 12b	12r	.
 *^	*	*
+12DDL 12D	4ryy	12d 12f#X 12b 12dd	.
+*clefG2	*clefG2	*	*
+12B 12f#X 12b	.	12r	.
+12BJ 12f# 12b	.	12r	.
 4g	12eL 12ee	4bb 4ggg 4bbb	.
 .	12e-X 12ee-X	.	.
 .	12dJ 12dd	.	.
@@ -964,11 +964,11 @@
 12c 12d 12f#	.	12dd 12ff#	.
 12cJ 12d 12f#	12a#X 12aa#X	12ddJ 12ff#	.
 =83	=83	=83	=83
-12DDL 12D	4b 4bb	12ddL 12ff#X	.
-*clefG2	*	*	*
-12B 12d 12f#X 12b	.	12dd 12ff#	.
-12BJ 12d 12f# 12b	.	12ff#J 12bb	.
 *^	*	*	*
+12DDL 12D	4ryy	4b 4bb	12ddL 12ff#X	.
+*clefG2	*clefG2	*	*	*
+12B 12d 12f#X 12b	.	.	12dd 12ff#	.
+12BJ 12d 12f# 12b	.	.	12ff#J 12bb	.
 4g	12eL 12ee	4bb 4bbb	12r	.
 .	12e-X 12ee-X	.	12ggL 12bb	.
 .	12dJ 12dd	.	12ggJ 12bb	.
