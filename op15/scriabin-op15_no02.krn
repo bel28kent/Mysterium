@@ -426,11 +426,12 @@
 =35	=35	=35	=35
 2C#]	4FF#	4A 4c# 4f#	.
 .	4FFF#	4r	.
-4rEE	4rc	4r	.
 *v	*v	*	*
+4r	4r	.
 ==	==	==
 *-	*-	*-
 !!!system-decoration: {(*)}
+!!!filter: flipper -a
 !!!ENC: Bryan Jacob Bell
 !!!END: November 2021 to April 2022
 !!!PED: Konstantin Igumnov and Yakov Milstein
