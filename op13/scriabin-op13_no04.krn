@@ -14,6 +14,7 @@
 *k[f#]	*k[f#]	*
 *e:	*e:	*
 *M2/4	*M2/4	*
+*Xtuplet	*Xtuplet	*
 =1	=1	=1
 12BBL	20ff#LL	.
 .	20b	.
@@ -114,7 +115,7 @@
 .	20f#	.
 12FF#J	.	.
 .	20bJJ	.
-12A#XL	20ccnLL	.
+12A#X\L	20ccnLL	.
 .	20f#	.
 12E	.	.
 .	20c	.
@@ -278,8 +279,8 @@
 20B	.	.
 20dJJ	.	.
 =19	=19	=19
-.	16qcc/LL	.
-.	16qdd/JJ	.
+.	16qccLL	.
+.	16qddJJ	.
 20g#XLL	[4ee	.
 20c	.	.
 20E	.	.
@@ -327,8 +328,8 @@
 20A	.	.
 20cJJ	.	.
 =23	=23	=23
-.	16qb/LL	.
-.	16qcc/JJ	.
+.	16qbLL	.
+.	16qccJJ	.
 20f#LL	[4dd	.
 20B	.	.
 20D	.	.
@@ -597,28 +598,29 @@
 .	20G#	.
 .	20BJJ	.
 =42	=42	=42
+2BBB 2BB	20eLL	.
+.	20A	.
+.	20E	.
+.	20G#X	.
+.	20BJJ	.
 *	*^	*
 *	*	*^	*
-2BBB 2BB	4r	4rEE	20eLL	.
-.	.	.	20A	.
-.	.	.	20E	.
-.	.	.	20G#X	.
-.	.	.	20BJJ	.
-.	10.r	10rEE	20eLL	.
-.	.	.	20A	.
-.	.	[10.E	20E	.
-.	[10G#\	.	20G#	.
-.	.	.	[20BJJ	.
-=43	=43	=43	=43	=43
-2EEE 2EE	2G#\]	2E]	2B] 2e	.
+.	20e\LL	10.ryy	10ryy	.
+.	20A	.	.	.
+.	20E	.	[10.E	.
+.	20G#	[10G#/	.	.
+.	[20BJJ	.	.	.
 *	*	*v	*v	*
 *	*v	*v	*
+=43	=43	=43
+2EEE 2EE	2G#] 2E] 2B] 2e	.
 *	*clefG2	*
 =44	=44	=44
 2EE 2BB 2G#X	2e 2b 2ee	.
 ==	==	==
 *-	*-	*-
 !!!system-decoration: {(*)}
+!!!filter: flipper -a
 !!!ENC: Bryan Jacob Bell
 !!!END: November 2021 to April 2022
 !!!PED: Günter Philipp
