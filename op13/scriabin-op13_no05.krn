@@ -43,7 +43,7 @@
 8d#X	8A 8f#	.
 8BBJ	8BJ 8g	.
 =5	=5	=5
-8EEL	8GL 8e	.
+8EE\L	8GL 8e	.
 8BB	8f# 8dd#X	.
 8BJ	8gJ 8ee	.
 4BB	8d#XL 8b	.
@@ -52,14 +52,10 @@
 =6	=6	=6
 8EL	8r	.
 8dn	8a#XL 8ff#	.
-*clefG2	*	*
 8ddnJ	8bJ 8gg	.
-*clefF4	*	*
 8AL	4an 4ff#	.
 8c#	.	.
-*clefG2	*	*
 8cc#J	8g 8ee	.
-*clefF4	*	*
 =7	=7	=7
 8DL	8r	.
 8A	8eL 8cc#	.
@@ -93,14 +89,12 @@
 8c#	8b 8gg#X	.
 8f#J	8cc#J 8aa	.
 8c#L	8bL 8gg#	.
-*clefG2	*	*
 8cc#J	8ff# 8ddd#X	.
 8r	16r	.
 .	16aJk 16ff#	.
 =12	=12	=12
 8b#XL	8aL 8ff#	.
 8B#X	8g#X 8ee	.
-*clefF4	*	*
 8GG#XJ	8f#J 8dd#X	.
 8C#L	8f# 8dd#	.
 8G#X	4e 4cc#	.
@@ -125,8 +119,8 @@
 8eJ	8c# 8a	.
 8EL	4a 4ff#	.
 8d	.	.
-*clefG2	*	*
 8bJ	8gn 8ee	.
+*clefG2	*	*
 =16	=16	=16
 8AL	4dd 4bb	.
 8g	.	.
@@ -233,7 +227,6 @@
 8AAL	4A 4f#	.
 8c#XJ	.	.
 8r	8G 8e	.
-*	*clefF4	*
 =31	=31	=31
 4DD	8r	.
 .	8EL 8c#	.
@@ -241,7 +234,6 @@
 4AAA	8r	.
 .	8DL 8B	.
 8AA	8EJ 8c#	.
-*	*clefG2	*
 =32	=32	=32
 4DD	8r	.
 .	8EL 8c#	.
@@ -263,7 +255,6 @@
 8AAL	4A 4f#	.
 8c#XJ	.	.
 8r	8G 8e	.
-*	*clefF4	*
 =35	=35	=35
 4DD	8r	.
 .	8EL 8c#	.
@@ -278,7 +269,6 @@
 4AAA	8r	.
 .	8DL 8B	.
 8AA	8EJ 8c#	.
-*	*clefG2	*
 =37	=37	=37
 4.DD	8r	.
 .	8EL 8c#	.
