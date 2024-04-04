@@ -161,12 +161,12 @@
 20GG#X	.	.
 20AAJJ	.	.
 =12	=12	=12
+12F#L	[4F# 4c# [4f#	.
+12GG#	.	.
+12BBJ	.	.
+8AAL	4F#] 4B#X 4d#X 4f#]	.
+8GG#J	.	.
 *	*^	*
-12F#L	4rc	[4F# 4c# [4f#	.
-12GG#	.	.	.
-12BBJ	.	.	.
-8AAL	4rc	4F#] 4B#X 4d#X 4f#]	.
-8GG#J	.	.	.
 4GG#	4F# 4B# 4d#	20g#LL	.
 .	.	20a	.
 .	.	20g#	.
@@ -213,13 +213,13 @@
 8G#J	.	.
 .	12cc#J	.
 =16	=16	=16
+2e#X	12cc#L	.
+.	12g#	.
+.	12cc#J	.
+.	12cc#L	.
+.	12a	.
+.	12cc#J	.
 *	*^	*
-2e#X	4rc	12cc#L	.
-.	.	12g#	.
-.	.	12cc#J	.
-.	4rc	12cc#L	.
-.	.	12a	.
-.	.	12cc#J	.
 4en	[4e	20cc#LL	.
 .	.	20dd	.
 .	.	20cc#	.
@@ -277,16 +277,18 @@
 .	.	12ff#	.
 8dJ	.	.	.
 .	.	12bbJ	.
-20F#LL	4rc	4d 4b 4dd	.
-20Gn	.	.	.
-20F#	.	.	.
-20E#X	.	.	.
-20F#JJ	.	.	.
-=21	=21	=21	=21
-12dL	4rc	2d 2a#X 2dd	.
-12E#X	.	.	.
-12GnJ	.	.	.
-[2F#	4rc	.	.
+*	*v	*v	*
+20F#LL	4d 4b 4dd	.
+20Gn	.	.
+20F#	.	.
+20E#X	.	.
+20F#JJ	.	.
+=21	=21	=21
+12dL	2d 2a#X 2dd	.
+12E#X	.	.
+12GnJ	.	.
+[2F#	.	.
+*	*^	*
 .	4d 4b	20ddLL	.
 .	.	20ee	.
 .	.	20dd	.
@@ -297,7 +299,6 @@
 .	.	12cc#X	.
 .	.	12eeJ	.
 .	.	4dd	.
-.	4qrc	.	.
 *	*v	*v	*
 20F#LL	[4d [4g#X [4ccn [4dd	.
 20G#	.	.
@@ -306,10 +307,10 @@
 20F#JJ	.	.
 =23	=23	=23
 *M2/4	*M2/4	*
+12dL	4d] 4g#] 4cc] 4dd]	.
+12E#X	.	.
+12G#J	.	.
 *	*^	*
-12dL	4rc	4d] 4g#] 4cc] 4dd]	.
-12E#X	.	.	.
-12G#J	.	.	.
 [4F#	4d 4g# 4ccn	20ddLL	.
 .	.	20ee	.
 .	.	20dd	.
@@ -328,10 +329,10 @@
 *	*v	*v	*
 =25	=25	=25
 *M3/4	*M3/4	*
+12c#L	4c#] 4g#] 4b] 4cc#]	.
+12D#X	.	.
+12F#J	.	.
 *	*^	*
-12c#L	4g#] 4b]	4c#] 4cc#]	.
-12D#X	.	.	.
-12F#J	.	.	.
 [4E#X	4c# 4g# 4b	20cc#LL	.
 .	.	20ddn	.
 .	.	20cc#	.
@@ -386,11 +387,11 @@
 .	.	8fnJ	.	.
 .	.	.	20b	.
 .	.	.	20aJJ	.
-.	4fn	4rc	4aa	.
+.	4fn	4r	4aa	.
 8E	4e	[4e	20cc#LL	.
 .	.	.	20dd	.
 .	.	.	20cc#	.
-8rEE	.	.	.	.
+8r	.	.	.	.
 .	.	.	20b	.
 .	.	.	20cc#JJ	.
 *v	*v	*	*	*
@@ -410,10 +411,10 @@
 8AAAL 8AA	2c# 2a 2ee	.
 8EJ	.	.
 4c# 4a	.	.
-4r	4r	.
 ==	==	==
 *-	*-	*-
 !!!system-decoration: {(*)}
+!!!filter: flipper -a
 !!!ENC: Bryan Jacob Bell
 !!!END: November 2021 to April 2022
 !!!PED: Konstantin Igumnov and Yakov Milstein
