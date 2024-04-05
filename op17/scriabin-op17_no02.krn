@@ -14,10 +14,10 @@
 *k[b-e-a-]	*k[b-e-a-]	*
 *E-:	*E-:	*
 *M2/4	*M2/4	*
-12r	12r	.
-12DDL 12D	6r	.
-12DD-X 12D-X	.	.
+8DDL 8D	4r	.
+8DD-X 8D-X	.	.
 =1	=1	=1
+*Xtuplet	*Xtuplet	*
 12BB-J 12B-	4G 4e- 4b-	.
 12DD-XL 12D-X	.	.
 12CC 12C	.	.
@@ -42,11 +42,11 @@
 12BBBL 12BB	.	.
 12CC 12C	.	.
 =4	=4	=4
+12GGJ 12G	8.EnL 8.c 8.en	.
+12BBBnL 12BBn	.	.
+12BBB-X 12BB-X	.	.
+.	16d-XJk	.
 *	*^	*
-12GGJ 12G	4rc	8.EnL 8.c 8.en	.
-12BBBnL 12BBn	.	.	.
-12BBB-X 12BB-X	.	.	.
-.	.	16d-XJk	.
 12GGJ 12G	4E	4c	.
 12BBB-L 12BB-	.	.	.
 12AAAn 12AAn	.	.	.
@@ -80,31 +80,31 @@
 12FFJ 12F	4B- 4d	4b-	.
 12BBB-L 12BB-	.	.	.
 12FF 12F	.	.	.
-12DJ 12d	4rc	4raa	.
-12DDL 12D	.	.	.
-12DD-X 12D-X	.	.	.
 *	*v	*v	*
+12DJ 12d	4r	.
+12DDL 12D	.	.
+12DD-X 12D-X	.	.
 =9	=9	=9
 12GJ 12e- 12g	4b- 4ee- 4bb-	.
 12DD-XL 12D-X	.	.
 12CC 12C	.	.
 12GJ 12en 12g	4b- 4een 4bb-	.
-12CCL 12C	.	.
+12CCL 12C\	.	.
 12CC-X 12C-X	.	.
 =10	=10	=10
 12FJ 12e-X 12f	8.a-L 8.ee-X 8.aa-	.
-12CC-XL 12C-X	.	.
+12CC-XL 12C-X\	.	.
 12BBB- 12BB-	.	.
 .	16gJk 16gg	.
 12A-J 12d 12a-	4f 4dd 4ff	.
-12AAAnL 12AAn	.	.
+12AAAnL 12AAn\	.	.
 12BBB- 12BB-	.	.
 =11	=11	=11
 12GJ 12d 12g	4f 4dd 4gg	.
-12BBB-L 12BB-	.	.
+12BBB-L 12BB-\	.	.
 12BBBn 12BBn	.	.
 12GJ 12d-X 12g	4f 4dd-X 4gg	.
-12BBBL 12BB	.	.
+12BBBL 12BB6\	.	.
 12CC 12C	.	.
 =12	=12	=12
 12GLJ 12c 12g	8.enL 8.cc 8.een	.
@@ -125,7 +125,7 @@
 12BBB- 12BB-	.	.	.
 =14	=14	=14	=14
 12FJ 12B- 12f	4e-	8.b-L 8.ff	.
-12BBB-L 12BB-	.	.	.
+12BBB-L 12BB-\	.	.	.
 12CC-X 12C-X	.	.	.
 .	.	16anJk	.
 12FJ 12An 12f	4e-	4a	.
@@ -166,13 +166,13 @@
 12GG-X 12G-	.	.
 =19	=19	=19
 *	*^	*
-12B-J 12f-X 12b-	4ddd-X	8aa-L 8aaa-	.
+12B-J 12f-X 12b-	8aa-L 8aaa-	4ddd-X	.
 12FFnL 12Fn	.	.	.
-.	.	8gg-XJ 8ggg-X	.
+.	8gg-XJ 8ggg-X	.	.
 12GG-X 12G-X	.	.	.
-12B-J 12f-X 12b-	4bb-	8dd-XL 8ddd-	.
+12B-J 12f-X 12b-	8dd-XL 8ddd-	4bb-	.
 12FFnL 12Fn	.	.	.
-.	.	8ddnJ 8dddn	.
+.	8ddnJ 8dddn	.	.
 12GG- 12G-	.	.	.
 *	*v	*v	*
 =20	=20	=20
@@ -206,7 +206,7 @@
 12BB- 12B-	.	.
 =24	=24	=24
 12A-XJ 12c-X 12e- 12a-X	4g 4cc-X 4ee- 4gg	.
-12AAAnL 12AAn	.	.
+12AAAnL 12AAn\	.	.
 12BBB- 12BB-	.	.
 12A-XJ 12B- 12d 12a-X	8.fL 8.dd 8.ff	.
 12BB-L 12B-	.	.
@@ -293,6 +293,7 @@
 ==	==	==
 *-	*-	*-
 !!!system-decoration: {(*)}
+!!!filter: flipper -a
 !!!ENC: Bryan Jacob Bell
 !!!END: November 2021 to April 2022
 !!!PED: Konstantin Igumnov and Yakov Milstein
