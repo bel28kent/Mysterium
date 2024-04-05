@@ -16,7 +16,7 @@
 *M3/8	*M3/8	*
 =1	=1	=1
 *	*^	*
-8CC#L	16rc	8.c#	.
+8CC#L	16r	8.c#	.
 .	[16E#	.	.
 8GG#	4E#] 4B	.	.
 .	.	16d#	.
@@ -31,9 +31,9 @@
 .	.	16dd#JJ	.
 *clefG2	*	*	*
 =3	=3	=3	=3
-4dd#	8rc	16aa#LL	.
+4dd#	8rd	16aa#LL	.
 .	.	16gg#	.
-.	8rc	16dd#	.
+.	8rd	16dd#	.
 .	.	16b	.
 *clefF4	*	*	*
 8C#X 8c#X	8B 8e#	16a#	.
@@ -43,11 +43,13 @@
 .	.	16f#	.
 .	.	16g#	.
 .	.	16f#	.
-8BB#X 8G#	8rc	16dd#J	.
-.	.	32r	.
-.	.	32d#Jkk	.
-=5	=5	=5	=5
-8CC#L	16rc	8.c#	.
+*	*v	*v	*
+8BB#X 8G#	16dd#J	.
+.	32r	.
+.	32d#Jkk	.
+=5	=5	=5
+*	*^	*
+8CC#L	16r	8.c#	.
 .	[16E#	.	.
 8GG#	4E#] 4Bn	.	.
 .	.	16d#	.
@@ -62,9 +64,9 @@
 .	.	16dd#JJ	.
 *clefG2	*	*	*
 =7	=7	=7	=7
-4dd#	8rc	16aa#LL	.
+4dd#	8rd	16aa#LL	.
 .	.	16gg#	.
-.	8rc	16dd#	.
+.	8rd	16dd#	.
 .	.	16b	.
 *clefF4	*	*	*
 8C#X 8c#X	8B 8e#	16a#	.
@@ -74,9 +76,11 @@
 .	.	16f#	.
 .	.	16a#	.
 16C#	.	16cc#JJ	.
-8FF# 8A#	8rc	8f# 8ff#	.
-=9	=9	=9	=9
-8FF#L	16rc	8.f#	.
+*	*v	*v	*
+8FF# 8A#	8f# 8ff#	.
+=9	=9	=9
+*	*^	*
+8FF#L	16r	8.f#	.
 .	[16A#	.	.
 8C#	4A#] 4en	.	.
 .	.	16g#	.
@@ -108,7 +112,7 @@
 .	16d#JJ	.
 =13	=13	=13
 *	*^	*
-8CC#L	16rc	8.c#	.
+8CC#L	16r	8.c#	.
 .	[16E#	.	.
 8GG#	4E#] 4B	.	.
 .	.	16d#	.
@@ -123,9 +127,9 @@
 .	.	16dd#JJ	.
 *clefG2	*	*	*
 =15	=15	=15	=15
-4dd#	8rc	16aa#LL	.
+4dd#	8rd	16aa#LL	.
 .	.	16gg#	.
-.	8rc	16dd#	.
+.	8rd	16dd#	.
 .	.	16b	.
 *clefF4	*	*	*
 8C#X 8c#X	8B 8e#	16a#	.
@@ -135,16 +139,18 @@
 .	.	16f#	.
 .	.	16a#	.
 16C#	.	16cc#JJ	.
-8FF# 8A#	8rc	8f# 8ff#	.
-=17	=17	=17	=17
-8FF#L	16rc	8.f#	.
+*	*v	*v	*
+8FF# 8A#	8f# 8ff#	.
+=17	=17	=17
+*	*^	*
+8FF#L	16r	8.f#	.
 .	[16A#	.	.
 8C#	4A#] 4en	.	.
 .	.	16g#	.
 8A#J	.	16cc#LL	.
 .	.	16dd#JJ	.
 =18	=18	=18	=18
-8FF#L	16rc	8.f#	.
+8FF#L	16r	8.f#	.
 .	[16A#	.	.
 8C#	4A#] 4en	.	.
 .	.	16g#	.
@@ -169,7 +175,7 @@
 .	16d#JJ	.
 =21	=21	=21
 *	*^	*
-8CC#L	16rc	8.c#	.
+8CC#L	16r	8.c#	.
 .	[16E#	.	.
 8GG#	4E#] 4B	.	.
 .	.	16d#	.
@@ -184,9 +190,9 @@
 .	.	16dd#JJ	.
 *clefG2	*	*	*
 =23	=23	=23	=23
-4dd#	8rc	16aa#LL	.
+4dd#	8rd	16aa#LL	.
 .	.	16gg#	.
-.	8rc	16dd#	.
+.	8rd	16dd#	.
 .	.	16b	.
 *clefF4	*	*	*
 8C#X 8c#X	8B 8e#	16a#	.
@@ -196,11 +202,12 @@
 .	.	16f#	.
 .	.	16a#	.
 16C#	.	16cc#JJ	.
-8FF# 8A#	8rc	8f# 8ff#	.
 *	*v	*v	*
+8FF# 8A#	8f# 8ff#	.
 ==	==	==
 *-	*-	*-
 !!!system-decoration: {(*)}
+!!!filter: flipper -a
 !!!ENC: Bryan Jacob Bell
 !!!END: November 2021 to April 2022
 !!!PED: Günter Philipp
