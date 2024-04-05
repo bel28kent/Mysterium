@@ -77,13 +77,13 @@
 =10	=10	=10
 *	*^	*
 4BB- 4G-	8e-	4B- 4b-	.
-.	8rc	.	.
-4r	4rc	8a-L	.
-.	.	8b-J	.
-4r	4rc	12dd-L	.
-.	.	12.cc-	.
-.	.	24g-Jk	.
+.	8ryy	.	.
 *	*v	*v	*
+4r	8a-L	.
+.	8b-J	.
+4r	12dd-/L	.
+.	12.cc-	.
+.	24g-Jk	.
 =11	=11	=11
 2.r	4a-	.
 .	8g-L	.
@@ -98,6 +98,7 @@
 ==	==	==
 *-	*-	*-
 !!!system-decoration: {(*)}
+!!!filter: flipper -a
 !!!ENC: Bryan Jacob Bell
 !!!END: November 2021 to April 2022
 !!!PED: Günter Philipp
