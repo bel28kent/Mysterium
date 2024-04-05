@@ -30,16 +30,16 @@
 4c-	4a-	.
 4e-	4cc-	.
 4d-	4b-	.
-*clefF4	*	*
 4G-	4e-	.
 =4	=4	=4
 4A-	4f	.
 4B-	4g-	.
 4d-	4b-	.
 4c-	4a-	.
+*clefF4	*	*
 =5	=5	=5
-4r	2r	.
-4B- 4g-	.	.
+4r	4r	.
+4B- 4g-	4r	.
 4A- 4f	[4dd-	.
 4D- 4B-	6dd-]	.
 .	12g-	.
@@ -66,25 +66,25 @@
 .	12a-	.
 .	12b-J	.
 =8	=8	=8
+4AA- 4F	12dd-L	.
+.	12d-	.
+.	12e-J	.
+4BB- 4G-	12d-L	.
+.	12ff	.
+.	12ee-J	.
+4D- 4B-	12g-L	.
+.	12dd-	.
+.	12e-J	.
 *	*^	*
-4AA- 4F	4rc	12dd-L	.
-.	.	12d-	.
-.	.	12e-J	.
-4BB- 4G-	4rc	12d-L	.
-.	.	12ff	.
-.	.	12ee-J	.
-4D- 4B-	4rc	12g-L	.
-.	.	12dd-	.
-.	.	12e-J	.
 4DD- 4D-	[4c-	12fL	.
 .	.	12a-	.
 .	.	12b-J	.
 =9	=9	=9	=9
 4EE- 4E-	4c-]	4g-	.
-4EE- 4E-	4rc	4c- 4g- 4cc-	.
-4DD- 4D-	4rc	4B- 4g- 4b-	.
-4GGG- 4GG-	4rc	4E- 4B- 4d- 4e-	.
 *	*v	*v	*
+4EE- 4E-	4c- 4g- 4cc-	.
+4DD- 4D-	4B- 4g- 4b-	.
+4GGG- 4GG-	4E- 4B- 4d- 4e-	.
 =10	=10	=10
 4AAA- 4AA-	4F 4c- 4d- 4f	.
 4BBB- 4BB-	4G- 4d- 4g-	.
@@ -119,25 +119,25 @@
 .	12a-	.
 .	12b-J	.
 =14	=14	=14
+4A- 4f	12dd-L	.
+.	12d-	.
+.	12e-J	.
+4B- 4g-	12d-L	.
+.	12ff	.
+.	12ee-J	.
+4A- 4f	12dd-L	.
+.	12aa-	.
+.	12b-J	.
 *	*^	*
-4A- 4f	4rc	12dd-L	.
-.	.	12d-	.
-.	.	12e-J	.
-4B- 4g-	4rc	12d-L	.
-.	.	12ff	.
-.	.	12ee-J	.
-4A- 4f	4rc	12dd-L	.
-.	.	12aa-	.
-.	.	12b-J	.
 4AA- 4A-	[4g-	12ccnL	.
 .	.	12ee-	.
 .	.	12ffJ	.
 =15	=15	=15	=15
 4BB- 4B-	4g-]	4dd-	.
-4BB- 4B-	4rc	4g- 4dd- 4gg-	.
-4AA- 4A-	4rc	4f 4dd- 4ff	.
-4DD- 4D-	4rc	4B- 4f 4a- 4b-	.
 *	*v	*v	*
+4BB- 4B-	4g- 4dd- 4gg-	.
+4AA- 4A-	4f 4dd- 4ff	.
+4DD- 4D-	4B- 4f 4a- 4b-	.
 =16	=16	=16
 4EE- 4E-	4cn 4g- 4a- 4ccn	.
 4FF 4F	4d- 4a- 4dd-	.
@@ -150,7 +150,6 @@
 4cn 4an	12ffL	.
 .	12een	.
 .	12ffJ	.
-*clefF4	*	*
 4F 4d-	12aa-XL	.
 .	12gg-	.
 .	12b-J	.
@@ -160,6 +159,7 @@
 .	[12ee-XJ	.
 4B- 4g-	2ee-]	.
 4An 4f	.	.
+*clefF4	*	*
 4AAAn 4AAn	4g- 4cc 4ee-	.
 =19	=19	=19
 4BBB- 4BB-	4f 4b- 4dd-	.
@@ -191,9 +191,9 @@
 *	*^	*
 2DD- 2D-	4G-	2c-X 2d-	.
 .	4F	.	.
-2DDD- 2DD-	4rc	4c- 4f 4a-	.
-.	4rc	4d- 4f 4b-	.
 *	*v	*v	*
+2DDD- 2DD-	4c- 4f 4a-	.
+.	4d- 4f 4b-	.
 =24	=24	=24
 4GGG- 4GG-	4B- 4g-	.
 4B- 4g-	4r	.
@@ -237,26 +237,28 @@
 .	12a-	.
 .	12b-J	.
 =27	=27	=27
+4AA- 4F	12dd-XL	.
+.	12d-	.
+.	12e-J	.
+4BB- 4G-	12d-L	.
+.	12ff	.
+.	12ee-J	.
+4D- 4B-	12g-L	.
+.	12dd-	.
+.	12e-J	.
 *	*^	*
-4AA- 4F	4rc	12dd-XL	.
-.	.	12d-	.
-.	.	12e-J	.
-4BB- 4G-	4rc	12d-L	.
-.	.	12ff	.
-.	.	12ee-J	.
-4D- 4B-	4rc	12g-L	.
-.	.	12dd-	.
-.	.	12e-J	.
 4DD- [4D-	4c-	12fL	.
 .	.	12a-	.
 .	.	12b-J	.
 =28	=28	=28	=28
-4GG- 4D-]	4B-	4g-	.
-4D- 4B-	4rc	4f 4dd-	.
-4G- 4e-	4rc	4b- 4ee-	.
-4B- 4g-	4rc	4dd- 4gg-	.
-*	*v	*v	*
+*^	*	*	*
+4GG-	4D-]	4B-	4g-	.
+*	*	*v	*v	*
+*v	*v	*	*
+4D- 4B-	4f 4dd-	.
 *clefG2	*	*
+4G- 4e-	4b- 4ee-	.
+4B- 4g-	4dd- 4gg-	.
 =29	=29	=29
 4d- 4b-	4ff 4bb-	.
 [4e- 4b-	4dd- 4gg-	.
@@ -266,35 +268,36 @@
 4G- 4d-] 4g-	4b- 4dd-]	.
 *clefF4	*	*
 4D- 4B-	4f 4dd-	.
+*clefG2	*	*
 4G- 4e-	4b- 4ee-	.
 4B- 4g-	4dd- 4gg-	.
-*clefG2	*	*
 =31	=31	=31
 4d- 4b-	4ff 4bb-	.
 [4e- 4b-	4dd- 4gg-	.
 4A- 4e-] 4a-	4cc- 4aa-	.
 [4d- 4b-	4f [4dd-	.
 =32	=32	=32
+4G- 4d-] 4g-	4b- 4dd-]	.
 *^	*^	*
-4rc	4G- 4d-] 4g-	4rc	4b- 4dd-]	.
-*clefF4	*	*	*	*
+*clefF4	*clefF4	*	*	*
 4D-	2B-	4f	2dd-	.
 4E-	.	4g-	.	.
 4D-	[4B-	4f	[4dd-	.
 =33	=33	=33	=33	=33
 4E-	4B-]	4g-	4dd-]	.
 4AA- 4E-	4c-	4e- [4g-	4dd-	.
-2rEE	2rc	2g-_	2raa	.
-*v	*v	*	*	*
-=34	=34	=34	=34
-2r	2g-]	1ryy	.
-2DD- 2D-	2c- 2d- 2f 2a-	.	.
-=35	=35	=35	=35
-1GGG- 1GG- 1D-	1B- 1d- 1g- 1b-	1ryy	.
-*	*v	*v	*
+*	*	*v	*v	*
+*v	*v	*	*
+2r	2g-_	.
+=34	=34	=34
+2r	2g-]	.
+2DD- 2D-	2c- 2d- 2f 2a-	.
+=35	=35	=35
+1GGG- 1GG- 1D-	1B- 1d- 1g- 1b-	.
 ==	==	==
 *-	*-	*-
 !!!system-decoration: {(*)}
+!!!filter: flipper -a
 !!!ENC: Bryan Jacob Bell
 !!!END: November 2021 to April 2022
 !!!PED: Günter Philipp
