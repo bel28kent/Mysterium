@@ -10,11 +10,12 @@
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
 *Ipiano	*Ipiano	*
-*clefG2	*clefG2	*
+*clefF4	*clefG2	*
 *k[f#c#g#d#a#]	*k[f#c#g#d#a#]	*
 *g#:	*g#:	*
 *M2/4	*M2/4	*
 =1	=1	=1
+*clefG2	*	*
 [4g#	[4b [4dd#	.
 16g#LL]	20bLL] 20dd#]	.
 .	20b 20ee	.
@@ -196,7 +197,7 @@
 8r	8d#J 8dd#	.
 =25	=25	=25
 [4GG# [4G#	[4d# [4b [4dd#	.
-20GG#LL] 20G#]	20d#LL] 20b] 20dd#]	.
+20GG#LL] 20G#]	20d#LL] 20b] 20dd#/]	.
 20FF##X 20F##X	20e 20b 20ee	.
 20GG# 20G#	20d# 20b 20dd#	.
 20GG# 20G#	20d# 20b 20dd#	.
@@ -263,6 +264,7 @@
 ==	==	==
 *-	*-	*-
 !!!system-decoration: {(*)}
+!!!filter: flipper -a
 !!!ENC: Bryan Jacob Bell
 !!!END: November 2021 to April 2022
 !!!PED: Günter Philipp
