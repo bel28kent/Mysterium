@@ -45,11 +45,11 @@
 =6	=6	=6	=6
 [2FFF##X [2FF##X	[2E 2A_	4d#X	.
 .	.	[4c#	.
-=7	=7	=7	=7
-4FFF##] 4FF##]	4E] 4A]	4E 4A 4c#]	.
-*	*clefF4	*	*
-[4GGG# [4GG#	4ryy	[4Dn [4F# [4B#X	.
 *	*v	*v	*
+=7	=7	=7
+4FFF##] 4FF##]	4E] 4A] 4c#]	.
+*	*clefF4	*
+[4GGG# [4GG#	[4Dn [4F# [4B#X	.
 =8	=8	=8
 4GGG#] 4GG#]	4D] 4F#] 4B#]	.
 [4CCC# [4CC#	[4C# [4E#X [4c#	.
@@ -85,8 +85,8 @@
 8.BBBL 8.BB	8.c#L] 8.g]	8.eeL]	.
 16BBJk 16B	[16dJk [16g	16ddJk	.
 =15	=15	=15	=15
-[4EE#X [4E#X	4d_ [4g#	4cc#	.
-8.EE#L] 8.E#]	8.dL] 8.g#]	8.bL	.
+[4EE#X [4E#X	4d_ 4g_	4cc#	.
+8.EE#L] 8.E#]	8.dL] 8.g]	8.bL	.
 16FF#Jk 16F#	[16dJk	16aJk	.
 =16	=16	=16	=16
 [2BBB#X [2BB#X	[2A 2d_	4g#X	.
@@ -106,10 +106,10 @@
 =20	=20	=20	=20
 [2BBB#X	[2AA 2D_	4G#X	.
 .	.	[4F#	.
-=21	=21	=21	=21
-4BBB#]	4AA] 4D] 4F#	4F#]	.
-[4CC#	4ryy	4GG# [4C# [4E#X	.
 *	*v	*v	*
+=21	=21	=21
+4BBB#]	4AA] 4D] 4F#]	.
+[4CC#	4GG# [4C# [4E#X	.
 =22	=22	=22
 4CC#]	4GG# 4C#] 4E#]	.
 [4FFF#	[4FF# [4C# [4F#	.
@@ -122,6 +122,7 @@
 ==	==	==
 *-	*-	*-
 !!!system-decoration: {(*)}
+!!!filter: flipper -a
 !!!ENC: Bryan Jacob Bell
 !!!END: November 2021 to April 2022
 !!!PED: Konstantin Igumnov and Yakov Milstein
