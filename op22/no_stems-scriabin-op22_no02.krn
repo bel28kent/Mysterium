@@ -39,12 +39,14 @@
 .	.	.	8cc#J	.
 =4	=4	=4	=4	=4
 8E	8G#	2.c#	4.cc#	.
-8CC#L	4rc	.	.	.
-8GG#J	.	.	.	.
-8D#L	4.rc	.	4.g#	.
-8E	.	.	.	.
-8G#J	.	.	.	.
-=5	=5	=5	=5	=5
+*v	*v	*	*	*
+8CC#L	.	.	.
+8GG#J	.	.	.
+8D#L	.	4.g#	.
+8E	.	.	.
+8G#J	.	.	.
+=5	=5	=5	=5
+*^	*	*	*
 8c#L	[4.e	4.g#	8eeL	.
 8B#X	.	.	8gg#	.
 8BnJ	.	.	8dd#J	.
@@ -70,41 +72,45 @@
 .	.	.	16bJk	.
 =8	=8	=8	=8	=8
 8G#	8e	4.g#	4.b	.
-8EEL	4rc	.	.	.
-8BBJ	.	.	.	.
-8F#L	4.rc	4.rc	4.e	.
-8G#	.	.	.	.
-8BJ	.	.	.	.
-=9	=9	=9	=9	=9
+*v	*v	*	*	*
+8EEL	.	.	.
+8BBJ	.	.	.
+8F#L	4.r	4.e	.
+8G#	.	.	.
+8BJ	.	.	.
+=9	=9	=9	=9
+*^	*	*	*
+2.E	8BL	2.g#	8r	.
+.	8c#	.	8a#XL	.
+.	8BJ	.	8bJ	.
 *	*	*	*^	*
-2.E	8BL	8r	2.g#	4.raa	.
-.	8c#	8a#XL	.	.	.
-.	8BJ	8bJ	.	.	.
-.	4.A#X	8b#XL	.	8raa	.
-.	.	8cc#	.	8gg#L	.
-.	.	8cc##XJ	.	8aa#XJ	.
+.	4.A#X	.	8b#XL	8ryy	.
+.	.	.	8cc#	8gg#L	.
+.	.	.	8cc##XJ	8aa#XJ	.
 =10	=10	=10	=10	=10	=10
-4.D#	4.A#X	8dd#	4.f##X	8aa#XL	.
-.	.	4r	.	8ff##X	.
-.	.	.	.	8cc##XJ	.
-4.A#	8c#XL	4.r	4.f##	8eeL	.
-.	8d#	.	.	8dd#	.
-.	8eJ	.	.	8ddnJ	.
-=11	=11	=11	=11	=11	=11
-2.An	8eL	8r	4.an 4.cc#X	4.raa	.
-.	8f#	8dd#XL	.	.	.
-.	8eJ	8eeJ	.	.	.
-.	4.d#	8ee#XL	4.cc#	8raa	.
-.	.	8ff#	.	8ccc#L	.
-.	.	8ff##XJ	.	8ddd#J	.
-=12	=12	=12	=12	=12	=12
-2.G#	4.d#	8gg#	4.b#X	8ddd#L	.
-.	.	4r	.	8bb#X	.
-.	.	.	.	8ff##XJ	.
-.	4.f#X	4.r	4.b#	8aaL	.
-.	.	.	.	8gg#	.
-.	.	.	.	8dd#J	.
+4.D#	4.A#X	4.f##X\	8dd#/	8aa#XL	.
 *	*	*	*v	*v	*
+.	.	.	8ff##X	.
+.	.	.	8cc##XJ	.
+4.A#	8c#XL	4.f##	8eeL	.
+.	8d#	.	8dd#	.
+.	8eJ	.	8ddnJ	.
+=11	=11	=11	=11	=11
+2.An	8eL	4.an 4.cc#X	8r	.
+.	8f#	.	8dd#XL	.
+.	8eJ	.	8eeJ	.
+*	*	*	*^	*
+.	4.d#	4.cc#\	8ee#X/L	8ryy	.
+.	.	.	8ff#	8ccc#L	.
+.	.	.	8ff##XJ	8ddd#J	.
+=12	=12	=12	=12	=12	=12
+2.G#	4.d#	4.b#X\	8gg#/	8ddd#L	.
+*	*	*	*v	*v	*
+.	.	.	8bb#X	.
+.	.	.	8ff##XJ	.
+.	4.f#X	4.b#	8aaL	.
+.	.	.	8gg#	.
+.	.	.	8dd#J	.
 =13	=13	=13	=13	=13
 8c#L	4.e	4.g#	8eeL	.
 8B#X	.	.	8gg#	.
@@ -141,33 +147,37 @@
 8AAnJ	.	.	8c#J	.
 4.GG#	4D	4.F#	8B#XL	.
 .	.	.	8g#	.
-.	8D#X	.	16r	.
+.	8D#X	.	16ra	.
 .	.	.	16g#Jk	.
 =18	=18	=18	=18	=18
 8GG#L	4.E	4.E 4.c#	4.g#	.
 8CC#	.	.	.	.
 8GG#J	.	.	.	.
-8D#L	4.rc	4.rc	4.raa	.
-8F#	.	.	.	.
-8EJ	.	.	.	.
-=19	=19	=19	=19	=19
+*	*	*v	*v	*
+*v	*v	*	*
+8D#L	4.r	.
+8F#	.	.
+8EJ	.	.
+=19	=19	=19
+*^	*^	*
 4.AA	4.Dn	4.F#	8dnL	.
 .	.	.	8f#	.
 .	.	.	8c#J	.
 4.GG#	4D	4.F#	8B#XL	.
 .	.	.	8g#	.
-.	8D#X	.	16r	.
+.	8D#X	.	16ra	.
 .	.	.	16g#Jk	.
 *	*	*v	*v	*
 =20	=20	=20	=20
 8GG#	8E	2.E 2.c# 2.g#	.
-[8CC#L	4rc	.	.
-8CC#J_ [8GG#	.	.	.
-4.CC#] 4.GG#] 4.E	4.rc	.	.
 *v	*v	*	*
+[8CC#L	.	.
+8CC#J_ [8GG#	.	.
+4.CC#] 4.GG#] 4.E	.	.
 ==	==	==
 *-	*-	*-
 !!!system-decoration: {(*)}
+!!!filter: flipper -a
 !!!ENC: Bryan Jacob Bell
 !!!END: November 2021 to April 2022
 !!!PED: Konstantin Igumnov and Yakov Milstein
