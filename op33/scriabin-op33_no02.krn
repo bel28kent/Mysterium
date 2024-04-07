@@ -76,23 +76,25 @@
 .	4.d-X	.	4ff]	.
 .	.	.	8ee-X	.
 =11	=11	=11	=11	=11
-*	*^	*	*	*
-4.BBn/	4.Gn	8enL	4.gn	8cc#L	.
-.	.	8.dn	.	8ddn	.
-.	.	.	.	8ff#XJ	.
-.	.	16dJk	.	.	.
-[4.BB/	[4.F#	[4.d	[4.f# [4.dd	[4.aan	.
-=12	=12	=12	=12	=12	=12
-4.BB/]	4F#]	4.d]	4f#] 4dd_	4aa]	.
-.	8Gn	.	[8gn 8dd]	8ggn	.
-4.BB/	4.G	4.dn	8g]	8ddnL	.
-.	.	.	8rc	8b	.
-.	.	.	8rc	8gJ	.
-*	*v	*v	*	*	*
-=13	=13	=13	=13	=13
-[2.C# [2.B	[4.Gn	8f#L	4.raa	.
-.	.	8en	.	.
-.	.	[8e#XJ	.	.
+4.BBn 4.Gn	8enL	4.gn	8cc#L	.
+.	8.dn	.	8ddn	.
+.	.	.	8ff#XJ	.
+.	16dJk	.	.	.
+[4.BB [4.F#	[4.d	[4.f# [4.dd	[4.aan	.
+=12	=12	=12	=12	=12
+4.BB] 4.d]	4F#]	4f#] 4dd_	4aa]	.
+.	8Gn	[8gn 8dd]	8ggn	.
+*v	*v	*	*	*
+4.BB 4.G 4.dn	8g]	8ddnL	.
+.	8r	8b	.
+.	8r	8gJ	.
+*	*v	*v	*
+=13	=13	=13
+*^	*	*
+[2.C# [2.B	[4.Gn	8f#L	.
+.	.	8en	.
+.	.	[8e#XJ	.
+*	*	*^	*
 .	4G]	4.e#_	[4.dd#X	.
 .	8G#X	.	.	.
 =14	=14	=14	=14	=14
@@ -114,39 +116,42 @@
 .	4.d-X	.	4ff]	.
 .	.	.	8ee-X	.
 =17	=17	=17	=17	=17
-*	*^	*	*	*
-4.Cn/	4.A-X	8fnL	4.a-X	8ddnL	.
-.	.	8.e-X	.	8ee-X	.
-.	.	.	.	8ggnJ	.
-.	.	16e-Jk	.	.	.
-[4.C/	[4.Gn	[4.e-	[4.gn [4.ee-	[4.bb-X	.
-=18	=18	=18	=18	=18	=18
-4.C/]	4G]	4.e-]	4g] 4ee-_	4bb-]	.
-.	8A-X	.	[8a-X 8ee-]	8aa-X	.
-4.Cn/	4.A-	4.e-X	8a-]	8ee-XL	.
-.	.	.	8rc	8ccn	.
-.	.	.	8rc	8a-J	.
-*	*v	*v	*	*	*
-=19	=19	=19	=19	=19
-2.Dn 2.cn	4.A-X	8gnL	4.raa	.
-.	.	8.fn	.	.
-.	.	[16f#XJk	.	.
+4.Cn 4.A-X	8fnL	4.a-X	8ddnL	.
+.	8.e-X	.	8ee-X	.
+.	.	.	8ggnJ	.
+.	16e-Jk	.	.	.
+[4.C [4.Gn	[4.e-	[4.gn [4.ee-	[4.bb-X	.
+=18	=18	=18	=18	=18
+4.C] 4.e-]	4G]	4g] 4ee-_	4bb-]	.
+.	8A-X	[8a-X 8ee-]	8aa-X	.
+*v	*v	*	*	*
+4.Cn 4.A- 4.e-X	8a-]	8ee-XL	.
+.	8r	8ccn	.
+.	8r	8a-J	.
+*	*v	*v	*
+=19	=19	=19
+*^	*	*
+2.Dn 2.cn	4.A-X	8gnL	.
+.	.	8.fn	.
+.	.	[16f#XJk	.
+*	*	*^	*
 .	4An	4.f#]	[4.een	.
 .	8A#X	.	.	.
 =20	=20	=20	=20	=20
-2.GGn 2.B	[4.C#X	2.g#	4ee#	.
+2.GGn 2.B	[4.C#X	2.g#	4ee]	.
 .	.	.	[8ee-X	.
 .	4C#]	.	4ee-]	.
 .	8Dn	.	8ddn	.
-*v	*v	*	*	*
-*	*v	*v	*
+*	*	*v	*v	*
+*v	*v	*	*
 =21	=21	=21
 2.r	2.r	.
 =22	=22	=22
-*^	*^	*
-[2.C# [2.B	[4.Gn	8f#L	4.raa	.
-.	.	8en	.	.
-.	.	[8e#XJ	.	.
+*^	*	*
+[2.C# [2.B	[4.Gn	8f#L	.
+.	.	8en	.
+.	.	[8e#XJ	.
+*	*	*^	*
 .	4G]	4.e#_	[4.dd#X	.
 .	8G#X	.	.	.
 =23	=23	=23	=23	=23
@@ -157,10 +162,10 @@
 *v	*v	*	*	*
 =24	=24	=24	=24
 [2.En [2.A# [2.c##X	8f#	4f#	.
-.	4rc	.	.
-.	.	8c##X	.
-.	4.rc	[4.f#	.
+.	8ryy	.	.
 *	*v	*v	*
+.	8c##X	.
+.	[4.f#	.
 =25	=25	=25
 2.E] 2.A#] 2.c##]	4f#]	.
 .	8c##X	.
@@ -180,6 +185,7 @@
 ==	==	==
 *-	*-	*-
 !!!system-decoration: {(*)}
+!!!filter: flipper -a
 !!!ENC: Bryan Jacob Bell
 !!!END: November 2021 to April 2022
 !!!PED: Konstantin Igumnov and Yakov Milstein
