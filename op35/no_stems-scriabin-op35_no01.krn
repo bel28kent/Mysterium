@@ -14,12 +14,14 @@
 *k[b-e-a-d-g-]	*k[b-e-a-d-g-]	*
 *D-:	*D-:	*
 *M3/4	*M3/4	*
+*	*Xtuplet	*
 12AA-L 12F-X 12Gn	24ccLL	.
 .	24e-	.
 12FF-X 12F-	24c	.
 .	24d-J	.
 12AAA-J 12AA-	12b-J	.
 =1	=1	=1
+*Xtuplet	*	*
 12AA-L 12E- 12G-X	24b-LL	.
 .	24d-	.
 12EE- 12E-	24Bn	.
@@ -228,18 +230,19 @@
 .	24aJ	.
 .	12cc#XJ	.
 =14	=14	=14
+4A-X 4e-X 4g-X	24dd-XLL	.
+.	24b-X	.
+.	24g-X	.
+.	24a-J	.
+.	12ccJ	.
+8qAA-	.	.
+4A- 4c	24ffLL	.
+.	24a-	.
+.	24f	.
+.	24g-J	.
+.	12ee-J	.
 *^	*	*
-4rEE	4A-X 4e-X 4g-X	24dd-XLL	.
-.	.	24b-X	.
-.	.	24g-X	.
-.	.	24a-J	.
-.	.	12ccJ	.
-.	8qAA-	.	.
-4rEE	4A- 4c	24ffLL	.
-.	.	24a-	.
-.	.	24f	.
-.	.	24g-J	.
-.	.	12ee-J	.
+*	*	*tuplet	*
 4AA-	12A-L	20dd-LL	.
 .	.	20b-	.
 .	12Gn	.	.
@@ -247,6 +250,7 @@
 .	.	20f-X	.
 .	12DD-J	.	.
 .	.	20ccJJ	.
+*	*	*Xtuplet	*
 =15	=15	=15	=15
 4AA-	12G-XL	20cc-XLL	.
 .	.	20a-	.
@@ -280,12 +284,12 @@
 .	8A-J	.	.
 .	.	20fn	.
 .	.	20dd-JJ	.
-4rEE	[4GG- [4D- [4d-	20bb-XLL	.
-.	.	20gg-	.
-.	.	20dd-	.
-.	.	20ccn	.
-.	.	20aanJJ	.
 *v	*v	*	*
+[4GG- [4D- [4d-	20bb-XLL	.
+.	20gg-	.
+.	20dd-	.
+.	20ccn	.
+.	20aanJJ	.
 =17	=17	=17
 4GG-] 4D-] 4d-]	20bb-LL	.
 .	20gg-	.
@@ -374,12 +378,13 @@
 =22	=22	=22
 *	*^	*
 4D- 4A- 4d-	4f 4a- 4dd- 4ff	4ddd-	.
-4r	4rc	4raa	.
-4r	4rc	4raa	.
 *	*v	*v	*
+4r	4r	.
+4r	4r	.
 ==	==	==
 *-	*-	*-
 !!!system-decoration: {(*)}
+!!!filter: flipper -a
 !!!ENC: Bryan Jacob Bell
 !!!END: November 2021 to April 2022
 !!!PED: Konstantin Igumnov and Yakov Milstein
