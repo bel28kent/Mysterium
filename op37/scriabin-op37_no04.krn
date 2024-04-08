@@ -21,12 +21,12 @@
 8E-L 8e-	8.r	.
 16r	.	.
 16E-Jk 16e-	16a-X 16cc	.
-4.C 4.c	4.f#X 4.b- 4.ee-	.
+4.C 4.c	4.f#X 4.b- 4.ee-/	.
 8DD 8D	8f# 8b-	.
 =2	=2	=2
 8BB- 8B-	8fn 8a-X 8dd	.
-40DDLLL	40DLLL	.
-40BB-	40A-X	.
+40DDLLL	40D<LLL	.
+40BB-	40A-X<	.
 40F	40d	.
 40D	40d	.
 40B-JJJ	40a-JJJ	.
@@ -34,8 +34,8 @@
 24B-	24a-	.
 24D	24d	.
 24F	24d	.
-24BB-	24A-	.
-24DDJJ	24DJJ	.
+24BB-	24A-<	.
+24DDJJ	24D<JJ	.
 8r	4r	.
 24DDLL 24D	.	.
 24EE- 24E-	.	.
@@ -48,8 +48,8 @@
 8GG 8G	8B- 8c# 8e#	.
 =4	=4	=4
 8DD 8D	8A 8d 8f#X 8a	.
-40DDLLL	40DLLL	.
-40AA	40A	.
+40DDLLL	40D<LLL	.
+40AA	40A<	.
 40F#X	40d	.
 40D	40d	.
 40AJJJ	40aJJJ	.
@@ -57,8 +57,8 @@
 24A	24a	.
 24D	24d	.
 24F#	24d	.
-24AA	24A	.
-24DDJJ	24DJJ	.
+24AA	24A<	.
+24DDJJ	24D<JJ	.
 8r	4r	.
 24CCLL 24C	.	.
 24EE- 24E-	.	.
@@ -91,8 +91,8 @@
 =8	=8	=8
 8DD 8AA	8D 8F#X 8d	.
 *	*clefG2	*
-40DDLLL	40DLLL	.
-40AA	40A	.
+40DDLLL	40D<LLL	.
+40AA	40A<	.
 40F#X	40d	.
 40D	40d	.
 40AJJJ	40aJJJ	.
@@ -100,8 +100,8 @@
 24A	24a	.
 24D	24d	.
 24F#	24d	.
-24AA	24A	.
-24DDJJ	24DJJ	.
+24AA	24A<	.
+24DDJJ	24D<JJ	.
 8r	4r	.
 24CCLL 24C	.	.
 24EE- 24E-	.	.
@@ -217,6 +217,7 @@
 ==	==	==
 *-	*-	*-
 !!!system-decoration: {(*)}
+!!!RDF**kern: < = below
 !!!ENC: Bryan Jacob Bell
 !!!END: November 2021 to April 2022
 !!!PED: Konstantin Igumnov and Yakov Milstein
