@@ -17,55 +17,58 @@
 =1	=1	=1
 *	*^	*
 *	*	*^	*
-8d-L	4g-	4b-	4ff	.
+!	! The print edition has an arrow that points from b- to d- (voice overlap)	!	!	!
+8d-L	4b-\	4g-	4ff	.
 8E-	.	.	.	.
-8FJ	8d-	8f	8b-	.
-8G-L	[4.d-	[4.e-	[4.dd-	.
+8FJ	8d-\	8f	8b-	.
+8G-L	[4.d-\	[4.e-	[4.dd-	.
 8BB-	.	.	.	.
 8EE-J	.	.	.	.
-8AAnL	4d-]	4e-]	4dd-]	.
+8AAnL	4d-\]	4e-]	4dd-]	.
 8A-X	.	.	.	.
-8G-J	8d-	8e-	8dd-	.
+8G-J	8d-\	8e-	8dd-	.
 =2	=2	=2	=2	=2
-8FL	2.d-	[2.f	[2.dd-	.
+8FL	2.d-\	[2.f	[2.dd-	.
 8BB-	.	.	.	.
 8BBB-J	.	.	.	.
 8FFL	.	.	.	.
 8D-	.	.	.	.
 8FJ	.	.	.	.
-8cL	4.r	4.f]	4.dd-]	.
+8cL	4.rA	4.f]	4.dd-]	.
 8An	.	.	.	.
 8B-J	.	.	.	.
 =3	=3	=3	=3	=3
-8d-L	4g-	4b-	4ff	.
+!	! Assumed to be voice overlap in parallel to m. 1	!	!	!
+8d-L	4b-\	4g-	4ff	.
 8E-	.	.	.	.
-8FJ	8d-	8f	8b-	.
-8G-L	[4.d-	[4.e-	[4.dd-	.
+8FJ	8d-\	8f	8b-	.
+8G-L	[4.d-\	[4.e-	[4.dd-	.
 8BB-	.	.	.	.
 8EE-J	.	.	.	.
-8BB--L	4d-]	4e-]	4dd-]	.
+8BB--L	4d-\]	4e-]	4dd-]	.
 8A-	.	.	.	.
-8G-J	8d-	8e-	8dd-	.
+8G-J	8d-\	8e-	8dd-	.
 =4	=4	=4	=4	=4
-8FL	2.d-	[2.f	[2.dd-	.
+8FL	2.d-\	[2.f	[2.dd-	.
 8AA-	.	.	.	.
 8DD-J	.	.	.	.
 8AA-L	.	.	.	.
 8D-	.	.	.	.
 8FJ	.	.	.	.
-8B-L	4.r	4.f]	4.dd-]	.
+8B-L	4.rA	4.f]	4.dd-]	.
 8Gn	.	.	.	.
 8A-J	.	.	.	.
 =5	=5	=5	=5	=5
-8c-XL	4f-X	4a-	4ff-X	.
+!	! The print edition has an arrow that points from b- to d- (voice overlap)	!	!	!
+8c-XL	4a-X\	4f-	4ff-X	.
 8D-	.	.	.	.
-8E-J	8c-X	8e-	8a-	.
-8F-XL	[4.c-	[4.d-	[4.cc-X	.
+8E-J	8c-X\	8e-	8a-	.
+8F-XL	[4.c-\	[4.d-	[4.cc-X	.
 8AA-	.	.	.	.
 8DD-J	.	.	.	.
-8AA--L	4c-]	4d-]	4cc-]	.
+8AA--L	4c-\]	4d-]	4cc-]	.
 8G-	.	.	.	.
-8F-J	8c-	8d-	8cc-	.
+8F-J	8c-\	8d-	8cc-	.
 *	*	*v	*v	*
 =6	=6	=6	=6
 8E-L	2.c-X 2.e-	[4.cc-X	.
@@ -116,41 +119,45 @@
 8FL	4.cn 4.f	4.an	.
 8Cn	.	.	.
 8FFJ	.	.	.
-8CL	4rc	4raa	.
-8An	.	.	.
-8cJ	8rc	8raa	.
-8g-L	4rc	4raa	.
-8en	.	.	.
-8fJ	8rc	8raa	.
-=11	=11	=11	=11
+*	*v	*v	*
+8CL	4r	.
+8An	.	.
+8cJ	8r	.
+8g-L	4r	.
+8en	.	.
+8fJ	8r	.
+=11	=11	=11
+*	*^	*
 *	*	*^	*
-8a-XL	4dd-	4ff	4ccc	.
+!	! Assumed to be voice overlap in parallel to m. 1	!	!	!
+8a-XL	4ff\	4dd-	4ccc	.
 8B-	.	.	.	.
-8cJ	8a-	8cc	8ff	.
-8d-L	[4.a-	[4.b-	[4.aa-	.
+8cJ	8a-\	8cc	8ff	.
+8d-L	[4.a-\	[4.b-	[4.aa-	.
 8F	.	.	.	.
 8BB-J	.	.	.	.
-8F-XL	4a-]	4b-]	4aa-]	.
+8F-XL	4a-\]	4b-]	4aa-]	.
 8e-	.	.	.	.
-8d-J	8a-	8b-	8aa-	.
+8d-J	8a-\	8b-	8aa-	.
 =12	=12	=12	=12	=12
-8cL	2.a-	[2.cc	[2.aa-	.
+8cL	2.a-\	[2.cc	[2.aa-	.
 8E-	.	.	.	.
 8AA-J	.	.	.	.
 8E-L	.	.	.	.
 8A-	.	.	.	.
 8cJ	.	.	.	.
-8fL	4.r	4.cc]	4.aa-]	.
+8fL	4.rc\	4.cc]	4.aa-]	.
 8dn	.	.	.	.
 8e-J	.	.	.	.
 =13	=13	=13	=13	=13
-8g-L	4cc-X	4ee-	4ccc-X	.
+!	! Assumed to be voice overlap in parallel to m. 1	!	!	!
+8g-L	4ee-X\	4cc-	4ccc-X	.
 8A-	.	.	.	.
-8B-J	8g-	8b-	8ee-	.
-8c-XL	[4.g-	[4.a-	[4.gg-	.
+8B-J	8g-\	8b-	8ee-	.
+8c-XL	[4.g-\	[4.a-	[4.gg-	.
 8E-	.	.	.	.
 8AA-J	.	.	.	.
-8DnL	4.g-]	4.a-]	4gg-]	.
+8DnL	4.g-\]	4.a-]	4gg-]	.
 8d-X	.	.	.	.
 8c-J	.	.	8gg-	.
 *	*	*v	*v	*
@@ -166,13 +173,14 @@
 8B-J	.	.	.
 =15	=15	=15	=15
 *	*	*^	*
-8d-L	4g-	4b-	4ff	.
+!	! Assumed to be voice overlap in parallel to m. 1	!	!	!
+8d-L	4b-\	4g-	4ff	.
 8E-	.	.	.	.
-8FJ	8d-	8f	8b-	.
-8G-L	4.d-	4.e-	[4.dd-	.
+8FJ	8d-\	8f	8b-	.
+8G-L	4.d-\	4.e-	[4.dd-	.
 8BB-	.	.	.	.
 8EE-J	.	.	.	.
-8BB-L	4.d-	4.b-	4.dd-]	.
+8BB-L	4.d-\	4.b-	4.dd-]	.
 8A-	.	.	.	.
 8G-J	.	.	.	.
 *	*	*v	*v	*
@@ -187,7 +195,7 @@
 8B-	.	.	.
 8G-J	.	.	.
 =17	=17	=17	=17
-8B-L	4.g- 4.b-	40%3dd-L	.
+8B-/L	4.g- 4.b-	40%3dd-L	.
 .	.	40%3ee-	.
 8D-	.	.	.
 .	.	40%3dd-	.
@@ -224,21 +232,23 @@
 8E-L	4.e- 4.g-	[4.cc-X	.
 8c-X	.	.	.
 8G-J	.	.	.
-8g-L	4.rc	4.cc-]	.
+8g-L	4.r	4.cc-]	.
 8c-	.	.	.
 8e-J	.	.	.
-[4.cc-X	4.rc	4.raa	.
-=21	=21	=21	=21
-2.cc-]	4.r	8%9ryy	.
-.	4.r	.	.
-4.r	8gg-L	.	.
-.	8ee-	.	.
-.	8b-J	.	.
-=22	=22	=22	=22
-*^	*	*	*
-[2.F	[2.e-	8anL	4.raa	.
-.	.	8a-X	.	.
-.	.	[8anJ	.	.
+*	*v	*v	*
+[4.cc-X	4.r	.
+=21	=21	=21
+2.cc-]	4.r	.
+.	4.r	.
+4.r	8gg-L	.
+.	8ee-	.
+.	8b-J	.
+=22	=22	=22
+*^	*	*
+[2.F	[2.e-	8anL	.
+.	.	8a-X	.
+.	.	[8anJ	.
+*	*	*^	*
 .	.	2.a]	8gg-	.
 .	.	.	[4dd-	.
 4.F]	4.e-]	.	4dd-]	.
@@ -260,8 +270,11 @@
 =25	=25	=25	=25	=25
 [2.E-	[2.c-X	[2.g-	2.ff	.
 4.E-]	4.c-]	4.g-]	4.ee-	.
-=26	=26	=26	=26	=26
-2.rEE	2.rc	2.rc	2.raa	.
+*	*	*v	*v	*
+*v	*v	*	*
+=26	=26	=26
+2.r	2.r	.
+*^	*^	*
 4.D-	4.B-	4.f	4.ff	.
 =27	=27	=27	=27	=27
 2.E-	2.c-X	2.g-	[4.ff	.
@@ -292,6 +305,7 @@
 ==	==	==
 *-	*-	*-
 !!!system-decoration: {(*)}
+!!!filter: flipper -a
 !!!ENC: Bryan Jacob Bell
 !!!END: November 2021 to April 2022
 !!!PED: Konstantin Igumnov and Yakov Milstein
