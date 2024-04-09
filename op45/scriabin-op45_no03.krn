@@ -16,7 +16,7 @@
 *M3/4	*M3/4	*
 =1	=1	=1
 *^	*^	*
-4F-X	4rc	4d 4a-	12ccL	.
+4F-X	4r	4d 4a-	12ccL	.
 .	.	.	12.an	.
 .	.	.	24b-Jk	.
 4E-	4An	4d-X 4g	8dd-XL	.
@@ -27,43 +27,49 @@
 12CJ	.	.	.	.
 =2	=2	=2	=2	=2
 4C-X	4An	4G 4e-	4g	.
-16rEE	4rc	4rc	32AnLLL	.
-.	.	.	32g	.
-16ALL	.	.	32e-	.
-.	.	.	32g	.
-16e-	.	.	32an	.
-.	.	.	32gg	.
-16gJJ	.	.	32ee-	.
-.	.	.	32ggJJJ	.
-*clefG2	*	*	*	*
-8ee-	4raa	4rc	8eee- 8ggg	.
-8rc	.	.	8raa	.
-*clefF4	*	*	*	*
-=3	=3	=3	=3	=3
-4C-X	4rc	4An 4e-	12gL	.
+*	*	*v	*v	*
+*v	*v	*	*
+16r	32AnLLL	.
+.	32g	.
+16ALL	32e-	.
+.	32g	.
+16e-	32an	.
+.	32gg	.
+16gJJ	32ee-	.
+.	32ggJJJ	.
+*clefG2	*	*
+8ee-	8eee- 8ggg	.
+8r	8r	.
+*clefF4	*	*
+=3	=3	=3
+*^	*^	*
+4C-X	4r	4An 4e-	12gL	.
 .	.	.	12.en	.
 .	.	.	24fJk	.
 4BB-	4En	4A-X 4d	8a-XL	.
 .	.	.	8gJ	.
-*	*	*clefF4	*	*
+*	*	*clefF4	*clefF4	*
 12AAnL	4F	4D	8AnL	.
 12AA-X	.	.	.	.
 .	.	.	8B-J	.
 12GGJ	.	.	.	.
 =4	=4	=4	=4	=4
 4GG-X	4En	4B-	4d	.
-16rEE	4rc	4rEE	32EnLLL	.
-.	.	.	32d	.
-16ELL	.	.	32B-	.
-.	.	.	32d	.
-*	*	*clefG2	*	*
-16B-	.	.	32en	.
-.	.	.	32dd	.
-16dJJ	.	.	32b-	.
-.	.	.	32ddJJJ	.
-8b-	4rc	4rc	8bb- 8ddd	.
-8rEE	.	.	8raa	.
-=5	=5	=5	=5	=5
+*	*	*v	*v	*
+*v	*v	*	*
+16r	32EnLLL	.
+.	32d	.
+16ELL	32B-	.
+.	32d	.
+*	*clefG2	*
+16B-	32en	.
+.	32dd	.
+16dJJ	32b-	.
+.	32ddJJJ	.
+8b-	8bb- 8ddd	.
+8r	8r	.
+=5	=5	=5
+*^	*^	*
 2.GG-X	2.F-X	2.B-	12g-XL	.
 .	.	.	12dn	.
 .	.	.	12e-J	.
@@ -77,24 +83,26 @@
 .	.	.	16e-JJ	.
 .	2E-	4.c-X	8a--	.
 .	.	.	4g-X	.
-.	.	8rc	8B-	.
+.	.	8r	8B-	.
 =7	=7	=7	=7	=7
+2.FF	2.E-	2.A	12AnL	.
+.	.	.	12gn	.
+.	.	.	12dJ	.
 *	*	*	*^	*
-2.FF	2.E-	2.A/	4rc	12AnL	.
-.	.	.	.	12gn	.
-.	.	.	.	12dJ	.
-.	.	.	2cn	4.c#X	.
+.	.	.	2c#X	4.c#X	.
 .	.	.	.	8g	.
 *	*	*	*v	*v	*
 =8	=8	=8	=8	=8
 4BBB- 4FF	4E-	4An 4c#X	8gL	.
 .	.	.	8g-XJ	.
-4rEE	8D	8B- 8d	8f	.
-.	8G	4d 4a-X	4ccn	.
-4rEE	8G-XL	.	.	.
-.	8FJ	8d 8a-	8cc	.
-=9	=9	=9	=9	=9
-4F-X	4rc	4d 4a-	12ccL	.
+*v	*v	*	*	*
+8D/	8B- 8d	8f	.
+8G	4d 4a-X	4ccn	.
+8G-XL	.	.	.
+8FJ	8d 8a-	8cc	.
+=9	=9	=9	=9
+*^	*	*	*
+4F-X	4r	4d 4a-	12ccL	.
 .	.	.	12.an	.
 .	.	.	24b-Jk	.
 4E-	4An	4d-X 4g	8dd-XL	.
@@ -105,43 +113,49 @@
 12CJ	.	.	.	.
 =10	=10	=10	=10	=10
 4C-X	4An	4G 4e-	4g	.
-16rEE	4rc	4rc	32AnLLL	.
-.	.	.	32g	.
-16ALL	.	.	32e-	.
-.	.	.	32g	.
-16e-	.	.	32an	.
-.	.	.	32gg	.
-16gJJ	.	.	32ee-	.
-.	.	.	32ggJJJ	.
-*clefG2	*	*	*	*
-8ee-	4raa	4rc	8eee- 8ggg	.
-8rc	.	.	8raa	.
-*clefF4	*	*	*	*
-=11	=11	=11	=11	=11
-4C-X	4rc	4An 4e-	12gL	.
+*	*	*v	*v	*
+*v	*v	*	*
+16r	32AnLLL	.
+.	32g	.
+16ALL	32e-	.
+.	32g	.
+16e-	32an	.
+.	32gg	.
+16gJJ	32ee-	.
+.	32ggJJJ	.
+*clefG2	*	*
+8ee-	8eee- 8ggg	.
+8r	8r	.
+*clefF4	*	*
+=11	=11	=11
+*^	*^	*
+4C-X	4r	4An 4e-	12gL	.
 .	.	.	12.en	.
 .	.	.	24fJk	.
 4BB-	4En	4A-X 4d	8a-XL	.
 .	.	.	8gJ	.
-*	*	*clefF4	*	*
+*	*	*clefF4	*clefF4	*
 12AAnL	4F	4D	8AnL	.
 12AA-X	.	.	.	.
 .	.	.	8B-J	.
 12GGJ	.	.	.	.
 =12	=12	=12	=12	=12
 4GG-X	4En	4B-	4d	.
-16rEE	4rc	4rEE	32EnLLL	.
-.	.	.	32d	.
-16ELL	.	.	32B-	.
-.	.	.	32d	.
-*	*	*clefG2	*	*
-16B-	.	.	32en	.
-.	.	.	32dd	.
-16dJJ	.	.	32b-	.
-.	.	.	32ddJJJ	.
-8a-	4rc	4rc	8bb- 8ddd	.
-8rEE	.	.	8raa	.
-=13	=13	=13	=13	=13
+*	*	*v	*v	*
+*v	*v	*	*
+16r	32EnLLL	.
+.	32d	.
+16ELL	32B-	.
+.	32d	.
+*	*clefG2	*
+16B-	32en	.
+.	32dd	.
+16dJJ	32b-	.
+.	32ddJJJ	.
+8a-	8bb- 8ddd	.
+8r	8r	.
+=13	=13	=13
+*^	*^	*
 2.C-X	2.B--	2.e-	12e-L	.
 .	.	.	12g	.
 .	.	.	12a-J	.
@@ -155,7 +169,7 @@
 .	.	.	16a-JJ	.
 .	2A-	4.f-X	8dd--	.
 .	.	.	4cc-X	.
-.	.	8rc	8e-	.
+.	.	8r	8e-	.
 =15	=15	=15	=15	=15
 2.BB-	2.A-	2.dn	12dL	.
 .	.	.	12ccn	.
@@ -165,20 +179,21 @@
 *v	*v	*	*	*
 =16	=16	=16	=16
 4EE- 4BB- 4G	4e- 4g	4b-	.
-16r	4rc	32B-LLL	.
-.	.	32g	.
-16B-LL	.	32e-	.
-.	.	32g	.
-16e-	.	32b-	.
-.	.	32gg	.
-16gJJ	.	32ee-	.
-.	.	32ggJJJ	.
-*clefG2	*	*	*
-8ee-L	4rc	8eee- 8ggg	.
-*clefF4	*	*	*
-8D-XJ	.	8raa	.
-=17	=17	=17	=17
-*^	*	*	*
+*	*v	*v	*
+16r	32B-LLL	.
+.	32g	.
+16B-LL	32e-	.
+.	32g	.
+16e-	32b-	.
+.	32gg	.
+16gJJ	32ee-	.
+.	32ggJJJ	.
+*clefG2	*	*
+8ee-L	8eee- 8ggg	.
+*clefF4	*	*
+8D-XJ	8r	.
+=17	=17	=17
+*^	*^	*
 2.C-X	2.B--	2.e-	12e-L	.
 .	.	.	12g	.
 .	.	.	12a-J	.
@@ -192,7 +207,7 @@
 .	.	.	16a-JJ	.
 .	2A-	4.f-X	8dd--	.
 .	.	.	4cc-X	.
-.	.	8rc	8e-	.
+.	.	8r	8e-	.
 =19	=19	=19	=19	=19
 2.BB-	2.A-	2.dn	12dL	.
 .	.	.	12ccn	.
@@ -210,6 +225,7 @@
 ==	==	==
 *-	*-	*-
 !!!system-decoration: {(*)}
+!!!filter: flipper -a
 !!!ENC: Bryan Jacob Bell
 !!!END: November 2021 to April 2022
 !!!PED: Günter Philipp
