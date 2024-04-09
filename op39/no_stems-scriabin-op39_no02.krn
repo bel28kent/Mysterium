@@ -111,22 +111,20 @@
 .	4E-X	.	8.a-XL	.
 .	.	.	16gJk	.
 =23	=23	=23	=23	=23
-*	*	*	*^	*
-4.AA-X	2D	2cn	4g	2ryy	.
-.	.	.	[4f#X	.	.
-8AAn	.	.	.	.	.
-=24	=24	=24	=24	=24	=24
-2BB-X	8DL	4d	8.f#L]	4raa	.
-.	8B-XJ	.	.	.	.
-.	.	.	[16fnJk	.	.
-.	8AL	4r	4f]	8.ccnL	.
-.	8A-XJ	.	.	.	.
-.	.	.	.	16b-XJk	.
-*	*	*	*v	*v	*
+4.AA-X	2D	2cn	4g	.
+.	.	.	[4f#X	.
+8AAn	.	.	.	.
+=24	=24	=24	=24	=24
+2BB-X	8DL	4d	8.f#L]	.
+.	8B-XJ	.	.	.
+.	.	.	[16fnJk	.
+.	8AL	4f]	8.ccnL	.
+.	8A-XJ	.	.	.
+.	.	.	16b-XJk	.
 =25	=25	=25	=25	=25
 [4EE-X [4BB-X	4A-X	4d 4f#X	[2b-X	.
 8EE-] 8BB-]	8G	8e-X 8g	.	.
-8rEE	8rc	8rc	.	.
+8r	8r	8r	.	.
 *v	*v	*	*	*
 *	*v	*v	*
 =26	=26	=26
@@ -137,7 +135,7 @@
 =27	=27	=27
 *	*^	*
 *	*	*^	*
-2AAA 2AA	2G	4B	8Bn	.
+2AAA 2AA	2G\	4B	8Bn	.
 .	.	.	4f#	.
 .	.	4c#	.	.
 .	.	.	8e	.
@@ -149,6 +147,7 @@
 ==	==	==
 *-	*-	*-
 !!!system-decoration: {(*)}
+!!!filter: flipper -a
 !!!ENC: Bryan Jacob Bell
 !!!END: November 2021 to April 2022
 !!!PED: Konstantin Igumnov and Yakov Milstein
