@@ -23,21 +23,21 @@
 4C#X	4A	[4e	8dd#XL	.
 .	.	.	8ccnJ	.
 =2	=2	=2	=2	=2
+4F#X	4A#X	8eL]	4an	.
+.	.	8d#XJ	.	.
 *	*	*	*^	*
-4F#X	4A#X	4ryy	8eL]	4an	.
-.	.	.	8d#XJ	.	.
 8FnL	8BL	8ryy	8dnL	8g-XL	.
 8DnJ	8G#XJ	[8a\	8fnJ	8aJ	.
 4C#X	4A#	4a\]	8eL	8dd#XL	.
 .	.	.	8g#XJ	8ccnJ	.
 =3	=3	=3	=3	=3	=3
-2F#X	4A#X	12gn\L	4d#X	4ee	.
-.	.	12b#X\	.	.	.
-.	.	12bn\J	.	.	.
-.	4dn	4a#X\	4dn	4gg	.
-4E#X	4c#X	4an\	4rc	8gg#XL	.
-.	.	.	.	8ffnJ	.
+2F#X	4A#X	4d#X\	12gnL	4ee	.
+.	.	.	12b#X	.	.
+.	.	.	12bnJ	.	.
+.	4dn	4dn\	4a#X	4gg	.
 *	*	*	*v	*v	*
+4E#X	4c#X	4an	8gg#XL	.
+.	.	.	8ffnJ	.
 =4	=4	=4	=4	=4
 6En	6cn	8g#XL	2aa	.
 .	.	8gnJ	.	.
@@ -54,28 +54,28 @@
 4C#X	4A	[4e	8dd#XL	.
 .	.	.	8ccnJ	.
 =6	=6	=6	=6	=6
+4F#X	4A#X	8eL]	4an	.
+.	.	8d#XJ	.	.
 *	*	*	*^	*
-4F#X	4A#X	4ryy	8eL]	4an	.
-.	.	.	8d#XJ	.	.
 8FnL	8BL	8ryy	8dnL	8g-XL	.
 8DnJ	8G#XJ	[8a\	8fnJ	8aJ	.
 4C#X	4A#	8.a\L]	4e	8dd#XL	.
 .	.	.	.	8ccnJ	.
-.	.	16g#X\Jk	.	.	.
+.	.	16g#XJk	.	.	.
 =7	=7	=7	=7	=7	=7
-2F#X	4A#X	12gn\L	4d#X	4ee	.
-.	.	12b#X\	.	.	.
-.	.	12bn\J	.	.	.
-.	4dn	8a#X\L	4dn	4gg	.
-.	.	8an\J	.	.	.
-4Fn	4d-X	8r	4a-X	8ggL	.
+2F#X	4A#X	4d#X\	12gnL	4ee	.
+.	.	.	12b#X	.	.
+.	.	.	12bnJ	.	.
+.	4dn	4dn\	8a#XL	4gg	.
+.	.	.	8anJ	.	.
+4Fn	4d-X	8rdd	4a-X	8ggL	.
 .	.	8cc\	.	8ff-XJ	.
 =8	=8	=8	=8	=8	=8
-2B-X	4dn	12cc-X\L	4g	4aa-X	.
-.	.	12ee\	.	.	.
-.	.	12ee-X\J	.	.	.
-.	4g-X	4dd\	4g-X	4ccc-X	.
-4A	4f	4dd-X\	4rc	8cccnL	.
+2B-X	4dn	4g\	12cc-XL	4aa-X	.
+.	.	.	12ee	.	.
+.	.	.	12ee-XJ	.	.
+.	4g-X	4g-X\	4dd	4ccc-X	.
+4A	4f	4rd	4dd-X	8cccnL	.
 .	.	.	.	8aanJ	.
 *	*	*	*v	*v	*
 =9	=9	=9	=9	=9
@@ -85,15 +85,15 @@
 .	.	8b-XL	.	.
 6G-X	6e--	.	.	.
 .	.	8b--J	.	.
-4F	4d-X	4a-X	8ggL	.
-.	.	.	8ccnJ 8ff-X	.
-=10	=10	=10	=10	=10
 *	*	*	*^	*
-2B-X	4dn	12cc-X\L	4gn	4aa-X	.
-.	.	12ee\	.	.	.
-.	.	12ee-X\J	.	.	.
-.	4g-X	4dd\	4g-X	4ccc-X	.
-4A	4f	4dd-X\	4rc	8cccnL	.
+4F	4d-X	4a-X\	8rdd	8ggL	.
+.	.	.	8ccn	8ff-XJ	.
+=10	=10	=10	=10	=10	=10
+2B-X	4dn	4gn\	12cc-XL	4aa-X	.
+.	.	.	12ee	.	.
+.	.	.	12ee-XJ	.	.
+.	4g-X	4g-X\	4dd	4ccc-X	.
+4A	4f	4rd	4dd-X	8cccnL	.
 .	.	.	.	8aanJ	.
 *	*	*	*v	*v	*
 =11	=11	=11	=11	=11
@@ -169,6 +169,7 @@
 ==	==	==
 *-	*-	*-
 !!!system-decoration: {(*)}
+!!!filter: flipper -a
 !!!ENC: Bryan Jacob Bell
 !!!END: November 2021 to April 2022
 !!!PED: Günter Philipp
