@@ -50,45 +50,47 @@
 8GJ	.	.	.
 8BL	.	.	.
 8d	.	.	.
-8.e-X	4ryy	4cc 4ff#X 4bb 4fff#X	.
-16e-Jk	.	.	.
-8gL	1ryy	2.b 2.dd 2.gg 2.ddd	.
-8GG	.	.	.
-8D	.	.	.
-8BJ	.	.	.
-12e-L	.	.	.
-12c#X	.	.	.
-12dJ	.	.	.
-8.e-L	.	4cc 4ff# 4bb 4fff#	.
-16e-Jk	.	.	.
-=3	=3	=3	=3
-8gL	2ryy	2b 2dd 2gg 2ddd	.
-8GG	.	.	.
-8D	.	.	.
-8BJ	.	.	.
-12e-XL	4rc	4raa	.
-12c#X	.	.	.
-12dJ	.	.	.
-8.gL	4rc	4raa	.
-16gJk	.	.	.
-8gL	1a 1cc	1een	.
-8f	.	.	.
-8en	.	.	.
-8gJ	.	.	.
-8fL	.	.	.
-8G	.	.	.
-8f	.	.	.
-8eJ	.	.	.
-=4	=4	=4	=4
-8e-XL	1a-X 1cc	1ff	.
-8d-X	.	.	.
-8c	.	.	.
-8e-J	.	.	.
-8d-L	.	.	.
-8E-XJ	.	.	.
-12d-L	.	.	.
-12.c	.	.	.
-24B-XJk	.	.	.
+*	*v	*v	*
+8.e-X	4cc 4ff#X 4bb 4fff#X	.
+16e-Jk	.	.
+8gL	2.b 2.dd 2.gg 2.ddd	.
+8GG	.	.
+8D	.	.
+8BJ	.	.
+12e-L	.	.
+12c#X	.	.
+12dJ	.	.
+8.e-L	4cc 4ff# 4bb 4fff#	.
+16e-Jk	.	.
+=3	=3	=3
+8gL	2b 2dd 2gg 2ddd	.
+8GG	.	.
+8D	.	.
+8BJ	.	.
+12e-XL	4r	.
+12c#X	.	.
+12dJ	.	.
+8.gL	4r	.
+16gJk	.	.
+8gL	1a 1cc 1een	.
+8f	.	.
+8en	.	.
+8gJ	.	.
+8fL	.	.
+8G	.	.
+8f	.	.
+8eJ	.	.
+=4	=4	=4
+8e-XL	1a-X 1cc 1ff	.
+8d-X	.	.
+8c	.	.
+8e-J	.	.
+8d-L	.	.
+8E-XJ	.	.
+12d-L	.	.
+12.c	.	.
+24B-XJk	.	.
+*	*^	*
 8A-XL	1d-X 1g-X 1b-X	2ff	.
 8G-X	.	.	.
 8F	.	.	.
@@ -116,22 +118,22 @@
 8.G-	.	.	.
 16G-Jk	.	.	.
 =6	=6	=6	=6
+8BL	1c 1f#X	2.ee	.
+8A	.	.	.
+8G#X	.	.	.
+8BJ	.	.	.
+8AL	.	.	.
+8D	.	.	.
+8.A	.	4ee	.
+16AJk	.	.	.
 *	*	*^	*
-8BL	1c	1f#X	2.ee	.
-8A	.	.	.	.
-8G#X	.	.	.	.
-8BJ	.	.	.	.
-8AL	.	.	.	.
-8D	.	.	.	.
-8.A	.	.	4ee	.
-16AJk	.	.	.	.
-8AL	2.c	1fn	2.ee	.
+8AL	2.c\	1fn	2.ee	.
 8Gn	.	.	.	.
 8F#X	.	.	.	.
 8AJ	.	.	.	.
 8GL	.	.	.	.
 8GG	.	.	.	.
-8.G	4B	.	4dd#X	.
+8.G	4B\	.	4dd#X	.
 16GJk	.	.	.	.
 *	*	*v	*v	*
 =7	=7	=7	=7
@@ -141,25 +143,26 @@
 8CJ	.	.	.
 8EL	.	.	.
 8G	.	.	.
-8.A-X	4ryy	4f 4b 4ee 4bb	.
-16A-Jk	.	.	.
-8cL	1ryy	2.e 2.g 2.cc 2.gg	.
-8CC	.	.	.
-8GG	.	.	.
-8EJ	.	.	.
-12A-L	.	.	.
-12F#X	.	.	.
-12GJ	.	.	.
-8.A-L	.	8f 8b 8ee 8bb	.
-.	.	8raa	.
-32A-Jkk	.	.	.
-32r	.	.	.
 *	*v	*v	*
+8.A-X	4f 4b 4ee 4bb	.
+16A-Jk	.	.
+8cL	2.e 2.g 2.cc 2.gg	.
+8CC	.	.
+8GG	.	.
+8EJ	.	.
+12A-L	.	.
+12F#X	.	.
+12GJ	.	.
+8.A-L	8f 8b 8ee 8bb	.
+.	8r	.
+32A-Jkk	.	.
+32r	.	.
 =8	=8	=8
 0CC 0GG 0E 0c	0e 0g 0cc 0gg	.
 ==	==	==
 *-	*-	*-
 !!!system-decoration: {(*)}
+!!!filter: flipper -a
 !!!ENC: Bryan Jacob Bell
 !!!END: November 2021 to April 2022
 !!!PED: Günter Philipp
