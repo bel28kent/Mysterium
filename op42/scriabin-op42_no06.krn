@@ -60,6 +60,7 @@
 .	20E	.	.
 12EE-J	.	.	.
 .	20FJJ	.	.
+!!LO:LB:g=original
 =3	=3	=3	=3
 12G-L	20b-LL	10b-L	.
 .	20c	.	.
@@ -105,6 +106,7 @@
 .	20G	.	.
 12EEJ	.	.	.
 .	20A-XJJ	.	.
+!!LO:LB:g=original
 =5	=5	=5	=5
 12A-L	20ccLL	4cc	.
 .	20dn 20gn	.	.
@@ -150,8 +152,9 @@
 .	20An	.	.
 12GGnJ	.	.	.
 .	20B-XJJ	.	.
+!!LO:LB:g=original
 =7	=7	=7	=7
-12B-L	20dd-LL	4dd-	.
+12B-/L	20dd-LL	4dd-	.
 .	20d- 20a-	.	.
 12E-	.	.	.
 .	20g-X	.	.
@@ -173,7 +176,7 @@
 12AA-XJ	.	.	.
 .	20B-JJ	.	.
 =8	=8	=8	=8
-12G-L	20b-LL	[4b-	.
+12G-/L	20b-LL	[4b-	.
 .	20c 20f	.	.
 12AA-	.	.	.
 .	20e-	.	.
@@ -187,7 +190,7 @@
 .	20F	.	.
 12AA-J	.	.	.
 .	20G-JJ	.	.
-12G-L	20a-LL	8..a-L	.
+12G-/L	20a-LL	8..a-L	.
 .	20c 20f	.	.
 12AA-J	.	.	.
 .	20e-	.	.
@@ -218,6 +221,7 @@
 12EE-J	.	.	.
 .	20G-JJ	.	.
 .	.	32b-Jkk	.
+!!LO:LB:g=original
 =10	=10	=10	=10
 12FL	20b-LL	4b-	.
 .	20Bn 20e-	.	.
@@ -285,6 +289,7 @@
 .	20G	.	.
 12EEJ	.	.	.
 .	20A-XJJ	.	.
+!!LO:LB:g=original
 =13	=13	=13	=13
 12A-L	20ccLL	4cc	.
 .	20dn 20gn	.	.
@@ -330,8 +335,9 @@
 .	20An	.	.
 12GGnJ	.	.	.
 .	20B-XJJ	.	.
+!!LO:LB:g=original
 =15	=15	=15	=15
-12B-L	20dd-LL	4dd-	.
+12B-/L	20dd-LL	4dd-	.
 .	20d- 20a-	.	.
 12E-	.	.	.
 .	20g-	.	.
@@ -354,7 +360,7 @@
 .	20A-XJJ	.	.
 .	.	32ee-Jkk	.
 =16	=16	=16	=16
-12A-L	20ee-LL	4ee-	.
+12A-/L	20ee-LL	4ee-	.
 .	20c 20g-	.	.
 12F	.	.	.
 .	20f	.	.
@@ -368,7 +374,7 @@
 .	20G	.	.
 12FJ	.	.	.
 .	20A-JJ	.	.
-12A-L	20a-LL	4a-	.
+12A-/L	20a-LL	4a-	.
 .	20d- 20g-	.	.
 12F	.	.	.
 .	20f	.	.
@@ -376,6 +382,8 @@
 12AA-J	.	.	.
 .	20d-JJ	.	.
 *	*v	*v	*
+*kcancel	*kcancel	*
+!!LO:LB:g=original
 =17||	=17||	=17||
 *k[f#c#g#d#]	*k[f#c#g#d#]	*
 *	*^	*
@@ -445,6 +453,7 @@
 .	20An	.	.
 12FF#J	.	.	.
 .	20A#XJJ	.	.
+!!LO:LB:g=original
 =20	=20	=20	=20
 12A#XL	20cc#LL	4cc#	.
 .	20d# 20g#X	.	.
@@ -460,7 +469,7 @@
 .	20A#	.	.
 12D#J	.	.	.
 .	20BJJ	.	.
-12BL	20f#LL	4f#	.
+12B/L	20f#LL	4f#	.
 .	20d#	.	.
 12D#	.	.	.
 .	20B	.	.
@@ -512,6 +521,7 @@
 .	20G#	.	.
 12FF#J	.	.	.
 .	20AJJ	.	.
+!!LO:LB:g=original
 =23	=23	=23	=23
 12G#L	20cc#LL	[4cc#	.
 .	20dn 20g#	.	.
@@ -557,6 +567,8 @@
 12EEJ	.	.	.
 .	20G#XJJ	.	.
 *	*v	*v	*
+*kcancel	*kcancel	*
+!!LO:LB:g=original
 =25||	=25||	=25||
 *k[b-e-a-d-g-]	*k[b-e-a-d-g-]	*
 *	*^	*
@@ -583,7 +595,7 @@
 .	20GnJJ	.	.
 .	.	32gJkk	.
 =26	=26	=26	=26
-12GnL	20ccLL	4cc	.
+12Gn/L	20ccLL	4cc	.
 .	20d- 20gn	.	.
 12AA-	.	.	.
 .	20f	.	.
@@ -597,15 +609,16 @@
 .	20G-X	.	.
 12AA-J	.	.	.
 .	20GnJJ	.	.
-12GL	20b--LL	4b--	.
+12G/L	20b--LL	4b--	.
 .	20d- 20g	.	.
 12AA-	.	.	.
 .	20f	.	.
 .	20G-X	.	.
 12AA-J	.	.	.
 .	20GnJJ	.	.
+!!LO:LB:g=original
 =27	=27	=27	=27
-12G-XL	20a-LL	4a-	.
+12G-X/L	20a-LL	4a-	.
 .	20c 20g-X	.	.
 12AA-	.	.	.
 .	20f	.	.
@@ -619,7 +632,7 @@
 .	20F	.	.
 12AA-J	.	.	.
 .	20G-JJ	.	.
-12G-L	20e-LL	4e-	.
+12G-/L	20e-LL	4e-	.
 .	20c	.	.
 12AA-	.	.	.
 .	20G-	.	.
@@ -627,7 +640,7 @@
 12AA-J	.	.	.
 .	20G-JJ	.	.
 =28	=28	=28	=28
-12G-L	20e-LL	4e-	.
+12G-/L	20e-LL	4e-	.
 .	20B-	.	.
 12BB-	.	.	.
 .	20G-	.	.
@@ -671,8 +684,9 @@
 12EE-J	.	.	.
 .	20GnJJ	.	.
 .	.	32gJkk	.
+!!LO:LB:g=original
 =30	=30	=30	=30
-12GnL	20ccLL	4cc	.
+12Gn/L	20ccLL	4cc	.
 .	20d- 20gn	.	.
 12AA-	.	.	.
 .	20f	.	.
@@ -686,7 +700,7 @@
 .	20G-X	.	.
 12AA-J	.	.	.
 .	20GnJJ	.	.
-12GL	20b--LL	4b--	.
+12G/L	20b--LL	4b--	.
 .	20d- 20g	.	.
 12AA-	.	.	.
 .	20f	.	.
@@ -694,7 +708,7 @@
 12AA-J	.	.	.
 .	20GnJJ	.	.
 =31	=31	=31	=31
-12G-XL	20a-LL	4a-	.
+12G-X/L	20a-LL	4a-	.
 .	20c 20g-X	.	.
 12AA-	.	.	.
 .	20f	.	.
@@ -708,7 +722,7 @@
 .	20F	.	.
 12AA-J	.	.	.
 .	20G-JJ	.	.
-12G-L	20e-LL	4e-	.
+12G-/L	20e-LL	4e-	.
 .	20c	.	.
 12AA-	.	.	.
 .	20G-	.	.
@@ -737,6 +751,7 @@
 .	20f	.	.
 12FJ	.	.	.
 .	20a-JJ	.	.
+!!LO:LB:g=original
 =33	=33	=33	=33
 16c-XLL	20ee-LL	4ee-	.
 .	20f 20b-	.	.
@@ -788,6 +803,7 @@
 .	20A	.	.
 16EJJ	.	.	.
 .	20B-JJ	.	.
+!!LO:LB:g=original
 =35	=35	=35	=35
 16c-XLL	20ee-LL	10ee-L	.
 .	20f	.	.
@@ -839,6 +855,7 @@
 .	20A	.	.
 16EJJ	.	.	.
 .	20B-JJ	.	.
+!!LO:LB:g=original
 =37	=37	=37	=37
 16B--LL	20dd-LL	10dd-L	.
 .	20e-	.	.
@@ -890,6 +907,7 @@
 .	20A-	.	.
 16CJJ	.	.	.
 .	20B--JJ	.	.
+!!LO:LB:g=original
 =39	=39	=39	=39
 16A-LL	20fnLL	[4f	.
 .	20A- 20e-X	.	.
@@ -940,6 +958,7 @@
 .	20c	.	.
 16A-JJ	.	.	.
 .	20d-JJ	.	.
+!!LO:LB:g=original
 =41	=41	=41	=41
 16B--LL	20dd-LL	10dd-L	.
 .	20e-	.	.
@@ -991,6 +1010,7 @@
 .	20A-	.	.
 16CJJ	.	.	.
 .	20B--JJ	.	.
+!!LO:LB:g=original
 =43	=43	=43	=43
 16A-LL	20fnLL	4f	.
 .	20A- 20e-X	.	.
@@ -1041,6 +1061,7 @@
 .	20F	.	.
 16D-JJ	.	.	.
 .	20GJJ	.	.
+!!LO:LB:g=original
 =45	=45	=45	=45
 16A-LL	20fLL	4f	.
 .	20A- 20e-	.	.
@@ -1101,6 +1122,7 @@
 ==	==	==
 *-	*-	*-
 !!!system-decoration: {(*)}
+!!!filter: flipper -a
 !!!ENC: Bryan Jacob Bell
 !!!END: November 2021 to April 2022
 !!!PED: Konstantin Igumnov and Yakov Milstein
