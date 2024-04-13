@@ -66,6 +66,7 @@
 16FF	.	.
 .	12ccJ	.
 16CJJ	.	.
+!!LO:LB:g=original
 =5	=5	=5
 16A-LL	12a-L 12ff	.
 16C	.	.
@@ -80,7 +81,7 @@
 .	12a-J 12cc	.
 16CJJ	.	.
 =6	=6	=6
-16A-LL	12fL 12dd-	.
+16A-/LL	12fL 12dd-	.
 16D-	.	.
 .	12A-	.
 16BB-	.	.
@@ -106,7 +107,7 @@
 .	12GJ	.
 16E-JJ	.	.
 =8	=8	=8
-16A-LL	12cL 12a-	.
+16A-/LL	12cL 12a-	.
 16E-	.	.
 .	12e-	.
 16AA-	.	.
@@ -119,7 +120,7 @@
 .	12ee-J	.
 16E-JJ	.	.
 =9	=9	=9
-16cLL	12ccL 12aa-	.
+16c/LL	12ccL 12aa-	.
 16E-	.	.
 .	12e-	.
 16AA-	.	.
@@ -131,8 +132,9 @@
 16AA-	.	.
 .	12ccJ 12ee-	.
 16E-JJ	.	.
+!!LO:LB:g=original
 =10	=10	=10
-16cLL	12a-L 12ff	.
+16c/LL	12a-L 12ff	.
 16Dn	.	.
 .	12c	.
 16AA-	.	.
@@ -145,7 +147,7 @@
 .	12a-J 12cc	.
 16DJJ	.	.
 =11	=11	=11
-16BnLL	12gL 12ee-	.
+16Bn/LL	12gL 12ee-	.
 16F	.	.
 .	12Bn	.
 16GG	.	.
@@ -158,7 +160,7 @@
 .	12BJ	.
 16FJJ	.	.
 =12	=12	=12
-16cLL	12enL 12cc	.
+16c/LL	12enL 12cc	.
 16En	.	.
 .	12c	.
 16C	.	.
@@ -171,7 +173,7 @@
 .	12ccJ	.
 16EJJ	.	.
 =13	=13	=13
-16BnLL	12gL 12ee-X	.
+16Bn/LL	12gL 12ee-X	.
 16F	.	.
 .	12Bn	.
 16GG	.	.
@@ -183,6 +185,7 @@
 16GG	.	.
 .	12BJ	.
 16FJJ	.	.
+!!LO:LB:g=original
 =14	=14	=14
 16cLL	12enL 12cc	.
 16En	.	.
@@ -239,6 +242,7 @@
 16FF	.	.
 .	12a-J 12cc	.
 16CJJ	.	.
+!!LO:LB:g=original
 =18	=18	=18
 16A-LL	12fL 12dd-	.
 16BB-	.	.
@@ -292,7 +296,7 @@
 .	12a-J 12cc	.
 16CJJ	.	.
 =22	=22	=22
-16A-LL	12fL 12dd-	.
+16A-/LL	12fL 12dd-	.
 16D-	.	.
 .	12A-	.
 16BB-	.	.
@@ -304,6 +308,7 @@
 16BB-	.	.
 .	12fJ 12a-	.
 16A-JJ	.	.
+!!LO:LB:g=original
 =23	=23	=23
 16GLL	12e-L 12cc	.
 16E-	.	.
@@ -318,7 +323,7 @@
 .	12GJ	.
 16E-JJ	.	.
 =24	=24	=24
-16A-LL	12cL 12a-	.
+16A-/LL	12cL 12a-	.
 16E-	.	.
 .	12e-	.
 16AA-	.	.
@@ -331,7 +336,7 @@
 .	12ee-J	.
 16E-JJ	.	.
 =25	=25	=25
-.	8qdn/	.
+.	8qdn	.
 16cLL	12ccL 12aa-	.
 16G-X	.	.
 .	12e-	.
@@ -370,6 +375,7 @@
 16AA-	.	.
 .	12ccJ 12ee-	.
 16G-JJ	.	.
+!!LO:LB:g=original
 =28	=28	=28
 16d-LL	12a-L 12ff	.
 16F	.	.
@@ -384,7 +390,7 @@
 .	12d-J	.
 16FJJ	.	.
 =29	=29	=29
-.	8qc/	.
+.	8qc	.
 16AnLL	12anL 12ff	.
 16E-	.	.
 .	12c	.
@@ -436,8 +442,9 @@
 16C	.	.
 .	12ffJ	.
 16A-JJ	.	.
+!!LO:LB:g=original
 =33	=33	=33
-.	8qdn/	.
+.	8qdn	.
 16cLL	12ccL 12aa-	.
 16G-X	.	.
 .	12e-	.
@@ -490,7 +497,7 @@
 .	12d-J	.
 16FJJ	.	.
 =37	=37	=37
-.	8qc/	.
+.	8qc	.
 16AnLL	12anL 12ff	.
 16E-	.	.
 .	12c	.
@@ -503,6 +510,7 @@
 16FF	.	.
 .	12aJ 12cc	.
 16E-JJ	.	.
+!!LO:LB:g=original
 =38	=38	=38
 16B-LL	12fL 12dd-	.
 16F	.	.
@@ -555,6 +563,7 @@
 .	12B- 12g	.
 8r	.	.
 .	12GJ	.
+!!LO:LB:g=original
 =43	=43	=43
 8FF 8C 8F 8c	12A-L 12f	.
 .	12c	.
