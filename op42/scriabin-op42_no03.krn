@@ -43,7 +43,7 @@
 8AnJ	24cc#	.
 .	24ee#X	.
 .	24ff#JJ	.
-8c#L	24b-XLL	.
+8c#L	24b-X/LL	.
 .	24an	.
 .	24b-	.
 8f#	24a	.
@@ -52,6 +52,7 @@
 8dnJ	24b-	.
 .	24a	.
 .	24ddJJ	.
+!!LO:LB:g=original
 =3	=3	=3
 8G#L	24cc#LL	.
 .	24b#X	.
@@ -91,6 +92,7 @@
 8g#J	24ddd	.
 .	24ccc#	.
 .	24cccnJJ	.
+!!LO:LB:g=original
 =5	=5	=5
 8d#L	24cccnLL	.
 .	24bb	.
@@ -129,6 +131,7 @@
 8gnJ	24ee-	.
 .	24dd	.
 .	24ggJJ	.
+!!LO:LB:g=original
 =7	=7	=7
 8c#L	24ff#LL	.
 .	24ee#	.
@@ -180,6 +183,7 @@
 24a	8gg#	.
 24b-	.	.
 24aJJ	.	.
+!!LO:LB:g=original
 =10	=10	=10
 8d#L	24ff##XLL	.
 .	24gg#	.
@@ -225,6 +229,7 @@
 8anL	4r	.
 8cc#	.	.
 8g#J	8r	.
+!!LO:LB:g=original
 =13	=13	=13
 8d#L	24cccnLL	.
 .	24bb	.
@@ -263,6 +268,7 @@
 8gnJ	24ee-	.
 .	24dd	.
 .	24ggJJ	.
+!!LO:LB:g=original
 =15	=15	=15
 8c#L	24ff#LL	.
 .	24ee#	.
@@ -295,6 +301,7 @@
 8g##XL	8ee#	.
 8cc##X	8r	.
 8a#J	8r	.
+!!LO:LB:g=original
 =17	=17	=17
 24gnLL	8ee-XL	.
 24a-X	.	.
@@ -329,6 +336,7 @@
 .	24bbJJ	.
 8dd	8r	.
 8f#J	8r	.
+!!LO:LB:g=original
 =19	=19	=19
 24f#LL	8cc#L	.
 24e#	.	.
@@ -363,6 +371,7 @@
 .	24aa#JJ	.
 8cc#	8r	.
 8eJ	8r	.
+!!LO:LB:g=original
 =21	=21	=21
 24enLL	8bL	.
 24d#	.	.
@@ -401,6 +410,7 @@
 8b#	24gg##	.
 .	24aa#	.
 .	24ff#JJ	.
+!!LO:LB:g=original
 =23	=23	=23
 8c#L	24ff#LL	.
 .	24ee#	.
@@ -433,6 +443,7 @@
 8g##XL	8ff#	.
 8ff#	8r	.
 8a#J	8r	.
+!!LO:LB:g=original
 =25	=25	=25
 24gnLL	8ee-XL	.
 24a-X	.	.
@@ -462,11 +473,12 @@
 8ddnJ	24ccc	.
 .	24bb	.
 .	24cccJJ	.
-8cc#L	24bbLL	.
+8cc#\L	24bbLL	.
 .	24ccc	.
 .	24bbJJ	.
 8dd	8r	.
 8f#J	8r	.
+!!LO:LB:g=original
 =27	=27	=27
 24f#LL	8cc#L	.
 24e#	.	.
@@ -501,6 +513,7 @@
 .	24aa#JJ	.
 8cc#	8r	.
 8eJ	8r	.
+!!LO:LB:g=original
 =29	=29	=29
 24enLL	8bL	.
 24d#	.	.
@@ -539,6 +552,7 @@
 8b#	24gg##	.
 .	24aa#	.
 .	24ff#JJ	.
+!!LO:LB:g=original
 =31	=31	=31
 8c#L	24ff#LL	.
 .	24ee#	.
@@ -577,6 +591,7 @@
 .	24ddd	.
 .	24ccc#	.
 .	24ee#JJ	.
+!!LO:LB:g=original
 =33	=33	=33
 8f# 8a#	24ggnLL	.
 .	24ff#	.

@@ -35,13 +35,14 @@
 12A-L 12d	12ddL 12gg 12ccc	.
 12BB-J	12ccc-XJ	.
 12r	12r	.
+!!LO:LB:g=original
 =4	=4	=4
+12GL 12e-	12ee-L 12gg 12ccc-X	.
+12EE-J 12BB-	12bb-J	.
+12r	12r	.
 *	*^	*
-12GL 12e-	12ee-L 12gg 12ccc-X	4rc	.
-12EE-J 12BB-	12bb-J	.	.
-12r	12raa	.	.
-4AAn 4G	8cc#XL	4e- 4g	.
-.	8ccnJ	.	.
+4AAn 4G	4e- 4g	8cc#XL	.
+.	.	8ccnJ	.
 *	*v	*v	*
 =5	=5	=5
 12d-XL	12fL 12g 12cc	.
@@ -64,13 +65,14 @@
 12cL 12f#X	12ff#XL 12bbn 12eeen	.
 12DnJ	12eee-XJ	.
 12r	12r	.
+!!LO:LB:g=original
 =8	=8	=8
+12BnL 12g	12ggL 12bbn 12eee-	.
+12GGJ 12D	12dddJ	.
+12r	12r	.
 *	*^	*
-12BnL 12g	12ggL 12bbn 12eee-	4rc	.
-12GGJ 12D	12dddJ	.	.
-12r	12raa	.	.
-4DD-X 4D-X	8fL	4G 4Bn	.
-.	8enJ	.	.
+4DD-X 4D-X	4G 4Bn	8fL	.
+.	.	8enJ	.
 *	*v	*v	*
 =9	=9	=9
 12FL	12d-XL 12f 12bn	.
@@ -80,13 +82,14 @@
 12CC#XJ	12enJ	.
 12r	12r	.
 =10	=10	=10
+12FL	12d-XL 12f 12bn	.
+12GGJ	12b-XJ	.
+12r	12r	.
 *	*^	*
-12FL	12d-XL 12f 12bn	4rc	.
-12GGJ	12b-XJ	.	.
-12r	12raa	.	.
-4GG#X 4En 4B-	8ddnL	4en 4b-	.
-.	8cc#XJ	.	.
+4GG#X 4En 4B-	4en 4b-	8ddnL	.
+.	.	8cc#XJ	.
 *	*v	*v	*
+!!LO:LB:g=original
 =11	=11	=11
 12GnL	12e-XL 12g 12cc#X	.
 12AAnJ	12ccnJ	.
@@ -95,12 +98,12 @@
 12EE-J	12g-XJ	.
 12r	12r	.
 =12	=12	=12
+12GL	12e-L 12gn 12cc#X	.
+12AAnJ	12ccnJ	.
+12r	12r	.
 *	*^	*
-12GL	12e-L 12gn 12cc#X	4rc	.
-12AAnJ	12ccnJ	.	.
-12r	12raa	.	.
-4AA#X 4F#X 4c	8eenL	4f#X 4cc	.
-.	8dd#XJ	.	.
+4AA#X 4F#X 4c	4f#X 4cc	8eenL	.
+.	.	8dd#XJ	.
 *	*v	*v	*
 =13	=13	=13
 12AnL	12fnL 12an 12dd#X	.
@@ -115,6 +118,7 @@
 12r	12r	.
 4A 4g	8ee-L 8gg 8ccc#X	.
 .	8cccnJ	.
+!!LO:LB:g=original
 =15	=15	=15
 12a-XL	12ddL 12aa- 12ccc	.
 12B-J	12ccc-XJ	.
@@ -136,6 +140,7 @@
 12DL	12B-L 12d 12g#X	.
 12EEnJ	12gnJ	.
 12r	12r	.
+!!LO:LB:g=original
 =18	=18	=18
 12A-L	12cL 12d 12g	.
 12BB-J	12f#XJ	.
@@ -164,6 +169,7 @@
 12E-L	12fL 12g 12dd-X	.
 12AA-J	12ccJ	.
 12r	12r	.
+!!LO:LB:g=original
 =22	=22	=22
 12d-XL	12fL 12g 12cc	.
 12E-J	12bnJ	.
@@ -179,12 +185,12 @@
 12BB-J	12ccc-XJ	.
 12r	12r	.
 =24	=24	=24
+12GL 12e-	12ee-L 12gg 12ccc-X	.
+12EE-J 12BB-	12bb-J	.
+12r	12r	.
 *	*^	*
-12GL 12e-	12ee-L 12gg 12ccc-X	4rc	.
-12EE-J 12BB-	12bb-J	.	.
-12r	12raa	.	.
-4AAn 4G	8cc#XL	4e- 4g	.
-.	8ccnJ	.	.
+4AAn 4G	4e- 4g	8cc#XL	.
+.	.	8ccnJ	.
 *	*v	*v	*
 =25	=25	=25
 12d-XL	12fL 12g 12cc	.
@@ -193,6 +199,7 @@
 12GL	12e-L 12g 12cc#X	.
 12AAnJ	12ccnJ	.
 12r	12r	.
+!!LO:LB:g=original
 =26	=26	=26
 12d-XL	12fL 12g 12cc	.
 12E-J	12bnJ	.
@@ -208,12 +215,12 @@
 12BB-J	12ccc-XJ	.
 12r	12r	.
 =28	=28	=28
+12GL 12e-	12ee-L 12gg 12ccc-X	.
+12EE-J 12BB-	12bb-J	.
+12r	12r	.
 *	*^	*
-12GL 12e-	12ee-L 12gg 12ccc-X	4rc	.
-12EE-J 12BB-	12bb-J	.	.
-12r	12raa	.	.
-4AAn 4G	8cc#XL	4e- 4g	.
-.	8ccnJ	.	.
+4AAn 4G	4e- 4g	8cc#XL	.
+.	.	8ccnJ	.
 *	*v	*v	*
 =29	=29	=29
 12dL 12a-X	12ccL 12dd 12gg	.
@@ -222,32 +229,38 @@
 12A-L 12d	12ddL 12gg 12ccc	.
 12BB-J	12ccc-XJ	.
 12r	12r	.
+!!LO:LB:g=original
 =30	=30	=30
+12GL 12e-	12ee-L 12gg 12ccc-X	.
+12EE-J 12BB-	12bb-J	.
+12r	12r	.
 *	*^	*
-12GL 12e-	12ee-L 12gg 12ccc-X	4rc	.
-12EE-J 12BB-	12bb-J	.	.
-12r	12raa	.	.
-4AAn 4G	8cc#XL	4e- 4g	.
-.	8ccnJ	.	.
-=31	=31	=31	=31
-6EE- 6BB- 6G	12ee-L 12gg 12ccc-X	4rc	.
-.	12bb-J	.	.
-12r	12raa	.	.
-4AAn 4G	8cc#XL	4e- 4g	.
-.	8ccnJ	.	.
-=32	=32	=32	=32
-6EE- 6BB- 6G	12ee-L 12gg 12ccc-X	4rc	.
-.	12bb-J	.	.
-12r	12raa	.	.
-4AAn 4G	12dd-XL	4e- 4g	.
-.	12ccn	.	.
-.	12cc-XJ	.	.
+4AAn 4G	4e- 4g	8cc#XL	.
+.	.	8ccnJ	.
+*	*v	*v	*
+=31	=31	=31
+6EE- 6BB- 6G	12ee-L 12gg 12ccc-X	.
+.	12bb-J	.
+12r	12r	.
+*	*^	*
+4AAn 4G	4e- 4g	8cc#XL	.
+.	.	8ccnJ	.
+*	*v	*v	*
+=32	=32	=32
+6EE- 6BB- 6G	12ee-L 12gg 12ccc-X	.
+.	12bb-J	.
+12r	12r	.
+*	*^	*
+4AAn 4G	4e- 4g	12dd-XL	.
+.	.	12ccn	.
+.	.	12cc-XJ	.
 *	*v	*v	*
 =33	=33	=33
 2EE- 2BB- 2G	2e- 2b-	.
 ==	==	==
 *-	*-	*-
 !!!system-decoration: {(*)}
+!!!filter: flipper -a
 !!!ENC: Bryan Jacob Bell
 !!!END: November 2021 to April 2022
 !!!PED: Günter Philipp

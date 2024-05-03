@@ -15,10 +15,10 @@
 *C:	*C:	*
 *M2/4	*M2/4	*
 =1	=1	=1
-12b-XL	4r	.
+12b-XL	2r	.
 12e	.	.
 12B-XJ	.	.
-12eL	4r	.
+12eL	.	.
 12B-	.	.
 12CJ	.	.
 =2	=2	=2
@@ -147,7 +147,7 @@
 12GGJ	.	.
 =18	=18	=18
 *	*^	*
-12fL 12g	2ryy	[2D#X	.
+12fL 12g	[2D#X	2ryy	.
 12B	.	.	.
 12FJ	.	.	.
 12BL	.	.	.
@@ -155,11 +155,11 @@
 12GGJ	.	.	.
 =19	=19	=19	=19
 *^	*	*	*
-4GG	2CC	4rc	6D#]	.
-.	.	.	[12E	.
-6FF#X	.	12AL	4E]	.
-.	.	12A-X	.	.
-12GG	.	12GJ	.	.
+2CC	4GG	6D#]	4ryy	.
+.	.	[12E	.	.
+.	6FF#X	4E]	12AL	.
+.	.	.	12A-X	.
+.	12GG	.	12GJ	.
 *v	*v	*	*	*
 *	*v	*v	*
 =20	=20	=20
@@ -203,18 +203,18 @@
 12CJ	.	.
 =25	=25	=25
 *^	*^	*
-4rc	2CC	16AA-L]	16rEE	.
-.	.	16GG	16rEE	.
-.	.	16C	16rEE	.
-.	.	16EJ	[16E	.
-4FF#X	.	12BL	4E]	.
-.	.	12A	.	.
-.	.	12A-XJ	.	.
+2CC	4rC	16ryy	16AA-L]	.
+.	.	16ryy	16GG	.
+.	.	16ryy	16C	.
+.	.	[16E	16EJ	.
+.	4FF#X	4E]	12BL	.
+.	.	.	12A	.
+.	.	.	12A-XJ	.
 =26	=26	=26	=26	=26
-[2FF#X	[2CC	[2A-X	[2E	.
+[2CC	[2FF#X	[2E	[2A-X	.
 =27	=27	=27	=27	=27
-4FF#]	2CC]	4A-]	2E]	.
-4GG	.	4G	.	.
+2CC]	4FF#]	2E]	4A-]	.
+.	4GG	.	4G	.
 *v	*v	*	*	*
 *	*v	*v	*
 =28	=28	=28
@@ -223,6 +223,7 @@
 2CCC] 2CC] 2GG]	2E] 2G] 2c] 2e]	.
 ==	==	==
 *-	*-	*-
+!!!filter: flipper -a
 !!!system-decoration: {(*)}
 !!!ENC: Bryan Jacob Bell
 !!!END: November 2021 to April 2022

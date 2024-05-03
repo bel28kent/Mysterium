@@ -417,20 +417,21 @@
 16r	.	.
 =34	=34	=34
 *^	*	*
-8.c#L	[4C# 4F#	16aLL	.
+[4C# 4F#	8.c#L	16aLL	.
 .	.	16e#X	.
 .	.	16f#	.
-16dJk	.	16bJJ	.
-4c#	2C#_	4a	.
-4CC#	.	4B 4c# 4e# 4g#	.
+.	16dJk	16bJJ	.
+2C#_	4c#	4a	.
+.	4CC#	4B 4c# 4e# 4g#	.
 =35	=35	=35	=35
-4FF#	2C#]	4A 4c# 4f#	.
-4FFF#	.	4r	.
-4rc	4rEE	4r	.
+2C#]	4FF#	4A 4c# 4f#	.
+.	4FFF#	4r	.
 *v	*v	*	*
+4r	4r	.
 ==	==	==
 *-	*-	*-
 !!!system-decoration: {(*)}
+!!!filter: flipper -a
 !!!ENC: Bryan Jacob Bell
 !!!END: November 2021 to April 2022
 !!!PED: Konstantin Igumnov and Yakov Milstein

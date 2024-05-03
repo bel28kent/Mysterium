@@ -18,10 +18,10 @@
 =1	=1	=1
 2DDn 2Dn	12bL	.
 .	12f#	.
-.	12GnJ	.
-.	12G#XL	.
-.	12B	.
-.	12F#J	.
+.	12Gn<J	.
+.	12G#X<L	.
+.	12B<	.
+.	12F#<J	.
 4BBB 4BB	12dnL	.
 .	12a#	.
 .	12dJ	.
@@ -39,10 +39,10 @@
 =3	=3	=3
 2DDn 2Dn	12bL	.
 .	12f#	.
-.	12GnJ	.
-.	12G#XL	.
-.	12B	.
-.	12F#J	.
+.	12Gn<J	.
+.	12G#X<L	.
+.	12B<	.
+.	12F#<J	.
 4BBB 4BB	12dnL	.
 .	12a#	.
 .	12dJ	.
@@ -58,15 +58,15 @@
 .	12c#	.
 .	12f#J	.
 =5	=5	=5
-2BBB-X 2BB-X	12gnL	.
+2BBB-X 2BB-X	12gn/L	.
 .	12dn	.
-.	12E-XJ	.
-.	12EnL	.
-.	12Gn	.
-.	12DnJ	.
-4GGGn 4GGn	12B-XL	.
+.	12E-X<J	.
+.	12En<L	.
+.	12Gn<	.
+.	12Dn<J	.
+4GGGn 4GGn	12B-X<L	.
 .	12f#	.
-.	12B-J	.
+.	12B-<J	.
 *	*clefF4	*
 =6	=6	=6
 12GGGnL 12GGn	12dnL	.
@@ -143,19 +143,19 @@
 .	12f#	.
 .	12bJ	.
 =13	=13	=13
-2EE-X 2E-X	12ccnL	.
+2EE-X 2E-X	12ccn/L	.
 .	12f#	.
-.	12A-XJ	.
-.	12AnL	.
-.	12cn	.
-.	12F#J	.
+.	12A-X<J	.
+.	12An<L	.
+.	12cn<	.
+.	12F#<J	.
 4CCn 4Cn	12d#L	.
 .	12b	.
 .	12d#J	.
 =14	=14	=14
 12CCnL 12Cn	12gnL	.
 12AAA# 12AA#	12e-X	.
-24r	12GnJ	.
+24r	12Gn<J	.
 24BBBJk 24BB	.	.
 4GGn 4Gn	12e-L	.
 .	12B	.
@@ -164,21 +164,21 @@
 .	12d	.
 .	12f#J	.
 =15	=15	=15
-2.CC# 2.C#	12e#L	.
-.	12G#X	.
+2.CC# 2.C#	12e#/L	.
+.	12G#X<	.
 .	12c#J	.
 .	12e#L	.
-.	12G#	.
+.	12G#<	.
 .	12e#J	.
 .	12cc#L	.
 .	12e#	.
 .	12bJ	.
 =16	=16	=16
 2.CC##X 2.C##X	12a#L	.
-.	12E#	.
-.	12A#J	.
+.	12E#<	.
+.	12A#<J	.
 .	12e#L	.
-.	12A#	.
+.	12A#<	.
 .	12e#J	.
 .	12a#L	.
 .	12e#	.
@@ -306,10 +306,10 @@
 =29	=29	=29
 2DDn 2Dn	12bL	.
 .	12f#	.
-.	12GnJ	.
-.	12G#XL	.
-.	12B	.
-.	12F#J	.
+.	12Gn<J	.
+.	12G#X<L	.
+.	12B<	.
+.	12F#<J	.
 4BBB 4BB	12dnL	.
 .	12a#	.
 .	12dJ	.
@@ -327,21 +327,23 @@
 =31	=31	=31
 2DDn 2Dn	12bL	.
 .	12f#	.
-.	12GnJ	.
-.	12G#XL	.
-.	12B	.
-.	12F#J	.
+.	12Gn<J	.
+.	12G#X<L	.
+.	12B<	.
+.	12F#<J	.
 4BBB 4BB	12dnL	.
 .	12a#	.
 .	12dJ	.
 =32	=32	=32
 *	*^	*
-2.FFF# 2.FF#	2.A# 2.f#	4dn	.
-.	.	2c#	.
+2.FFF# 2.FF#	4dn	2.A# 2.f#	.
+.	2c#	.	.
 *	*v	*v	*
 ==	==	==
 *-	*-	*-
 !!!system-decoration: {(*)}
+!!!filter: flipper -a
+!!!RDF**kern: < = below
 !!!ENC: Bryan Jacob Bell
 !!!END: November 2021 to April 2022
 !!!PED: Konstantin Igumnov and Yakov Milstein

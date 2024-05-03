@@ -10,11 +10,12 @@
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
 *Ipiano	*Ipiano	*
-*clefG2	*clefG2	*
+*clefF4	*clefG2	*
 *k[b-e-a-d-]	*k[b-e-a-d-]	*
 *A-:	*A-:	*
 *M6/4	*M6/4	*
 =1	=1	=1
+*clefG2	*	*
 4e- 4a- 4cc	4ee-	.
 4dn 4a- 4cc-X	4ff	.
 4d-X 4a- 4b-	4aa-	.
@@ -24,14 +25,14 @@
 *clefF4	*	*
 =2	=2	=2
 *^	*^	*
-4rc	4EE-	4raa	4rc	.
-4d-	2E-	4ee-	4g	.
-4c	.	4a-	4a-	.
-4rc	4AA-	2raa	2rc	.
-4d-	2E-	.	.	.
-4c	.	4raa	4rc	.
-*v	*v	*	*	*
-*	*v	*v	*
+4EE-	4rA	4r	4r	.
+2E-	4d-	4g	4ee-	.
+.	4c	4a-	4a-	.
+*	*	*v	*v	*
+4AA-	4rA	4r	.
+2E-	4d-	2r	.
+.	4c	.	.
+*v	*v	*	*
 *clefG2	*	*
 =3	=3	=3
 4c 4f 4a-	4cc	.
@@ -43,29 +44,29 @@
 4D- 4G 4B- 4f	4b-	.
 =4	=4	=4
 *^	*^	*
-4rc	4CC	4raa	4rc	.
-4B-	2C	4cc	4en	.
-4A-	.	4f	4f	.
-4rc	4FF	2raa	2rc	.
-4B-	2C	.	.	.
-4A-	.	4raa	4rc	.
+4CC	4rA	4r	4r	.
+2C	4B-	4en	4cc	.
+.	4A-	4f	4f	.
 *	*	*v	*v	*
+4FF	4rA	4r	.
+2C	4B-	2r	.
+.	4A-	.	.
 =5	=5	=5	=5
-4rc	4DD-	4r	.
-2A-	4AA-	4a-	.
-.	4D-	4f	.
-4rc	4DD-	4r	.
-2A-	4AA-	4f-X	.
-.	4D-	4b-	.
+4DD-	4rA	4r	.
+4AA-	2A-	4a-	.
+4D-	.	4f	.
+4DD-	4rA	4r	.
+4AA-	2A-	4f-X	.
+4D-	.	4b-	.
 =6	=6	=6	=6
-4rc	4CC	4r	.
-2A-	4AA-	4cc	.
-.	4E-	4e-	.
-4BBB-	2.rEE	4r	.
-4BB- 4A-	.	4d-	.
-*clefG2	*	*	*
-4B- 4a- 4dd-	.	4ff	.
+4CC	4rA	4r	.
+4AA-	2A-	4cc	.
+4E-	.	4e-	.
 *v	*v	*	*
+4BBB-	4r	.
+4BB- 4A-	4d-	.
+*clefG2	*	*
+4B- 4a- 4dd-	4ff	.
 =7	=7	=7
 4e- 4a- 4cc	4ee-	.
 4dn 4a- 4cc-X	4ff	.
@@ -76,51 +77,52 @@
 *clefF4	*	*
 =8	=8	=8
 *^	*^	*
-4rc	4EE-	4raa	4rc	.
-4d-	2E-	4ee-	4g	.
-4c	.	4a-	4a-	.
-4rc	4AA-	2raa	2rc	.
-4d-	2E-	.	.	.
-4c	.	4raa	4rc	.
+4EE-	4rA	4r	4r	.
+2E-	4d-	4g	4ee-	.
+.	4c	4a-	4a-	.
 *	*	*v	*v	*
+4AA-	4rA	4r	.
+2E-	4d-	2r	.
+.	4c	.	.
 =9	=9	=9	=9
-4rc	4DD-	4r	.
-2A-	4AA-	4a-	.
-.	4D-	4f	.
-4rc	4DD-	4r	.
-2A-	4AA-	4f-X	.
-.	4D-	4b-	.
+4DD-	4rA	4r	.
+4AA-	2A-	4a-	.
+4D-	.	4f	.
+4DD-	4rA	4r	.
+4AA-	2A-	4f-X	.
+4D-	.	4b-	.
 =10	=10	=10	=10
-4rc	4CC	4r	.
-2A-	4AA-	4cc	.
-.	4E-	4e-	.
-4BBB-	2.rEE	4r	.
-4BB- 4A-	.	4d-	.
-*clefG2	*	*	*
-4B- 4a- 4dd-	.	4ff	.
+4CC	4rA	4r	.
+4AA-	2A-	4cc	.
+4E-	.	4e-	.
 *v	*v	*	*
+4BBB-	4r	.
+4BB- 4A-	4d-	.
+*clefG2	*	*
+4B- 4a- 4dd-	4ff	.
 =11	=11	=11
 4e- 4a- 4cc	4ee-	.
 4dn 4a- 4cc-X	4ff	.
 4d-X 4a- 4b-	4aa-	.
-4cn 4e- 4a-	4a-	.
+4cn 4e- 4a-	4a-\	.
 4A- 4d- 4f-X	4b-	.
 8.F-X 8.B- 8.d- 8.a-	8.dd-	.
 16r	16r	.
 *clefF4	*	*
 =12	=12	=12
 *^	*^	*
-4rc	4EE-	4raa	4rc	.
-4d-	2E-	4ee-	4g	.
-4c	.	4a-	4a-	.
-4rc	4AA-	2raa	2rc	.
-4d-	4E-	.	.	.
-4c	4A-	4raa	4rc	.
-*v	*v	*	*	*
-*	*v	*v	*
+4EE-	4rA	4r	4r	.
+2E-	4d-	4g	4ee-	.
+.	4c	4a-	4a-	.
+*	*	*v	*v	*
+4AA-	4rA	4r	.
+4E-	4d-	2r	.
+4A-	4c	.	.
+*v	*v	*	*
 ==	==	==
 *-	*-	*-
 !!!system-decoration: {(*)}
+!!!filter: flipper -a
 !!!ENC: Bryan Jacob Bell
 !!!END: November 2021 to April 2022
 !!!PED: Günter Philipp

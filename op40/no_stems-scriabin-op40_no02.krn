@@ -1,0 +1,371 @@
+!!!COM: Scriabin, Alexander
+!!!OTL@@FR: Mazurka en fa dièse majeur
+!!!OTL@@EN: Mazurka in F# Major
+!!!OPR@@FR: 2 Mazurkas
+!!!OPR@@EN: 2 Mazurkas
+!!!OPS: 40
+!!!ONM: 2
+!!!ODT: 1903
+!!!AGN: Mazurka
+**kern	**kern	**dynam
+*staff2	*staff1	*staff1/2
+*Ipiano	*Ipiano	*
+*clefF4	*clefG2	*
+*k[f#c#g#d#a#e#]	*k[f#c#g#d#a#e#]	*
+*F#:	*F#:	*
+*M3/4	*M3/4	*
+=1	=1	=1
+8r	4A# 4c#	.
+8C#	.	.
+8D#L	4r	.
+8E#J	.	.
+4A#	4r	.
+=2	=2	=2
+8r	4A# 4c# 4e#	.
+8F#	.	.
+8G#L	4r	.
+8A#J	.	.
+4e#	4r	.
+=3	=3	=3
+*^	*	*
+2.F#	2d#	8r	.
+.	.	8G#	.
+.	.	8A#L	.
+.	.	8B#X	.
+.	4B#X	8d#	.
+.	.	8g#J	.
+=4	=4	=4	=4
+*	*^	*^	*
+2.E#	2.A#	4e#	4g#	8dd#L	.
+.	.	.	.	8cc#	.
+.	.	4c#	4rc	8a#	.
+.	.	.	.	8g#	.
+.	.	4rc	4rc	8e#	.
+.	.	.	.	8c#J	.
+=5	=5	=5	=5	=5	=5
+2.D#	4rEE	4rc	8r	2.ryy	.
+.	.	.	8e#	.	.
+.	2c#	4e#	8G##XL	.	.
+.	.	.	8A#J	.	.
+.	.	4f##X	[4d#	.	.
+*	*v	*v	*	*	*
+=6	=6	=6	=6	=6
+4e#	2g#	8d#L]	2.ryy	.
+.	.	8c#J	.	.
+4c#	.	8D##XL	.	.
+.	.	8E#J	.	.
+4c# 4g#	4rc	[4B#X	.	.
+*v	*v	*	*	*
+=7	=7	=7	=7
+4r	8B#L]	4c# 4f#	.
+.	8A#J	.	.
+4.G#	4rc	4c# 4a#	.
+.	4rc	4c# 4a#	.
+8F#	.	.	.
+*	*v	*v	*
+=8	=8	=8
+8E#L	4F# 4G# 4c# 4g#	.
+8GG#	.	.
+8AA#	4F# 4G# 4d#	.
+8BB#X	.	.
+8D#	4E# 4G# 4e#	.
+8C#J	.	.
+*clefG2	*	*
+=9	=9	=9
+*^	*	*
+2.c#	4raa	8r	.
+.	.	8cc#	.
+.	2B 2e# 2a#	8dd#L	.
+.	.	8ee#J	.
+.	.	4ccc#	.
+=10	=10	=10	=10
+2.c#	4raa	8r	.
+.	.	8cc#	.
+.	2B 2e# 2an	8dd#L	.
+.	.	8ee#J	.
+.	.	4ddd#	.
+=11	=11	=11	=11
+2.c#	4raa	8r	.
+.	.	8cc#L	.
+.	2A#X 2e# 2g#	8dd#	.
+.	.	8ee#	.
+.	.	8gg#	.
+.	.	8ccc#J	.
+=12	=12	=12	=12
+*	*^	*	*
+2.A# 2.d#	2.c#	4a#	8ggg#L	.
+.	.	.	8fff#	.
+.	.	4f#	8ddd#	.
+.	.	.	8ccc#	.
+.	.	4raa	8aa#	.
+.	.	.	8ff#J	.
+*	*v	*v	*	*
+=13	=13	=13	=13
+4rc	4G#	8r	.
+.	.	8aa#	.
+2f#	4cc#X	8cc##XL	.
+.	.	8dd#J	.
+.	4b#X	[4gg#	.
+*clefF4	*	*	*
+=14	=14	=14	=14
+4rEE	4C#	8gg#L]	.
+.	.	8ff#	.
+*clefG2	*	*	*
+4c#	2f#	8g##X	.
+.	.	8a#J	.
+4B#X	.	[4ee#	.
+*clefF4	*	*	*
+=15	=15	=15	=15
+4C#	4rc	8ee#L]	.
+.	.	8dd#	.
+4Bn	2f#	8cc#	.
+.	.	8c##X	.
+4G#	.	8d#	.
+.	.	8bJ	.
+*v	*v	*	*
+=16	=16	=16
+*	*^	*
+4C#	8rc	8a#L	.
+.	[8B	8B	.
+[4CC#	4B] [4c#	8c#X	.
+.	.	8e#	.
+4FFF# 4CC#] 4FF#	4A# 4c#]	8g#	.
+.	.	8f#J	.
+*	*v	*v	*
+=17||	=17||	=17||
+*k[f#c#g#d#a#e#b#]	*k[f#c#g#d#a#e#b#]	*
+8GG#L	4r	.
+8CC#	.	.
+8GG#	4G# 4c# 4e#	.
+8C#J	.	.
+4D#	4F# 4A# 4d#	.
+=18	=18	=18
+8GG#L	4r	.
+8CC#	.	.
+8GG#	4G# 4c#	.
+8E#J	.	.
+4F#	4A#	.
+=19	=19	=19
+4GG# 4F#	8r	.
+.	8A#	.
+4CC#	8c#L	.
+.	8d#J	.
+4r	8f#L	.
+.	16r	.
+.	16a#Jk	.
+=20	=20	=20
+*	*^	*
+4r	4rc	2e# 2ee#	.
+4F# 4c# 4f#	4a#	.	.
+4F# 4c# 4f#	4a#	4d# 4dd#	.
+=21	=21	=21	=21
+4CC#	4rc	8raa	.
+.	.	8cc#	.
+2GG# 2F#	2c# 2f#	4.b#	.
+.	.	8a#	.
+=22	=22	=22	=22
+4CC#	4rc	8raa	.
+.	.	8a#	.
+2GG# 2D# 2F#	2A# 2c#	4.g#	.
+.	.	8f#	.
+=23	=23	=23	=23
+*^	*	*	*
+2.CC#	4rc	4rc	8raa	.
+.	.	.	8f#L	.
+.	2GG# 2F#	2A# 2c#	8e#	.
+.	.	.	8a#	.
+.	.	.	8f#	.
+.	.	.	8e#J	.
+*v	*v	*	*	*
+=24	=24	=24	=24
+2.CC# 2.GG# 2.F#	2A# 2c#	8e#L	.
+.	.	8A#	.
+.	.	8c#	.
+.	.	8d#	.
+.	4B#	8g#	.
+.	.	8G#J	.
+*	*v	*v	*
+=25	=25	=25
+8GG#L	4r	.
+8CC#	.	.
+8GG#	4G# 4c# 4e#	.
+8C#J	.	.
+4D#	4F# 4A# 4d#	.
+=26	=26	=26
+8GG#L	4r	.
+8CC#	.	.
+8GG#	4G# 4c#	.
+8E#J	.	.
+4F#	4A#	.
+=27	=27	=27
+*^	*	*
+4rEE	2.GG# 2.F# 2.A#	8r	.
+.	.	8c#	.
+2CC#	.	8d#L	.
+.	.	8f#J	.
+.	.	8a#L	.
+.	.	16r	.
+.	.	16cc#Jk	.
+*v	*v	*	*
+=28	=28	=28
+*	*^	*
+4r	4rc	2g# 2gg#	.
+4E# 4A# 4e#	4cc#	.	.
+4D# 4A# 4d#	4cc#	4f# 4ff#	.
+=29	=29	=29	=29
+*^	*	*	*
+2.CC#	4rc	4rc	8raa	.
+.	.	.	8ff#	.
+.	2GG# 2F# 2c#	2f# 2a#	4.ee#	.
+.	.	.	8dd#	.
+=30	=30	=30	=30	=30
+2.CC#	4rc	4rc	8raa	.
+.	.	.	8cc#	.
+.	2GG# 2F#	2c# 2f#	4.b#	.
+.	.	.	8a#	.
+=31	=31	=31	=31	=31
+2.CC#	4rc	4rc	8raa	.
+.	.	.	8a#L	.
+.	[2GG# [2F#	2c# 2d#	8g#	.
+.	.	.	8cc#	.
+.	.	.	8a#	.
+.	.	.	8f#J	.
+*v	*v	*	*	*
+=32	=32	=32	=32
+2GG#] 2F#]	2B#	8e#L	.
+.	.	8b#	.
+.	.	8g#	.
+.	.	8e#J	.
+24GG#LL 24E#	12c#	36c#LL	.
+.	.	36e#	.
+24CC#JJ	.	.	.
+.	.	36g#J	.
+6Bn	12rc	12dd#	.
+.	12rc	12cc#J	.
+*	*v	*v	*
+=33||	=33||	=33||
+*k[f#c#g#d#a#e#]	*k[f#c#g#d#a#e#]	*
+8r	4A# 4c#	.
+8C#	.	.
+8D#L	4r	.
+8E#J	.	.
+4A#	4r	.
+=34	=34	=34
+8r	4A# 4c# 4e#	.
+8F#	.	.
+8G#L	4r	.
+8A#J	.	.
+4e#	4r	.
+=35	=35	=35
+*^	*	*
+2.F#	2d#	8r	.
+.	.	8G#	.
+.	.	8A#L	.
+.	.	8B#X	.
+.	4B#X	8d#	.
+.	.	8g#J	.
+=36	=36	=36	=36
+*	*^	*^	*
+2.E#	2.A#	4e#	4g#	8dd#L	.
+.	.	.	.	8cc#	.
+.	.	4c#	4rc	8a#	.
+.	.	.	.	8g#	.
+.	.	4rc	4rc	8e#	.
+.	.	.	.	8c#J	.
+=37	=37	=37	=37	=37	=37
+2.D#	4rEE	4rc	8r	2.ryy	.
+.	.	.	8e#	.	.
+.	2c#	4e#	8G##XL	.	.
+.	.	.	8A#J	.	.
+.	.	4f##X	[4d#	.	.
+*	*v	*v	*	*	*
+=38	=38	=38	=38	=38
+4e#	2g#	8d#L]	2.ryy	.
+.	.	8c#J	.	.
+4c#	.	8D##XL	.	.
+.	.	8E#J	.	.
+4c# 4g#	4rc	[4B#X	.	.
+*v	*v	*	*	*
+=39	=39	=39	=39
+4r	8B#L]	4c# 4f#	.
+.	8A#J	.	.
+4.G#	4rc	4c# 4a#	.
+.	4rc	4c# 4a#	.
+8F#	.	.	.
+*	*v	*v	*
+=40	=40	=40
+8E#L	4F# 4G# 4c# 4g#	.
+8GG#	.	.
+8AA#	4F# 4G# 4d#	.
+8BB#X	.	.
+8D#	4E# 4G# 4e#	.
+8C#J	.	.
+*clefG2	*	*
+=41	=41	=41
+*^	*	*
+2.c#	4raa	8r	.
+.	.	8cc#	.
+.	2B 2e# 2a#	8dd#L	.
+.	.	8ee#J	.
+.	.	4ccc#	.
+=42	=42	=42	=42
+2.c#	4raa	8r	.
+.	.	8cc#	.
+.	2B 2e# 2an	8dd#L	.
+.	.	8ee#J	.
+.	.	4ddd#	.
+=43	=43	=43	=43
+2.c#	4raa	8r	.
+.	.	8cc#L	.
+.	2A#X 2e# 2g#	8dd#	.
+.	.	8ee#	.
+.	.	8gg#	.
+.	.	8ccc#J	.
+=44	=44	=44	=44
+*	*^	*	*
+2.A# 2.d#	2.c#	4a#	8ggg#L	.
+.	.	.	8fff#	.
+.	.	4f#	8ddd#	.
+.	.	.	8ccc#	.
+.	.	4raa	8aa#	.
+.	.	.	8ff#J	.
+*	*v	*v	*	*
+=45	=45	=45	=45
+4rc	4G#	8r	.
+.	.	8aa#	.
+2f#	4cc#X	8cc##XL	.
+.	.	8dd#J	.
+.	4b#X	[4gg#	.
+*clefF4	*	*	*
+=46	=46	=46	=46
+4rEE	4C#	8gg#L]	.
+.	.	8ff#	.
+*clefG2	*	*	*
+4c#	2f#	8g##X	.
+.	.	8a#J	.
+4B#X	.	[4ee#	.
+*clefF4	*	*	*
+=47	=47	=47	=47
+4C#	4rc	8ee#L]	.
+.	.	8dd#	.
+4Bn	2f#	8cc#	.
+.	.	8c##X	.
+4G#	.	8d#	.
+.	.	8bJ	.
+*v	*v	*	*
+=48	=48	=48
+*	*^	*
+4C#	8rc	8a#L	.
+.	[8B	8B	.
+[4CC#	4B] [4c#	8c#X	.
+.	.	8e#	.
+4FFF# 4CC#] 4FF#	4A# 4c#]	8g#	.
+.	.	8f#J	.
+*	*v	*v	*
+==	==	==
+*-	*-	*-
+!!!system-decoration: {(*)}
+!!!ENC: Bryan Jacob Bell
+!!!END: November 2021 to April 2022
+!!!PED: Günter Philipp
+!!!PTL: Ausgewählte Klavierwerke (Edition Peters)

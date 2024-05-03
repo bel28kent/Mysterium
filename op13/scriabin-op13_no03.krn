@@ -14,9 +14,8 @@
 *k[f#]	*k[f#]	*
 *G:	*G:	*
 *M3/4	*M3/4	*
-12r	4r	.
-12DL	.	.
-12GJ	.	.
+8DL	4r	.
+8GJ	.	.
 =1	=1	=1
 12AL	4d 4g 4dd	.
 12D	.	.
@@ -171,15 +170,13 @@
 12GL	.	.	.
 12D	.	.	.
 12GJ	.	.	.
-12dL	4raa	4rc	.
-12B	.	.	.
-12gJ	.	.	.
 *	*v	*v	*
-*clefG2	*	*
+12dL	4r	.
+12B	.	.
+12gJ	.	.
 =19	=19	=19
 2dd	4r	.
 .	4r	.
-*clefF4	*	*
 4GG 4D 4G	4B 4g 4b	.
 =20	=20	=20
 [2.GG [2.D [2.G	[2.B [2.g [2.b	.
@@ -188,6 +185,7 @@
 ==	==	==
 *-	*-	*-
 !!!system-decoration: {(*)}
+!!!filter: flipper -a
 !!!ENC: Bryan Jacob Bell
 !!!END: November 2021 to April 2022
 !!!PED: Günter Philipp

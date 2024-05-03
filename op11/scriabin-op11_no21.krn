@@ -49,10 +49,10 @@
 8c	.	.
 8B-J	.	.
 8A-XL	.	.
-8f	.	.
-8dd	.	.
-8ccJ	.	.
-4b-	.	.
+8f>	.	.
+8dd>	.	.
+8cc>J	.	.
+4b->	.	.
 =5	=5	=5
 *M3/4	*M3/4	*
 4r	2.r	.
@@ -175,10 +175,10 @@
 8c	.	.
 8B-J	.	.
 8A-XL	.	.
-8f	.	.
-8dd	.	.
-8ccJ	.	.
-4b-	.	.
+8f>	.	.
+8dd>	.	.
+8cc>J	.	.
+4b->	.	.
 =17	=17	=17
 *M3/4	*M3/4	*
 4r	2.r	.
@@ -289,6 +289,9 @@
 ==	==	==
 *-	*-	*-
 !!!system-decoration: {(*)}
+!!!RDF**kern: flipper -a
+!!!RDF**kern: < = below
+!!!RDF**kern: > = above
 !!!ENC: Bryan Jacob Bell
 !!!END: November 2021 to April 2022
 !!!PED: Günter Philipp
