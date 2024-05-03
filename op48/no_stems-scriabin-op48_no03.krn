@@ -301,14 +301,13 @@
 *	*	*^	*	*	*^	*
 *	*	*	*	*	*	*	*^	*
 *	*	*	*	*	*	*	*	*^	*
-16qd-LL	.	.	N[4qd-	.	.	.	.	.	8qr	.
-.	.	.	.	N[4.qd-	.	.	.	.	16qd-LL	.
-16qF	.	N[8.qF	.	.	N[4qf	.	.	.	16qf	.
-.	.	.	.	.	.	N[4qa-	.	.	16qa-	.
-16qD-	N[8qD-	.	.	.	.	.	N[8.qdd-	.	16qdd-	.
-.	.	.	.	.	.	.	.	N[8qff	16qff	.
-[16qAA-JJ	.	.	.	.	N16qf_	.	.	.	[16qaa-JJ	.
-4DD- 4AA-] 4D-N] 4FN] 4d-N]	.	.	.	.	.	.	.	.	4d-N] 4fN] 4a-N] 4dd-N] 4ffN] 4aa-] 4ddd-	.
+16qd-LL	8qryy	16qryy	[4qd-	.	16.qryy	8qryy	8qryy	8.qryy	16qr	.
+16qF	.	[8.qF	.	[8.qd-	.	.	.	.	32qd-LL	.
+.	.	.	.	.	[8qf	.	.	.	32qf	.
+16qD-	[8qD-	.	.	.	.	[8qa-	32qryy	.	32qa-	.
+.	.	.	.	.	.	.	[16.qdd-	.	32qdd-	.
+[16qAA-JJ	.	.	.	.	.	.	.	[16qff	32qff	.
+.	.	.	.	.	32qf_	.	.	.	[32qaa-JJ	.
 *	*	*	*	*	*	*	*	*v	*v	*
 *	*	*	*	*	*	*	*v	*v	*
 *	*	*	*	*	*	*v	*v	*
@@ -317,6 +316,7 @@
 *	*	*v	*v	*	*
 *	*v	*v	*	*
 *v	*v	*	*
+4DD-] 4AA-] 4D-] 4F] 4d]	4d-] 4f] 4a-] 4dd-] 4ff] 4aa-] 4ddd-	.
 4r	4r	.
 4r	4r	.
 ==	==	==
