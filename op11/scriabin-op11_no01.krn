@@ -39,6 +39,7 @@
 10eJ	10cJ	.
 10CCL	10ggL	.
 10C	10dd	.
+!!LO:LB:g=original
 =3	=3	=3
 10B-X	10ff	.
 10c	10cc	.
@@ -72,6 +73,7 @@
 .	10ffJ	.
 10AAAL	10eeL	.
 10AA	10cc	.
+!!LO:LB:g=original
 =6	=6	=6
 10F	10dd	.
 10d	10cc	.
@@ -109,6 +111,7 @@
 *Xtuplet	*	*
 10CCL	10aaL	.
 10GG	10ee	.
+!!LO:LB:g=original
 =9	=9	=9
 10F	10gg	.
 10G	10dd	.
@@ -142,6 +145,7 @@
 .	10cccJ	.
 10AA\L	10bbL	.
 10E	10ee	.
+!!LO:LB:g=original
 =12	=12	=12
 10d	10aa	.
 *clefG2	*	*
@@ -168,6 +172,7 @@
 10GJ	10bJ	.
 10CC#XL	10ffnL	.
 10C#X	10a	.
+!!LO:LB:g=original
 =14	=14	=14
 10B-X	10een	.
 10e	10g	.
@@ -201,6 +206,7 @@
 10cJ	10dJ	.
 10GGGL	10eeL	.
 10GG	10g	.
+!!LO:LB:g=original
 =17	=17	=17
 10D	10dd	.
 10G	10g	.
@@ -237,6 +243,7 @@
 *clefF4	*	*
 5CCC 5CC	10ddL 10ddd	.
 .	10aa	.
+!!LO:LB:g=original
 =20	=20	=20
 10.GG 10.F 10.G	10cc 10ccc	.
 .	10gg	.
@@ -276,6 +283,7 @@
 *	*clefF4	*
 5F	10dL	.
 .	10A	.
+!!LO:LB:g=original
 =23	=23	=23
 10.GG	10c	.
 .	10G	.
