@@ -16,13 +16,13 @@
 *M3/4	*M3/4	*
 =1	=1	=1
 4r	2.r	.
-4.e	.	.
+4.e	.	mf
 8d#	.	.
 =2	=2	=2
 *	*Xtuplet	*
 *^	*^	*
 4r	[2.d#	4ryy	12r	.
-.	.	.	12dd#L	.
+.	.	.	12dd#L	p
 .	.	.	12g#J	.
 2E#X	.	4ryy	12a#L	.
 .	.	.	12cc#	.
@@ -53,7 +53,7 @@
 4BB 4F#] 4B	4d#	4b	.
 *	*v	*v	*
 *clefG2	*	*
-4.b	4r	.
+4.b	4r	mf
 .	4r	.
 8a#	.	.
 =6	=6	=6
@@ -134,15 +134,15 @@
 .	.	[12bbJ	.
 !!LO:LB:g=original
 =13	=13	=13	=13
-4EE 4BB] 4G#] 4e]	4b] 4bb]	4eee	.
+4EE 4BB] 4G#] 4e]	4b] 4bb]	4eee	pp
 *	*v	*v	*
-4.e	4r	.
+4.e	4r	p
 .	4r	.
 8d#	.	.
 =14	=14	=14
 *^	*	*
 4r	[2.d#	12r	.
-.	.	12dd#L	.
+.	.	12dd#L	ppp
 .	.	12g#J	.
 2E#X	.	12a#L	.
 .	.	12cc#	.
