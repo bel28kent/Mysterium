@@ -14,16 +14,16 @@
 *k[f#c#]	*k[f#c#]	*
 *D:	*D:	*
 *M4/2	*M4/2	*
-8AL	2c# 2g 2a	.
-8E	.	.
-8B	.	.
-8AJ	.	.
-8GL	2d 2g 2b	.
-8F#	.	.
-8A	.	.
-8GJ	.	.
+8AL	2c# 2g 2a	p <
+8E	.	(
+8B	.	(
+8AJ	.	(
+8GL	2d 2g 2b	(
+8F#	.	[
+8A	.	>
+8GJ	.	]
 =1	=1	=1
-8F#L	2c# 2a 2cc#	.
+8F#L	2c# 2a 2cc#	pp
 8AA	.	.
 8BB	.	.
 8AAJ	.	.
@@ -34,15 +34,15 @@
 10BJ	.	.
 *	*^	*
 8AL	2c# 2g	[4a	.
-8E	.	.	.
-8B	.	12aL]	.
-.	.	12g#X	.
-8AJ	.	.	.
-.	.	12aJ	.
+8E	.	.	<
+8B	.	12aL]	(
+.	.	12g#X	(
+8AJ	.	.	(
+.	.	12aJ	[
 8GL	2d 2gn	4..b	.
-8F#	.	.	.
-8A	.	.	.
-8GJ	.	.	.
+8F#	.	.	>
+8A	.	.	)
+8GJ	.	.	] pp
 .	.	16cc#	.
 *	*v	*v	*
 =2	=2	=2
@@ -58,10 +58,10 @@
 8C#	.	.
 8FF#	.	.
 8C#J	.	.
-8DL	2A#X 2e 2f#	.
-8C#	.	.
-8F#	.	.
-8C#J	.	.
+8DL	2A#X 2e 2f#	<
+8C#	.	(
+8F#	.	(
+8C#J	.	[
 !!LO:LB:g=original
 =3	=3	=3
 *	*^	*
@@ -82,7 +82,7 @@
 .	.	4g	.
 8d	.	.	.
 =4	=4	=4	=4
-8AA	2A	4f#	.
+8AA	2A	4f#	>
 4G	.	.	.
 .	.	4e	.
 8d	.	.	.
@@ -92,7 +92,7 @@
 8BJ	.	.	.
 8AL	2c# 2g	[4a	.
 8E	.	.	.
-8B	.	12aL]	.
+8B	.	12aL]	<
 .	.	12g#X	.
 8AJ	.	.	.
 .	.	12aJ	.
@@ -109,7 +109,7 @@
 8AAJ	.	.
 8DDL	2d 2f# 2dd	.
 8AA	.	.
-8D	.	.
+8D	.	<
 8AJ	.	.
 *	*^	*
 8dL	2f# 2ccn	[4dd	.
@@ -132,9 +132,9 @@
 8DJ	.	.
 8GGL	2g 2b 2gg	.
 8G	.	.
-8c#X	.	.
+8c#X	.	>
 8dJ	.	.
-8d#XL	2a 2b 2ff#	.
+8d#XL	2a 2b 2ff#	p
 8F#	.	.
 8BB	.	.
 8F#J	.	.
@@ -159,7 +159,7 @@
 8BB	.	4ff#	.
 8F#J	.	.	.
 8BL	2d#X 2an	4a#X	.
-8F#	.	.	.
+8F#	.	.	<
 8BB	.	4b	.
 8FF#J	.	.	.
 =8	=8	=8	=8
@@ -197,7 +197,7 @@
 4D	.	.	.
 .	.	4aa	.
 8c	.	.	.
-8AA#X	2g 2cc#X	4gg	.
+8AA#X	2g 2cc#X	4gg	>
 4Gn	.	.	.
 .	.	4ff#	.
 8c#X	.	.	.
@@ -210,11 +210,11 @@
 4G#X	.	.	.
 .	.	4ee#X	.
 8d	.	.	.
-8AAnL	2d 2a	2ff#	.
+8AAnL	2d 2a	2ff#	p
 8F#	.	.	.
 8c#	.	.	.
 8BnJ	.	.	.
-8AL	2d 2f#	2dd	.
+8AL	2d 2f#	2dd	>
 8G#	.	.	.
 8B	.	.	.
 8AJ	.	.	.
@@ -227,7 +227,7 @@
 8E	.	.	.
 8BB	.	.	.
 [8AAJ	.	.	.
-8DDL 8AA]	2c# 2g	[4a	.
+8DDL 8AA]	2c# 2g	[4a	pp
 8E	.	.	.
 8B	.	12aL]	.
 .	.	12g#X	.
@@ -288,13 +288,14 @@
 10AJ	.	.	.
 2a	.	.	.
 *	*v	*v	*
-2DD 2AA 2D	2F# 2d 2f#	.
+2DD 2AA 2D	2F# 2d 2f#	ppp
 =14	=14	=14
 0DD 0AA 0D	0F# 0d 0f#	.
 ==	==	==
 *-	*-	*-
 !!!system-decoration: {(*)}
 !!!filter: flipper -a
+!!!RDF**dynam: > = dim.
 !!!ENC: Bryan Jacob Bell
 !!!END: November 2021 to April 2022
 !!!PED: Günter Philipp
