@@ -14,7 +14,7 @@
 *k[]	*k[]	*
 *C:	*C:	*
 *M2/2	*M2/2	*
-10CCL	10ddL	.
+10CCL	10ddL	p
 10GG	10a	.
 =1	=1	=1
 10F	10cc	.
@@ -22,9 +22,9 @@
 10fJ	10dJ	.
 *Xtuplet	*Xtuplet	*
 5r	10ddL	.
-.	10ee	.
-5.r	10aa	.
-.	10gg	.
+.	10ee	<
+5.r	10aa	>
+.	10gg	]
 .	10eeJ	.
 10CCL	10ddL	.
 10GG	10a	.
@@ -37,7 +37,7 @@
 10E	10cc	.
 10G	10g	.
 10eJ	10cJ	.
-10CCL	10ggL	.
+10CCL	10ggL	<
 10C	10dd	.
 !!LO:LB:g=original
 =3	=3	=3
@@ -45,9 +45,9 @@
 10c	10cc	.
 10b-XJ	10gJ	.
 5r	10ggL	.
-.	10aa	.
-5.r	10ddd	.
-.	10ccc	.
+.	10aa	<
+5.r	10ddd	>
+.	10ccc	]
 .	10aaJ	.
 10CCL	10ggL	.
 10C	10dd	.
@@ -60,7 +60,7 @@
 10A	10ff	.
 10c	10cc	.
 10aJ	10fJ	.
-10DDL	10ffL	.
+10DDL	10ffL	<
 10D	10cc	.
 =5	=5	=5
 10A	10ee	.
@@ -83,7 +83,7 @@
 5.r	10gg	.
 .	10ff	.
 .	10eeJ	.
-10DDDL	10ddL	.
+10DDDL	10ddL	<
 10DD	10cc	.
 =7	=7	=7
 10AA	10ee	.
@@ -91,7 +91,7 @@
 10cJ	10fJ	.
 5r	10ffL	.
 .	10cc	.
-5.r	10eee	.
+5.r	10eee	f
 .	10ddd	.
 .	10cccJ	.
 10GGGL	10aaL	.
@@ -101,7 +101,7 @@
 10B	10b	.
 10fJ	10gJ	.
 *tuplet	*	*
-6B	10ddL	.
+6B	10ddL	>
 .	10b	.
 6F	.	.
 .	10gg	.
@@ -109,7 +109,7 @@
 6GG	.	.
 .	10gJ	.
 *Xtuplet	*	*
-10CCL	10aaL	.
+10CCL	10aaL	p
 10GG	10ee	.
 !!LO:LB:g=original
 =9	=9	=9
@@ -143,7 +143,7 @@
 5.r	10eee	.
 .	10ddd	.
 .	10cccJ	.
-10AA\L	10bbL	.
+10AA\L	10bbL	pp
 10E	10ee	.
 !!LO:LB:g=original
 =12	=12	=12
@@ -165,7 +165,7 @@
 10c	10ff#X	.
 10f#X	10a	.
 10AJ	10ccJ	.
-10EEnL	10ee#XL	.
+10EEnL	10ee#XL	<
 10E	10ff#	.
 10B	10aa	.
 10e	10gg	.
@@ -227,7 +227,7 @@
 10F	10g 10gg	.
 10B	10dd	.
 10dJ	10gJ	.
-5CCC 5CC	10ddL 10ddd	.
+5CCC 5CC	10ddL 10ddd	ff
 .	10aa	.
 =19	=19	=19
 10.GG 10.F 10.G	10cc 10ccc	.
@@ -311,7 +311,7 @@
 5GGG 5GG	10r	.
 .	10r	.
 =25	=25	=25
-4CCC 4CC	4r	.
+4CCC 4CC	4r	ff
 *	*clefG2	*
 4E 4G 4c 4e	4cc 4ee 4gg 4ccc	.
 2r	2r	.
