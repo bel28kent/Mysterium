@@ -16,7 +16,7 @@
 *M3/4	*M3/4	*
 =1	=1	=1
 *	*^	*
-2.r	8r	8.aL	.
+2.r	8r	8.aL	p
 .	8c# 8e	.	.
 .	.	16aJk	.
 .	8c#L 8e	[4a	.
@@ -78,7 +78,7 @@
 !!LO:LB:g=original
 =7	=7	=7
 *	*^	*
-16ALL	4.c# 4.f#	4.cc#	.
+16ALL	4.c# 4.f#	4.cc#	f
 16AA	.	.	.
 16F#	.	.	.
 16c#JJ	.	.	.
@@ -100,7 +100,7 @@
 *	*v	*v	*
 =9	=9	=9
 *^	*	*
-2GG#	8rA	8.AL	.
+2GG#	8rA	8.AL	p
 .	8F# 8B#X 8d#	.	.
 .	.	16aJk	.
 .	8rA	4.a	.
@@ -138,7 +138,7 @@
 [8GGG# [8GG#	8rA	8r	.
 !!LO:LB:g=original
 =13	=13	=13	=13
-2GGG#] 2GG#]	8rA	8.DnL 8.dn	.
+2GGG#] 2GG#]	8rA	8.DnL 8.dn	f
 .	8F# 8A	.	.
 .	.	16dJk 16ddn	.
 .	8rA	4.d 4.dd	.
@@ -174,7 +174,7 @@
 .	[8d# [8f#	.	.
 *v	*v	*	*
 =17	=17	=17
-8d#L] 8f#]	4A#X 4a#X	.
+8d#L] 8f#]	4A#X 4a#X	p
 8d#J 8f#	.	.
 4r	2An [2an	.
 4r	.	.
@@ -182,7 +182,7 @@
 2.r	2.a]	.
 =19	=19	=19
 *	*^	*
-2.r	8r	8.aL	.
+2.r	8r	8.aL	pp
 .	8c# 8e	.	.
 .	.	16aJk	.
 .	8c#L 8e	[4a	.
