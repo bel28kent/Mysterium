@@ -15,11 +15,11 @@
 *c:	*c:	*
 *M3/4	*M3/4	*
 *Xtuplet	*Xtuplet	*
-4r	6ee- 6eee-	.
-.	12dd 12ddd	.
+4r	6ee- 6eee-	<
+.	12dd 12ddd	[
 =1	=1	=1
 *	*^	*
-12AA-L 12A-	[4ff [4fff	2ccc	.
+12AA-L 12A-	[4ff [4fff	2ccc	f
 12c	.	.	.
 12FJ	.	.	.
 4cc	12ffL] 12fff]	.	.
@@ -33,7 +33,7 @@
 12AA-L 12A-	12ryy	2bn	4e- 4ee-	.
 12G-X 12g-X	6Bn	.	.	.
 12FJ 12f	.	.	.	.
-12r	12r	.	4d 4dd	.
+12ryy	12rC	.	4d 4dd	.
 12G-L 12g-	6B	.	.	.
 12FJ 12f	.	.	.	.
 *v	*v	*	*	*
@@ -43,7 +43,7 @@
 12AA-J 12A-	.	.	.
 !!LO:LB:g=original
 =3	=3	=3	=3
-12r	4gn 4ggn	4bn	.
+12r	4gn 4ggn	4bn	<
 12DL 12Bn 12d	.	.	.
 12GGJ 12G	.	.	.
 12r	8anL 8aan	4gg	.
@@ -55,18 +55,18 @@
 .	8ee-J 8eee-	.	.
 12CCJ 12C	.	.	.
 =4	=4	=4	=4
-12E-L 12c 12e-	4gg 4ggg	4ccc	.
-12AAA- 12AA-	.	.	.
-12AAAnJ 12AAn	.	.	.
-12F#XL 12c 12f#X	4ff#X 4fff#X	4ccc	.
+12E-L 12c 12e-	4gg 4ggg	4ccc	>
+12AAA- 12AA-	.	.	)
+12AAAnJ 12AAn	.	.	)
+12F#XL 12c 12f#X	4ff#X 4fff#X	4ccc	]
 12DD 12D	.	.	.
 12AAJ 12An	.	.	.
-12cL 12f# 12cc	8ee-L 8eee-	4aan	.
-12F# 12c 12f#	.	.	.
-.	8ddJ 8ddd	.	.
-12CJ 12F# 12c	.	.	.
+12cL 12f# 12cc	8ee-L 8eee-	4aan	<
+12F# 12c 12f#	.	.	(
+.	8ddJ 8ddd	.	(
+12CJ 12F# 12c	.	.	[
 =5	=5	=5	=5
-12AAA-L 12AA-	[4ffn [4fffn	2ccc	.
+12AAA-L 12AA-	[4ffn [4fffn	2ccc	sf
 12F 12c 12f	.	.	.
 12CJ 12F 12c	.	.	.
 4c 4f 4cc	12ffL] 12fff]	.	.
@@ -78,10 +78,10 @@
 !!LO:LB:g=original
 =6	=6	=6	=6
 *^	*	*	*
-12AA-L 12A-	12ryy	2cc-X	4e- 4ee-	.
-12G-X 12g-X	6c-X	.	.	.
-12FJ 12f	.	.	.	.
-12r	12r	.	4d 4dd	.
+12AA-L 12A-	12ryy	2cc-X	4e- 4ee-	>
+12G-X 12g-X	6c-X	.	.	)
+12FJ 12f	.	.	.	)
+12ryy	12rC	.	4d 4dd	]
 12G-L 12g-	6c-	.	.	.
 12FJ 12f	.	.	.	.
 *v	*v	*	*	*
@@ -90,7 +90,7 @@
 .	.	8dnJ 8ddn	.
 12AA-J 12A-	.	.	.
 =7	=7	=7	=7
-12r	4dd-X	4e- 4ee-	.
+12r	4dd-X	4e- 4ee-	<
 12E-L 12B- 12e-	.	.	.
 12GGJ 12G	.	.	.
 12E-L 12B- 12e-	8fL 8ff	4dd-	.
@@ -112,14 +112,14 @@
 12B-L 12g 12b-	4r	.
 12C 12c	.	.
 12cJ 12cc	.	.
-12cL 12b- 12cc	6cc 6ccc	.
+12cL 12b- 12cc	6cc 6ccc	<
 12CJ 12c	.	.
 *	*8va	*
 12r	12ccc 12cccc	.
 !!LO:LB:g=original
 =9	=9	=9
 *	*^	*
-12FFFL 12FF\	[4ccc [4cccc	2fff	.
+12FFFL 12FF\	[4ccc [4cccc	2fff	ff
 12A- 12a-	.	.	.
 12CJ 12c	.	.	.
 6A- 6dn 6f 6cc	12cccL] 12cccc]	.	.
@@ -139,7 +139,7 @@
 12EE-L 12E-	12ryy	4a- 4cc 4aa-	.
 12D 12d	6A-	.	.
 12E-J 12e-	.	.	.
-12r	12r	4cc 4ee-	.
+12ryy	12rC	4cc 4ee-	.
 12B-L 12b-	6e-	.	.
 12A-J 12a-	.	.	.
 *v	*v	*	*
@@ -170,7 +170,7 @@
 12BB-L 12B-	6E-	.	.
 12AA-J 12A-	.	.	.
 *v	*v	*	*
-6GGn 6Gn	4r	.
+6GGn 6Gn	4r	f
 12FF#X 12F#X	.	.
 =13	=13	=13
 *	*^	*
@@ -190,12 +190,12 @@
 .	.	12a-L	.
 .	.	12anJ	.
 4FFF#X 4FF#X	4ryy	4e- 4a 4ee-	.
-4E- 4An 4e-	4a	6d 6dd	.
+4E- 4An 4e-	4a	6d 6dd	>
 .	.	12c 12cc	.
 *	*v	*v	*
 !!LO:LB:g=original
 =15	=15	=15
-12r	2c 2e- 2cc	.
+12r	2c 2e- 2cc	mf
 12r	.	.
 12GGG 12GG	.	.
 12CCL 12C	.	.
@@ -213,7 +213,7 @@
 4GG 4G	4Bn	6A- 6a-	.
 .	.	12G 12g	.
 =17	=17	=17	=17
-6GG 6G	4en	[4d-X [4dd-X	.
+6GG 6G	4en	[4d-X [4dd-X	p
 12CC	.	.	.
 4AA- 4A-	4f	12d-L] 12dd-]	.
 .	.	12c 12cc	.
@@ -227,16 +227,20 @@
 =18	=18	=18
 12r	2C 2F 2c	.
 12r	.	.
-12CCC 12CC	.	.
-12FFFL 12FF	.	.
-12GGG 12GG	.	.
-12AAA-J 12AA-	.	.
-6EE- 6E-	4BBn 4F 4Bn	.
-12DD-X 12D-X	.	.
+!	!	!LO:DY:b=2
+12CCC 12CC	.	p
+!	!	!LO:HP:b=2
+12FFFL 12FF	.	<
+12GGG 12GG	.	(
+12AAA-J 12AA-	.	[
+!	!	!LO:DY:b=2
+6EE- 6E-	4BBn 4F 4Bn	sf
+!	!	!LO:HP:b=2
+12DD-X 12D-X	.	>
 =19	=19	=19
-12CCL 12C	4C 4F 4c	.
-12AAA- 12AA-	.	.
-12GGGJ 12GG	.	.
+12CCL 12C	4C 4F 4c	)
+12AAA- 12AA-	.	)
+12GGGJ 12GG	.	]
 4FFF 4FF	4C 4A- 4dn	.
 12r	12r	.
 12r	12r	.
@@ -249,7 +253,7 @@
 *v	*v	*	*	*
 =21	=21	=21	=21
 *8ba	*	*	*
-8CCCL	[2.c [2.e-	[2.cc	.
+8CCCL	[2.c [2.e-	[2.cc	pp
 *X8ba	*	*	*
 8CC	.	.	.
 8C	.	.	.
@@ -264,6 +268,7 @@
 *-	*-	*-
 !!!system-decoration: {(*)}
 !!!filter: flipper -a
+!!!RDF**dynam: > = dim.
 !!!ENC: Bryan Jacob Bell
 !!!END: November 2021 to April 2022
 !!!PED: Günter Philipp
