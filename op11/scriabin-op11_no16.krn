@@ -49,6 +49,7 @@
 24DD-LL	8rF	24D-LL	8rA	.
 24GG-	.	24G-	.	.
 24BB-JJ	.	24B-JJ	.	.
+!!LO:LB:g=original
 =5	=5	=5	=5	=5
 *M5/8	*M5/8	*M5/8	*M5/8	*
 8FL	[4.F	8fL	[4.f	.
@@ -83,6 +84,7 @@
 24FFLL	24FLL	.
 24GGn	24Gn	.
 24BB-JJ	24B-JJ	.
+!!LO:LB:g=original
 =9	=9	=9
 *^	*^	*
 *M5/8	*M5/8	*M5/8	*M5/8	*
@@ -116,6 +118,7 @@
 24EE-LL	8rF	24E-LL	8rff	.
 24BB-	.	24B-	.	.
 24E-JJ	.	24e-JJ	.	.
+!!LO:LB:g=original
 =13	=13	=13	=13	=13
 *M5/8	*M5/8	*M5/8	*M5/8	*
 8G-L	[4.G-	8g-L	[4.g-	.
@@ -149,6 +152,7 @@
 24BB-LL	24B-LL	.
 24D-	24d-	.
 24G-JJ	24g-JJ	.
+!!LO:LB:g=original
 =17	=17	=17
 *^	*^	*
 *M5/8	*M5/8	*M5/8	*M5/8	*
@@ -180,6 +184,7 @@
 24AA-LL	8rF	24A-LL	8rff	.
 24C-X	.	24c-X	.	.
 24F-XJJ	.	24f-XJJ	.	.
+!!LO:LB:g=original
 =21	=21	=21	=21	=21
 *M5/8	*M5/8	*M5/8	*M5/8	*
 8c-L	4.c-X	8cc-L	4.cc-X	.
@@ -210,6 +215,7 @@
 24GG-LL	8rF	24G-LL	8rff	.
 24BB-	.	24B-	.	.
 24E-JJ	.	24e-JJ	.	.
+!!LO:LB:g=original
 =25	=25	=25	=25	=25
 *M5/8	*M5/8	*M5/8	*M5/8	*
 8B-L	4.B-	8b-L	4.b-	.
@@ -249,6 +255,7 @@
 8AAAn 8AAn	8An	.
 8GGG-X 8GG-X	8G-X	.
 8AAA-XJ 8AA-X	8A-XJ	.
+!!LO:LB:g=original
 =30	=30	=30
 8GGGnL 8GGn	8GnL	.
 8AAAn 8AAn	8An	.
@@ -285,6 +292,7 @@
 24BBB-LL 24BB-	24B-LL	8rff	.
 24D-	24d-	.	.
 24G-JJ	24g-JJ	.	.
+!!LO:LB:g=original
 =35	=35	=35	=35
 *M5/8	*M5/8	*M5/8	*
 8D-L 8d-	8dd-L	4.d- 4.dd-	.
@@ -325,6 +333,7 @@
 8E- 8e-	8ee-	8g-] 8gg-]	.
 8BB-J 8B-	8b-J	8rff	.
 *	*v	*v	*
+!!LO:LB:g=original
 =40	=40	=40
 *	*^	*
 *M4/8	*M4/8	*M4/8	*
@@ -367,6 +376,7 @@
 24FFLL	8rF	24FLL	8rff	.
 24BB-	.	24B-	.	.
 24CJJ	.	24cJJ	.	.
+!!LO:LB:g=original
 =45	=45	=45	=45	=45
 *M5/8	*M5/8	*M5/8	*M5/8	*
 8FL	[4.F	8fL	[4.f	.
@@ -398,6 +408,7 @@
 24BBB-LL	8rF	24BB-LL	8rF	.
 24CC	.	24C	.	.
 24EE-JJ	.	24E-JJ	.	.
+!!LO:LB:g=original
 =49	=49	=49	=49	=49
 *M5/8	*M5/8	*M5/8	*M5/8	*
 8BB-L	4.BB-	8B-L	4.B-	.
