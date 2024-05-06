@@ -16,15 +16,17 @@
 *M6/8	*M6/8	*
 =1	=1	=1
 8CC#L	8r	.
-8A 8g#	8cc#L 8gg#/	.
+!	!	!LO:DY:a=1
+8A 8g#	8cc#L 8gg#/	pp
 8EJ 8c#	8g#J 8ee	.
 8AL 8f##X	8cc#L 8ff##X/	.
 8D#J 8c#	8f##XJ 8dd#	.
 *	*^	*
-8r	8d#	8r	.
+8r	8d#	8r	mf
 =2	=2	=2	=2
 8CC#L	4.e	8r	.
-8E 8c#	.	8g#L 8ee	.
+!	!	!	!LO:DY:a=1
+8E 8c#	.	8g#L 8ee	pp
 8G#J 8g#	.	8eJ 8cc#	.
 *^	*	*	*
 8F##XL	4.c#	4.e	8a#XL	.
@@ -35,36 +37,36 @@
 =3	=3	=3
 8DD#L	8r	.
 8BB 8G#	8d#L 8b	.
-8D#J 8d#	8BJ 8g#	.
-8DD#\L	8r	.
-8C# 8F##X	8c#L 8an	.
-8EJ 8c#	8AJ 8e	.
+8D#J 8d#	8BJ 8g#	<
+8DD#\L	8r	(
+8C# 8F##X	8c#L 8an	(
+8EJ 8c#	8AJ 8e	[
 =4	=4	=4
-8GGG# 8GG#	8r	.
+8GGG# 8GG#	8r	>
 *^	*	*
-[4GG#	8D#L	8B#XL 8g#	.
-.	8EJ	8AJ 8c#	.
-4.GG#]	8G#L	8c#L 8g#	.
+[4GG#	8D#L	8B#XL 8g#	)
+.	8EJ	8AJ 8c#	)
+4.GG#]	8G#L	8c#L 8g#	)
 *	*	*^	*
-.	8D#	4d#	8B#	.
-.	8G#J	.	8b#XJ	.
+.	8D#	4d#	8B#	)
+.	8G#J	.	8b#XJ	]
 *	*	*v	*v	*
 !!LO:LB:g=original
 =5	=5	=5	=5
 8FF#	8A	8c# 8f# 8cc#	.
 *v	*v	*	*
 *clefG2	*	*
-8dnL 8cc#	8ff#L 8ccc#/	.
+8dnL 8cc#	8ff#L 8ccc#/	pp
 8AJ 8f#	8cc#J 8aa	.
 8dL 8b#X	8ff#L 8bb#X/	.
 8G#J 8f#	8b#XJ 8gg#	.
 *	*^	*
-8r	8g#	8r	.
+8r	8g#	8r	mf
 *clefF4	*	*	*
 =6	=6	=6	=6
 8FF#L	4.a	8r	.
 *clefG2	*	*	*
-8A 8f#	.	8cc#L 8aa	.
+8A 8f#	.	8cc#L 8aa	pp
 8c#J 8cc#	.	8aJ 8ff#	.
 *clefF4	*	*	*
 *^	*	*	*
@@ -77,33 +79,33 @@
 8GG#L	8r	.
 8E 8c#	8g#L 8ee	.
 8G#J 8g#	8eJ 8cc#	.
-8GG#L	8r	.
-8F# 8B#X	8f#L 8ddn	.
-8AJ 8f#	8dnJ 8a	.
+8GG#L	8r	<
+8F# 8B#X	8f#L 8ddn	(
+8AJ 8f#	8dnJ 8a	[
 =8	=8	=8
-8CC# 8C#	8r	.
+8CC# 8C#	8r	>
 *^	*	*
-[4C#	8G#L	8eL 8cc#	.
-.	8AJ	8d#XJ 8f#	.
-4C#]	8c#L	8f#L 8cc#	.
-.	8G#J	8e 8g#	.
-8r	8r	8eeJ	.
+[4C#	8G#L	8eL 8cc#	)
+.	8AJ	8d#XJ 8f#	)
+4C#]	8c#L	8f#L 8cc#	)
+.	8G#J	8e 8g#	)
+8r	8r	8eeJ	]
 *v	*v	*	*
 !!LO:LB:g=original
 =9	=9	=9
-8EEL 8E	8r	.
+8EEL 8E	8r	pp
 8BB 8B	8bL 8gg#	.
 8G#J 8d#	8g#J 8dd#	.
 8EL 8c#	8g#L 8ee	.
 8G# 8g#	8e 8cc#	.
 8BJ 8g#	8eJ 8b	.
 =10	=10	=10
-8BBBL 8BB	8r	.
-8BB 8B	8AL 8d# 8f#	.
-8BBJ 8B	8AJ 8d# 8f##X	.
+8BBBL 8BB	8r	<
+8BB 8B	8AL 8d# 8f#	(
+8BBJ 8B	8AJ 8d# 8f##X	[
 *	*^	*
-4.BB 4.B	4d#	4.G# 4.g#	.
-.	8e	.	.
+4.BB 4.B	4d#	4.G# 4.g#	>
+.	8e	.	]
 *	*v	*v	*
 =11	=11	=11
 8EEL 8E	8r	.
@@ -113,15 +115,15 @@
 8G# 8g#	8e 8cc#	.
 8BJ 8g#	8eJ 8b	.
 =12	=12	=12
-8BBBL 8BB	8r	.
-8BB 8B	8AL 8d# 8f#	.
-8BBJ 8B	8AJ 8d# 8f##X	.
-8BBL 8B	4.G# 4.dn 4.f#X 4.g#	.
+8BBBL 8BB	8r	<
+8BB 8B	8AL 8d# 8f#	(
+8BBJ 8B	8AJ 8d# 8f##X	[
+8BBL 8B	4.G# 4.dn 4.f#X 4.g#	f
 8BB#X 8B#X	.	.
 8GG#J 8G#	.	.
 !!LO:LB:g=original
 =13	=13	=13
-8CCC#L 8CC#	8r	.
+8CCC#L 8CC#	8r	fff
 *	*^	*
 8A 8c# 8a	4g# 4cc#	8gg#L	.
 8EJ 8e	.	8eeJ	.
@@ -146,16 +148,23 @@
 8GG#J 8G#	.	8g#J	.
 *	*v	*v	*
 =16	=16	=16
-8CCC#L 8CC#	8r	.
+8CCC#L 8CC#	8r	sf
 8AA 8F#	8c#L 8a	.
 8C#J 8c#	8AJ 8f#	.
 *^	*^	*
 8BB#XL	4.F#	4.A	8d#XL	.
-8C#	.	.	8c#	.
-8C#J	.	.	8c#J	.
+8C#	.	.	8c#	sff
+8C#J	.	.	8c#J	sff
 !!LO:LB:g=original
 =17	=17	=17	=17	=17
-8FF#	4.C#	8F# 8A	4.c#	.
+*	*	*	*	*^
+*	*	*	*	*	*^
+*	*	*	*	*	*	*^
+!	!	!	!	!LO:DY:b=2	!LO:DY:a=2	!LO:DY:b=1	!LO:DY:a=1
+8FF#	4.C#	8F# 8A	4.c#	p	sff	p	sff
+*	*	*	*	*	*	*v	*v
+*	*	*	*	*	*v	*v
+*	*	*	*	*v	*v
 8r	.	8r	.	.
 8r	.	8r	.	.
 8EE	[4.C#	8E 8A 8e	[4.c#	.
@@ -168,7 +177,8 @@
 8r	.	8r	.	.
 *	*	*v	*v	*
 =19	=19	=19	=19
-8CCC#L	2.C#_	2.c#_	.
+!	!	!	!LO:DY:b=2
+8CCC#L	2.C#_	2.c#_	pp
 8CC#	.	.	.
 8GG#J	.	.	.
 8E/L	.	.	.
