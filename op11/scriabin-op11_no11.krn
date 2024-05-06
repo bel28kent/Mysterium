@@ -57,6 +57,7 @@
 16g	8gnJ	.	8eeJ	.
 16BJJ	.	.	.	.
 *	*	*v	*v	*
+!!LO:LB:g=original
 =4	=4	=4	=4
 16CC#LL 16C#	8ryy	2.e 2.b 2.ee 2.ggn	.
 16Gn	.	.	.
@@ -112,6 +113,7 @@
 16G#	.	.	.	.
 16B	8BJ	8f#J	8dd#J	.
 16EJJ	.	.	.	.
+!!LO:LB:g=original
 =8	=8	=8	=8	=8
 16FF#LL 16F#	8ryy	2.f#	4.dd#	.
 16E	.	.	.	.
@@ -167,6 +169,7 @@
 16g	8gnJ	.	8eeJ	.
 16BJJ	.	.	.	.
 *	*	*v	*v	*
+!!LO:LB:g=original
 =12	=12	=12	=12
 16CC#LL 16C#	8ryy	2.e 2.b 2.ee 2.ggn	.
 16Gn	.	.	.
@@ -223,6 +226,7 @@
 16d#	8d#J	.	8gg#XJ	.
 16D#JJ	.	.	.	.
 *	*	*v	*v	*
+!!LO:LB:g=original
 =16	=16	=16	=16
 16GG##XLL 16G##X	8ryy	4.f# 4.dd# 4.bb	.
 16F#X	.	.	.
@@ -269,6 +273,7 @@
 16c#	16cc#	.
 16cc#	16ee#	.
 16f#JJ	16ff#JJ	.
+!!LO:LB:g=original
 =19	=19	=19
 *	*^	*
 16BB#XLL	4.g# 4.dd# 4.ff#	4gg#	.
@@ -329,6 +334,7 @@
 16G#	.	.	.
 16D#	.	8dd#J	.
 16GG#JJ	.	.	.
+!!LO:LB:g=original
 =23	=23	=23	=23
 16CC#LL	4.g# 4.b	4ee	.
 16GG#	.	.	.
@@ -385,6 +391,7 @@
 16g#	8g#J	.	8ee	.
 16BJJ	.	.	.	.
 *v	*v	*	*	*
+!!LO:LB:g=original
 =27	=27	=27	=27
 16BBBLL	2.e	4.a# 4.gg#	.
 16FF#	.	.	.
@@ -445,6 +452,7 @@
 16g#	8g#J	.	8ee	.
 16BJJ	.	.	.	.
 *v	*v	*	*	*
+!!LO:LB:g=original
 =31	=31	=31	=31
 16BBBLL	2.e	4.a# 4.gg#	.
 16FF#	.	.	.
@@ -502,6 +510,7 @@
 16BB	.	8ff#	.
 16FF#JJ	.	.	.
 *	*v	*v	*
+!!LO:LB:g=original
 =35	=35	=35
 *	*^	*
 16BBBLL	4.e 4.b	4.gg#	.
