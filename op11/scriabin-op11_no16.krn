@@ -15,7 +15,7 @@
 *b-:	*b-:	*
 *M5/8	*M5/8	*
 *^	*^	*
-24BBB-LL	8rF	24BB-LL	8rA	.
+24BBB-LL	8rF	24BB-LL	8rA	p
 24CC	.	24C	.	.
 24EE-JJ	.	24E-JJ	.	.
 =1	=1	=1	=1	=1
@@ -52,7 +52,7 @@
 !!LO:LB:g=original
 =5	=5	=5	=5	=5
 *M5/8	*M5/8	*M5/8	*M5/8	*
-8FL	[4.F	8fL	[4.f	.
+8FL	[4.F	8fL	[4.f	<
 8E-	.	8e-	.	.
 8BB-	.	8B-	.	.
 8D-J	8F]	8d-J	8f]	.
@@ -69,7 +69,7 @@
 24AAn	.	24An	.	.
 24D-JJ	.	24d-JJ	.	.
 =7	=7	=7	=7	=7
-8FL	4.F	8fL	4.f	.
+8FL	4.F	8fL	4.f	>
 8E-	.	8e-	.	.
 8C	.	8c	.	.
 8D-	4rc	8d-	4rff	.
@@ -81,7 +81,7 @@
 8CL	8cL	.
 8GG-	8G-	.
 8FFJ	8FJ	.
-24FFLL	24FLL	.
+24FFLL	24FLL	p
 24GGn	24Gn	.
 24BB-JJ	24B-JJ	.
 !!LO:LB:g=original
@@ -160,7 +160,7 @@
 8c	.	8cc	.	.
 8G-	.	8g-	.	.
 8B-	8.d-L	8b-	8.dd-L	.
-8D-J	.	8d-J	.	.
+8D-J	.	8d-J	.	<
 .	16d-Jk	.	16dd-Jk	.
 =18	=18	=18	=18	=18
 8d-L	4.d-	8dd-L	4.dd-	.
@@ -181,7 +181,7 @@
 8G-L	4.c-]	8g-L	4.cc-]	.
 8F	.	8f	.	.
 8E-J	.	8e-J	.	.
-24AA-LL	8rF	24A-LL	8rff	.
+24AA-LL	8rF	24A-LL	8rff	pp
 24C-X	.	24c-X	.	.
 24F-XJJ	.	24f-XJJ	.	.
 !!LO:LB:g=original
@@ -218,7 +218,7 @@
 !!LO:LB:g=original
 =25	=25	=25	=25	=25
 *M5/8	*M5/8	*M5/8	*M5/8	*
-8B-L	4.B-	8b-L	4.b-	.
+8B-L	4.B-	8b-L	4.b-	<
 8F	.	8f	.	.
 8Dn	.	8dn	.	.
 8E-	8.B-L	8e-	8.b-L	.
@@ -244,14 +244,14 @@
 8G-	.	8g-	.	.
 8E-	.	8e-	.	.
 8EnJ	8c]	8enJ	8cc]	.
-24FFLL	8rF	24FLL	8rff	.
+24FFLL	8rF	24FLL	8rff	mf
 24AAn	.	24An	.	.
 24D-JJ	.	24d-JJ	.	.
 *	*	*v	*v	*
 *v	*v	*	*
 =29	=29	=29
 8FFL 8F	8fL	.
-8GGGn 8GGn	8Gn	.
+8GGGn 8GGn	8Gn	<
 8AAAn 8AAn	8An	.
 8GGG-X 8GG-X	8G-X	.
 8AAA-XJ 8AA-X	8A-XJ	.
@@ -273,12 +273,12 @@
 8AAAn 8AAn	8An	.
 8CC-X 8C-X	8c-X	.
 8DD-J 8D-	8d-J	.
-24BBB-LL 24BB-	24B-LL	.
-24Cn	24cn	.
-24E-JJ	24e-JJ	.
-=33	=33	=33
 *	*^	*
-8BB-L 8B-	8b-L	4.B- 4.b-	.
+24BBB-LL 24BB-	24B-LL	8r	.
+24Cn	24cn	.	.
+24E-JJ	24e-JJ	.	.
+=33	=33	=33	=33
+8BB-L 8B-	8b-L	4.B- 4.b-	ff
 8AA- 8A-	8a-	.	.
 8EE- 8E-	8e-	.	.
 8GG- 8G-	8g-	8.B-L 8.b-	.
@@ -312,7 +312,7 @@
 =37	=37	=37	=37
 *M5/8	*M5/8	*M5/8	*
 8FL 8f	8ffL	[4.f [4.ff	.
-8E- 8e-	8ee-	.	.
+8E- 8e-	8ee-	.	<
 8BB- 8B-	8b-	.	.
 8D-J 8d-	8dd-J	8f] 8ff]	.
 24DDnLL 24Dn	24dnLL	8rff	.
@@ -323,7 +323,7 @@
 8D-X 8d-X	8dd-X	.	.
 8BB- 8B-	8b-	.	.
 8C-XJ 8c-X	8cc-XJ	8f] 8ff]	.
-24EE-LL 24E-/	24e-LL	8rff	.
+24EE-LL 24E-/	24e-LL	8rff	ff
 24G-	24g-	.	.
 24c-JJ	24cc-JJ	.	.
 =39	=39	=39	=39
@@ -340,40 +340,40 @@
 8C-XL 8c-X	8cc-XL	2r	.
 8AA- 8A-	8a-	.	.
 8GG-J 8G-	8g-J	.	.
-24EE-LL	24E-LL	.	.
+24EE-LL	24E-LL	.	p
 24GG-	24G-	.	.
 24C-JJ	24c-XJJ	.	.
 =41	=41	=41	=41
 *^	*	*	*
 *M5/8	*M5/8	*M5/8	*M5/8	*
 8G-L	4.G-	8g-L	4.g-	.
-8F	.	8f	.	.
-8C-X	.	8c-X	.	.
-8E-	8.G-L	8e-	8.g-L	.
+8F	.	8f	.	<
+8C-X	.	8c-X	.	(
+8E-	8.G-L	8e-	8.g-L	[
 8BB-J	.	8B-J	.	.
 .	16G-Jk	.	16g-Jk	.
 =42	=42	=42	=42	=42
 *M4/8	*M4/8	*M4/8	*M4/8	*
 8D-L	4.G-	8d-L	4.g-	.
-8GG-	.	8G-	.	.
-8FF-XJ	.	8F-XJ	.	.
+8GG-	.	8G-	.	>
+8FF-XJ	.	8F-XJ	.	]
 24EE-LL	8rF	24E-LL	8rff	.
 24GG-	.	24G-	.	.
 24C-XJJ	.	24c-XJJ	.	.
 =43	=43	=43	=43	=43
 *M5/8	*M5/8	*M5/8	*M5/8	*
 8G-L	4.G-	8g-L	4.g-	.
-8F	.	8f	.	.
-8C-X	.	8c-X	.	.
-8E-	8.G-L	8e-	8.g-L	.
+8F	.	8f	.	<
+8C-X	.	8c-X	.	(
+8E-	8.G-L	8e-	8.g-L	[
 8BB-J	.	8B-J	.	.
 .	16G-Jk	.	16g-Jk	.
 =44	=44	=44	=44	=44
 *M4/8	*M4/8	*M4/8	*M4/8	*
 8D-L	4.G-	8d-L	4.g-	.
-8GG-	.	8G-	.	.
-8EEnJ	.	8EnJ	.	.
-24FFLL	8rF	24FLL	8rff	.
+8GG-	.	8G-	.	>
+8EEnJ	.	8EnJ	.	]
+24FFLL	8rF	24FLL	8rff	>
 24BB-	.	24B-	.	.
 24CJJ	.	24cJJ	.	.
 !!LO:LB:g=original
@@ -382,12 +382,12 @@
 8FL	[4.F	8fL	[4.f	.
 8C	.	8c	.	.
 8AAn	.	8An	.	.
-8BB-	4F_	8B-	4f_	.
-8CJ	.	8cJ	.	.
+8BB-	4F_	8B-	4f_	<
+8CJ	.	8cJ	.	[
 =46	=46	=46	=46	=46
 *M4/8	*M4/8	*M4/8	*M4/8	*
-8E-L	4.F]	8e-L	4.f]	.
-8C	.	8c	.	.
+8E-L	4.F]	8e-L	4.f]	>
+8C	.	8c	.	]
 8BB-J	.	8B-J	.	.
 24FFLL	8rF	24FLL	8rff	.
 24AAn	.	24An	.	.
@@ -411,7 +411,7 @@
 !!LO:LB:g=original
 =49	=49	=49	=49	=49
 *M5/8	*M5/8	*M5/8	*M5/8	*
-8BB-L	4.BB-	8B-L	4.B-	.
+8BB-L	4.BB-	8B-L	4.B-	pp
 8AA-	.	8A-	.	.
 8EE-	.	8E-	.	.
 8GG-	8.BB-L	8G-	8.B-L	.
@@ -437,7 +437,7 @@
 8DD-J	.	8D-J	.	.
 *	*	*v	*v	*
 *v	*v	*	*
-8.BBB-L 8.FF 8.BB-	8.FL 8.B- 8.f	.
+8.BBB-L 8.FF 8.BB-	8.FL 8.B- 8.f	ppp
 16BBB-Jk 16FF 16BB-	16FJk 16B- 16f	.
 =53	=53	=53
 *M4/8	*M4/8	*
@@ -446,6 +446,7 @@
 *-	*-	*-
 !!!system-decoration: {(*)}
 !!!filter:flipper -a
+!!!RDF**dynam: > = dim.
 !!!ENC: Bryan Jacob Bell
 !!!END: November 2021 to April 2022
 !!!PED: Günter Philipp
