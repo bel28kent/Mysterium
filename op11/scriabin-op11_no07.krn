@@ -183,15 +183,13 @@
 .	16e	.	.
 .	16cn	8a 8ccn	.
 .	16e	.	.
-!	!	!	!LO:DY:b=2
+!	!	!	!LO:HP:b=2
 8BBB 8BB	16c	[8aJ [8cc	<
-!	!	!	!LO:DY:b=2
+!	!	!	!LO:HP:b=2
 .	16d#XJJ	.	(
-!	!	!	!LO:DY:b=2
+!	!	!	!LO:HP:b=2
 8GGnL 8Gn	16cLL	4a] 4cc]	[ >
-!	!	!	!LO:DY:b=2
 .	16e	.	)
-!	!	!	!LO:DY:b=2
 8FF# 8F#	16c	.	]
 .	16d#	.	.
 8AAAJ 8AA	16c	8a 8cc	.
@@ -201,8 +199,11 @@
 .	16e	.	.
 .	16cn	8a 8ccn	.
 .	16e	.	.
+!	!	!	!LO:HP:b=2
 8BBB 8BB	16c	[8aJ [8cc	<
+!	!	!	!LO:HP:b=2
 .	16d#XJJ	.	(
+!	!	!	!LO:HP:b=2
 8GGnL 8Gn	16cLL	4a] 4cc]	[ >
 .	16e	.	)
 8FF# 8F#	16c	.	]
