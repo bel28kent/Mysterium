@@ -17,7 +17,7 @@
 =1	=1	=1
 *^	*	*
 *	*^	*	*
-4.A#X\	2.c#	[4.f##X	8r	.
+4.A#X\	2.c#	[4.f##X	8r	p
 .	.	.	8dd#L	.
 .	.	.	8cc##XJ	.
 4.An\	.	8.f##L]	8eeL	.
@@ -41,16 +41,16 @@
 8r	2.c#\	4.c#]	4.f#	.
 8D#L	.	.	.	.
 8EJ	.	.	.	.
-8DnL	.	8.c#L	4f##X	.
-8D#X	.	.	.	.
-.	.	8.f##J	.	.
-8AJ	.	.	8dd#	.
+8DnL	.	8.c#L	4f##X	<
+8D#X	.	.	.	(
+.	.	8.f##J	.	(
+8AJ	.	.	8dd#	[
 =4	=4	=4	=4	=4
-8G#L	4.d#\	[4.f#X	4.cc#	.
-8A	.	.	.	.
-8F##XJ	.	.	.	.
+8G#L	4.d#\	[4.f#X	4.cc#	>
+8A	.	.	.	)
+8F##XJ	.	.	.	)
 *	*	*v	*v	*
-8G#L	4.f#]	4.b#X	.
+8G#L	4.f#]	4.b#X	]
 8e	.	.	.
 8d#J	.	.	.
 *	*v	*v	*
@@ -78,26 +78,26 @@
 =7	=7	=7
 *	*^	*
 *	*	*^	*
-8r	2.f#\	4.f#]	4.b	.
-8G#L	.	.	.	.
-8AJ	.	.	.	.
-8GnL	.	8.f#L	4b#X	.
-8G#X	.	.	.	.
-.	.	8.b#J	.	.
-8dnJ	.	.	8gg#	.
+8r	2.f#\	4.f#]	4.b	<
+8G#L	.	.	.	(
+8AJ	.	.	.	(
+8GnL	.	8.f#L	4b#X	(
+8G#X	.	.	.	(
+.	.	8.b#J	.	(
+8dnJ	.	.	8gg#	[
 =8	=8	=8	=8	=8
-8c#L	4.g#\	4.bn	4.ff#	.
-8dn	.	.	.	.
-8B#XJ	.	.	.	.
+8c#L	4.g#\	4.bn	4.ff#	>
+8dn	.	.	.	)
+8B#XJ	.	.	.	)
 *	*	*v	*v	*
 *	*v	*v	*
 *^	*	*
 *	*^	*	*
-4.c#\	8g#L	[4.bn	8ee#XL	.
-.	8f#	.	8ddn	.
-.	8e#XJ	.	8cc#J	.
+4.c#\	8g#L	[4.bn	8ee#XL	)
+.	8f#	.	8ddn	)
+.	8e#XJ	.	8cc#J	]
 =9	=9	=9	=9	=9
-4.c#\	[2.en	8bL]	[4.een	.
+4.c#\	[2.en	8bL]	[4.een	p
 .	.	8a	.	.
 .	.	8g#J	.	.
 4.B\	.	4.gn	8eeL]	.
@@ -131,25 +131,25 @@
 .	8.fJ	.	.	.
 .	.	.	8ddnJ	.
 =13	=13	=13	=13	=13
-2.A\	4.e	4.cc#	8cc#L	.
-.	.	.	8ee	.
-.	.	.	8dd#XJ	.
-.	8.eL	4.cc#	8eeL	.
-.	.	.	8ff#	.
-.	8.d#J	.	.	.
-.	.	.	8ff##XJ	.
+2.A\	4.e	4.cc#	8cc#L	<
+.	.	.	8ee	(
+.	.	.	8dd#XJ	(
+.	8.eL	4.cc#	8eeL	(
+.	.	.	8ff#	(
+.	8.d#J	.	.	(
+.	.	.	8ff##XJ	[
 =14	=14	=14	=14	=14
-2.G#\	2.e	2.cc#	8gg#L	.
-.	.	.	8ccc#	.
-.	.	.	8bb#XJ	.
-.	.	.	8bbnL	.
-.	.	.	8aa	.
-.	.	.	8gg#J	.
+2.G#\	2.e	2.cc#	8gg#L	f
+.	.	.	8ccc#	>
+.	.	.	8bb#XJ	)
+.	.	.	8bbnL	)
+.	.	.	8aa	)
+.	.	.	8gg#J	]
 =15	=15	=15	=15	=15
 2.G#\	[4.f#	2.b#X	8aaL	.
 .	.	.	8gg#	.
 .	.	.	8ff##XJ	.
-.	8.f#L]	.	8gg#L	.
+.	8.f#L]	.	8gg#L	>
 .	.	.	8cc##X	.
 .	8.aJ	.	.	.
 .	.	.	8dd#J	.
@@ -162,21 +162,21 @@
 .	.	.	8cc#J	.
 !!LO:LB:g=original
 =17	=17	=17	=17	=17
-4.c#\]	[2.e	8bL	[4.ee	.
+4.c#\]	[2.e	8bL	[4.ee	pp
 .	.	8a	.	.
 .	.	8g#J	.	.
 4.B\	.	4.gn	8eeL]	.
 .	.	.	8dd#X	.
 .	.	.	8eeJ	.
 =18	=18	=18	=18	=18
-2.A#X\	4.e]	8.gnL	8ccnL	.
-.	.	.	8cc#X	.
-.	.	8.cc#J	.	.
-.	.	.	8ggnJ	.
-.	8.f#L	4.cc#	8ff#L	.
-.	.	.	8ee#X	.
-.	[8.gJ	.	.	.
-.	.	.	8eenJ	.
+2.A#X\	4.e]	8.gnL	8ccnL	<
+.	.	.	8cc#X	(
+.	.	8.cc#J	.	(
+.	.	.	8ggnJ	[
+.	8.f#L	4.cc#	8ff#L	>
+.	.	.	8ee#X	)
+.	[8.gJ	.	.	)
+.	.	.	8eenJ	]
 =19	=19	=19	=19	=19
 4.B\	8gL]	4.b	[4.ddn	.
 .	8gn	.	.	.
@@ -186,24 +186,24 @@
 .	.	8.fJ	.	.
 .	.	.	8ddJ	.
 =20	=20	=20	=20	=20
-2.G#\	4.dn	8.fnL	8a#XL	.
-.	.	.	8b	.
-.	.	8.bJ	.	.
-.	.	.	8ffnJ	.
-.	8.eL	4.b	8eeL	.
-.	.	.	8dd#X	.
-.	8.fJ	.	.	.
-.	.	.	8ddnJ	.
+2.G#\	4.dn	8.fnL	8a#XL	<
+.	.	.	8b	(
+.	.	8.bJ	.	(
+.	.	.	8ffnJ	[
+.	8.eL	4.b	8eeL	>
+.	.	.	8dd#X	)
+.	8.fJ	.	.	)
+.	.	.	8ddnJ	]
 =21	=21	=21	=21	=21
-2.A\	4.e	4.cc#	8cc#L	.
-.	.	.	8ee	.
-.	.	.	8dd#XJ	.
-.	8.eL	4.cc#	8eeL	.
-.	.	.	8ff#	.
-.	8.d#J	.	.	.
-.	.	.	8ff##XJ	.
+2.A\	4.e	4.cc#	8cc#L	<
+.	.	.	8ee	(
+.	.	.	8dd#XJ	(
+.	8.eL	4.cc#	8eeL	(
+.	.	.	8ff#	(
+.	8.d#J	.	.	(
+.	.	.	8ff##XJ	[
 =22	=22	=22	=22	=22
-2.G#\	2.e	2.cc#	8gg#L	.
+2.G#\	2.e	2.cc#	8gg#L	ff
 .	.	.	8ccc#	.
 .	.	.	8bb#XJ	.
 .	.	.	8bbnL	.
@@ -214,7 +214,7 @@
 2.G#\	2.f#	2.b#X	8aaL	.
 .	.	.	8gg#	.
 .	.	.	8ff##XJ	.
-.	.	.	8gg#L	.
+.	.	.	8gg#L	<
 .	.	.	8cc##X	.
 .	.	.	8dd#J	.
 =24	=24	=24	=24	=24
@@ -225,7 +225,7 @@
 .	.	.	8dd#	.
 .	.	.	8cc#J	.
 =25	=25	=25	=25	=25
-4.A#X\	2.c#	[4.f##X	8r	.
+4.A#X\	2.c#	[4.f##X	8r	ff
 .	.	.	8dd#L	.
 .	.	.	8cc##XJ	.
 4.An\	.	8.f##L]	8eeL	.
@@ -233,7 +233,7 @@
 .	.	8.d#J	.	.
 .	.	.	8f##XJ	.
 =26	=26	=26	=26	=26
-4.G#\	4.c#	4.e	8g#L	.
+4.G#\	4.c#	4.e	8g#L	>
 .	.	.	8f##X	.
 .	.	.	8bJ	.
 *	*v	*v	*	*
@@ -243,7 +243,7 @@
 8r	[8c#J	.
 *clefF4	*	*
 =27	=27	=27
-8r	4.c#] 4.e	.
+8r	4.c#] 4.e	p
 8G#L	.	.
 8F##XJ	.	.
 *^	*^	*
@@ -257,11 +257,12 @@
 8GG#	.	.	.
 8CC#J	.	.	.
 *v	*v	*	*
-4.C# 4.G# 4.g#	4.e 4.cc#	.
+4.C# 4.G# 4.g#	4.e 4.cc#	pp
 ==	==	==
 *-	*-	*-
 !!!system-decoration: {(*)}
 !!!filter: flipper -a
+!!!RDF**dynam: > = dim.
 !!!ENC: Bryan Jacob Bell
 !!!END: November 2021 to April 2022
 !!!PED: Konstantin Igumnov and Yakov Milstein
