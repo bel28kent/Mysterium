@@ -16,7 +16,7 @@
 *M2/4	*M2/4	*
 *Xtuplet	*Xtuplet	*
 =1	=1	=1
-12BBL	20ff#LL	.
+12BBL	20ff#LL	p
 .	20b	.
 12F#	.	.
 .	20f#	.
@@ -49,7 +49,7 @@
 =3	=3	=3
 12EL	20bbLL	.
 .	20ee	.
-12B	.	.
+12B	.	<
 .	20b	.
 .	20dd	.
 12aJ	.	.
@@ -78,7 +78,7 @@
 .	20cccJJ	.
 !!LO:LB:g=original
 =5	=5	=5
-12F#XL	20eeeLL	.
+12F#XL	20eeeLL	mf
 .	20aa	.
 12c	.	.
 .	20ee	.
@@ -101,7 +101,7 @@
 .	20ff#	.
 12f#J	.	.
 .	20bbJJ	.
-12EL	20ggLL	.
+12EL	20ggLL	>
 .	20cc	.
 12c	.	.
 .	20g	.
@@ -137,7 +137,7 @@
 .	20bJJ	.
 !!LO:LB:g=original
 =9	=9	=9
-12BBL	20ff#LL	.
+12BBL	20ff#LL	p
 .	20b	.
 12F#	.	.
 .	20f#	.
@@ -168,7 +168,7 @@
 12bJ	.	.
 .	20ggJJ	.
 =11	=11	=11
-12EL	20bbLL	.
+12EL	20bbLL	<
 .	20ee	.
 12B	.	.
 .	20b	.
@@ -199,7 +199,7 @@
 .	20cccJJ	.
 !!LO:LB:g=original
 =13	=13	=13
-12F#XL	20eeeLL	.
+12F#XL	20eeeLL	mf
 .	20aa	.
 12c	.	.
 .	20ee	.
@@ -230,7 +230,7 @@
 12gJ	.	.
 .	20ggJJ	.
 =15	=15	=15
-12gL	20dddLL	.
+12gL	20dddLL	>
 .	20aa	.
 12B	.	.
 .	20dd	.
@@ -272,7 +272,7 @@
 .	16ddJk	.
 20dJJ	.	.
 =18	=18	=18
-20aLL	2dd	.
+20aLL	2dd	<
 20c	.	.
 20Fn	.	.
 20B	.	.
@@ -285,17 +285,17 @@
 .	16qccLL	.
 .	16qddJJ	.
 =19	=19	=19
-20g#XLL	[4ee	.
-20c	.	.
-20E	.	.
-20B	.	.
-20dJJ	.	.
-20g#LL	8eeL]	.
-20c	.	.
-20E	.	.
-.	8ddJ	.
-20B	.	.
-20dJJ	.	.
+20g#XLL	[4ee	>
+20c	.	)
+20E	.	)
+20B	.	)
+20dJJ	.	)
+20g#LL	8eeL]	)
+20c	.	)
+20E	.	)
+.	8ddJ	)
+20B	.	)
+20dJJ	.	]
 =20	=20	=20
 20aLL	2cc	.
 20c	.	.
@@ -322,7 +322,7 @@
 .	16ccJk	.
 20cJJ	.	.
 =22	=22	=22
-20gLL	2cc	.
+20gLL	2cc	<
 20B	.	.
 20E	.	.
 20A	.	.
@@ -335,17 +335,17 @@
 .	16qbLL	.
 .	16qccJJ	.
 =23	=23	=23
-20f#LL	[4dd	.
-20B	.	.
-20D	.	.
-20A	.	.
-20cJJ	.	.
-20f#LL	8.ddL]	.
-20B	.	.
-20D	.	.
-20A	.	.
-.	16ccJk	.
-20cJJ	.	.
+20f#LL	[4dd	>
+20B	.	)
+20D	.	)
+20A	.	)
+20cJJ	.	)
+20f#LL	8.ddL]	)
+20B	.	)
+20D	.	)
+20A	.	)
+.	16ccJk	)
+20cJJ	.	]
 !!LO:LB:g=original
 =24	=24	=24
 20f#LL	2b	.
@@ -411,7 +411,7 @@
 .	12r	.
 20BJJ	.	.
 =29	=29	=29
-12BBL	20ff#LL	.
+12BBL	20ff#LL	pp
 .	20b	.
 12F#	.	.
 .	20f#	.
@@ -631,6 +631,7 @@
 *-	*-	*-
 !!!system-decoration: {(*)}
 !!!filter: flipper -a
+!!!RDF**dynam: > = dim.
 !!!ENC: Bryan Jacob Bell
 !!!END: November 2021 to April 2022
 !!!PED: Günter Philipp
