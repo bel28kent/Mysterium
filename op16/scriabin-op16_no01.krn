@@ -47,6 +47,7 @@
 12EL	.	12dd#L	.
 12g#	12g#	12cc#	.
 12FF#J	12ryy	12dd#J	.
+!!LO:LB:g=original
 =4	=4	=4	=4
 12BBBL	4ryy	6ff#	.
 12FF#	.	.	.
@@ -90,6 +91,7 @@
 12AnL	.	12gg#L	.
 12cc#	12cc#	12ff#	.
 12BBJ	12ryy	12gg#J	.
+!!LO:LB:g=original
 =8	=8	=8	=8
 12BBBL	4ryy	6bb	.
 12BB	.	.	.
@@ -136,6 +138,7 @@
 12dd#	12dd#	.	12ggg#	.
 12BJ	12ryy	.	12aaa#J	.
 *v	*v	*	*	*
+!!LO:LB:g=original
 =12	=12	=12	=12
 12C#L	8r	4ddd#	.
 12B	.	.	.
@@ -186,6 +189,7 @@
 12EE#XL	4b 4dd#	4ggn	.
 12D#	.	.	.
 12BJ	.	.	.
+!!LO:LB:g=original
 =16	=16	=16	=16
 12FF#L	4b 4dd#	12ff#XL	.
 12D#	.	12ee#X	.
@@ -230,6 +234,7 @@
 12EL	.	12dd#L	.
 12g#	12g#	12cc#	.
 12FF#J	12ryy	12dd#J	.
+!!LO:LB:g=original
 =20	=20	=20	=20
 12BBBL	4ryy	6ff#	.
 12FF#	.	.	.
@@ -272,6 +277,7 @@
 12AnL	.	12gg#L	.
 12b	12b	12ff#	.
 12BBJ	12ryy	12gg#J	.
+!!LO:LB:g=original
 =24	=24	=24	=24
 12BBBL	4ryy	6bb	.
 12BB	.	.	.
@@ -312,6 +318,7 @@
 12EL	.	4b	.
 12g#	12g#	.	.
 12FF#J	12ryy	.	.
+!!LO:LB:g=original
 =28	=28	=28	=28
 12BBBL	4ryy	4a#	.
 12FF#	.	.	.
@@ -352,6 +359,7 @@
 12A#XL	.	4ff#	.
 12g	12gn	.	.
 12BBJ	12ryy	.	.
+!!LO:LB:g=original
 =32	=32	=32	=32
 12BBBL	4ryy	4aaa#X	.
 12BB	.	.	.
@@ -393,6 +401,7 @@
 12A#L	4gn 4ee	.
 12E	.	.
 12CnJ	.	.
+!!LO:LB:g=original
 =36	=36	=36
 12A#L	4e 4ccn	.
 12E	.	.
@@ -412,9 +421,11 @@
 =40	=40	=40
 2.BBB 2.FF# 2.BB	[2.D# [2.F# [2.B [2.d#	.
 =41	=41	=41
+*8ba	*	*
 [2.BBBB	2.D#] 2.F#] 2.B] 2.d#]	.
 =42	=42	=42
 2BBBB]	2.r	.
+*X8ba	*	*
 4r	.	.
 ==	==	==
 *-	*-	*-
