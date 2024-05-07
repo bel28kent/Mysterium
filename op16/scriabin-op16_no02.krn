@@ -40,6 +40,7 @@
 =4	=4	=4
 2B	2d# 2g#	.
 *clefF4	*	*
+!!LO:LB:g=original
 =5	=5	=5
 [4B	[4d# [4g#	.
 16BLL]	20d#LL] 20g#]	.
@@ -76,6 +77,7 @@
 .	.	20en	.
 12A#J	.	.	.
 .	.	20f#JJ	.
+!!LO:LB:g=original
 =8	=8	=8	=8
 2d#	2d#	2d#	.
 *	*v	*v	*
@@ -104,6 +106,7 @@
 .	20dd#JJ 20gg#	.
 =12	=12	=12
 2e	2g# 2cc#	.
+!!LO:LB:g=original
 =13	=13	=13
 [4e	[4g# [4cc#	.
 16eLL]	20g#LL] 20cc#]	.
@@ -143,6 +146,7 @@
 =16	=16	=16	=16
 2g#	2g#	2g#	.
 *clefF4	*	*	*
+!!LO:LB:g=original
 =17	=17	=17	=17
 8FF#L 8F#	2An 2c#	[4an	.
 8EE#XJ 8E#X	.	.	.
@@ -172,6 +176,7 @@
 [8DD#XJ [8D#X	[8AJ [8B [8f# [8a	.
 8DD#L] 8D#]	8AL] 8B] 8f#] 8a]	.
 8EEJ 8E	8G#J 8B 8en 8g#	.
+!!LO:LB:g=original
 =21	=21	=21
 *	*^	*
 8EEL 8E	2G# 2dn 2g#	[4b	.
@@ -202,6 +207,7 @@
 20GG# 20G#	20d# 20b 20dd#	.
 20GG# 20G#	20d# 20b 20dd#	.
 20BBBJJ 20BB	20g#JJ 20dd# 20gg#	.
+!!LO:LB:g=original
 =26	=26	=26
 2EE 2E	2c# 2g# 2cc#	.
 =27	=27	=27
@@ -227,6 +233,7 @@
 20CC# 20C#	20A# 20e 20g# 20a#	.
 20CC# 20C#	20A# 20e 20g# 20a#	.
 20AAA#JJ 20AA#	20c#JJ 20e 20g# 20cc#	.
+!!LO:LB:g=original
 =31	=31	=31
 20DD#LL 20D#	20B#XLL 20g# 20b#X	.
 20EE 20E	20c# 20g# 20cc#	.
