@@ -15,7 +15,7 @@
 *f:	*f:	*
 *M9/8	*M9/8	*
 =1	=1	=1
-16%3CL 16%3G 16%3c	16ccccLL	.
+16%3CL 16%3G 16%3c	16ccccLL	f
 .	16eeen	.
 .	16ccc	.
 16%3CCCJ 16%3CC	16ccc	.
@@ -93,7 +93,7 @@
 .	16d-JJ	.
 !!LO:LB:g=original
 =5	=5	=5
-8FL 8c 8f	16ffLL	.
+8FL 8c 8f	16ffLL	p
 .	16an	.
 8FF 8F	16f	.
 .	16f	.
@@ -107,7 +107,7 @@
 .	16d-JJ	.
 8FL 8d- 8f	16ffLL	.
 .	16dd-	.
-8FF 8F	16f	.
+8FF 8F	16f	<
 .	16gn	.
 8BBB-J 8BB-	16dd-	.
 .	16d-JJ	.
@@ -132,13 +132,13 @@
 .	16d-JJ	.
 !!LO:LB:g=original
 =7	=7	=7
-8GGGL 8GG	16bb-LL	.
+8GGGL 8GG	16bb-LL	f
 .	16ff	.
 8DD- 8D-	16b-	.
 .	16b-	.
 8AA-J 8A-	16ff	.
 .	16fJJ	.
-4.GG 4.G	16ffLL	.
+4.GG 4.G	16ffLL	<
 .	16b-	.
 .	16f	.
 .	16f	.
@@ -171,7 +171,7 @@
 .	16bbbnJJ	.
 !!LO:LB:g=original
 =9	=9	=9
-8CL 8G 8c	16ccccLL	.
+8CL 8G 8c	16ccccLL	ff
 .	16eeen	.
 8GG 8G	16ccc	.
 .	16ccc	.
@@ -253,7 +253,7 @@
 .	16d-JJ	.
 !!LO:LB:g=original
 =13	=13	=13
-8FL 8c 8f	16ffLL	.
+8FL 8c 8f	16ffLL	p
 .	16an	.
 8FF 8F	16f	.
 .	16f	.
@@ -267,7 +267,7 @@
 .	16d-JJ	.
 8FL 8d- 8f	16ffLL	.
 .	16dd-	.
-8FF 8F	16f	.
+8FF 8F	16f	<
 .	16gn	.
 8BBB-J 8BB-	16dd-	.
 .	16d-JJ	.
@@ -292,7 +292,7 @@
 .	16d-JJ	.
 !!LO:LB:g=original
 =15	=15	=15
-8AAA-L 8AA-	16aa-LL	.
+8AAA-L 8AA-	16aa-LL	f
 .	16dd-	.
 8EE- 8E-	16a-	.
 .	16g-X	.
@@ -339,7 +339,7 @@
 .	16fJJ	.
 2.D- 2.d-	16bb-XLL	.
 .	16ff	.
-.	16b-X	.
+.	16b-X	<
 .	16b-	.
 .	16ff	.
 .	16fJJ	.
@@ -362,15 +362,15 @@
 .	16f	.
 8E-J 8e-	16cc	.
 .	16cJJ	.
-4D- 4d-	16ffLL	.
-.	16bn	.
-.	16f	.
-.	16a-	.
-8C 8c	16cc	.
-.	16fJJ	.
+4D- 4d-	16ffLL	>
+.	16bn	)
+.	16f	)
+.	16a-	)
+8C 8c	16cc	)
+.	16fJJ	]
 !!LO:LB:g=original
 =19	=19	=19
-8CCL 8C	16ddd-LL	.
+8CCL 8C	16ddd-LL	<
 .	16ff	.
 8GG 8G	16dd-	.
 .	16dd-	.
@@ -404,7 +404,7 @@
 .	16ee	.
 .	16bb-	.
 .	16b-JJ	.
-4.G-X 4.g-X	16eeLL	.
+4.G-X 4.g-X	16eeLL	sf
 .	16bb-	.
 .	16eee	.
 .	16eee	.
@@ -413,7 +413,7 @@
 *clefF4	*	*
 !!LO:LB:g=original
 =21	=21	=21
-8FL 8c 8f	16fffLL 16ffff	.
+8FL 8c 8f	16fffLL 16ffff	ff
 .	16aaan	.
 8C 8c	16fff	.
 .	16fff	.
@@ -541,7 +541,7 @@
 =27	=27	=27
 [2.BBBB- [2.BBB-	16fLL	.
 .	16B-	.
-.	16F	.
+.	16F	<
 .	16B-	.
 .	16d-	.
 .	16D-JJ	.
@@ -579,7 +579,7 @@
 .	16D-JJ	.
 !!LO:LB:g=original
 =29	=29	=29
-[2.FFF [2.FF	16anLL	.
+[2.FFF [2.FF	16anLL	fff
 .	16c	.
 .	16An	.
 .	16F	.
