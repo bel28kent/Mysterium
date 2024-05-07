@@ -15,7 +15,7 @@
 *e-:	*e-:	*
 *M3/4	*M3/4	*
 =1	=1	=1
-2.r	4b-	.
+2.r	4b-	p
 .	8a-L	.
 .	8b-J	.
 .	12dd-L	.
@@ -57,17 +57,17 @@
 =7	=7	=7
 *	*^	*
 2AAA- 2AA-	2G- 2c- 2e-	4g-	.
-.	.	8fL	.
+.	.	8fL	<
 .	.	8g-J	.
 8DD-L 8D-	4d- 4f	12a-L	.
 .	.	12.b-	.
 8CC-J 8C-	.	.	.
 .	.	24cc-Jk	.
 =8	=8	=8	=8
-4BBB- 4BB-	4f-X 4a-	4dd-	.
+4BBB- 4BB-	4f-X 4a-	4dd-	mf
 4AAA- 4AA-	4f- 4cc-	8ee-L	.
 .	.	8ff-XJ	.
-8.GGGnL 8.GGn	8.f-L 8.b-	12ee-L	.
+8.GGGnL 8.GGn	8.f-L 8.b-	12ee-L	>
 .	.	12.dd-	.
 16AAA-Jk 16AA-	16f-Jk 16a-	.	.
 .	.	24cc-Jk	.
@@ -79,10 +79,10 @@
 !!LO:LB:g=original
 =10	=10	=10
 *	*^	*
-4BB- 4G-	8e-	4B- 4b-	.
+4BB- 4G-	8e-	4B- 4b-	p
 .	8ryy	.	.
 *	*v	*v	*
-4r	8a-L	.
+4r	8a-L	pp
 .	8b-J	.
 4r	12dd-/L	.
 .	12.cc-	.
@@ -95,13 +95,14 @@
 .	12.b-	.
 .	24e-Jk	.
 =12	=12	=12
-4EE- 4BB- 4E-	4G- 4B- 4e- 4g-	.
+4EE- 4BB- 4E-	4G- 4B- 4e- 4g-	ppp
 4EE- 4BB- 4E-	4G- 4B- 4e- 4g-	.
 4EE- 4BB- 4E-	4G- 4B- 4e- 4g-	.
 ==	==	==
 *-	*-	*-
 !!!system-decoration: {(*)}
 !!!filter: flipper -a
+!!!RDF**dynam: > = dim.
 !!!ENC: Bryan Jacob Bell
 !!!END: November 2021 to April 2022
 !!!PED: Günter Philipp
