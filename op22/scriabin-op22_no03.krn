@@ -15,7 +15,7 @@
 *B:	*B:	*
 *M3/4	*M3/4	*
 =1	=1	=1
-4r	4ff#	.
+4r	4ff#	p
 *clefG2	*	*
 4c# 4e 4b	4.gg#	.
 4c# 4e 4a#	.	.
@@ -39,49 +39,49 @@
 *^	*	*
 *clefG2	*clefG2	*	*
 4.B 4.e	4an	8cc#	.
-.	.	8dd#	.
-.	8g#	8ee	.
+.	.	8dd#	<
+.	8g#	8ee	(
 *v	*v	*	*
 *clefF4	*	*
-8D#	8gg#J	.
+8D#	8gg#J	[
 =4	=4	=4
 4C#	[4ddd#	.
 *clefG2	*	*
-4G# 4e 4b	8ddd#L]	.
-.	8ccc#J	.
-4r	12bbL	.
-.	12gg#	.
-.	12eeJ	.
+4G# 4e 4b	8ddd#L]	>
+.	8ccc#J	)
+4r	12bbL	)
+.	12gg#	)
+.	12eeJ	]
 *clefF4	*	*
 =5	=5	=5
 *^	*	*
 4F##X	2e	8a#L 8dd#	.
 .	.	8cc#J	.
-4G#	.	12a#L	.
-.	.	12b	.
-.	.	12dd#J	.
+4G#	.	12a#L	<
+.	.	12b	(
+.	.	12dd#J	[
 *v	*v	*	*
-4r	12ff#L	.
-.	12ee	.
-.	12bJ	.
+4r	12ff#L	>
+.	12ee	)
+.	12bJ	]
 !!LO:LB:g=original
 =6	=6	=6
 *^	*	*
 4C##X	2B	8e#XL 8a#	.
 .	.	8g#J	.
-4D#	.	12e#L	.
-.	.	12f#	.
-.	.	12a#J	.
-4Dn 4f#	8F#L	12cc#L	.
-.	.	12b	.
-.	8BJ	.	.
-.	.	24r	.
-.	.	24a#Jk	.
+4D#	.	12e#L	<
+.	.	12f#	(
+.	.	12a#J	[
+4Dn 4f#	8F#L	12cc#L	>
+.	.	12b	)
+.	8BJ	.	)
+.	.	24r	)
+.	.	24a#Jk	]
 =7	=7	=7	=7
 4C#	4r	4.a#	.
 2B	4f#	.	.
 .	.	8g#	.
-.	4e#X	8a#L	.
+.	4e#X	8a#L	<
 .	.	8bJ	.
 =8	=8	=8	=8
 2F# 2en	4Bn	8b#XL	.
@@ -95,7 +95,7 @@
 .	16gg#Jk	.
 =9	=9	=9
 *^	*	*
-4r	2b	4.gg#	.
+4r	2b	4.gg#	>
 2c# 2e	.	.	.
 .	.	8ff#	.
 .	[4a#	8r	.
@@ -119,42 +119,42 @@
 *^	*	*
 *clefG2	*clefG2	*	*
 4.B 4.e	4an	8cc#	.
-.	.	8dd#	.
-.	8g#	8ee	.
+.	.	8dd#	<
+.	8g#	8ee	(
 *v	*v	*	*
 *clefF4	*	*
-8D#	8gg#J	.
+8D#	8gg#J	[
 =12	=12	=12
 4C#	[4ddd#	.
 *clefG2	*	*
-4G# 4e 4b	8ddd#L]	.
-.	8ccc#J	.
-4r	12bbL	.
-.	12gg#	.
-.	12eeJ	.
+4G# 4e 4b	8ddd#L]	>
+.	8ccc#J	)
+4r	12bbL	)
+.	12gg#	)
+.	12eeJ	]
 *clefF4	*	*
 =13	=13	=13
 *^	*	*
 4F##X	2e	8a#L 8dd#	.
 .	.	8cc#J	.
-4G#	.	12a#L	.
-.	.	12b	.
-.	.	12dd#J	.
+4G#	.	12a#L	<
+.	.	12b	(
+.	.	12dd#J	[
 *v	*v	*	*
-4r	12ff#L	.
-.	12ee	.
-.	12bJ	.
+4r	12ff#L	>
+.	12ee	)
+.	12bJ	]
 =14	=14	=14
 *^	*	*
 4C##X	2B	8e#XL 8a#	.
 .	.	8g#J	.
-4D#	.	12e#L	.
-.	.	12f#	.
-.	.	12a#J	.
+4D#	.	12e#L	<
+.	.	12f#	(
+.	.	12a#J	[
 *v	*v	*	*
-4r	12cc#L	.
-.	12b	.
-.	12f#J	.
+4r	12cc#L	>
+.	12b	)
+.	12f#J	]
 !!LO:LB:g=original
 =15	=15	=15
 4E	12f##XL	.
@@ -166,7 +166,7 @@
 .	16r	.
 .	16bbJk	.
 =16	=16	=16
-4E#X	2.bb	.
+4E#X	2.bb	<
 4B 4c# 4gn	.	.
 4E# 4c# 4g 4b	.	.
 =17	=17	=17
@@ -179,12 +179,12 @@
 .	16r	.
 .	16bbJk	.
 =18	=18	=18
-4Gn	2.bb	.
+4Gn	2.bb	mf
 4B 4c# 4e#X	.	.
 4G 4c# 4e# 4b	.	.
 *clefG2	*	*
 =19	=19	=19
-4G#X	12r	.
+4G#X	12r	pp
 .	12f#L	.
 .	12bJ	.
 4c# 4f# 4b	8dd#L	.
@@ -205,7 +205,7 @@
 .	12dd#J	.
 =21	=21	=21
 *^	*	*
-2.B	4r	20cc#LL	.
+2.B	4r	20cc#LL	p
 .	.	40dd#Jk	.
 .	.	40r	.
 .	.	20cc#L	.
@@ -228,7 +228,7 @@
 .	.	20a#X	.
 .	.	20bJJ	.
 *	*^	*	*
-.	4e	2b	4gg#	.
+.	4e	2b	4gg#	<
 .	4d#	.	8.ff#L	.
 .	.	.	16eeJk	.
 *	*v	*v	*	*
@@ -241,7 +241,7 @@
 4Gn	.	.
 =25	=25	=25
 *^	*	*
-2F#	4r	20f#LL	.
+2F#	4r	20f#LL	mf
 .	.	40g#Jk	.
 .	.	40r	.
 .	.	20f#L	.
@@ -253,11 +253,11 @@
 .	.	16a#Jk	.
 *v	*v	*	*
 =26	=26	=26
-4E#X	2a#	.
-4B 4d# 4dd#>	.	.
-4r	[4g#	.
+4E#X	2a#	>
+4B 4d# 4dd#>	.	)
+4r	[4g#	]
 =27	=27	=27
-2F# 2B 2en	12g#L]	.
+2F# 2B 2en	12g#L]	p
 .	12b	.
 .	12cc#J	.
 .	12eeL	.
@@ -279,6 +279,7 @@
 !!!system-decoration: {(*)}
 !!!filter: flipper -a
 !!!RDF**kern: > = above
+!!!RDF**dynam: > = dim.
 !!!ENC: Bryan Jacob Bell
 !!!END: November 2021 to April 2022
 !!!PED: Konstantin Igumnov and Yakov Milstein
