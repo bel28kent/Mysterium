@@ -18,24 +18,24 @@
 =1	=1	=1
 4r	4r	.
 *clefG2	*	*
-4b-	4gg-	.
-4a-	4ff	.
-4d-	4b-	.
+4b-	4gg-	p
+4a-	4ff	<
+4d-	4b-	(
 =2	=2	=2
-4e-	4cc-	.
-4g-	4ee-	.
-4f	4dd-	.
-4B-	4g-	.
+4e-	4cc-	(
+4g-	4ee-	(
+4f	4dd-	(
+4B-	4g-	(
 =3	=3	=3
-4c-	4a-	.
-4e-	4cc-	.
-4d-	4b-	.
-4G-	4e-	.
+4c-	4a-	(
+4e-	4cc-	[ >
+4d-	4b-	)
+4G-	4e-	)
 =4	=4	=4
-4A-	4f	.
-4B-	4g-	.
-4d-	4b-	.
-4c-	4a-	.
+4A-	4f	)
+4B-	4g-	)
+4d-	4b-	)
+4c-	4a-	]
 *clefF4	*	*
 =5	=5	=5
 4r	4r	.
@@ -44,19 +44,19 @@
 4D- 4B-	6dd-]	.
 .	12g-	.
 =6	=6	=6
-4E- 4c-	12g-L	.
-.	12a-	.
-.	12b-J	.
-4G- 4e-	[4cc-	.
-4F 4d-	12cc-L]	.
-.	12b-	.
-.	12a-J	.
-4BB- 4G-	12d-L	.
+4E- 4c-	12g-L	<
+.	12a-	(
+.	12b-J	(
+4G- 4e-	[4cc-	[
+4F 4d-	12cc-L]	>
+.	12b-	)
+.	12a-J	)
+4BB- 4G-	12d-L	]
 .	12g-	.
 .	12fJ	.
 =7	=7	=7
 4C- 4A-	12e-L	.
-.	12f	.
+.	12f	<
 .	12g-J	.
 4E- 4c-	[4a-	.
 4D- 4B-	12a-L]	.
@@ -66,8 +66,8 @@
 .	12a-	.
 .	12b-J	.
 =8	=8	=8
-4AA- 4F	12dd-L	.
-.	12d-	.
+4AA- 4F	12dd-L	mf
+.	12d-	>
 .	12e-J	.
 4BB- 4G-	12d-L	.
 .	12ff	.
@@ -82,7 +82,7 @@
 =9	=9	=9	=9
 4EE- 4E-	4c-]	4g-	.
 *	*v	*v	*
-4EE- 4E-	4c- 4g- 4cc-	.
+4EE- 4E-	4c- 4g- 4cc-	p
 4DD- 4D-	4B- 4g- 4b-	.
 4GGG- 4GG-	4E- 4B- 4d- 4e-	.
 =10	=10	=10
@@ -97,19 +97,19 @@
 4D- 4B-	6dd-]	.
 .	12g-	.
 =12	=12	=12
-4E- 4c-	12g-L	.
-.	12a-	.
-.	12b-J	.
-4G- 4e-	[4cc-	.
-4F 4d-	12cc-L]	.
-.	12b-	.
-.	12a-J	.
-4BB- 4G-	12d-L	.
+4E- 4c-	12g-L	<
+.	12a-	(
+.	12b-J	(
+4G- 4e-	[4cc-	[ >
+4F 4d-	12cc-L]	)
+.	12b-	)
+.	12a-J	)
+4BB- 4G-	12d-L	]
 .	12g-	.
 .	12fJ	.
 =13	=13	=13
 4C- 4A-	12e-L	.
-.	12f	.
+.	12f	<
 .	12g-J	.
 4E- 4c-	[4a-	.
 4D- 4B-	12a-L]	.
@@ -119,8 +119,8 @@
 .	12a-	.
 .	12b-J	.
 =14	=14	=14
-4A- 4f	12dd-L	.
-.	12d-	.
+4A- 4f	12dd-L	mf
+.	12d-	>
 .	12e-J	.
 4B- 4g-	12d-L	.
 .	12ff	.
@@ -135,68 +135,68 @@
 =15	=15	=15	=15
 4BB- 4B-	4g-]	4dd-	.
 *	*v	*v	*
-4BB- 4B-	4g- 4dd- 4gg-	.
+4BB- 4B-	4g- 4dd- 4gg-	p
 4AA- 4A-	4f 4dd- 4ff	.
 4DD- 4D-	4B- 4f 4a- 4b-	.
 =16	=16	=16
 4EE- 4E-	4cn 4g- 4a- 4ccn	.
-4FF 4F	4d- 4a- 4dd-	.
-4AA- 4A-	4f 4cc 4ff	.
-4AAn 4An	4g- 4cc 4ee-	.
+4FF 4F	4d- 4a- 4dd-	<
+4AA- 4A-	4f 4cc 4ff	(
+4AAn 4An	4g- 4cc 4ee-	[
 =17	=17	=17
 4BB- 4B-	4f 4b- 4dd-	.
 *clefG2	*	*
-4d- 4b-	4r	.
-4cn 4an	12ffL	.
+4d- 4b-	4r	p
+4cn 4an	12ffL	mf
 .	12een	.
 .	12ffJ	.
 4F 4d-	12aa-XL	.
 .	12gg-	.
 .	12b-J	.
 =18	=18	=18
-4G- 4e-X	12b-L	.
-.	12ccn	.
-.	[12ee-XJ	.
-4B- 4g-	2ee-]	.
+4G- 4e-X	12b-L	<
+.	12ccn	(
+.	[12ee-XJ	(
+4B- 4g-	2ee-]	[
 4An 4f	.	.
 *clefF4	*	*
-4AAAn 4AAn	4g- 4cc 4ee-	.
+4AAAn 4AAn	4g- 4cc 4ee-	p
 =19	=19	=19
 4BBB- 4BB-	4f 4b- 4dd-	.
-4CCn 4Cn	4e- 4a-X 4ccn	.
-4DD- 4D-	4d- 4f 4b-	.
-4DDn 4Dn	4c-X 4f 4a-	.
+4CCn 4Cn	4e- 4a-X 4ccn	<
+4DD- 4D-	4d- 4f 4b-	(
+4DDn 4Dn	4c-X 4f 4a-	(
 =20	=20	=20
-4EE- 4E-	4B- 4e- 4g-	.
-4G- 4e-	4r	.
-4F 4dn	12b-L	.
+4EE- 4E-	4B- 4e- 4g-	[
+4G- 4e-	4r	p
+4F 4dn	12b-L	mf
 .	12an	.
 .	12b-J	.
 4BB- 4G-	12dd-XL	.
 .	12cc-X	.
 .	12e-J	.
 =21	=21	=21
-4C- 4A-X	12e-L	.
-.	12f	.
-.	[12a-XJ	.
-4E- 4c-	2a-]	.
+4C- 4A-X	12e-L	<
+.	12f	(
+.	[12a-XJ	(
+4E- 4c-	2a-]	[
 4Dn 4B-	.	.
-4DDDn 4DDn	4c- 4f 4a-	.
+4DDDn 4DDn	4c- 4f 4a-	p
 =22	=22	=22
-4EEE- 4EE-	4B- 4e- 4g-	.
-4FFF 4FF	4A- 4d-X 4f	.
-4GGG- 4GG-	4G- 4B- 4e-	.
-4AAA- 4AA-	4G- 4cn 4f	.
+4EEE- 4EE-	4B- 4e- 4g-	<
+4FFF 4FF	4A- 4d-X 4f	(
+4GGG- 4GG-	4G- 4B- 4e-	(
+4AAA- 4AA-	4G- 4cn 4f	[
 =23	=23	=23
 *	*^	*
-2DD- 2D-	4G-	2c-X 2d-	.
-.	4F	.	.
+2DD- 2D-	4G-	2c-X 2d-	>
+.	4F	.	)
 *	*v	*v	*
-2DDD- 2DD-	4c- 4f 4a-	.
-.	4d- 4f 4b-	.
+2DDD- 2DD-	4c- 4f 4a-	)
+.	4d- 4f 4b-	)
 =24	=24	=24
-4GGG- 4GG-	4B- 4g-	.
-4B- 4g-	4r	.
+4GGG- 4GG-	4B- 4g-	]
+4B- 4g-	4r	pp
 4A- 4f	12dd-L	.
 .	24ee-L	.
 .	24dd-	.
@@ -232,10 +232,10 @@
 4E- 4c-	[4a-	.
 4D-X 4B-	12a-L]	.
 .	12g-	.
-.	12fJ	.
-4GG- 4E-	12g-L	.
-.	12a-	.
-.	12b-J	.
+.	12fJ	<
+4GG- 4E-	12g-L	(
+.	12a-	(
+.	12b-J	[
 =27	=27	=27
 4AA- 4F	12dd-XL	.
 .	12d-	.
@@ -255,7 +255,7 @@
 4GG-	4D-]	4B-	4g-	.
 *	*	*v	*v	*
 *v	*v	*	*
-4D- 4B-	4f 4dd-	.
+4D- 4B-	4f 4dd-	p
 *clefG2	*	*
 4G- 4e-	4b- 4ee-	.
 4B- 4g-	4dd- 4gg-	.
@@ -267,7 +267,7 @@
 =30	=30	=30
 4G- 4d-] 4g-	4b- 4dd-]	.
 *clefF4	*	*
-4D- 4B-	4f 4dd-	.
+4D- 4B-	4f 4dd-	pp
 *clefG2	*	*
 4G- 4e-	4b- 4ee-	.
 4B- 4g-	4dd- 4gg-	.
@@ -298,6 +298,7 @@
 *-	*-	*-
 !!!system-decoration: {(*)}
 !!!filter: flipper -a
+!!!RDF**dynam: > = dim.
 !!!ENC: Bryan Jacob Bell
 !!!END: November 2021 to April 2022
 !!!PED: Günter Philipp
