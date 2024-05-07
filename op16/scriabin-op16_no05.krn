@@ -16,7 +16,8 @@
 *M3/8	*M3/8	*
 =1	=1	=1
 *	*^	*
-8CC#L	16r	8.c#	.
+!	!	!	!LO:DY:a=1
+8CC#L	16r	8.c#	mf
 .	[16E#	.	.
 8GG#	4E#] 4B	.	.
 .	.	16d#	.
@@ -26,12 +27,12 @@
 8G#L	16rc	8.b	.
 .	[16c#	.	.
 8C#	4c#] 4e#	.	.
-.	.	16cc#	.
-8BJ	.	16cc##XLL	.
-.	.	16dd#JJ	.
+.	.	16cc#	>
+8BJ	.	16cc##XLL	)
+.	.	16dd#JJ	]
 *clefG2	*	*	*
 =3	=3	=3	=3
-4dd#	8rd	16aa#LL	.
+4dd#	8rd	16aa#LL	pp
 .	.	16gg#	.
 .	8rd	16dd#	.
 .	.	16b	.
@@ -60,12 +61,12 @@
 8G#L	16rc	8.b	.
 .	[16c#	.	.
 8C#	4c#] 4e#	.	.
-.	.	16cc#	.
-8BJ	.	16cc##XLL	.
-.	.	16dd#JJ	.
+.	.	16cc#	>
+8BJ	.	16cc##XLL	)
+.	.	16dd#JJ	]
 *clefG2	*	*	*
 =7	=7	=7	=7
-4dd#	8rd	16aa#LL	.
+4dd#	8rd	16aa#LL	pp
 .	.	16gg#	.
 .	8rd	16dd#	.
 .	.	16b	.
@@ -85,7 +86,7 @@
 .	[16A#	.	.
 8C#	4A#] 4en	.	.
 .	.	16g#	.
-8A#J	.	16cc#LL	.
+8A#J	.	16cc#LL	<
 .	.	16dd#JJ	.
 !!LO:LB:g=original
 =10	=10	=10	=10
@@ -96,7 +97,7 @@
 8A#J	.	16cc#LL	.
 .	.	16dd#JJ	.
 =11	=11	=11	=11
-8BBBL	16cc#LL	4.cc#	.
+8BBBL	16cc#LL	4.cc#	f
 .	16f#	.	.
 8BB	16d#	.	.
 .	16F#	.	.
@@ -104,17 +105,18 @@
 .	16f#JJ	.	.
 *	*v	*v	*
 =12	=12	=12
-32%3GGG#L	16cc#LL	.
-.	16b	.
-32%3GG#	.	.
-.	16a#	.
-32%3F#	16g#	.
-.	16f#	.
-32%3BJ	.	.
-.	16d#JJ	.
+32%3GGG#L	16cc#LL	>
+.	16b	)
+32%3GG#	.	)
+.	16a#	)
+32%3F#	16g#	)
+.	16f#	)
+32%3BJ	.	)
+.	16d#JJ	]
 =13	=13	=13
 *	*^	*
-8CC#L	16r	8.c#	.
+!	!	!	!LO:DY:a=1
+8CC#L	16r	8.c#	mf
 .	[16E#	.	.
 8GG#	4E#] 4B	.	.
 .	.	16d#	.
@@ -122,15 +124,15 @@
 .	.	16a#JJ	.
 =14	=14	=14	=14
 8G#L	16rc	8.b	.
-.	[16c#	.	.
-8C#	4c#] 4e#	.	.
-.	.	16cc#	.
-8BJ	.	16cc##XLL	.
-.	.	16dd#JJ	.
+.	[16c#	.	>
+8C#	4c#] 4e#	.	)
+.	.	16cc#	)
+8BJ	.	16cc##XLL	)
+.	.	16dd#JJ	]
 *clefG2	*	*	*
 !!LO:LB:g=original
 =15	=15	=15	=15
-4dd#	8rd	16aa#LL	.
+4dd#	8rd	16aa#LL	pp
 .	.	16gg#	.
 .	8rd	16dd#	.
 .	.	16b	.
@@ -149,7 +151,7 @@
 8FF#L	16r	8.f#	.
 .	[16A#	.	.
 8C#	4A#] 4en	.	.
-.	.	16g#	.
+.	.	16g#	<
 8A#J	.	16cc#LL	.
 .	.	16dd#JJ	.
 =18	=18	=18	=18
@@ -160,7 +162,7 @@
 8A#J	.	16cc#LL	.
 .	.	16dd#JJ	.
 =19	=19	=19	=19
-8BBBL	16cc#LL	4.cc#	.
+8BBBL	16cc#LL	4.cc#	f
 .	16f#	.	.
 8BB	16d#	.	.
 .	16F#	.	.
@@ -169,32 +171,32 @@
 *	*v	*v	*
 !!LO:LB:g=original
 =20	=20	=20
-32%3GGG#L	16cc#LL	.
-.	16b	.
-32%3GG#	.	.
-.	16a#	.
-32%3F#	16g#	.
-.	16f#	.
-32%3BJ	.	.
-.	16d#JJ	.
+32%3GGG#L	16cc#LL	>
+.	16b	)
+32%3GG#	.	)
+.	16a#	)
+32%3F#	16g#	)
+.	16f#	)
+32%3BJ	.	)
+.	16d#JJ	]
 =21	=21	=21
 *	*^	*
 8CC#L	16r	8.c#	.
 .	[16E#	.	.
 8GG#	4E#] 4B	.	.
 .	.	16d#	.
-8E#J	.	16g#LL	.
+8E#J	.	16g#LL	>
 .	.	16a#JJ	.
 =22	=22	=22	=22
-8G#L	16rc	8.b	.
-.	[16c#	.	.
-8C#	4c#] 4e#	.	.
-.	.	16cc#	.
-8BJ	.	16cc##XLL	.
-.	.	16dd#JJ	.
+8G#L	16rc	8.b	>
+.	[16c#	.	)
+8C#	4c#] 4e#	.	)
+.	.	16cc#	)
+8BJ	.	16cc##XLL	)
+.	.	16dd#JJ	]
 *clefG2	*	*	*
 =23	=23	=23	=23
-4dd#	8rd	16aa#LL	.
+4dd#	8rd	16aa#LL	pp
 .	.	16gg#	.
 .	8rd	16dd#	.
 .	.	16b	.
@@ -212,6 +214,7 @@
 *-	*-	*-
 !!!system-decoration: {(*)}
 !!!filter: flipper -a
+!!!RDF**dynam: > = dim.
 !!!ENC: Bryan Jacob Bell
 !!!END: November 2021 to April 2022
 !!!PED: Günter Philipp
