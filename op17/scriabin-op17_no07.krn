@@ -16,7 +16,7 @@
 !! The print edition notes that the time signature in the manuscript is 3/4.
 *M9/8	*M9/8	*
 *	*^	*
-8D	8r	8b-	.
+8D	8r	8b-	p
 8cL	8e-L	4a	.
 8f#X	8d	.	.
 8DJ	8f#XJ	8dd	.
@@ -33,7 +33,7 @@
 8DJ	8f#XJ	8dd	.
 =2	=2	=2	=2
 32%3B-L	4.g	[4.ee-	.
-32%3g	.	.	.
+32%3g	.	.	<
 32%3G	.	.	.
 32%3AJ	.	.	.
 8B-L	4r	4ee-]	.
@@ -47,7 +47,7 @@
 8cL	8cc	4aa-X	.
 8a-X	4a-X	.	.
 8gJ	.	8ee-	.
-8fL	8cc	4aa-	.
+8fL	8cc	4aa-	>
 8e-	4a-	.	.
 8cJ	.	8ee-	.
 8dL	8cc	4gg	.
@@ -81,14 +81,14 @@
 32%3cc	.	.	.
 32%3c	.	.	.
 32%3dJ	.	.	.
-8e-L	4r	4aa-]	.
+8e-L	4r	4aa-]	<
 8cc	.	.	.
 8GJ	8r	8aan	.
 8e-L	8ccL	4gg	.
 8cc	8b-	.	.
 8CJ	8ff#XJ	8ddd	.
 =7	=7	=7	=7
-8B-L	8gg	4eee-	.
+8B-L	8gg	4eee-	mf
 8g	4b-	.	.
 8fJ	.	8bb-	.
 8e-L	8gg	4eee-	.
@@ -96,7 +96,7 @@
 8cJ	.	8bb-	.
 8dL	8gg	4ddd	.
 8e-	4b-	.	.
-8cJ	.	8bb-	.
+8cJ	.	8bb-	>
 =8	=8	=8	=8
 8dL	8ff	4ddd	.
 8e-	4a	.	.
@@ -104,7 +104,7 @@
 8e-L	4b- 4ff	4bb-	.
 8d	.	.	.
 *clefF4	*	*	*
-8BB-J	8r	8g	.
+8BB-J	8r	8g	pp
 8FL	8cL	4f	.
 8d	8B-	.	.
 8AA-XJ	8dJ	8b-	.
@@ -123,12 +123,12 @@
 8E-	.	8c-X	.
 8AA-J	8ryy	[8a-J 8dd	.
 =10	=10	=10	=10
-8E-L	4a-] 4cc-X	8ee-L	.
-8c-X	.	8e-	.
-8E-J	8ryy	[8ee-J 8bb-	.
-8c-L	4ee-] 4aa-X	8ccc-XL	.
-8a-X	.	8cc-J	.
-8AA-XJ	[8e-	8b-	.
+8E-L	4a-] 4cc-X	8ee-L	<
+8c-X	.	8e-	(
+8E-J	8ryy	[8ee-J 8bb-	(
+8c-L	4ee-] 4aa-X	8ccc-XL	(
+8a-X	.	8cc-J	[
+8AA-XJ	[8e-	8b-	pp
 8E-L	8e-L]	4a-X	.
 8A-X	8c-X	.	.
 8GG-XJ	[8g-XJ	8cc-	.
@@ -144,17 +144,17 @@
 8DD-X	.	.
 *	*^	*
 8GGG-XJ	[8g-X	8ccn	.
-8GG-L	4g-] 4b-	8dd-L	.
-8D-	.	8d-	.
-8GG-J	8ryy	[8b-J 8ff	.
+8GG-L	4g-] 4b-	8dd-L	<
+8D-	.	8d-	(
+8GG-J	8ryy	[8b-J 8ff	(
 !!LO:LB:g=original
 =12	=12	=12	=12
-8D-XL	4b-] 4dd-X	8gg-XL	.
-8B-	.	8g-X	.
-8D-J	8ryy	[8gg-J 8ccc	.
+8D-XL	4b-] 4dd-X	8gg-XL	(
+8B-	.	8g-X	(
+8D-J	8ryy	[8gg-J 8ccc	[
 8B-L	4gg-] 4bb-	8ddd-XL	.
 8g-X	.	8dd-J	.
-8GG-XJ	[8g-	8cc-X	.
+8GG-XJ	[8g-	8cc-X	mf
 8D-L	8g-L]	4b-	.
 8B-	8d-X	.	.
 8FFJ	[8a-XJ	8dd-	.
@@ -181,12 +181,12 @@
 8A-	.	.
 *	*^	*
 8FF-XJ	8ryy	[8a-X 8dd-X/	.
-8BB-L	4a-] 4b-	8ddnL	.
-8A-	.	8dn	.
-8EE-XJ	8ryy	[8gJ 8dd	.
+8BB-L	4a-] 4b-	8ddnL	>
+8A-	.	8dn	)
+8EE-XJ	8ryy	[8gJ 8dd	]
 !!LO:LB:g=original
 =15	=15	=15	=15
-8BB-L	4g] 4b-	8ee-L	.
+8BB-L	4g] 4b-	8ee-L	p
 8G	.	8e-	.
 8BB-J	8ryy	[8gJ 8dd-X	.
 8E-L	4g] 4b-	8ddnL	.
@@ -218,7 +218,7 @@
 !!LO:LB:g=original
 =18	=18	=18	=18
 8GGL	4c#] 4g	8b-L	.
-8E-	.	8B-	.
+8E-	.	8B-	<
 8DDJ	8ryy	[8dJ 8g#X	.
 8AAL	4d] 4f#X	8aL	.
 8F#X	.	8A	.
@@ -242,7 +242,7 @@
 8DDJ	8ryy	[8f#XJ 8cc#X	.
 8AAL	4f#] 4a	8ddL	.
 8F#XJ	.	8dJ	.
-8EE- 8E-	8ra	8ra	.
+8EE- 8E-	8ra	8ra	f
 4DD 4D	4f#	8dL 8dd	.
 .	.	8c 8ccn	.
 8AA 8A	8c	8F#XJ 8f#	.
@@ -269,7 +269,7 @@
 *	*^	*
 4BB-] 4B-]	4e- 4g	8b-L	.
 .	.	8GJ	.
-8AA-X 8A-X	8ra	8ra	.
+8AA-X 8A-X	8ra	8ra	ff
 4GG 4G	4bn	8gL 8gg	.
 .	.	8f 8ff	.
 8D 8d	8f	8BnJ 8b	.
@@ -295,7 +295,7 @@
 .	.	8B-J	.
 8FF 8F	8ra	8ra	.
 4D 4d	4f 4a	8aL	.
-.	.	8B-J	.
+.	.	8B-J	>
 8FF 8F	8ra	8ra	.
 4D 4d	4en 4g#	8g#XL	.
 .	.	8BnJ	.
@@ -311,7 +311,7 @@
 .	.	8e-J	.
 8DD-X 8D-X	8ra	8ra	.
 =26	=26	=26	=26
-4AA-X 4A-X	4a-X 4cc 4ee-	8ee-L	.
+4AA-X 4A-X	4a-X 4cc 4ee-	8ee-L	>
 .	.	8e-J	.
 8CC 8C	8ra	8ra	.
 4AA- 4A-	4f#X 4dd	8ddL	.
@@ -335,7 +335,7 @@
 4DD 4D	4B- 4g	8gL	.
 .	.	8GJ	.
 *	*v	*v	*
-8GGG 8GG	8r	.
+8GGG 8GG	8r	p
 8DL	4r	.
 8B-	.	.
 8GGJ	8e-	.
@@ -356,13 +356,13 @@
 !!LO:LB:g=original
 =30	=30	=30	=30
 32%3DL	4.Bn	4.g	.
-32%3Bn	.	.	.
-32%3GG	.	.	.
-32%3AAJ	.	.	.
+32%3Bn	.	.	<
+32%3GG	.	.	(
+32%3AAJ	.	.	(
 *	*v	*v	*
-8BBnL	4r	.
-8DD	.	.
-8GGGJ 8GG	8e-	.
+8BBnL	4r	[ f >
+8DD	.	)
+8GGGJ 8GG	8e-	] p
 *	*^	*
 8FL	8A-XL	4d	.
 8B	8G	.	.
@@ -379,12 +379,12 @@
 8GGJ	.	8e-	.
 =32	=32	=32	=32
 32%3DL	[4.Bn	[4.g	.
-32%3Bn	.	.	.
-32%3GG	.	.	.
-32%3AAJ	.	.	.
-8BBnL	4B]	4g]	.
-8DD	.	.	.
-8GGGJ 8GG	8r	8e-	.
+32%3Bn	.	.	<
+32%3GG	.	.	(
+32%3AAJ	.	.	(
+8BBnL	4B]	4g]	[ f >
+8DD	.	.	)
+8GGGJ 8GG	8r	8e-	] pp
 8E-L	8c	4f#X	.
 8c	4A-X	.	.
 8GGJ	.	8e-	.
@@ -396,7 +396,7 @@
 32%3AAJ	.	.	.
 8BBnL	4B]	4g]	.
 8DD	.	.	.
-8GGGJ 8GG	8r	8e-	.
+8GGGJ 8GG	8r	8e-	>
 8E-L	8c	4f#X	.
 8c	4A-X	.	.
 8GGJ	.	8e-	.
@@ -407,7 +407,7 @@
 8DL	8B	4g	.
 8B	4G	.	.
 8GGJ	.	8d	.
-8DL	8B	[4.B [4.g	.
+8DL	8B	[4.B [4.g	ppp
 8B	[4G	.	.
 [8DDJ	.	.	.
 =35	=35	=35	=35
@@ -417,6 +417,7 @@
 *-	*-	*-
 !!!system-decoration: {(*)}
 !!!filter: flipper -a
+!!!RDF**dynam: > = dim.
 !!!ENC: Bryan Jacob Bell
 !!!END: November 2021 to April 2022
 !!!PED: Konstantin Igumnov and Yakov Milstein
