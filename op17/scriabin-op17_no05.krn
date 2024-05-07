@@ -15,12 +15,14 @@
 *f:	*f:	*
 *M9/8	*M9/8	*
 =1	=1	=1
+*	*8va	*
 16%3CL 16%3G 16%3c	16ccccLL	f
 .	16eeen	.
 .	16ccc	.
 16%3CCCJ 16%3CC	16ccc	.
 .	16ggg	.
 .	16ggJJ	.
+*	*X8va	*
 16%3r	16cccLL	.
 .	16een	.
 .	16cc	.
@@ -34,12 +36,14 @@
 8BB-XJ 8B-X	16g	.
 .	16GJJ	.
 =2	=2	=2
+*	*8va	*
 16%3AA-L 16%3D- 16%3A-	16ccccLL	.
 .	16fff	.
 .	16ccc	.
 16%3CCCJ 16%3CC	16ddd-	.
 .	16aaa-	.
 .	16aa-JJ	.
+*	*X8va	*
 4.r	16cccLL	.
 .	16ff	.
 .	16cc	.
@@ -54,12 +58,14 @@
 .	16A-JJ	.
 !!LO:LB:g=original
 =3	=3	=3
+*	*8va	*
 16%3FL 16%3c 16%3f	16ffffLL	.
 .	16aaan	.
 .	16fff	.
 16%3CCCJ 16%3CC	16fff	.
 .	16cccc	.
 .	16cccJJ	.
+*	*X8va	*
 16%3r	16fffLL	.
 .	16aan	.
 .	16ff	.
@@ -73,12 +79,14 @@
 8E-XJ 8e-X	16cc	.
 .	16cJJ	.
 =4	=4	=4
+*	*8va	*
 16%3D-L 16%3G-X 16%3d-	16ffffLL	.
 .	16bbb-	.
 .	16fff	.
 16%3CCCJ 16%3CC	16ggg-X	.
 .	16dddd-	.
 .	16ddd-JJ	.
+*	*X8va	*
 4.r	16fffLL	.
 .	16bb-	.
 .	16ff	.
@@ -167,6 +175,7 @@
 .	16b	.
 8D-L 8d-	16ff	.
 .	16bb	.
+*	*8va	*
 8GGJ 8G	16fff	.
 .	16bbbnJJ	.
 !!LO:LB:g=original
@@ -177,6 +186,7 @@
 .	16ccc	.
 8CCJ 8C	16ggg	.
 .	16ggJJ	.
+*	*X8va	*
 8GGGL 8GG	16cccLL	.
 .	16een	.
 8CCC 8CC	16cc	.
@@ -191,12 +201,14 @@
 .	16GJJ	.
 =10	=10	=10
 *^	*	*
+*	*	*8va	*
 4.D-	8AA-L 8A-	16ccccLL	.
 .	.	16fff	.
 .	8GG 8G	16ccc	.
 .	.	16ddd-	.
 .	8FFJ 8F	16aaa-	.
 .	.	16aa-JJ	.
+*	*	*X8va	*
 *v	*v	*	*
 8AAA-L 8AA-	16cccLL	.
 .	16ff	.
@@ -212,12 +224,14 @@
 .	16A-JJ	.
 !!LO:LB:g=original
 =11	=11	=11
+*	*8va	*
 8FL 8c 8f	16ffffLL	.
 .	16aaan	.
 8C 8c	16fff	.
 .	16fff	.
 8FFJ 8F	16cccc	.
 .	16cccJJ	.
+*	*X8va	*
 8CCL 8C	16fffLL	.
 .	16aan	.
 8CCC 8CC	16ff	.
@@ -232,12 +246,14 @@
 .	16cJJ	.
 =12	=12	=12
 *^	*	*
+*	*	*8va	*
 8D-L 8d-	4.G-X	16ffffLL	.
 .	.	16bbb-	.
 8C 8c	.	16fff	.
 .	.	16ggg-X	.
 8BB-J 8B-	.	16dddd-	.
 .	.	16ddd-JJ	.
+*	*	*X8va	*
 *v	*v	*	*
 8DD-L 8D-	16fffLL	.
 .	16bb-	.
@@ -407,6 +423,7 @@
 4.G-X 4.g-X	16eeLL	sf
 .	16bb-	.
 .	16eee	.
+*	*8va	*
 .	16eee	.
 .	16bbb-	.
 .	16eeeenJJ	.
@@ -419,6 +436,7 @@
 .	16fff	.
 8FFJ 8F	16cccc	.
 .	16cccJJ	.
+*	*X8va	*
 8CCL 8C	16fffLL	.
 .	16aan	.
 8FFF 8FF	16ff	.
@@ -433,12 +451,14 @@
 .	16cJJ	.
 =22	=22	=22
 *^	*	*
+*	*	*8va	*
 8D-L 8d-	4.G-X	16ffffLL	.
 .	.	16bbb-	.
 8C 8c	.	16fff	.
 .	.	16ggg-X	.
 8BB-J 8B-	.	16dddd-	.
 .	.	16ddd-JJ	.
+*	*	*X8va	*
 *v	*v	*	*
 8DD-L 8D-	16fffLL	.
 .	16bb-	.
