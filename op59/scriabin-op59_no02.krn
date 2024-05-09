@@ -49,6 +49,7 @@
 16EEE-XJJ 16EE-X	.	.	.
 8r	8c#X	.	.
 8r	8cnJ	.	.
+!!LO:LB:g=original
 =4	=4	=4	=4
 16CCLL 16C	8BnL	4e-X	.
 16GGGJJ 16GG	.	.	.
@@ -88,6 +89,7 @@
 16AAAJJ 16AA	.	.
 8r	.	.
 8r	.	.
+!!LO:LB:g=original
 =8	=8	=8
 16BBB#XLL 16BB#X	8A 8e 8a	.
 16FFF#XJJ 16FF#X	.	.
@@ -123,6 +125,7 @@
 8AL 8e 8a	8g#L 8b# 8gg#	.
 8BBB#X 8BB#X	8g# 8b# 8gg#	.
 8FFF#XJ 8FF#X	8g#J 8b# 8gg#	.
+!!LO:LB:g=original
 =12	=12	=12
 *	*^	*
 4.A 4.e 4.a	4.g#X 4.b#X	8gg#XL	.
@@ -154,6 +157,7 @@
 8r	8E	.
 8BBB#XL 8BB#X	8r	.
 8FFF#XJ 8FF#X	8r	.
+!!LO:LB:g=original
 =16	=16	=16
 *	*^	*
 4.A 4.e 4.a	4.g#X 4.b#X	8gg#XL	.
@@ -185,6 +189,7 @@
 8r	8E	.
 8FFF##XL 8FF##X	8r	.
 8CCC#XJ 8CC#X	8r	.
+!!LO:LB:g=original
 =20	=20	=20
 *	*^	*
 4.E 4.B 4.e	4.d#X 4.f##X	8dd#XL	.
@@ -221,6 +226,7 @@
 8CC#XL 8C#X	16d#	.
 .	16BJJ	.
 8GGG#XJ 8GG#X	8F##	.
+!!LO:LB:g=original
 =24	=24	=24
 4BB 4E#X	8F##X 8B 8e#X 8f##X	.
 .	16F##LL	.
@@ -258,6 +264,7 @@
 16AAAJJ 16AA	.	.
 8r	.	.
 8r	.	.
+!!LO:LB:g=original
 =28	=28	=28
 4r	4r	.
 8r	8r	.
@@ -295,6 +302,7 @@
 16AAAJJ 16AA	.	.	.
 8r	8f##X	.	.
 8r	8f#XJ	.	.
+!!LO:LB:g=original
 =32	=32	=32	=32
 16FF#XLL 16F#X	8e#XL	4A 4a	.
 16CC#XJJ 16C#X	.	.	.
@@ -334,6 +342,7 @@
 16EE-XJJ 16E-X	.	.
 8r	.	.
 8r	8r	.
+!!LO:LB:g=original
 =36	=36	=36
 16FF#XLL 16F#X	8e-X 8b-X 8ee-X	.
 16CCJJ 16C	.	.
@@ -370,6 +379,7 @@
 8B-L 8e- 8b-	8ddL 8ff# 8ddd	.
 8FF#X 8F#X	8dd 8ff# 8ddd	.
 8CCJ 8C	8ddJ 8ff# 8ddd	.
+!!LO:LB:g=original
 =40	=40	=40
 *	*^	*
 4.B-X 4.e-X 4.b-X	8ddL 8ddd	4.ff#X	.
@@ -401,6 +411,7 @@
 8r	8B-X	.
 8FF#XL 8F#X	8r	.
 8CCJ 8C	8r	.
+!!LO:LB:g=original
 =44	=44	=44
 *	*^	*
 4.B-X 4.e-X 4.b-X	8ddL 8ddd	4.ff#X	.
@@ -432,6 +443,7 @@
 8r	8B-X	.
 8CC#XL 8C#X	8r	.
 8GGGJ 8GG	8r	.
+!!LO:LB:g=original
 =48	=48	=48
 *	*^	*
 4.Fn 4.B-X 4.fn	8aL 8aa	4.cc#X	.
@@ -467,6 +479,7 @@
 8GGGL 8GG	16a	.
 .	16fJJ	.
 8DDDJ 8DD	8c#	.
+!!LO:LB:g=original
 =52	=52	=52
 8BBn 8F 8Bn	8c#X 8f 8bn 8cc#X	.
 8r	16c#LL	.
@@ -505,6 +518,7 @@
 8r	4.B- 4.e 4.a	.
 8FFF#L 8FF#	.	.
 8CCCJ 8CC	.	.
+!!LO:LB:g=original
 =56	=56	=56
 8BB-X 8E 8B-X	4.d 4.e 4.b-X 4.dd	.
 8r	.	.
