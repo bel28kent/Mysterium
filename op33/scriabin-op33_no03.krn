@@ -14,7 +14,7 @@
 *k[]	*k[]	*
 *C:	*C:	*
 *M3/4	*M3/4	*
-16BBB-- 16BB--	16G 16d-X 16e	.
+16BBB-- 16BB--	16G 16d-X 16e	ff
 =1	=1	=1
 16BBB--LL 16BB--	16GLL 16d-X 16e	.
 16DD-X 16D-X	16A-X 16d- 16f	.
@@ -28,10 +28,10 @@
 =2	=2	=2
 8.r	8.r	.
 [16FF [16D-X [16A-X	16a-X	.
-4FF] 4D-] 4A-]	4c	.
-4GG 4D- 4F 4G	4B	.
+4FF] 4D-] 4A-]	4c	sf
+4GG 4D- 4F 4G	4B	sf
 =3	=3	=3
-[4CC 4GG 4C	4E 4G [4e	.
+[4CC 4GG 4C	4E 4G [4e	sf
 8CCL]	16eLL]	.
 .	32G<L	.
 .	32C<JJJ	.
@@ -42,7 +42,7 @@
 4CCC	4r	.
 !!LO:LB:g=original
 =4	=4	=4
-12BBB--L 12BB--	12GL 12d-X 12e	.
+12BBB--L 12BB--	12GL 12d-X 12e	f
 12BBB-- 12BB--	12G 12d- 12e	.
 12DD-XJ 12D-X	12A-XJ 12d- 12f	.
 12BBB--L 12BB--	12GL 12d- 12e	.
@@ -51,10 +51,10 @@
 4r	4r	.
 =5	=5	=5
 8qCCC [8qCC	.	.
-2CC] 2AA-X 2E-X 2A-X	2e-X 2a-X 2ee-X	.
-4DD 4AA- 4D	4F#X 4c 4f#X	.
+2CC] 2AA-X 2E-X 2A-X	2e-X 2a-X 2ee-X	sf
+4DD 4AA- 4D	4F#X 4c 4f#X	sf
 =6	=6	=6
-8GGGL 8GG 8D	24GLL 24g	.
+8GGGL 8GG 8D	24GLL 24g	sf
 .	24B	.
 .	24GJJ	.
 24GL	8r	.
@@ -64,7 +64,7 @@
 4r	4r	.
 =7	=7	=7
 12r	12r	.
-12BBB--L 12BB--	12GL [12d-X 12e	.
+12BBB--L 12BB--	12GL [12d-X 12e	p
 12DD-XJ 12D-X	12A-XJ 12d-] 12f	.
 12r	12r	.
 12BBB--L 12BB--	12GL [12d- 12e	.
@@ -73,10 +73,10 @@
 [16BB-X [16G-X [16d-X	16dd-X	.
 !!LO:LB:g=original
 =8	=8	=8
-2BB-] 2G-] 2d-]	2f	.
-4C 4G-X 4B-X 4c	4e	.
+2BB-] 2G-] 2d-]	2f	sff
+4C 4G-X 4B-X 4c	4e	sff
 =9	=9	=9
-[4FF 4C 4F	4A 4c [4a	.
+[4FF 4C 4F	4A 4c [4a	ff
 8FFL]	16aLL]	.
 .	32cL	.
 .	32FJJJ	.
@@ -88,19 +88,19 @@
 =10	=10	=10
 12r	12r	.
 12r	12r	.
-12BBB-- 12BB--	12G 12d-X 12e	.
+12BBB-- 12BB--	12G 12d-X 12e	pp
 6DD-X 6D-X	6A-X 6d- 6f	.
 12BBB-- 12BB--	12G 12d- 12e	.
 8qFFF 8qAAA-X 8qDD- [8qFF	.	.
-4FF_ [4D- [4A-X [4d-X	[4a-X [4dd-X [4aa-X	.
+4FF_ [4D- [4A-X [4d-X	[4a-X [4dd-X [4aa-X	sfff
 =11	=11	=11
 4FF] 4D-] 4A-] 4d-]	4a-] 4dd-] 4aa-]	.
 4r	4r	.
 8qGGG 8qDD 8qGG	.	.
-4GG 4D-X 4G	4B 4d-X 4f 4g 4b	.
+4GG 4D-X 4G	4B 4d-X 4f 4g 4b	sfff
 =12	=12	=12
 16qCCC 16qEEE 16qGGG [16qCC	.	.
-16CCLL] 16GG 16C	16cLL 16e 16g 16cc	.
+16CCLL] 16GG 16C	16cLL 16e 16g 16cc	sfff
 16CCJJ 16C	16cJJ	.
 8r	8r	.
 4r	4r	.
