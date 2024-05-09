@@ -18,19 +18,19 @@
 *	*^	*
 *	*	*^	*
 !	! The print edition has an arrow that points from b- to d- (voice overlap)	!	!	!
-8d-L	4b-\	4g-	4ff	.
-8E-	.	.	.	.
-8FJ	8d-\	8f	8b-	.
-8G-L	[4.d-\	[4.e-	[4.dd-	.
+8d-L	4b-\	4g-	4ff	p >
+8E-	.	.	.	)
+8FJ	8d-\	8f	8b-	)
+8G-L	[4.d-\	[4.e-	[4.dd-	]
 8BB-	.	.	.	.
 8EE-J	.	.	.	.
 8AAnL	4d-\]	4e-]	4dd-]	.
 8A-X	.	.	.	.
-8G-J	8d-\	8e-	8dd-	.
+8G-J	8d-\	8e-	8dd-	< [
 =2	=2	=2	=2	=2
-8FL	2.d-\	[2.f	[2.dd-	.
-8BB-	.	.	.	.
-8BBB-J	.	.	.	.
+8FL	2.d-\	[2.f	[2.dd-	>
+8BB-	.	.	.	)
+8BBB-J	.	.	.	]
 8FFL	.	.	.	.
 8D-	.	.	.	.
 8FJ	.	.	.	.
@@ -39,35 +39,37 @@
 8B-J	.	.	.	.
 =3	=3	=3	=3	=3
 !	! Assumed to be voice overlap in parallel to m. 1	!	!	!
-8d-L	4b-\	4g-	4ff	.
-8E-	.	.	.	.
-8FJ	8d-\	8f	8b-	.
-8G-L	[4.d-\	[4.e-	[4.dd-	.
+8d-L	4b-\	4g-	4ff	>
+8E-	.	.	.	)
+8FJ	8d-\	8f	8b-	)
+8G-L	[4.d-\	[4.e-	[4.dd-	]
 8BB-	.	.	.	.
 8EE-J	.	.	.	.
 8BB--L	4d-\]	4e-]	4dd-]	.
 8A-	.	.	.	.
-8G-J	8d-\	8e-	8dd-	.
+8G-J	8d-\	8e-	8dd-	< [
 =4	=4	=4	=4	=4
-8FL	2.d-\	[2.f	[2.dd-	.
-8AA-	.	.	.	.
-8DD-J	.	.	.	.
-8AA-L	.	.	.	.
-8D-	.	.	.	.
-8FJ	.	.	.	.
+8FL	2.d-\	[2.f	[2.dd-	>
+8AA-	.	.	.	)
+8DD-J	.	.	.	]
+!	!	!	!	!LO:HP:b=2
+8AA-L	.	.	.	<
+8D-	.	.	.	(
+8FJ	.	.	.	[
 8B-L	4.rA	4.f]	4.dd-]	.
-8Gn	.	.	.	.
-8A-J	.	.	.	.
+!	!	!	!	!LO:HP:b=2
+8Gn	.	.	.	>
+8A-J	.	.	.	]
 !!LO:LB:g=original
 =5	=5	=5	=5	=5
 !	! The print edition has an arrow that points from b- to d- (voice overlap)	!	!	!
-8c-XL	4a-X\	4f-	4ff-X	.
+8c-XL	4a-X\	4f-	4ff-X	pp
 8D-	.	.	.	.
 8E-J	8c-X\	8e-	8a-	.
 8F-XL	[4.c-\	[4.d-	[4.cc-X	.
 8AA-	.	.	.	.
 8DD-J	.	.	.	.
-8AA--L	4c-\]	4d-]	4cc-]	.
+8AA--L	4c-\]	4d-]	4cc-]	<
 8G-	.	.	.	.
 8F-J	8c-\	8d-	8cc-	.
 *	*	*v	*v	*
@@ -132,7 +134,7 @@
 *	*^	*
 *	*	*^	*
 !	! Assumed to be voice overlap in parallel to m. 1	!	!	!
-8a-XL	4ff\	4dd-	4ccc	.
+8a-XL	4ff\	4dd-	4ccc	p
 8B-	.	.	.	.
 8cJ	8a-\	8cc	8ff	.
 8d-L	[4.a-\	[4.b-	[4.aa-	.
@@ -154,7 +156,7 @@
 !!LO:LB:g=original
 =13	=13	=13	=13	=13
 !	! Assumed to be voice overlap in parallel to m. 1	!	!	!
-8g-L	4ee-X\	4cc-	4ccc-X	.
+8g-L	4ee-X\	4cc-	4ccc-X	pp
 8A-	.	.	.	.
 8B-J	8g-\	8b-	8ee-	.
 8c-XL	[4.g-\	[4.a-	[4.gg-	.
@@ -165,22 +167,22 @@
 8c-J	.	.	8gg-	.
 *	*	*v	*v	*
 =14	=14	=14	=14
-8B-L	[2.g- [2.b-	[2.gg-	.
-8E-	.	.	.
-8EE-J	.	.	.
-8BB-L	.	.	.
-8G-	.	.	.
-8B-J	.	.	.
+8B-L	[2.g- [2.b-	[2.gg-	<
+8E-	.	.	(
+8EE-J	.	.	(
+8BB-L	.	.	(
+8G-	.	.	(
+8B-J	.	.	[
 8fL	4.g-] 4.b-]	4.gg-]	.
 8e-	.	.	.
 8B-J	.	.	.
 =15	=15	=15	=15
 *	*	*^	*
 !	! Assumed to be voice overlap in parallel to m. 1	!	!	!
-8d-L	4b-\	4g-	4ff	.
+8d-L	4b-\	4g-	4ff	p
 8E-	.	.	.	.
 8FJ	8d-\	8f	8b-	.
-8G-L	4.d-\	4.e-	[4.dd-	.
+8G-L	4.d-\	4.e-	[4.dd-	<
 8BB-	.	.	.	.
 8EE-J	.	.	.	.
 8BB-L	4.d-\	4.b-	4.dd-]	.
@@ -199,7 +201,7 @@
 8G-J	.	.	.
 !!LO:LB:g=original
 =17	=17	=17	=17
-8B-/L	4.g- 4.b-	40%3dd-L	.
+8B-/L	4.g- 4.b-	40%3dd-L	mf
 .	.	40%3ee-	.
 8D-	.	.	.
 .	.	40%3dd-	.
@@ -229,7 +231,7 @@
 8g-L	4e-] 4g-]	4cc-]	.
 8c-	.	.	.
 8FFJ	8g- 8b-	8dd-	.
-8D-L	8g-L 8dd-	8bb-L	.
+8D-L	8g-L 8dd-	8bb-L	ff
 8B-	8b- 8dd-	8gg-	.
 8FFJ	8g-J 8b-	8dd-J	.
 =20	=20	=20	=20
@@ -245,7 +247,7 @@
 =21	=21	=21
 2.cc-]	4.r	.
 .	4.r	.
-4.r	8gg-L	.
+4.r	8gg-L	p
 .	8ee-	.
 .	8b-J	.
 =22	=22	=22
@@ -273,8 +275,8 @@
 4.D-]	4.B-]	4.f]	4ff]	.
 .	.	.	8ff	.
 =25	=25	=25	=25	=25
-[2.E-	[2.c-X	[2.g-	2.ff	.
-4.E-]	4.c-]	4.g-]	4.ee-	.
+[2.E-	[2.c-X	[2.g-	2.ff	>
+4.E-]	4.c-]	4.g-]	4.ee-	] pp
 *	*	*v	*v	*
 *v	*v	*	*
 !!LO:LB:g=original
@@ -303,10 +305,10 @@
 *	*v	*v	*
 =30	=30	=30
 [8qBBB- [8qFF	.	.
-2.BBB-_ 2.FF_ [2.BB- [2.F [2.B-	[2.d- [2.f [2.b- [2.dd-	.
-4.BBB-_ 4.FF_ 4.BB-_ 4.F_ 4.B-_	4.d-_ 4.f_ 4.b-_ 4.dd-_	.
+2.BBB-_ 2.FF_ [2.BB- [2.F [2.B-	[2.d- [2.f [2.b- [2.dd-	p >
+4.BBB-_ 4.FF_ 4.BB-_ 4.F_ 4.B-_	4.d-_ 4.f_ 4.b-_ 4.dd-_	)
 =31	=31	=31
-2.BBB-_ 2.FF_ 2.BB-_ 2.F_ 2.B-_	2.d-_ 2.f_ 2.b-_ 2.dd-_	.
+2.BBB-_ 2.FF_ 2.BB-_ 2.F_ 2.B-_	2.d-_ 2.f_ 2.b-_ 2.dd-_	]
 4.BBB-] 4.FF] 4.BB-] 4.F] 4.B-]	4.d-] 4.f] 4.b-] 4.dd-]	.
 ==	==	==
 *-	*-	*-
