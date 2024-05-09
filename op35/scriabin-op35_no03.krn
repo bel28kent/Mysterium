@@ -33,6 +33,7 @@
 8GGG] 8GG]	8G] 8B] 8d	.
 8r	8r	.
 8AA 8A	8f 8cc 8ff	.
+!!LO:LB:g=original
 =7	=7	=7
 [4.AA-X [4.A-X	[4.g-X [4.cc [4.ff [4.aa-X	.
 =8	=8	=8
@@ -56,6 +57,7 @@
 =14	=14	=14	=14
 4BB-] 4G-] 4c]	4g-] 4b-]	4ee-]	.
 [8BB-X [8G-X [8d-X	[8g-X [8b-X	[8dd-X	.
+!!LO:LB:g=original
 =15	=15	=15	=15
 8BB-] 8G-] 8d-]	8g-] 8b-]	8dd-]	.
 *	*v	*v	*
@@ -83,6 +85,7 @@
 8FFF 8FF	8D-X 8A-X 8d-X	.
 =22	=22	=22
 [4.GGG [4.GG	[4.Dn [4.F [4.c	.
+!!LO:LB:g=original
 =23	=23	=23
 4GGG] 4GG]	4D] 4F] 4c]	.
 [8GGG [8GG	[8D [8F [8B	.
@@ -108,6 +111,7 @@
 8GGG] 8GG]	8G] 8B] 8d	.
 8r	8r	.
 8AA 8A	8f 8cc 8ff	.
+!!LO:LB:g=original
 =31	=31	=31
 [4.AA-X [4.A-X	[4.g-X [4.cc [4.ff [4.aa-X	.
 =32	=32	=32
@@ -133,6 +137,7 @@
 =39	=39	=39
 [4.GGG [4.GG	4E-] 4B-] 4c]	.
 .	8F 8B-X 8d	.
+!!LO:LB:g=original
 =40	=40	=40
 4.GGG] 4.GG]	[4.F [4.B-X [4.d	.
 =41	=41	=41
@@ -160,6 +165,7 @@
 8FF 8Cn 8F	8A 8e-X 8f 8a	.
 8r	8r	.
 8r	8r	.
+!!LO:LB:g=original
 =48	=48	=48
 8BB-X 8F	8B-X 8d 8f 8b-X	.
 8r	8r	.
@@ -184,6 +190,7 @@
 .	8B-X 8d 8f	.
 =55	=55	=55
 4.GGG] 4.GG]	[4.B-X [4.d [4.f	.
+!!LO:LB:g=original
 =56	=56	=56
 4.BBB-X 4.BB-X	4B-] 4d] 4f]	.
 .	8B-X 8e-X 8g	.
@@ -209,6 +216,7 @@
 =62	=62	=62
 4.AA-X 4.A-X	4d-] 4f] 4a-]	.
 .	[8d-X [8a-X [8b-X	.
+!!LO:LB:g=original
 =63	=63	=63
 [4.FF [4.F	4d-] 4a-] 4b-]	.
 .	8e-X 8a-X 8cc	.
@@ -230,6 +238,7 @@
 4.FF 4.F	4.a-X	4dd-X 4ee-X 4gg-X	.
 .	.	8dd- 8ff 8aa-X	.
 *	*v	*v	*
+!!LO:LB:g=original
 =70	=70	=70
 8FF 8D-X 8A-X	8a-X 8cc 8ff 8aa-X	.
 8r	8r	.
@@ -255,6 +264,7 @@
 =77	=77	=77
 4.AA-X 4.A-X	4e-] 4a-] 4cc]	.
 .	[8d-X [8a-X [8b-X [8dd-X	.
+!!LO:LB:g=original
 =78	=78	=78
 [4.FF [4.F	4d-] 4a-] 4b-] 4dd-]	.
 .	8a-X 8cc 8ee-X	.
@@ -280,6 +290,7 @@
 8EE 8E	8c 8g 8cc	.
 8r	8r	.
 8r	8r	.
+!!LO:LB:g=original
 =85	=85	=85
 [4.EE-X [4.E-X	[4.d-X [4.g [4.cc [4.ee-X	.
 =86	=86	=86
@@ -307,6 +318,7 @@
 =93	=93	=93
 4DD-X 4D-X	4f 4ee-X	.
 8D- 8d-X	8f 8dd-X	.
+!!LO:LB:g=original
 =94	=94	=94
 4GG 4G	4f 4b 4ff	.
 8GG 8G	8f 8g 8b	.
@@ -338,6 +350,7 @@
 =103	=103	=103
 *	*^	*
 [4.FF [4.D-X [4.G	[4.d-X [4.f	[4.b-X	.
+!!LO:LB:g=original
 =104	=104	=104	=104
 4FF] 4D-] 4G]	4d-] 4f]	4b-]	.
 [8FF [8D-X [8A-X	[8d-X [8f	[8a-X	.
@@ -361,6 +374,7 @@
 8.EE-L] 8.E-]	8.d-L] 8.g] 8.cc] 8.ee-]	.
 16EE-Xk 16E-X	16d-Xk 16g-X	.
 8EE-J 8E-	8d-J 8gn	.
+!!LO:LB:g=original
 =111	=111	=111
 4AAA-X 4AA-X	4c 4b-X	.
 8AA- 8A-X	[8c 8a-X	.
@@ -384,6 +398,7 @@
 8AAn 8An	8f 8cc 8ff	.
 =118	=118	=118
 [4.AA-X [4.A-X	[4.g-X [4.cc [4.ff [4.aa-X	.
+!!LO:LB:g=original
 =119	=119	=119
 8.AA-L] 8.A-]	8.g-L] 8.cc] 8.ff] 8.aa-]	.
 16AA-Xk 16A-X	16g-Xk 16cc-X	.
