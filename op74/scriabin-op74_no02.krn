@@ -16,7 +16,7 @@
 *M4/8	*M4/8	*
 =1	=1	=1
 8qFFF#X	.	.
-[2FF#X [2C#X	4a	.
+[2FF#X [2C#X	4a	pp
 .	8b#XL	.
 .	8aJ	.
 =2	=2	=2
@@ -140,12 +140,12 @@
 *v	*v	*	*
 =15	=15	=15
 8qFFF#X	.	.
-[2FF#X [2C#X	4a	.
+[2FF#X [2C#X	4a	pp
 .	8b#XL	.
 .	8aJ	.
 =16	=16	=16
 2FF#_ 2C#_	8gL	.
-.	8f#XJ	.
+.	8f#XJ	>
 .	8e#XL	.
 .	[8enJ	.
 =17	=17	=17
@@ -156,6 +156,7 @@
 *-	*-	*-
 !!!system-decoration: {(*)}
 !!!filter: flipper -a
+!!!RDF**dynam: > = dim.
 !!!ENC: Bryan Jacob Bell
 !!!END: November 2021 to April 2022
 !!!PED: Günter Philipp
