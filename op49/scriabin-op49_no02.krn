@@ -51,6 +51,7 @@
 .	16c\	.	.	.
 *	*	*v	*v	*
 *	*v	*v	*
+!!LO:LB:g=original
 =4	=4	=4
 *^	*	*
 [8qGGG-X [8qGG-X\	.	.	.
@@ -81,6 +82,7 @@
 *v	*v	*	*
 4GG 4F	4Bn 4d- 4f	.
 4r	4r	.
+!!LO:LB:g=original
 =8	=8	=8
 4CC 4E	4A-X 4c 4e 4a-X	.
 4CCC 4CC	4E 4G 4c	.
@@ -122,6 +124,7 @@
 .	16f\	.	.	.
 *	*	*v	*v	*
 *	*v	*v	*
+!!LO:LB:g=original
 =12	=12	=12
 *^	*	*
 [8qCC-X [8qC-X\	.	.	.
@@ -150,6 +153,7 @@
 =16	=16	=16
 2C-X 2A--	2d-X 2f 2dd-X	.
 4CC-X 4C-	4A-- 4d- 4f	.
+!!LO:LB:g=original
 =17	=17	=17
 4BB- 4G-X	4d-X 4f 4b-	.
 4BBB- 4BB-	4F 4G-X 4d-	.
