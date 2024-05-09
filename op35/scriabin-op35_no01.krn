@@ -15,7 +15,7 @@
 *D-:	*D-:	*
 *M3/4	*M3/4	*
 *	*Xtuplet	*
-12AA-L 12F-X 12Gn	24ccLL	.
+12AA-L 12F-X 12Gn	24ccLL	p
 .	24e-	.
 12FF-X 12F-	24c	.
 .	24d-J	.
@@ -47,7 +47,7 @@
 .	24c	.
 12AA-L 12A-	24G-	.
 .	24cJ	.
-12AAA-J 12AA-	12e-J	.
+12AAA-J 12AA-	12e-J	<
 12AA-L 12E- 12G-	24b-XLL	.
 .	24d-X	.
 12EE- 12E-	24Bn	.
@@ -58,14 +58,14 @@
 [4EE-- 4AA- 4G-	24a-LL	.
 .	24d-	.
 .	24Bn	.
-.	24cJ	.
-.	12g-J	.
-4EE--]	24BLL	.
-.	24A-	.
-.	24F	.
-.	24G-J	.
-.	12cJ	.
-12r	24fLL	.
+.	24cJ	>
+.	12g-J	)
+4EE--]	24BLL	)
+.	24A-	)
+.	24F	)
+.	24G-J	)
+.	12cJ	]
+12r	24fLL	p
 .	24A-	.
 12CCL 12C	24F	.
 .	24G-J	.
@@ -114,7 +114,7 @@
 .	24d-	.
 .	24fJ	.
 .	12a-J	.
-12D-L 12A- 12c-X	24ee-XLL	.
+12D-L 12A- 12c-X	24ee-XLL	<
 .	24g-X	.
 12AA- 12A-	24en	.
 .	24fJ	.
@@ -124,14 +124,14 @@
 [4BB-- 4E- 4d-	24ee-LL	.
 .	24a-	.
 .	24g-	.
-.	24gnJ	.
-.	12dd-J	.
-4BB--]	24f#XLL	.
-.	24e-	.
-.	24c	.
-.	24d-J	.
-.	12gJ	.
-4EE- 4E-	24ccLL	.
+.	24gnJ	>
+.	12dd-J	)
+4BB--]	24f#XLL	)
+.	24e-	)
+.	24c	)
+.	24d-J	)
+.	12gJ	)
+4EE- 4E-	24ccLL	] p
 .	24e-	.
 .	24c	.
 .	24d-J	.
@@ -147,7 +147,7 @@
 .	24B	.
 .	24cJ	.
 .	12a-J	.
-4G-X 4c	24b-XLL	.
+4G-X 4c	24b-XLL	f
 .	24f	.
 .	24dn	.
 .	24e-J	.
@@ -164,7 +164,7 @@
 .	24d-X	.
 .	24dnJ	.
 .	12a-J	.
-4En 4B	24g#XLL	.
+4En 4B	24g#XLL	pp
 .	24en	.
 .	24c#X	.
 .	24dJ	.
@@ -176,7 +176,7 @@
 .	24c#XJ	.
 .	12enJ	.
 .	24g#XLL	.
-.	24d	.
+.	24d	<
 .	24B#	.
 .	24c#J	.
 .	12anJ	.
@@ -232,7 +232,7 @@
 .	12ddnJ	.
 4d 4f#X	24ff#XLL	.
 .	24b	.
-.	24g#X	.
+.	24g#X	>
 .	24aJ	.
 .	12cc#XJ	.
 =14	=14	=14
@@ -249,7 +249,7 @@
 .	12ee-J	.
 *^	*	*
 *	*	*tuplet	*
-4AA-	12A-L	20dd-LL	.
+4AA-	12A-L	20dd-LL	pp
 .	.	20b-	.
 .	12Gn	.	.
 .	.	20f	.
@@ -305,17 +305,17 @@
 .	20dd-	.
 .	20ffJJ	.
 [8qEE-	.	.
-4EE-] 4G- 4d-	20aa-LL	.
-.	20dd-	.
-.	20an	.
-.	20b-	.
-.	20gg-JJ	.
-[8qAA-	.	.
-4AA-] 4A- 4c	20ffLL	.
-.	20cc	.
-.	20a-X	.
-.	20g-	.
-.	20ee-JJ	.
+4EE-] 4G- 4d-	20aa-LL	>
+.	20dd-	)
+.	20an	)
+.	20b-	)
+.	20gg-JJ	)
+[8qAA-	.	)
+4AA-] 4A- 4c	20ffLL	)
+.	20cc	)
+.	20a-X	)
+.	20g-	)
+.	20ee-JJ	]
 =18	=18	=18
 2D- 2A-	20ee-LL	.
 .	20a-	.
@@ -339,27 +339,27 @@
 .	20dd-	.
 .	20ffJJ	.
 [8qEE-	.	.
-4EE-] 4G- 4d-	20aa-LL	.
-.	20dd-	.
-.	20an	.
-.	20b-	.
-.	20gg-JJ	.
-[8qAA-	.	.
-4AA-] 4A- 4c	20ffLL	.
-.	20cc	.
-.	20a-X	.
-.	20g-	.
-.	20ee-JJ	.
+4EE-] 4G- 4d-	20aa-LL	>
+.	20dd-	)
+.	20an	)
+.	20b-	)
+.	20gg-JJ	)
+[8qAA-	.	)
+4AA-] 4A- 4c	20ffLL	)
+.	20cc	)
+.	20a-X	)
+.	20g-	)
+.	20ee-JJ	]
 !!LO:LB:g=original
 =20	=20	=20
-2D- 2A-	20ee-LL	.
-.	20a-	.
-.	20en	.
-.	20f	.
-.	20dd-JJ	.
-.	20ccLL	.
-.	20a-	.
-.	20e	.
+2D- 2A-	20ee-LL	>
+.	20a-	)
+.	20en	)
+.	20f	)
+.	20dd-JJ	)
+.	20ccLL	)
+.	20a-	)
+.	20e	]
 .	20f	.
 .	20dd-JJ	.
 [8qAA-	.	.
@@ -394,6 +394,7 @@
 *-	*-	*-
 !!!system-decoration: {(*)}
 !!!filter: flipper -a
+!!!RDF**dynam: > = dim.
 !!!ENC: Bryan Jacob Bell
 !!!END: November 2021 to April 2022
 !!!PED: Konstantin Igumnov and Yakov Milstein
