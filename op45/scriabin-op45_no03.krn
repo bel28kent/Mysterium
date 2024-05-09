@@ -16,20 +16,20 @@
 *M3/4	*M3/4	*
 =1	=1	=1
 *^	*^	*
-4F-X	4r	4d 4a-	12ccL	.
+4F-X	4r	4d 4a-	12ccL	p
 .	.	.	12.an	.
 .	.	.	24b-Jk	.
 4E-	4An	4d-X 4g	8dd-XL	.
 .	.	.	8ccJ	.
-12DL	4B-	4G	8dnL	.
-12D-X	.	.	.	.
-.	.	.	8e-J	.
-12CJ	.	.	.	.
+12DL	4B-	4G	8dnL	<
+12D-X	.	.	.	(
+.	.	.	8e-J	(
+12CJ	.	.	.	[
 =2	=2	=2	=2	=2
 4C-X	4An	4G 4e-	4g	.
 *	*	*v	*v	*
 *v	*v	*	*
-16r	32AnLLL	.
+16r	32AnLLL	pp
 .	32g	.
 16ALL	32e-	.
 .	32g	.
@@ -50,15 +50,15 @@
 4BB-	4En	4A-X 4d	8a-XL	.
 .	.	.	8gJ	.
 *	*	*clefF4	*clefF4	*
-12AAnL	4F	4D	8AnL	.
-12AA-X	.	.	.	.
-.	.	.	8B-J	.
-12GGJ	.	.	.	.
+12AAnL	4F	4D	8AnL	<
+12AA-X	.	.	.	(
+.	.	.	8B-J	(
+12GGJ	.	.	.	[
 =4	=4	=4	=4	=4
 4GG-X	4En	4B-	4d	.
 *	*	*v	*v	*
 *v	*v	*	*
-16r	32EnLLL	.
+16r	32EnLLL	pp
 .	32d	.
 16ELL	32B-	.
 .	32d	.
@@ -96,11 +96,11 @@
 *	*	*	*v	*v	*
 !!LO:LB:g=original
 =8	=8	=8	=8	=8
-4BBB- 4FF	4E-	4An 4c#X	8gL	.
-.	.	.	8g-XJ	.
+4BBB- 4FF	4E-	4An 4c#X	8gL	>
+.	.	.	8g-XJ	)
 *v	*v	*	*	*
-8D/	8B- 8d	8f	.
-8G	4d 4a-X	4ccn	.
+8D/	8B- 8d	8f	]
+8G	4d 4a-X	4ccn	p
 8G-XL	.	.	.
 8FJ	8d 8a-	8cc	.
 =9	=9	=9	=9
@@ -110,15 +110,15 @@
 .	.	.	24b-Jk	.
 4E-	4An	4d-X 4g	8dd-XL	.
 .	.	.	8ccJ	.
-12DL	4B-	4G	8dnL	.
-12D-X	.	.	.	.
-.	.	.	8e-J	.
-12CJ	.	.	.	.
+12DL	4B-	4G	8dnL	<
+12D-X	.	.	.	(
+.	.	.	8e-J	(
+12CJ	.	.	.	[
 =10	=10	=10	=10	=10
 4C-X	4An	4G 4e-	4g	.
 *	*	*v	*v	*
 *v	*v	*	*
-16r	32AnLLL	.
+16r	32AnLLL	pp
 .	32g	.
 16ALL	32e-	.
 .	32g	.
@@ -139,15 +139,15 @@
 4BB-	4En	4A-X 4d	8a-XL	.
 .	.	.	8gJ	.
 *	*	*clefF4	*clefF4	*
-12AAnL	4F	4D	8AnL	.
-12AA-X	.	.	.	.
-.	.	.	8B-J	.
-12GGJ	.	.	.	.
+12AAnL	4F	4D	8AnL	<
+12AA-X	.	.	.	(
+.	.	.	8B-J	(
+12GGJ	.	.	.	[
 =12	=12	=12	=12	=12
 4GG-X	4En	4B-	4d	.
 *	*	*v	*v	*
 *v	*v	*	*
-16r	32EnLLL	.
+16r	32EnLLL	pp
 .	32d	.
 16ELL	32B-	.
 .	32d	.
@@ -161,7 +161,7 @@
 !!LO:LB:g=original
 =13	=13	=13
 *^	*^	*
-2.C-X	2.B--	2.e-	12e-L	.
+2.C-X	2.B--	2.e-	12e-L	f
 .	.	.	12g	.
 .	.	.	12a-J	.
 .	.	.	8ee-L	.
