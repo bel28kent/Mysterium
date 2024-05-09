@@ -16,7 +16,7 @@
 *M3/4	*M3/4	*
 *	*^	*
 *	*	*^	*
-12AAAnL 12AAn	6E-X\	12FnL	6dn	.
+12AAAnL 12AAn	6E-X\	12FnL	6dn	f
 12FFFnJ 12FFn	.	12AnJ	.	.
 12r	12r	12r	12r	.
 *	*	*v	*v	*
@@ -102,7 +102,7 @@
 *	*	*v	*v	*
 =9	=9	=9	=9
 *^	*	*	*
-4r	2.F# 2.en	2dd#	[4g# [4gg#	.
+4r	2.F# 2.en	2dd#	[4g# [4gg#	ff
 12FF#L 12F#	.	.	12g#L] 12gg#]	.
 12BBBJ 12BB	.	.	12.f##X 12.ff##X	.
 12r	.	.	.	.
@@ -127,11 +127,11 @@
 *v	*v	*	*
 =12	=12	=12
 8.BBL 8.F# 8.d#	8.f#L 8.b 8.dd# 8.ff#	.
-16FF#Jk 16F#	[16d#Jk [16f# [16b [16dd#	.
-4AAA# 4AA#	4d#] 4f#] 4b] 4dd#]	.
+16FF#Jk 16F#	[16d#Jk [16f# [16b [16dd#	sf
+4AAA# 4AA#	4d#] 4f#] 4b] 4dd#]	sf
 *	*^	*
 *	*	*^	*
-12AAAnL 12AAn	6e-X\	12fnL	6ddn	.
+12AAAnL 12AAn	6e-X\	12fnL	6ddn	fff
 12FFFnJ 12FFn	.	12anJ	.	.
 12r	12r	12r	12r	.
 *	*	*v	*v	*
@@ -177,7 +177,7 @@
 2.r	2.r	.
 =18	=18	=18
 [8qCC# [8qC#	.	.
-4CC#] 4C#] 4E# 4B 4e#	4b 4ee# 4bb 4ccc#	.
+4CC#] 4C#] 4E# 4B 4e#	4b 4ee# 4bb 4ccc#	ff
 4r	4r	.
 4r	4r	.
 =19	=19	=19
