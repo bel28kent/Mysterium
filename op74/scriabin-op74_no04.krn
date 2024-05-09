@@ -15,20 +15,20 @@
 *X:	*X:	*
 *M3/4	*M3/4	*
 *^	*^	*
-4C#X	4A	4e	4ccn	.
+4C#X	4A	4e	4ccn	p <
 =1	=1	=1	=1	=1
-2F	4G#X	4cn	4.b	.
-.	4A	4d#X	.	.
-.	.	.	8g#X	.
-4C#X	4A	[4e	8dd#XL	.
-.	.	.	8ccnJ	.
+2F	4G#X	4cn	4.b	[
+.	4A	4d#X	.	>
+.	.	.	8g#X	]
+4C#X	4A	[4e	8dd#XL	<
+.	.	.	8ccnJ	(
 =2	=2	=2	=2	=2
-4F#X	4A#X	8eL]	4an	.
-.	.	8d#XJ	.	.
+4F#X	4A#X	8eL]	4an	[
+.	.	8d#XJ	.	>
 *	*	*	*^	*
-8FnL	8BL	8ryy	8dnL	8g-XL	.
+8FnL	8BL	8ryy	8dnL	8g-XL	]
 8DnJ	8G#XJ	[8a\	8fnJ	8aJ	.
-4C#X	4A#	4a\]	8eL	8dd#XL	.
+4C#X	4A#	4a\]	8eL	8dd#XL	<
 .	.	.	8g#XJ	8ccnJ	.
 !!LO:LB:g=original
 =3	=3	=3	=3	=3	=3
@@ -43,10 +43,10 @@
 6En	6cn	8g#XL	2aa	.
 .	.	8gnJ	.	.
 6D#X	6B	.	.	.
-.	.	8f#XL	.	.
+.	.	8f#XL	.	>
 6Dn	6B-X	.	.	.
 .	.	8fnJ	.	.
-4C#X	4A	4e	8gg#XL	.
+4C#X	4A	4e	8gg#XL	p
 .	.	.	8ccnJ	.
 =5	=5	=5	=5	=5
 2F	4G#X	4cn	4.b	.
@@ -61,7 +61,7 @@
 *	*	*	*^	*
 8FnL	8BL	8ryy	8dnL	8g-XL	.
 8DnJ	8G#XJ	[8a\	8fnJ	8aJ	.
-4C#X	4A#	8.a\L]	4e	8dd#XL	.
+4C#X	4A#	8.a\L]	4e	8dd#XL	<
 .	.	.	.	8ccnJ	.
 .	.	16g#XJk	.	.	.
 =7	=7	=7	=7	=7	=7
@@ -82,7 +82,7 @@
 .	.	.	.	8aanJ	.
 *	*	*	*v	*v	*
 =9	=9	=9	=9	=9
-6A-X	6f-X	8ccL	2ddd-X	.
+6A-X	6f-X	8ccL	2ddd-X	mf
 .	.	8cc-XJ	.	.
 6G	6e-X	.	.	.
 .	.	8b-XL	.	.
@@ -101,7 +101,7 @@
 *	*	*	*v	*v	*
 !!LO:LB:g=original
 =11	=11	=11	=11	=11
-6A-X	6f-X	8cc	2ddd-X	.
+6A-X	6f-X	8cc	2ddd-X	f
 .	.	4cc-X	.	.
 6G	6e-X	.	.	.
 6A-	6f-	.	.	.
@@ -120,7 +120,7 @@
 4A-X	4f-X	4cc	4ddd-X	.
 4G	4e-X	4cc-X	8aa-XL	.
 .	.	.	8ffnJ	.
-4F#X	4dn	4b-X	4aan	.
+4F#X	4dn	4b-X	4aan	>
 !!LO:LB:g=original
 =14	=14	=14	=14	=14
 4Fn	4d-X	4a	8eenL	.
@@ -139,23 +139,23 @@
 [2BB#X	[2G#X	[2e	[2dd-X	.
 =17	=17	=17	=17	=17
 2BB#]	2G#]	2e]	2dd-]	.
-8BB#XL	8G#XL	4e	8dd#XL	.
-8C#XJ	8AJ	.	8ccnJ	.
+8BB#XL	8G#XL	4e	8dd#XL	p <
+8C#XJ	8AJ	.	8ccnJ	[
 !!LO:LB:g=original
 =18	=18	=18	=18	=18
-[2.F	4G#X	4c	4.b	.
-.	[2A	[2d#X	.	.
-.	.	.	[8g#X	.
-.	.	.	4g#_	.
+[2.F	4G#X	4c	4.b	>
+.	[2A	[2d#X	.	)
+.	.	.	[8g#X	)
+.	.	.	4g#_	]
 =19	=19	=19	=19	=19
 2F]	2A]	2d#]	2g#]	.
-4C#X	4A	[4e	8dd#XL	.
-.	.	.	8ccnJ	.
+4C#X	4A	[4e	8dd#XL	<
+.	.	.	8ccnJ	[
 =20	=20	=20	=20	=20
-4F#X	4A#X	8eL]	4an	.
-.	.	8d#XJ	.	.
-8FnL	8BL	8dnL	8g-XL	.
-[8DnJ	[8G#XJ	[8fJ	[8aJ	.
+4F#X	4A#X	8eL]	4an	>
+.	.	8d#XJ	.	)
+8FnL	8BL	8dnL	8g-XL	)
+[8DnJ	[8G#XJ	[8fJ	[8aJ	]
 4D_	4G#_	4f_	4a_	.
 !!LO:LB:g=original
 =21	=21	=21	=21	=21
@@ -177,6 +177,7 @@
 *-	*-	*-
 !!!system-decoration: {(*)}
 !!!filter: flipper -a
+!!!RDF**dynam: > = dim.
 !!!ENC: Bryan Jacob Bell
 !!!END: November 2021 to April 2022
 !!!PED: Günter Philipp
