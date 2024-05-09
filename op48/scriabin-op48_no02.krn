@@ -15,7 +15,7 @@
 *C:	*C:	*
 *M4/2	*M4/2	*
 *	*^	*
-8ccL	1dd 1ff	1aa	.
+8ccL	1dd 1ff	1aa	pp
 8b-X	.	.	.
 8a	.	.	.
 8ccJ	.	.	.
@@ -37,11 +37,11 @@
 8c	.	.	.
 8B	.	.	.
 8dJ	.	.	.
-8cL	.	4.aa#X	.
-8D	.	.	.
-8.c	.	.	.
-.	.	8aa#	.
-16cJk	.	.	.
+8cL	.	4.aa#X	<
+8D	.	.	(
+8.c	.	.	(
+.	.	8aa#	(
+16cJk	.	.	[
 *clefF4	*	*	*
 !!LO:LB:g=original
 =2	=2	=2	=2
@@ -52,7 +52,7 @@
 8BL	.	.	.
 8d	.	.	.
 *	*v	*v	*
-8.e-X	4cc 4ff#X 4bb 4fff#X	.
+8.e-X	4cc 4ff#X 4bb 4fff#X	ppp
 16e-Jk	.	.
 8gL	2.b 2.dd 2.gg 2.ddd	.
 8GG	.	.
@@ -97,19 +97,19 @@
 8G-X	.	.	.
 8F	.	.	.
 8A-J	.	.	.
-8G-L	.	4.ee	.
+8G-L	.	4.ee	<
 8AA-X	.	.	.
 8.G-	.	.	.
 .	.	8ee	.
 16G-Jk	.	.	.
 =5	=5	=5	=5
-8FL	2.d-X 2.f 2.dd-X	4b-- 4bb--	.
+8FL	2.d-X 2.f 2.dd-X	4b-- 4bb--	mp
 8DD-X	.	.	.
 8AA-X	.	2a-X 2aa-X	.
 8D-XJ	.	.	.
 8FL	.	.	.
 8A-X	.	.	.
-8.d-X	4f 4cc-X	4ff	.
+8.d-X	4f 4cc-X	4ff	p
 16A-Jk	.	.	.
 8A-L	1d- 1g-X 1b-X	2ff	.
 8G-X	.	.	.
@@ -121,7 +121,7 @@
 16G-Jk	.	.	.
 !!LO:LB:g=original
 =6	=6	=6	=6
-8BL	1c 1f#X	2.ee	.
+8BL	1c 1f#X	2.ee	pp
 8A	.	.	.
 8G#X	.	.	.
 8BJ	.	.	.
@@ -132,7 +132,7 @@
 *	*	*^	*
 8AL	2.c\	1fn	2.ee	.
 8Gn	.	.	.	.
-8F#X	.	.	.	.
+8F#X	.	.	.	>
 8AJ	.	.	.	.
 8GL	.	.	.	.
 8GG	.	.	.	.
@@ -147,7 +147,7 @@
 8EL	.	.	.
 8G	.	.	.
 *	*v	*v	*
-8.A-X	4f 4b 4ee 4bb	.
+8.A-X	4f 4b 4ee 4bb	ppp
 16A-Jk	.	.
 8cL	2.e 2.g 2.cc 2.gg	.
 8CC	.	.
@@ -161,11 +161,12 @@
 32A-Jkk	.	.
 32r	.	.
 =8	=8	=8
-0CC 0GG 0E 0c	0e 0g 0cc 0gg	.
+0CC 0GG 0E 0c	0e 0g 0cc 0gg	ppp
 ==	==	==
 *-	*-	*-
 !!!system-decoration: {(*)}
 !!!filter: flipper -a
+!!!RDF**dynam: > = dim.
 !!!ENC: Bryan Jacob Bell
 !!!END: November 2021 to April 2022
 !!!PED: Günter Philipp
