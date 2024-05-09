@@ -15,7 +15,7 @@
 *a:	*a:	*
 *M6/8	*M6/8	*
 *	*^	*
-[4AA [4F	[4c	8eL	.
+[4AA [4F	[4c	8eL	pp
 .	.	8aJ	.
 *	*v	*v	*
 =1	=1	=1
@@ -51,7 +51,7 @@
 !!LO:LB:g=original
 =5	=5	=5	=5
 *	*	*^	*
-2.G#X	2.f	2.b-X	4ee	.
+2.G#X	2.f	2.b-X	4ee	<
 .	.	.	[8dd	.
 .	.	.	8ddL]	.
 .	.	.	8ee	.
@@ -70,13 +70,13 @@
 .	.	.	8a#X	.
 .	.	.	[8anJ	.
 4.A	4c	4.fn	8aL]	.
-.	.	.	8a	.
+.	.	.	8a	>
 .	8A	.	8ccJ	.
 =8	=8	=8	=8	=8
 [4.D#X	[4.B	[4.f#X	[4.b	.
 *	*	*v	*v	*
 8D#]	8B]	8f#L] 8b/]	.
-[4E	[4c	8g 8b	.
+[4E	[4c	8g 8b	pp
 .	.	8eeJ	.
 =9	=9	=9	=9
 4E]	4c]	8gL 8b	.
@@ -104,7 +104,7 @@
 =12	=12	=12
 *^	*	*
 [4.BB-X	4G	[4.c [4.e	.
-.	[8G-X	.	.
+.	[8G-X	.	sf
 8BB-]	8G-]	8cL] 8e]	.
 4AA	4F	8c 8e	.
 .	.	8ccJ	.
@@ -231,6 +231,7 @@
 *-	*-	*-
 !!!system-decoration: {(*)}
 !!!filter: flipper -a
+!!!RDF**dynam: > = dim.
 !!!ENC: Bryan Jacob Bell
 !!!END: November 2021 to April 2022
 !!!PED: Günter Philipp
