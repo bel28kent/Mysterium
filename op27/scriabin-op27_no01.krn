@@ -14,7 +14,7 @@
 *k[b-e-]	*k[b-e-]	*
 *g:	*g:	*
 *M9/8	*M9/8	*
-8r	8dd/L	.
+8r	8dd/L	mf
 8r	8ccJ	.
 =1	=1	=1
 *	*^	*
@@ -111,7 +111,7 @@
 *	*	*v	*v	*
 *	*v	*v	*
 *	*clefG2	*
-.	8AL 8a	.
+.	8AL 8a	p
 8r	8B-J 8b-	.
 =9	=9	=9
 *	*^	*
@@ -254,7 +254,7 @@
 8G 8B- 8g	8gg 8bb-X	.	.
 8GJ 8B- 8g	8ggJ 8bb-	.	.
 =21	=21	=21	=21
-8DDL 8D	8ggL 8bb-	4cc#X 4ccc#X	.
+8DDL 8D	8ggL 8bb-	4cc#X 4ccc#X	ff
 8B- 8g 8b-	8gg 8bb-	.	.
 8B-J 8g 8b-	8ggJ 8bb-	8dd 8ddd	.
 8B-L 8d 8g 8b-	8ggL 8bb-	[4.ff [4.fff	.
@@ -274,7 +274,7 @@
 8r	8r	8gJ 8gg	.
 *clefF4	*	*	*
 4D 4A	8gL	8e-L 8ee-	.
-.	8f#XJ	8d 8dd	.
+.	8f#XJ	8d 8dd	fff
 8r	8r	8cJ 8cc	.
 =23	=23	=23	=23
 *^	*	*	*
@@ -319,7 +319,7 @@
 8GGG	8GG	8G	.	.
 8GGG	8GG	8G	8r	.
 *v	*v	*	*	*
-8r	8ryy	8gL 8gg/	.
+8r	8ryy	8gL 8gg/	f
 8r	8ryy	8fnJ 8ffn	.
 =27	=27	=27	=27
 8FL 8Bn 8e-/	4.bn 4.ee-	8a-XL 8aa-X	.
@@ -355,7 +355,7 @@
 .	8D	.	.
 *v	*v	*	*
 8D/	8r	.
-8r	8gL	.
+8r	8gL	p
 8r	8fnJ	.
 !!LO:LB:g=original
 =31	=31	=31
