@@ -14,7 +14,7 @@
 *k[]	*k[]	*
 *X:	*X:	*
 *M6/8	*M6/8	*
-16AAALL 16AA	4.G 4.c 4.f#X	.
+16AAALL 16AA	4.G 4.c 4.f#X	p
 16EEE-XJJ 16EE-X	.	.
 8r	.	.
 8r	.	.
@@ -45,7 +45,7 @@
 8r	.	.
 .	40%3e-XJ	.
 *	*^	*
-16AAALL 16AA	8cL	4.G 4.f#	.
+16AAALL 16AA	8cL	4.G 4.f#	<
 16EEE-XJJ 16EE-X	.	.	.
 8r	8c#X	.	.
 8r	8cnJ	.	.
@@ -121,14 +121,14 @@
 =11	=11	=11
 8r	8r	.
 8r	8r	.
-8A 8e 8a	8g#X 8b#X 8gg#X	.
-8AL 8e 8a	8g#L 8b# 8gg#	.
-8BBB#X 8BB#X	8g# 8b# 8gg#	.
-8FFF#XJ 8FF#X	8g#J 8b# 8gg#	.
+8A 8e 8a	8g#X 8b#X 8gg#X	p <
+8AL 8e 8a	8g#L 8b# 8gg#	(
+8BBB#X 8BB#X	8g# 8b# 8gg#	(
+8FFF#XJ 8FF#X	8g#J 8b# 8gg#	[
 !!LO:LB:g=original
 =12	=12	=12
 *	*^	*
-4.A 4.e 4.a	4.g#X 4.b#X	8gg#XL	.
+4.A 4.e 4.a	4.g#X 4.b#X	8gg#XL	f
 .	.	8.ee	.
 .	.	16dd#XJk	.
 [4.A [4.e [4.a	[4.g# [4.b#	[4.gg#	.
@@ -251,24 +251,24 @@
 8FFF#XJ 8FF#X	8G#X	.
 =26	=26	=26
 4.E 4.A#X	4.e 4.g#X 4.b#X	.
-16DD#XLL 16D#X	4.c#X 4.f#X 4.b#	.
-16AAAJJ 16AA	.	.
-8r	.	.
-8r	.	.
+16DD#XLL 16D#X	4.c#X 4.f#X 4.b#	p <
+16AAAJJ 16AA	.	(
+8r	.	(
+8r	.	(
 =27	=27	=27
-16DD#XLL 16D#X	4.c#X 4.f#X 4.b#X	.
-16AAAJJ 16AA	.	.
-8r	.	.
-8r	.	.
-16DD#LL 16D#	4.c# 4.f# 4.b#	.
-16AAAJJ 16AA	.	.
+16DD#XLL 16D#X	4.c#X 4.f#X 4.b#X	(
+16AAAJJ 16AA	.	(
+8r	.	(
+8r	.	(
+16DD#LL 16D#	4.c# 4.f# 4.b#	(
+16AAAJJ 16AA	.	[
 8r	.	.
 8r	.	.
 !!LO:LB:g=original
 =28	=28	=28
 4r	4r	.
 8r	8r	.
-16DD#XLL 16D#X	4.c#X 4.f#X 4.b#X	.
+16DD#XLL 16D#X	4.c#X 4.f#X 4.b#X	mp
 16AAAJJ 16AA	.	.
 8r	.	.
 8r	.	.
@@ -298,7 +298,7 @@
 8r	.	.
 .	40%3aJ	.
 *	*^	*
-16DD#XLL 16D#X	8f#XL	4.c#X 4.b#	.
+16DD#XLL 16D#X	8f#XL	4.c#X 4.b#	<
 16AAAJJ 16AA	.	.	.
 8r	8f##X	.	.
 8r	8f#XJ	.	.
@@ -375,14 +375,14 @@
 =39	=39	=39
 8r	8r	.
 8r	8r	.
-8B-X 8e-X 8b-X	8dd 8ff#X 8ddd	.
-8B-L 8e- 8b-	8ddL 8ff# 8ddd	.
-8FF#X 8F#X	8dd 8ff# 8ddd	.
-8CCJ 8C	8ddJ 8ff# 8ddd	.
+8B-X 8e-X 8b-X	8dd 8ff#X 8ddd	p <
+8B-L 8e- 8b-	8ddL 8ff# 8ddd	(
+8FF#X 8F#X	8dd 8ff# 8ddd	(
+8CCJ 8C	8ddJ 8ff# 8ddd	[
 !!LO:LB:g=original
 =40	=40	=40
 *	*^	*
-4.B-X 4.e-X 4.b-X	8ddL 8ddd	4.ff#X	.
+4.B-X 4.e-X 4.b-X	8ddL 8ddd	4.ff#X	f
 .	8.b-X 8.bb-X	.	.
 .	16aJk 16aa	.	.
 [4.B- [4.e- [4.b-	[4.dd [4.ddd	[4.ff#	.
