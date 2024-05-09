@@ -16,12 +16,12 @@
 *M9/8	*M9/8	*
 =1	=1	=1
 *^	*^	*
-8r	8%9rB	[2.A#	8A#X	.
+8r	8%9rB	[2.A#	8A#X	p
 8r	.	.	[4an	.
 8BB#X	.	.	.	.
 4FF#X	.	.	4a]	.
 [8BB#	.	.	8g#X	.
-8BB#]	.	4.A#]	8gnL	.
+8BB#]	.	4.A#]	8gnL	<
 4FF#	.	.	8e	.
 .	.	.	8d#XJ	.
 *	*	*v	*v	*
@@ -46,7 +46,7 @@
 .	.	.	8anJ	.
 !!LO:LB:g=original
 =4	=4	=4	=4	=4
-8r	[2.c#X	[2.g [2.a#X [2.dd#X [2.gg	8r	.
+8r	[2.c#X	[2.g [2.a#X [2.dd#X [2.gg	8r	f
 8BB#XL	.	.	[4aan	.
 8FF#XJ	.	.	.	.
 4BB#	.	.	4.aa_	.
@@ -55,7 +55,7 @@
 8FF#	.	.	.	.
 8BB#J	.	.	8aa	.
 =5	=5	=5	=5	=5
-8r	[2.e	[2.a#X	[4.aan	.
+8r	[2.e	[2.a#X	[4.aan	p
 8r	.	.	.	.
 8BB#X	.	.	.	.
 4FF#X	.	.	4aa]	.
@@ -78,7 +78,7 @@
 8r	.	.	[4g	[4ff#X	.
 8D#X	.	.	.	.	.
 *	*	*	*v	*v	*
-4AAn	.	2.g]	4ff#]	.
+4AAn	.	2.g]	4ff#]	<
 [8D#	.	.	8ee#X	.
 8D#]	4.c#]	.	8eenL	.
 4AA	.	.	8cc#X	.
@@ -96,7 +96,7 @@
 .	.	8anJ	.
 *v	*v	*	*
 =9	=9	=9
-[2.D#X [2.A [2.c#X [2.e	[4.ccn	.
+[2.D#X [2.A [2.c#X [2.e	[4.ccn	f
 .	8ccL]	.
 .	8g	.
 .	8f#XJ	.
@@ -128,19 +128,19 @@
 2.BB#_ 2.F#_ 2.A#_ 2.e]	8dd#XL	.
 .	8cc#X	.
 .	8b#XJ	.
-.	8a#XL	.
+.	8a#XL	>
 .	8an	.
 .	8gJ	.
 4.BB#] 4.F#] 4.A#]	8.f#XL	.
 .	8.eJ	.
 =13	=13	=13
 *^	*^	*
-8r	8%9rB	[2.E	8E	.
+8r	8%9rB	[2.E	8E	p
 8r	.	.	[4d#X	.
 8FF#X	.	.	.	.
 4BBB#X	.	.	4d#]	.
 [8FF#	.	.	8dn	.
-8FF#]	.	4.E]	8c#XL	.
+8FF#]	.	4.E]	8c#XL	<
 4BBB#	.	.	8A#X	.
 .	.	.	8AnJ	.
 *	*	*v	*v	*
@@ -175,7 +175,7 @@
 8FF#J	.	.	8dd#	.
 !!LO:LB:g=original
 =17	=17	=17	=17	=17
-8r	[2.A#X	[2.e	[4.dd#X	.
+8r	[2.A#X	[2.e	[4.dd#X	p
 8r	.	.	.	.
 8FF#X	.	.	.	.
 4BBB#X	.	.	4dd#]	.
@@ -198,7 +198,7 @@
 8r	.	.	[4c#X	[4b#X	.
 8AA	.	.	.	.	.
 *	*	*	*v	*v	*
-4DD#X	.	2.c#]	4b#]	.
+4DD#X	.	2.c#]	4b#]	<
 [8AA	.	.	8bn	.
 8AA]	4.G]	.	8a#XL	.
 4DD#	.	.	8g	.
@@ -216,7 +216,7 @@
 .	.	8d#XJ	.
 *v	*v	*	*
 =21	=21	=21
-[2.AAn [2.D [2.G#X [2.A#X	[4.f#X	.
+[2.AAn [2.D [2.G#X [2.A#X	[4.f#X	f
 .	8f#L]	.
 .	8c#X	.
 .	8B#XJ	.
@@ -258,7 +258,7 @@
 8%9r	4r	.
 .	8r	.
 .	8r	.
-.	8d#XL	.
+.	8d#XL	f
 .	8c#XJ	.
 .	8B#XL	.
 .	8A#X	.
@@ -271,6 +271,7 @@
 *-	*-	*-
 !!!system-decoration: {(*)}
 !!!filter: flipper -a
+!!!RDF**dynam: > = dim.
 !!!ENC: Bryan Jacob Bell
 !!!END: November 2021 to April 2022
 !!!PED: Günter Philipp
