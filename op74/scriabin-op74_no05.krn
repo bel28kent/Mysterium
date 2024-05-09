@@ -33,6 +33,7 @@
 4FFF] 4FF]	12a	.
 .	12g	.
 .	[12ffJ	.
+!!LO:LB:g=original
 =2	=2	=2
 *^	*^	*
 12GGG 12GG	4r	4r	12ffL]	.
@@ -73,6 +74,7 @@
 4CCC#] 4CC#]	12e#	.
 .	12d#	.
 .	[12cc#J	.
+!!LO:LB:g=original
 =4	=4	=4
 *^	*^	*
 12DDD#X 12DD#X	4r	4r	12cc#L]	.
@@ -106,6 +108,7 @@
 .	.	12GJ	.	.
 .	.	12B-X	4dd#X	.
 .	.	6f#	.	.
+!!LO:LB:g=original
 =6	=6	=6	=6	=6
 12AAA 12AA	4r	12ra	12ra	.
 [6DDD#X [6DD#X	.	12eeL	6g 6b-X 6ff#X	.
@@ -129,6 +132,7 @@
 .	.	12ff#	.	.
 .	4G 4e 4g	4gg	4b- 4dd- 4aa	.
 *	*	*v	*v	*
+!!LO:LB:g=original
 =8	=8	=8	=8
 12EE-X 12E-X	4r	12r	.
 [6AAA [6AA	.	12dd-XL 12ff-X 12ccc	.
@@ -171,6 +175,7 @@
 4FFF] 4FF]	12a	.
 .	12g	.
 .	[12ffJ	.
+!!LO:LB:g=original
 =10	=10	=10
 *^	*^	*
 12GGG 12GG	4r	4r	12ffL]	.
@@ -211,6 +216,7 @@
 4GGG] 4GG]	12b	.
 .	12a	.
 .	[12ggJ	.
+!!LO:LB:g=original
 =12	=12	=12
 *^	*^	*
 12AAA 12AA	4r	4r	12ggL]	.
@@ -244,6 +250,7 @@
 .	.	12d-XJ	.	.
 .	.	12f-X	4aa	.
 .	.	6cc	.	.
+!!LO:LB:g=original
 =14	=14	=14	=14	=14
 12EE-X 12E-X	4r	12ra	12ra	.
 [6AAA [6AA	.	12bb-XL	6dd-X 6ff-X 6ccc	.
@@ -267,6 +274,7 @@
 .	.	12bb#	.	.
 .	4c# 4a# 4cc#	4ccc#	4ee 4gg 4ddd#	.
 *v	*v	*	*	*
+!!LO:LB:g=original
 =16	=16	=16	=16
 12AAn 12An	4r	12rgg	.
 [6DD#X [6D#X	.	12ggL 12bb-X 12fff#X	.
