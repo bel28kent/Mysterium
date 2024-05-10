@@ -18,26 +18,26 @@
 *Xtuplet	*Xtuplet	*
 =1	=1	=1
 10.r	10.r	.
-[10F	20cLL	.
-.	20e-JJ	.
-10.F]	20a-LL	.
-.	20e-	.
-.	20cJJ	.
+[10F	20cLL	pp <
+.	20e-JJ	(
+10.F]	20a-LL	(
+.	20e-	(
+.	20cJJ	[
 10r	10r	.
 12r	10.r	.
 12r	.	.
-.	20e-LL	.
-12cL	.	.
-.	20a-	.
-12F	20ee-	.
-.	20a-	.
-12BB-J	.	.
-.	20e-JJ	.
-.	40cLLL	.
-12A-L	.	.
-.	40e-	.
-.	40a-	.
-.	40ccJ	.
+.	20e-LL	<
+12cL	.	(
+.	20a-	(
+12F	20ee-	(
+.	20a-	(
+12BB-J	.	(
+.	20e-JJ	[
+.	40cLLL	<
+12A-L	.	(
+.	40e-	(
+.	40a-	(
+.	40ccJ	[
 =2	=2	=2
 12BB-	20gg	.
 .	20cc	.
@@ -52,23 +52,24 @@
 .	20e-JJ	.
 .	20ccLL	.
 12A-L	.	.
-.	20d	.
-12BB-	20b-	.
-.	20e-	.
-12EE-J	.	.
-.	20cJJ	.
-.	20a-LL	.
-12FL	.	.
-.	20Bn	.
+.	20d	>
+12BB-	20b-	)
+.	20e-	)
+12EE-J	.	)
+.	20cJJ	)
+.	20a-LL	)
+12FL	.	)
+.	20Bn	]
 12BB-	20f	.
 .	20c	.
 12EE-J	.	.
 .	20A-JJ	.
-.	40e-LLL	.
-12FL 12c/	.	.
-.	40a-	.
-.	40cc	.
-.	40ee-J	.
+.	40e-LLL	<
+12FL 12c/	.	(
+.	40a-	(
+.	40cc	(
+.	40ee-J	[
+!!LO:LB:g=original
 =3	=3	=3
 12BB-	20bb-	.
 .	20ee-	.
@@ -128,13 +129,14 @@
 .	.	20ddLL	.
 12DL	[12B-	.	.
 .	.	20f#X	.
+!!LO:LB:g=original
 =5	=5	=5	=5
 12E-	6B-]	20dd	.
 .	.	20g	.
 12FFJ	.	.	.
 .	.	20e-JJ	.
 .	.	20ddLL	.
-12DL	[12An	.	.
+12DL	[12An	.	>
 .	.	20fn	.
 12E-	6A]	20dd	.
 .	.	20g-X	.
@@ -154,13 +156,13 @@
 6r	20f	.
 .	20b-	.
 .	20ddJJ	.
-.	40e-XLLL	.
-12BB-L	.	.
-.	40a-	.
-.	40cc	.
-.	40ee-J	.
+.	40e-XLLL	mf <
+12BB-L	.	(
+.	40a-	(
+.	40cc	(
+.	40ee-J	(
 =6	=6	=6
-12F	20bb-	.
+12F	20bb-	[
 .	20ee-	.
 12A-J	.	.
 .	20ccJJ	.
@@ -183,9 +185,10 @@
 .	20e-	.
 12r	.	.
 .	20cJJ	.
-.	20a-LL	.
+.	20a-LL	p
 12EnL	.	.
 .	20d	.
+!!LO:LB:g=original
 =7	=7	=7
 12F	20a-	.
 .	20e-	.
@@ -212,15 +215,15 @@
 .	20d	.
 12BB-J	.	.
 .	20B-JJ	.
-.	40a-LLL	.
-12BB-L	.	.
-.	40ccn	.
-.	40ee-	.
-.	40aa-J	.
+.	40a-LLL	mf <
+12BB-L	.	(
+.	40ccn	(
+.	40ee-	(
+.	40aa-J	(
 =8	=8	=8
-12F	20ddd	.
-.	20aa-	.
-12e-J	.	.
+12F	20ddd	(
+.	20aa-	(
+12e-J	.	[
 .	20ee-JJ	.
 .	20cccLL	.
 *clefG2	*	*
@@ -245,8 +248,9 @@
 12ryy	12r	.	.
 .	.	20fJJ	.
 .	.	20ccLL	.
-12EnL	[12c	.	.
+12EnL	[12c	.	p
 .	.	20g	.
+!!LO:LB:g=original
 =9	=9	=9	=9
 12F	6c]	20cc	.
 .	.	20a-	.
@@ -273,11 +277,11 @@
 .	.	20a-	.
 12BB-J	.	.	.
 .	.	20e-JJ	.
-.	.	40cLLL	.
-12A-L	12ryy	.	.
-.	.	40e-	.
-.	.	40a-	.
-.	.	40ccJ	.
+.	.	40cLLL	pp <
+12A-L	12ryy	.	(
+.	.	40e-	(
+.	.	40a-	(
+.	.	40ccJ	[
 =10	=10	=10	=10
 12BB-	1ryy	20gg	.
 .	.	20cc	.
@@ -304,11 +308,12 @@
 .	.	20c	.
 12EE-J	.	.	.
 .	.	20A-JJ	.
-.	.	40e-LLL	.
-12FL 12c/	.	.	.
-.	.	40a-	.
-.	.	40cc	.
-.	.	40ee-J	.
+.	.	40e-LLL	<
+12FL 12c/	.	.	(
+.	.	40a-	(
+.	.	40cc	(
+.	.	40ee-J	[
+!!LO:LB:g=original
 =11	=11	=11	=11
 12BB-	4ryy	20bb-	.
 .	.	20ee-	.
@@ -367,6 +372,7 @@
 .	.	20ggLL	.
 12GL	[12e-	.	.
 .	.	20bn	.
+!!LO:LB:g=original
 =13	=13	=13	=13
 12A-	6e-]	20gg	.
 .	.	20cc	.
@@ -425,6 +431,7 @@
 .	.	20ggLL	.
 12GL	[12e-	.	.
 .	.	20bn	.
+!!LO:LB:g=original
 =15	=15	=15	=15
 12A-	6e-]	20gg	.
 .	.	20cc	.
@@ -480,6 +487,7 @@
 .	20gLL	.
 [12EE- [12E-	.	.
 .	20d	.
+!!LO:LB:g=original
 =17	=17	=17
 10.EE-] 10.E-]	20g	.
 .	20e-	.
@@ -502,38 +510,40 @@
 *k[f#c#g#d#a#]	*k[f#c#g#d#a#]	*
 *	*^	*
 *	*clefF4	*clefF4	*
-2GGGn 2GGn	2Fn 2B	2d#	.
+2GGGn 2GGn	2Fn 2B	2d#	mf
 *	*	*^	*
-4GGG#X 4GG#X	4E\	2B	4.e	.
-4CCC# 4CC#	4G#\	.	.	.
-.	.	.	8e#X	.
+4GGG#X 4GG#X	4E\	2B	4.e	<
+4CCC# 4CC#	4G#\	.	.	(
+.	.	.	8e#X	(
 =20	=20	=20	=20	=20
-4CCC##X 4CC##X	8.Gn\L	4B	8.e#XL	.
-.	16F#Jk	.	16f#Jk	.
+4CCC##X 4CC##X	8.Gn\L	4B	8.e#XL	(
+.	16F#Jk	.	16f#Jk	[
 *	*	*v	*v	*
 2DDD# 2DD#	2F# 2B	2f# 2a#	.
 4GGG# 4GG#	4F# 4B	4d#	.
+!!LO:LB:g=original
 =21	=21	=21	=21
 1CCC# 1CC#	2E 2B	2g#	.
 .	2G# 2B	4.f#	.
 .	.	8e	.
 =22	=22	=22	=22
 2EEE 2EE	2Gn 2B	2d#	.
-2GGGn 2GGn	2E 2A#	6B#X	.
-.	.	6c#	.
-.	.	6c##X	.
+2GGGn 2GGn	2E 2A#	6B#X	>
+.	.	6c#	)
+.	.	6c##X	]
 =23	=23	=23	=23
-2GGGn 2GGn	2Fn 2B	2d#	.
+2GGGn 2GGn	2Fn 2B	2d#	<
 *	*	*^	*
-4GGG#X 4GG#X	4E\	2B	4.e	.
-4CCC# 4CC#	4G#\	.	.	.
-.	.	.	8e#X	.
+4GGG#X 4GG#X	4E\	2B	4.e	(
+4CCC# 4CC#	4G#\	.	.	(
+.	.	.	8e#X	(
 =24	=24	=24	=24	=24
-4CCC##X 4CC##X	8.Gn\L	4B	8.e#XL	.
-.	16F#Jk	.	16f#Jk	.
+4CCC##X 4CC##X	8.Gn\L	4B	8.e#XL	(
+.	16F#Jk	.	16f#Jk	[
 *	*	*v	*v	*
 2DDD# 2DD#	2F# 2B	2f# 2a#	.
 4GGG# 4GG#	4F# 4B	4d#	.
+!!LO:LB:g=original
 =25	=25	=25	=25
 [2CCC# [2CC#	[2E#X [2B	2a#	.
 4.CCC#] 4.CC#]	4.E#] 4.B]	4.g#	.
@@ -543,7 +553,7 @@
 .	.	2c#	.
 .	.	4d#	.
 =27	=27	=27	=27
-1CC# 1GG#	1E 1B	4.e	.
+1CC# 1GG#	1E 1B	4.e	p
 .	.	8d#	.
 .	.	8g#	.
 .	.	4d#	.
@@ -554,37 +564,38 @@
 .	.	4B#X	.
 .	.	4c#	.
 =29	=29	=29	=29
-1CC# 1GG#	1E 1B	4.e	.
+1CC# 1GG#	1E 1B	4.e	<
 .	.	8d#	.
 .	.	8b	.
 .	.	4d#	.
 .	.	8d#	.
 =30	=30	=30	=30
-1FF#	1E 1A#	4d#	.
-.	.	4c#	.
-.	.	4B	.
-.	.	4c#	.
+1FF#	1E 1A#	4d#	>
+.	.	4c#	)
+.	.	4B	)
+.	.	4c#	]
+!!LO:LB:g=original
 =31	=31	=31	=31
 *	*	*^	*
-4BB	2Fn\	4Gn	2d#	.
-4GGn	.	4B	.	.
-4GG#X	4E\	2B	4.e	.
-4CC#	4G#X\	.	.	.
-.	.	.	8e#X	.
+4BB	2Fn\	4Gn	2d#	p <
+4GGn	.	4B	.	(
+4GG#X	4E\	2B	4.e	(
+4CC#	4G#X\	.	.	(
+.	.	.	8e#X	(
 =32	=32	=32	=32	=32
-4CC##X	8.Gn\L	4B	8.e#XL	.
-.	16F#Jk	.	16f#Jk	.
+4CC##X	8.Gn\L	4B	8.e#XL	(
+.	16F#Jk	.	16f#Jk	[
 *	*	*v	*v	*
-2DD#	2F# 2B	2f# 2a#	.
-4D#	4B	4f#	.
+2DD#	2F# 2B	2f# 2a#	f >
+4D#	4B	4f#	] <
 *	*v	*v	*
 *	*clefG2	*
 *kcancel	*kcancel	*
 =33||	=33||	=33||
 *k[b-e-a-]	*k[b-e-a-]	*
-2G-X	2c-X 2e- 2b-	.
+2G-X	2c-X 2e- 2b-	[
 *	*^	*
-2F	2cn 2e-	4.a-	.
+2F	2cn 2e-	4.a-	>
 .	.	8an	.
 =34	=34	=34	=34
 4BB-	4d 4f	8ccL	.
@@ -593,13 +604,14 @@
 2F	2c 2e- 2a-X	.
 16qcLL	16qe-LL	.
 16qFJJ	16qa-JJ	.
-4BB-	20ee-LL	.
+4BB-	20ee-LL	pp
 .	20a-	.
 .	20e-JJ	.
-.	40cLLL	.
-.	40e-	.
-.	40a-	.
-.	40ccJ	.
+.	40cLLL	<
+.	40e-	(
+.	40a-	(
+.	40ccJ	[
+!!LO:LB:g=original
 =35	=35	=35
 12BB-L	20gg	.
 .	20cc	.
@@ -614,25 +626,25 @@
 .	20e-JJ	.
 .	20ccLL	.
 12A-L	.	.
-.	20d	.
-12BB-	20b-	.
-.	20e-	.
-12EE-J	.	.
-.	20cJJ	.
-.	20a-LL	.
-12FL	.	.
-.	20Bn	.
+.	20d	>
+12BB-	20b-	)
+.	20e-	)
+12EE-J	.	)
+.	20cJJ	)
+.	20a-LL	)
+12FL	.	)
+.	20Bn	]
 12BB-	20f	.
 .	20c	.
 12EE-J	.	.
 .	20A-JJ	.
-.	40e-LLL	.
-12FL 12c/	.	.
-.	40a-	.
-.	40cc	.
-.	40ee-J	.
+.	40e-LLL	<
+12FL 12c/	.	(
+.	40a-	(
+.	40cc	(
+.	40ee-J	(
 =36	=36	=36
-12BB-	20bb-	.
+12BB-	20bb-	[
 .	20ee-	.
 12EE-J	.	.
 .	20ccJJ	.
@@ -660,6 +672,7 @@
 .	20ccLL	.
 [12BB-L 12G	.	.
 .	20en	.
+!!LO:LB:g=original
 =37	=37	=37
 12BB-] 12A-	20b-	.
 .	20f	.
@@ -721,6 +734,7 @@
 .	40a-	.
 .	40cc	.
 .	40ee-J	.
+!!LO:LB:g=original
 =39	=39	=39
 12F	20bb-	.
 .	20ee-	.
@@ -779,6 +793,7 @@
 .	40ccn	.
 .	40ee-	.
 .	40aa-J	.
+!!LO:LB:g=original
 =41	=41	=41
 12F	20ddd	.
 .	20aa-	.
@@ -840,6 +855,7 @@
 .	.	40e-	.
 .	.	40a-	.
 .	.	40ccJ	.
+!!LO:LB:g=original
 =43	=43	=43	=43
 12BB-	1ryy	20gg	.
 .	.	20cc	.
@@ -900,6 +916,7 @@
 .	.	20ccLL	.
 12F#X/L	[12E-\	.	.
 .	.	20d	.
+!!LO:LB:g=original
 =45	=45	=45	=45
 12G	6E-\]	20b-	.
 .	.	20e-	.
@@ -958,6 +975,7 @@
 .	.	20ccnLL	.
 12F#X/L	[12E-\	.	.
 .	.	20d	.
+!!LO:LB:g=original
 =47	=47	=47	=47
 12G	6E-\]	20b-	.
 .	.	20e-	.
@@ -1017,6 +1035,7 @@
 .	[12BBB- [12BB-	.	.
 .	.	20Bn	.
 *v	*v	*	*
+!!LO:LB:g=original
 =49	=49	=49
 6BBB-] 6BB-]	20g	.
 .	20c	.
@@ -1063,6 +1082,7 @@
 *-	*-	*-
 !!!system-decoration: {(*)}
 !!!filter: flipper -a
+!!!RDF**dynam: > = dim.
 !!!ENC: Bryan Jacob Bell
 !!!END: November 2021 to April 2022
 !!!PED: Konstantin Igumnov and Yakov Milstein
