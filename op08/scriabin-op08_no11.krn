@@ -17,7 +17,7 @@
 =1	=1	=1
 *^	*^	*
 [8qBB-\	.	.	.	.
-2BB-]	8FL 8f	8d-L 8b-	8.dd-L	.
+2BB-]	8FL 8f	8d-L 8b-	8.dd-L	p
 .	8FJ 8f	8d-J 8b-	.	.
 .	.	.	16dd-Jk	.
 .	8FL 8f	8d-L 8b-	4dd-	.
@@ -41,7 +41,7 @@
 .	8FJ 8f	8d-J 8b-	.	.
 !!LO:LB:g=original
 =3	=3	=3	=3	=3
-2BB-	8G-L 8g-	8b-L	16e-KL 16ee-	.
+2BB-	8G-L 8g-	8b-L	16e-KL 16ee-	mf
 .	.	.	8dn 8ddn	.
 .	8G-J 8g-	8dJ 8b-	.	.
 .	.	.	16dJk 16dd	.
@@ -191,7 +191,7 @@
 .	.	.	16A-Jk	.
 !!LO:LB:g=original
 =15	=15	=15	=15	=15
-8DD- 8AA-	16r	8G-L 8c	[4f	.
+8DD- 8AA-	16r	8G-L 8c	[4f	mf
 .	[16A-	.	.	.
 24CLL	8A-_	8G-J 8c	.	.
 24.BB-	.	.	.	.
@@ -204,14 +204,14 @@
 8AA-	.	8G-J	8A-J	.
 *v	*v	*	*	*
 =16	=16	=16	=16
-4DD- 4AA-	8FL 8A-	24d-LL	.
+4DD- 4AA-	8FL 8A-	24d-LL	>
 .	.	24e-	.
 .	.	24d-	.
 .	8FJ 8A-	24c	.
 .	.	24d-	.
 .	.	24e-JJ	.
-16AAAn 16AAn	16Gn 16c#X	16en	.
-16AALL	16cc#XLL	16aanLL	.
+16AAAn 16AAn	16Gn 16c#X	16en	pp
+16AALL	16cc#XLL	16aanLL	ppp
 16En	16bn	16ggn	.
 16c#XJJ	16gnJJ	16ff#XJJ	.
 8gn	8an	16ff#LL	.
@@ -237,11 +237,11 @@
 4DD- 4AA-	8FL 8A-	24d-LL	.
 .	.	24e-	.
 .	.	24d-	.
-.	8FJ 8A-	24c	.
+.	8FJ 8A-	24c	>
 .	.	24d-	.
 .	.	24e-JJ	.
-16AAAn 16AAn	16Gn 16c#X	16en	.
-16AALL	16cc#XLL	16bbnLL	.
+16AAAn 16AAn	16Gn 16c#X	16en	pp
+16AALL	16cc#XLL	16bbnLL	ppp
 16En	16bn	16ggn	.
 16c#XJJ	16gnJJ	16ff#XJJ	.
 8gn	8b	16ff#LL	.
@@ -259,7 +259,7 @@
 16DJk	.	.	.
 4Cn	8AL 8e	16f#LL]	.
 .	.	16gn	.
-.	8AJ 8en	16e#X	.
+.	8AJ 8en	16e#X	<
 .	.	16f#XJJ	.
 4BB	8AL 8d#X	8bL	.
 .	8AJ	8BJ	.
@@ -283,26 +283,26 @@
 8.G-L	8d-L 8g-	[4b-	.
 .	8d-J 8g-	.	.
 16G-Jk	.	.	.
-4F-X	8d-L 8a-	16b-LL]	.
+4F-X	8d-L 8a-	16b-LL]	<
 .	.	16cc-X	.
 .	8d-J 8a-X	16an	.
 .	.	16a-XJJ	.
 4E-	8d-L	8gnL 8ee-	.
 .	8d-J	8e-J	.
 =22	=22	=22	=22
-4A-	8cL 8e-	24a-LL	.
+4A-	8cL 8e-	24a-LL	f
 .	.	24b-	.
 .	.	24a-	.
 .	8cJ 8e-	24gn	.
 .	.	24a-	.
 .	.	24b-JJ	.
-4Gn	8cL 8en 8b-	2cc	.
+4Gn	8cL 8en 8b-	2cc	>
 .	8c 8e 8b-	.	.
 8G-X\L	8c 8e 8b-	.	.
 8GG-J 8C	8B-J 8e	.	.
 =23	=23	=23	=23
 *^	*	*	*
-8FF 8C	16r	8AnL 8f	[4cc	.
+8FF 8C	16r	8AnL 8f	[4cc	pp
 .	[16c	.	.	.
 24FLL	8c_	8AJ 8f	.	.
 24.Dn	.	.	.	.
@@ -353,7 +353,7 @@
 24b-JJ	.	.	.
 *	*v	*v	*
 4b-	8r	.
-.	8e-X 8b- 8cc	.
+.	8e-X 8b- 8cc	<
 4G-	8e-L 8b- 8dd-	.
 .	8e-J 8b- 8cc	.
 !!LO:LB:g=original
@@ -374,7 +374,7 @@
 .	8fJ 8a 8ff	.
 4c	8g-L 8b- 8een	.
 .	8g-J 8b- 8ee-X	.
-12d-L	8g-L 8b- 8dd-/	.
+12d-L	8g-L 8b- 8dd-/	<
 12e-	.	.
 .	8g-J 8b- 8cc	.
 12enJ	.	.
@@ -606,11 +606,11 @@
 .	8d-J	8B-J 8g-	.	.
 *v	*v	*	*	*
 =45	=45	=45	=45
-16E- 16e-	4c-X 4g-	8.cc-XL	.
+16E- 16e-	4c-X 4g-	8.cc-XL	pp
 16EE-LL	.	.	.
 16C-X	.	.	.
 16G-JJ	.	16dd-Jk	.
-4g-	4r	4ee-	.
+4g-	4r	4ee-	ppp
 *	*v	*v	*
 4r	4r	.
 =46	=46	=46
@@ -671,6 +671,7 @@
 *-	*-	*-
 !!!system-decoration: {(*)}
 !!!filter: flipper -a
+!!!RDF**dynam: > = dim.
 !!!ENC: Bryan Jacob Bell
 !!!END: November 2021 to April 2022
 !!!PED: Konstantin Igumnov and Yakov Milstein
