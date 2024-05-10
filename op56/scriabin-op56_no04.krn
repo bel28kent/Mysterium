@@ -15,7 +15,7 @@
 *X:	*X:	*
 *M2/8	*M2/8	*
 =1	=1	=1
-16F 16e-X 16a	24bLL	.
+16F 16e-X 16a	24bLL	pp
 .	24ee-X	.
 16r	.	.
 .	24ddJJ	.
@@ -59,7 +59,7 @@
 16r	.	.
 .	48r	.
 .	48anJkk	.
-16GG 16F 16Bn	12ee-X	.
+16GG 16F 16Bn	12ee-X	sf
 16r	.	.
 .	24ee-	.
 =6	=6	=6
@@ -87,7 +87,7 @@
 16r	.	.
 .	48r	.
 .	48ff#XJkk	.
-16A-X 16g-X 16cc	12ccc	.
+16A-X 16g-X 16cc	12ccc	sf
 16r	.	.
 .	24f#X	.
 =9	=9	=9
@@ -124,11 +124,11 @@
 16r	.	.
 .	48r	.
 .	48ee#XJkk	.
-32GLLL 32fn 32b	8bb	.
+32GLLL 32fn 32b	8bb	sf
 32D-XJJJ	.	.
 16r	.	.
 =13	=13	=13
-16F 16e-X 16a	24bLL	.
+16F 16e-X 16a	24bLL	<
 .	24ee-X	.
 16r	.	.
 .	24ddJJ	.
@@ -162,12 +162,12 @@
 .	24eenJJ	.
 *^	*	*
 *clefG2	*clefG2	*	*
-12d-X	8f 8cc-X	24ffLL	.
+12d-X	8f 8cc-X	24ffLL	>
 .	.	24cc-X	.
 24dn	.	24b-XJJ	.
 *v	*v	*	*
 =17	=17	=17
-8r	24aLL	.
+8r	24aLL	p
 .	24dd-X	.
 .	24ccnJJ	.
 *clefF4	*	*
@@ -242,7 +242,7 @@
 !!LO:LB:g=original
 =25	=25	=25
 16F 16e-X 16an	24bnLL	.
-.	24ee-X	.
+.	24ee-X	<
 16r	.	.
 .	24ddJJ	.
 16BB 16A 16d#X	24cc#XLL	.
@@ -265,7 +265,7 @@
 16r	.	.
 .	24aa-XJJ	.
 [8qDDD-X [8qDD-X	.	.
-16DDD-] 16DD-] 16F 16c-X 16f	24ggLL	.
+16DDD-] 16DD-] 16F 16c-X 16f	24ggLL	f
 .	24eee-XJJ	.
 16r	.	.
 .	24r	.
@@ -274,7 +274,7 @@
 =29	=29	=29
 4r	4r	.
 =30	=30	=30
-8D-X 8c-X 8f	8cc-X 8ee-X 8ff 8bb-X	.
+8D-X 8c-X 8f	8cc-X 8ee-X 8ff 8bb-X	mf
 8r	8r	.
 =31	=31	=31
 8GG-X 8D-X 8c-X 8f	8cc-X 8ee-X 8ff 8bb-X 8eee-X	.
@@ -283,6 +283,7 @@
 *-	*-	*-
 !!!system-decoration: {(*)}
 !!!filter: flipper -a
+!!!RDF**dynam: > = dim.
 !!!ENC: Bryan Jacob Bell
 !!!END: November 2021 to April 2022
 !!!PED: Günter Philipp
