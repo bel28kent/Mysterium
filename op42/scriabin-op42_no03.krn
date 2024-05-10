@@ -15,7 +15,7 @@
 *F#:	*F#:	*
 *M6/8	*M6/8	*
 =1	=1	=1
-8A#L	24ggnLL	.
+8A#L	24ggnLL	ppp
 .	24ff#	.
 .	24gg	.
 8dn	24ff#	.
@@ -83,7 +83,7 @@
 8g#J	24ff#	.
 .	24ee#	.
 .	24ccc#JJ	.
-8f##XL	24dddnLL	.
+8f##XL	24dddnLL	>
 .	24ccc#	.
 .	24ddd	.
 8ee#	24ccc#	.
@@ -94,7 +94,7 @@
 .	24cccnJJ	.
 !!LO:LB:g=original
 =5	=5	=5
-8d#L	24cccnLL	.
+8d#L	24cccnLL	ppp
 .	24bb	.
 .	24ccc	.
 8gn	24bb	.
@@ -155,13 +155,13 @@
 8f#L	24ggnLL	.
 .	24ff#	.
 .	24gg	.
-8b	24ff#	.
-.	24gg	.
-.	24ff#	.
-8a#J	24gg	.
-.	24ff#	.
-.	24ggJJ	.
-8g##XL	8ff#	.
+8b	24ff#	>
+.	24gg	)
+.	24ff#	)
+8a#J	24gg	)
+.	24ff#	)
+.	24ggJJ	)
+8g##XL	8ff#	]
 8ff#	8r	.
 8a#J	8r	.
 =9	=9	=9
@@ -171,67 +171,67 @@
 24a	8ffn	.
 24b-	.	.
 24a	.	.
-24b-	8eenJ	.
-24a	.	.
-24b-JJ	.	.
-24aLL	4ccc#	.
-24b-	.	.
-24a	.	.
-24b-	.	.
-24a	.	.
-24b-	.	.
-24a	8gg#	.
-24b-	.	.
-24aJJ	.	.
+24b-	8eenJ	<
+24a	.	(
+24b-JJ	.	(
+24aLL	4ccc#	(
+24b-	.	(
+24a	.	(
+24b-	.	(
+24a	.	(
+24b-	.	(
+24a	8gg#	(
+24b-	.	(
+24aJJ	.	[
 !!LO:LB:g=original
 =10	=10	=10
-8d#L	24ff##XLL	.
-.	24gg#	.
-.	24gg##X	.
-8g#	24aa#	.
-.	24bb	.
-.	24bb#X	.
-8f##XJ	24ccc#	.
-.	24ccc##X	.
-.	24ddd#JJ	.
-8bL	4r	.
+8d#L	24ff##XLL	>
+.	24gg#	)
+.	24gg##X	)
+8g#	24aa#	)
+.	24bb	)
+.	24bb#X	)
+8f##XJ	24ccc#	)
+.	24ccc##X	)
+.	24ddd#JJ	)
+8bL	4r	]
 8dd#	.	.
 8a#J	8r	.
 =11	=11	=11
 24a-XLL	8bL	.
 24gn	.	.
 24a-	.	.
-24g	8ee-X	.
-24a-	.	.
-24g	.	.
-24a-	8ddnJ	.
-24g	.	.
-24a-JJ	.	.
-24gLL	4bb	.
-24a-	.	.
-24g	.	.
-24a-	.	.
-24g	.	.
-24a-	.	.
-24g	8ff#	.
-24a-	.	.
-24gJJ	.	.
+24g	8ee-X	<
+24a-	.	(
+24g	.	(
+24a-	8ddnJ	(
+24g	.	(
+24a-JJ	.	(
+24gLL	4bb	(
+24a-	.	(
+24g	.	(
+24a-	.	(
+24g	.	(
+24a-	.	(
+24g	8ff#	(
+24a-	.	(
+24gJJ	.	[
 =12	=12	=12
-8c#L	24ee#LL	.
-.	24ff#	.
-.	24ff##X	.
-8f#	24gg#	.
-.	24gg##X	.
-.	24aa#	.
-8e#J	24bb	.
-.	24bb#X	.
-.	24ccc#JJ	.
-8anL	4r	.
+8c#L	24ee#LL	>
+.	24ff#	)
+.	24ff##X	)
+8f#	24gg#	)
+.	24gg##X	)
+.	24aa#	)
+8e#J	24bb	)
+.	24bb#X	)
+.	24ccc#JJ	)
+8anL	4r	]
 8cc#	.	.
 8g#J	8r	.
 !!LO:LB:g=original
 =13	=13	=13
-8d#L	24cccnLL	.
+8d#L	24cccnLL	ppp
 .	24bb	.
 .	24ccc	.
 8gn	24bb	.
@@ -392,7 +392,7 @@
 24e	.	.
 24d#JJ	.	.
 =22	=22	=22
-8dnL	24aa#LL	.
+8dnL	24aa#LL	p
 .	24gg##X	.
 .	24aa#	.
 8cc#	24gg##	.
@@ -404,7 +404,7 @@
 4ff#	24gg##LL	.
 .	24aa#	.
 .	24gg##	.
-.	24aa#	.
+.	24aa#	>
 .	24gg##	.
 .	24aa#	.
 8b#	24gg##	.
@@ -412,7 +412,7 @@
 .	24ff#JJ	.
 !!LO:LB:g=original
 =23	=23	=23
-8c#L	24ff#LL	.
+8c#L	24ff#LL	ppp
 .	24ee#	.
 .	24ff#	.
 8cc#	24ee#	.
@@ -534,7 +534,7 @@
 24e	.	.
 24d#JJ	.	.
 =30	=30	=30
-8dnL	24aa#LL	.
+8dnL	24aa#LL	mf
 .	24gg##X	.
 .	24aa#	.
 8cc#	24gg##	.
@@ -554,7 +554,7 @@
 .	24ff#JJ	.
 !!LO:LB:g=original
 =31	=31	=31
-8c#L	24ff#LL	.
+8c#L	24ff#LL	ppp
 .	24ee#	.
 .	24ff#	.
 8cc#	24ee#	.
@@ -619,6 +619,7 @@
 ==	==	==
 *-	*-	*-
 !!!system-decoration: {(*)}
+!!!RDF**dynam: > = dim.
 !!!ENC: Bryan Jacob Bell
 !!!END: November 2021 to April 2022
 !!!PED: Konstantin Igumnov and Yakov Milstein
