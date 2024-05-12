@@ -46,6 +46,7 @@
 4r	12GG-L	12r	12r	.
 .	12G-	6e-	12e-L 12a	.
 .	12E-J	.	12B-J 12g- 12b-	.
+!!LO:LB:g=original
 =4	=4	=4	=4	=4
 8.AAL	12AAnL	12r	12r	.
 .	12c-	6g-	12g-L 12ddn	.
@@ -89,6 +90,7 @@
 4r	12BBB-L	12r	12r	.
 .	12BB-	6G-	12G-L 12d	.
 .	12GG-J	.	12E-J 12B- 12e-	.
+!!LO:LB:g=original
 =8	=8	=8	=8	=8
 8.EE-L	12EE-L	12r	12r	.
 .	12E-	6c-	12c-L 12f	.
@@ -131,6 +133,7 @@
 4AA-	12AA-L	12b-]	12raa	.
 .	12c-	[6a-	12a-L 12dd	.
 .	12E-J	.	12e-J 12ee-	.
+!!LO:LB:g=original
 =12	=12	=12	=12	=12
 2.AA	12AAnL	12a-]	12r	.
 .	12c-	6g-	12g-L 12ddn	.
@@ -171,6 +174,7 @@
 4E-	12E-XL	12r	12r	.
 .	12A-X	6f#	12f#XL 12bn	.
 .	12E-J	.	12cnJ 12ccn	.
+!!LO:LB:g=original
 =16	=16	=16	=16	=16
 4D	12DnL	12r	12r	.
 .	12Gn	6gn	12a#XL	.
@@ -213,6 +217,7 @@
 .	12GG-L	12r	12r	.
 .	12G-	6e-	12e-L 12a	.
 .	12E-J	.	12B-J 12g- 12b-	.
+!!LO:LB:g=original
 =20	=20	=20	=20	=20
 8.AAL	12AAnL	12r	12r	.
 .	12c-	6g-	12g-L 12ddn	.
@@ -256,6 +261,7 @@
 .	12DL	12fL]	12r	.
 .	12f	12b-	[6b-	.
 .	12B-J	12a-J	.	.
+!!LO:LB:g=original
 =24	=24	=24	=24	=24
 4E-	12E-L	6g-	12g-L 12b-]	.
 .	12e-	.	12gg-	.
@@ -297,6 +303,7 @@
 4FF	12FFL	12r	12r	.
 .	12F	6c	12cL 12gn	.
 .	12CJ	.	12A-J 12f 12a-	.
+!!LO:LB:g=original
 =28	=28	=28	=28	=28
 8.AA-L	12AA-L	4c	12cnL	.
 .	12A-	.	12a- 12ccn	.
@@ -340,6 +347,7 @@
 .	12g-	6gg-	12gg-L 12dddn	.
 .	12AJ	.	12ee-J 12aa 12eee-	.
 *v	*v	*	*	*
+!!LO:LB:g=original
 =32	=32	=32	=32
 [8qD-	.	.	.
 4D-] 4B- 4d- 4g-	4b-	4dd- 4gg- 4ddd-	.
@@ -393,6 +401,7 @@
 8e-L	4.g-	.	8gg-L	.
 8e--	.	.	8aa-	.
 8A-J	.	.	8ccc-J	.
+!!LO:LB:g=original
 =38	=38	=38	=38	=38
 8d-	8f	2.cc- 2.dd-	4.bb-	.
 8ryy	8D-L	.	.	.
@@ -442,6 +451,7 @@
 4B--	4.e-	4.dd-	8gg-L	.
 .	.	.	8ggn	.
 [8A-	.	.	[8aa-J	.
+!!LO:LB:g=original
 =44	=44	=44	=44	=44
 *	*	*^	*	*
 4.A-]	4a-	4.ccn\	8r	4.aa-_	.
@@ -489,6 +499,7 @@
 .	8g-	.	.	.
 .	8fJ	.	.	.
 *	*clefF4	*	*	*
+!!LO:LB:g=original
 =49	=49	=49	=49	=49
 4.G-	16%3d-L	4.b-	8dd-L	.
 .	.	.	8ccn	.
@@ -530,6 +541,7 @@
 4.BB--	.	.	8ffnL	.
 .	.	.	8gg-	.
 .	.	.	8ggnJ	.
+!!LO:LB:g=original
 =54	=54	=54	=54	=54
 [4.AA-	8rc	8r	4.aa-	.
 .	8cnL	[8f-XL	.	.
@@ -569,6 +581,7 @@
 8ccnL	4.gg-	8aa-L	.
 8cnJ	.	8aan	.
 8D- 8d-	.	[8bb-J	.
+!!LO:LB:g=original
 =59	=59	=59	=59
 4B- 4g-	4.dd-	8bb-L]	.
 .	.	8aan	.
@@ -604,6 +617,7 @@
 8dd->	.	8bb-	.
 8D-J	.	8gg-J	.
 *	*v	*v	*
+!!LO:LB:g=original
 =64	=64	=64
 8B--L	8ffL	.
 8g->	8ee-	.
@@ -644,6 +658,7 @@
 .	.	.	8dd-	.
 *	*v	*v	*	*
 *v	*v	*	*
+!!LO:LB:g=original
 =69	=69	=69
 16GG-LL	8c-L 8a-	.
 16D-	.	.
@@ -690,6 +705,7 @@
 8dd->	4ryy	8gg-	.
 8r	.	8aanL	.
 8r	8ryy	8bb-J	.
+!!LO:LB:g=original
 =74	=74	=74	=74
 *^	*	*	*
 4r	4r	4re	40%3eee-L	.
@@ -739,6 +755,7 @@
 .	40%3b-J	.
 .	4dd-	.
 .	8cc-	.
+!!LO:LB:g=original
 =79	=79	=79
 *^	*^	*
 *^	*	*	*	*
@@ -802,6 +819,7 @@
 12d-L	4r	4r	.
 12c-	.	.	.
 12B-J	.	.	.
+!!LO:LB:g=original
 =83	=83	=83	=83
 *^	*	*	*
 12A-L	2.A-	4ryy	12r	.
@@ -851,6 +869,7 @@
 12D-L	.	4ryy	12cc- 12ddd-/	.
 12d-	.	.	12r	.
 12D-J	.	.	12r	.
+!!LO:LB:g=original
 =87	=87	=87	=87	=87
 12D-L	4A-	4ryy	12r	.
 12GG-	.	.	12c-L 12e-	.
@@ -893,6 +912,7 @@
 12D-	.	.	12dddd-J	.
 *	*	*	*X8va	*
 12d-J	.	.	12r	.
+!!LO:LB:g=original
 =91	=91	=91	=91	=91
 8G-L	4G-	12r	12r	.
 .	.	6B-	12B-L 12f	.
@@ -946,6 +966,7 @@
 *	*v	*v	*
 *	*X8va	*
 *	*^	*
+!!LO:LB:g=original
 =95	=95	=95	=95
 *^	*	*	*
 4GG-	12GG-L	12r	12r	.
@@ -989,6 +1010,7 @@
 *v	*v	*	*	*
 *	*v	*v	*
 *clefF4	*	*
+!!LO:LB:g=original
 =99	=99	=99
 *k[b-e-a-d-g-]	*k[b-e-a-d-g-]	*
 4GGG- 4GG-	2.r	.
@@ -1026,6 +1048,7 @@
 16DD-Jk 16D-	.	.
 4DD- 4D-	.	.
 4r	.	.
+!!LO:LB:g=original
 =105	=105	=105
 4FFF 4FF	2.r	.
 4AAAn 4AAn	.	.
@@ -1058,6 +1081,7 @@
 .	12rd	12ryy	12r	4ff	.
 .	12d-L	12a\L	6g-/	.	.
 .	12D-J	12B-J 12b-	.	.	.
+!!LO:LB:g=original
 =109	=109	=109	=109	=109	=109
 4CC	12CCL	12ryy	12r	2.ff	.
 .	12G-	12an\L	6d-/	.	.
@@ -1106,6 +1130,7 @@
 12BBB-	.	12ccJ	.
 12EEE-J 12EE-	.	24r	.
 .	.	24b-	.
+!!LO:LB:g=original
 =113	=113	=113	=113
 12AAA-L 12AA-	4G- 4c	2b-	.
 12Dn	.	.	.
@@ -1146,6 +1171,7 @@
 .	12rB	12ryy	12r	4aa-	.
 .	12B-L	12cc\L	6a-/	.	.
 .	12BB-J	12d-J 12dd-	.	.	.
+!!LO:LB:g=original
 =117	=117	=117	=117	=117	=117
 4EE-	12EE-L	12ryy	12r	2.aa-	.
 .	12B-	12cc\L	6g-/	.	.
@@ -1196,6 +1222,7 @@
 .	.	8f	.
 12FFJ 12F	.	.	.
 *	*v	*v	*
+!!LO:LB:g=original
 =121	=121	=121
 *k[f#c#g#d#]	*k[f#c#g#d#]	*
 *	*^	*
@@ -1240,6 +1267,7 @@
 .	12dd#\L	6g#/	.	.
 .	12eJ 12cc# 12ee	.	.	.
 *	*v	*v	*	*
+!!LO:LB:g=original
 =125	=125	=125	=125
 4D# 4B#X 4d#	4r	2.g# 2.b#X 2.gg#	.
 4FFF##X 4FF##X	12r	.	.
@@ -1282,6 +1310,7 @@
 4GGG 4GG	12r	4ryy	4e- 4ee-X	.
 .	12gL 12dd\	.	.	.
 .	12ccJ 12ee-	.	.	.
+!!LO:LB:g=original
 =129	=129	=129	=129	=129
 4E-X 4Bn	4rA	2.bn	[2e-X [2ee-X	.
 4FFF#X 4FF#X	12rA	.	.	.
@@ -1322,6 +1351,7 @@
 4AAA#X 4AA#X	12FF#<L	.
 .	12D< 12F#<	.
 .	12FF#<J	.
+!!LO:LB:g=original
 =133	=133	=133
 4BBB 4BB	4FF#X< 4D< 4F#X<	.
 4AAAn 4AAn\	12ddL 12ff#X	.
@@ -1365,6 +1395,7 @@
 12dd>	.	.	.	.
 12ee>J	.	.	.	.
 *	*	*v	*v	*
+!!LO:LB:g=original
 =137	=137	=137	=137
 4ff>	4rC	4ff 4fff	.
 *v	*v	*	*
@@ -1409,6 +1440,7 @@
 12ee>J	.	.	.	.
 *	*	*v	*v	*
 *clefF4	*	*	*
+!!LO:LB:g=original
 =141	=141	=141	=141
 4ff>	4rC	4bb-X 4bbb-X	.
 *v	*v	*	*
@@ -1448,6 +1480,7 @@
 4FF##X 4F##X	12D#L	.
 .	12B 12d#	.
 .	[12D#J	.
+!!LO:LB:g=original
 =145	=145	=145
 4GG#X 4G#X	4D#] 4B 4d#X	.
 4FF#X 4F#X	12bbL 12ddd#X	.
@@ -1492,6 +1525,7 @@
 12cc##X>L	.	4bb 4bbb	.
 12dd#X>	.	.	.
 12ee#X>J	.	.	.
+!!LO:LB:g=original
 =149	=149	=149	=149
 4ff#X>	4ryy	4bb 4bbb	.
 *	*v	*v	*
@@ -1532,6 +1566,7 @@
 12cc##X>L	.	4gg## 4ggg##	.
 12dd#X>	.	.	.
 12ee#X>J	.	.	.
+!!LO:LB:g=original
 =153	=153	=153	=153
 4ff#x>	4ryy	4gg##X 4ggg##X	.
 *	*v	*v	*
@@ -1573,6 +1608,7 @@
 .	6ccc-	12ccc-L 12fff	.
 .	.	12gg-J 12eee- 12ggg-	.
 *	*X8va	*	*
+!!LO:LB:g=original
 =157	=157	=157	=157
 4G- 4cn 4e- 4g-	4r	4r	.
 4BBB- 4BB-	12r	12r	.
@@ -1613,6 +1649,7 @@
 4BBB- 4BB-	2.a- 2.dd] 2.aa-	.
 4CC- 4C-	.	.
 4FFF 4FF	.	.
+!!LO:LB:g=original
 =163	=163	=163
 !! 22/4 for encoding of cadenza passage; not in Scriabin's original notation.
 *M22/4	*M22/4	*
@@ -1692,6 +1729,7 @@
 12BBB-J 12BB-	12DJ 12F 12A- 12d	.
 *Xcue	*Xcue	*
 *	*clefG2	*
+!!LO:LB
 =164	=164	=164
 *M3/4	*M3/4	*
 *^	*^	*
@@ -1721,6 +1759,7 @@
 .	.	6e-	12e-L 12a-X	.
 .	8E-J	.	.	.
 .	.	.	12AnJ 12g- 12an	.
+!!LO:LB:g=original
 =166	=166	=166	=166	=166
 8.BB-L 8.B-	8B-L	12r	12r	.
 .	.	6g-	12g-L 12ddn	.
@@ -1776,6 +1815,7 @@
 .	.	6A	12AL 12d	.
 .	8GG-J	.	.	.
 .	.	.	12E-J 12e-	.
+!!LO:LB:g=original
 =170	=170	=170	=170	=170
 8.EE-L 8.E-	8E-L	12r	12r	.
 .	.	6B-	12B-L 12f	.
@@ -1831,6 +1871,7 @@
 .	.	6e-	12e-L 12b-	.
 .	8A-J	.	.	.
 .	.	.	12c-J 12a- 12cc-	.
+!!LO:LB:g=original
 =174	=174	=174	=174	=174
 4FF 4F	8FL	12ra	12raa	.
 .	.	[6cc-	12ddnL	.
@@ -1883,6 +1924,7 @@
 .	.	6a	12aL 12dd	.
 .	8G-J	.	.	.
 .	.	.	12e-J 12ee-	.
+!!LO:LB:g=original
 =178	=178	=178	=178	=178
 4Cn 4c	8cnL	12r	12r	.
 .	.	6a	12anL 12ddn	.
@@ -1936,6 +1978,7 @@
 8AAJ	.	.	.
 .	.	12ccJ 12ee- 12cccn	.
 *	*v	*v	*
+!!LO:LB:g=original
 =182	=182	=182
 *k[b-e-a-]	*k[b-e-a-]	*
 *	*^	*
@@ -1978,6 +2021,7 @@
 4r	4r	8bnL	.
 .	.	8cc	.
 8r	8r	8dd-XJ	.
+!!LO:LB:g=original
 =187	=187	=187	=187
 *	*	*^	*
 4.B-	16%3gL	2.a-	8ddnL	.
@@ -2016,6 +2060,7 @@
 .	4.AAn 4.An	4.g	8bnL	.
 .	.	.	8cc	.
 .	.	.	8cc#XJ	.
+!!LO:LB:g=original
 =192	=192	=192	=192	=192
 4.DD 4.AAn 4.D	8AnL	4.f#X	4dd	.
 .	8G#X	.	.	.
@@ -2054,6 +2099,7 @@
 4.ryy	8CC-XL 8C-X	4.ryy	4.e- 4.a- 4.ff	.
 .	8DD-X 8D-X	.	.	.
 .	8CC-J 8C-	.	.	.
+!!LO:LB:g=original
 =197	=197	=197	=197	=197
 4.BB- 4.f	[2.F [2.A-	2.a-	8ddL	.
 .	.	.	8cc	.
@@ -2096,6 +2142,7 @@
 8.GG-X 8.G-X	.	.	.	.
 .	.	.	8b-J	.
 *v	*v	*	*	*
+!!LO:LB:g=original
 =202	=202	=202	=202
 8GGnL 8Gn	4d-X 4e-	8b-L	.
 8GG	.	8ee-	.
@@ -2133,6 +2180,7 @@
 8DnL 8G 8Bn	4.bn	4.f 4.ff	.
 8A- 8a-	.	.	.
 8GJ 8g	.	.	.
+!!LO:LB:g=original
 =207	=207	=207	=207
 16%3CCL 16%3C	4cc	8e-L 8ee-	.
 .	.	8d 8dd	.
@@ -2171,6 +2219,7 @@
 8B-J	.	.	.
 *clefF4	*	*	*
 8BBB- 8BB-	.	8g 8gg	.
+!!LO:LB:g=original
 =211	=211	=211	=211
 4A- 4e-	4.cc-X	8fL 8ff	.
 .	.	8en 8een	.
@@ -2209,6 +2258,7 @@
 8e-L	8fL	.
 8a-J	8dd	.
 8r	8ccJ	.
+!!LO:LB:g=original
 =216	=216	=216
 4r	8b-L	.
 .	8c	.
@@ -2251,6 +2301,7 @@
 .	8gL	.
 .	8f	.
 .	8gJ	.
+!!LO:LB:g=original
 =222	=222	=222
 *	*^	*
 4r	4ryy	8b-L	.
@@ -2294,6 +2345,7 @@
 .	40%3gJ	.
 .	4b-	.
 .	8a-	.
+!!LO:LB:g=original
 =227	=227	=227
 *^	*^	*
 *^	*	*	*	*
@@ -2340,6 +2392,7 @@
 .	8CJ	.	.	.
 4.ryy	4.BB-	4.B-]	4f	.
 .	.	.	8G 8e- 8g	.
+!!LO:LB:g=original
 =232	=232	=232	=232	=232
 8EE-\	8E-L	8ryy	4.f	.
 4ryy	8D	[4B-	.	.
@@ -2392,6 +2445,7 @@
 .	24BB-	.	.	8a-J	.
 .	24C	.	.	.	.
 .	24BB-JJ	.	.	.	.
+!!LO:LB:g=original
 =236	=236	=236	=236	=236	=236
 8EE-\	8E-L	8ryy	8r	8gL	.
 4ryy	24DL	[4B-	4A-	8f	.
@@ -2435,6 +2489,7 @@
 12B-L	4ryy	4r	.
 12A-	.	.	.
 12GJ	.	.	.
+!!LO:LB:g=original
 =239	=239	=239	=239
 *^	*	*	*
 12FL	2.F	4ryy	12r	.
@@ -2479,6 +2534,7 @@
 12BB-L	.	12r	.
 12B-	.	12b-L 12dd 12ff	.
 12BB-J	.	12fJ	.
+!!LO:LB:g=original
 =243	=243	=243	=243
 12BB-L	4F	12r	.
 12EE-	.	12A-L 12c	.
@@ -2519,6 +2575,7 @@
 12fL	12ryy	12r	.
 12B-	6B-	12a-L 12dd	.
 12E-J	.	12ffJ	.
+!!LO:LB:g=original
 =247	=247	=247	=247
 *	*	*^	*
 8E-L	4E-	12r	12r	.
@@ -2570,6 +2627,7 @@
 8BB-J	.	.	.	.
 .	.	.	12fff	.
 *	*	*	*X8va	*
+!!LO:LB:g=original
 =251	=251	=251	=251	=251
 4EE-	12EE-L	12r	12r	.
 .	12E-	6B-	12B-L 12f#X	.
@@ -2610,6 +2668,7 @@
 4r	4r	4r	4r	.
 4r	4r	4r	4r	.
 *	*clefF4	*	*	*
+!!LO:LB:g=original
 =255	=255	=255	=255	=255
 4EE-	12EE-L	12r	12r	.
 .	12E-	6d-	12d-XL 12f#X	.
@@ -2652,6 +2711,7 @@
 *	*clefF4	*	*clefF4	*
 *v	*v	*	*	*
 *	*v	*v	*
+!!LO:LB:g=original
 =259	=259	=259
 *k[]	*k[]	*
 *^	*^	*
@@ -2708,6 +2768,7 @@
 4GGG#X 4GG#X	12EEL	.
 .	12BBn 12E	.
 .	12EEJ	.
+!!LO:LB:g=original
 =263	=263	=263
 *^	*^	*
 4AAA 4AA	8AAL	12r	12r	.
@@ -2763,6 +2824,7 @@
 4AAAn 4AAn	12FFL	.
 .	12Cn 12F	.
 .	12FFJ	.
+!!LO:LB:g=original
 =267	=267	=267
 *k[b-e-a-d-g-c-]	*k[b-e-a-d-g-c-]	*
 *^	*^	*
@@ -2821,6 +2883,7 @@
 .	.	6ee-	12ee-L 12bb-	.
 .	8e-J	.	.	.
 .	.	.	12cc-J 12ggn 12ccc-	.
+!!LO:LB:g=original
 =271	=271	=271	=271	=271
 4CC- 4C-	8C-L	12r	12r	.
 .	.	6G	12GnL 12d-	.
@@ -2875,6 +2938,7 @@
 .	12ggg-	.
 .	12gggg-J	.
 *	*X8va	*
+!!LO:LB:g=original
 =275	=275	=275
 4BBB- 4BB-	2.gg- 2.eee- 2.ggg-	.
 12DnL	.	.
@@ -2913,6 +2977,7 @@
 .	12ggg-	.
 .	12gggg-J	.
 *	*X8va	*
+!!LO:LB:g=original
 =279	=279	=279
 4BBB- 4BB-	2.bb- 2.ggg- 2.bbb-	.
 12DnL	.	.
@@ -2953,6 +3018,7 @@
 16r	16r	.	.
 .	.	24r	.
 *v	*v	*	*
+!!LO:LB:g=original
 =283	=283	=283
 *	*^	*
 12E-L	2.B-	4e-	.
@@ -2997,6 +3063,7 @@
 4G- 4e-	12r	12r	.
 .	6b-	12b-L 12ddn	.
 .	.	12e-J 12ee-	.
+!!LO:LB:g=original
 =287	=287	=287	=287
 12E-L	2.B-	4e-	.
 12F	.	.	.
@@ -3040,6 +3107,7 @@
 4G- 4e-	12r	12r	.
 .	6b-	12b-L 12ddn	.
 .	.	12e-J 12ee-	.
+!!LO:LB:g=original
 =291	=291	=291	=291
 *^	*	*	*
 8B-L	4B-	12r	12r	.
@@ -3093,6 +3161,7 @@
 .	.	6b-	12b-L 12dd	.
 8G-J	.	.	.	.
 .	.	.	12e-J 12ee-	.
+!!LO:LB:g=original
 =295	=295	=295	=295	=295
 4EE- 4E-	8E-L	12r	12r	.
 .	.	6B-	12B-L 12f	.
@@ -3150,6 +3219,7 @@
 .	.	6b-	12b-L 12ff	.
 .	8B-J	.	.	.
 .	.	.	12g-J 12ee- 12gg-	.
+!!LO:LB:g=original
 =299	=299	=299	=299	=299
 4E- 4e-	8e-L	12r	12r	.
 .	.	6a	12anL 12ff	.
@@ -3206,6 +3276,7 @@
 .	.	6G-	12G-L 12d	.
 .	8GG-J	.	.	.
 .	.	.	12E-J 12B- 12e-	.
+!!LO:LB:g=original
 =303	=303	=303	=303	=303
 8.EE-L 8.E-	8E-L	12r	12r	.
 .	.	6c-	12c-L 12f	.
