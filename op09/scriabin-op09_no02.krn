@@ -53,6 +53,7 @@
 [16B--	.	.
 16B--]	8B-- 8g- 8b--	.
 16cnJJ	.	.
+!!LO:LB:g=original
 =4	=4	=4
 16r	4.d- 4.e- 4.g- 4.b--	.
 16DD-LL	.	.
@@ -93,6 +94,7 @@
 .	.	16aJJ	.
 .	8B-	8b-	.
 *v	*v	*	*
+!!LO:LB:g=original
 =7	=7	=7
 *	*^	*
 16BBBB-LL 16BBB-	8r	8r	.
@@ -130,6 +132,7 @@
 [16d-	.	.
 16d-]	8F 8a-	.
 16AA-JJ	.	.
+!!LO:LB:g=original
 =10	=10	=10
 16r	4.d- 4.a- 4.ff	.
 16DD-LL	.	.
@@ -171,6 +174,7 @@
 16en	.	.
 16e	.	.
 [16fJJ	.	.
+!!LO:LB:g=original
 =13	=13	=13
 *^	*	*
 4.G- 4.A- 4.c	4f]	16r	.
@@ -208,6 +212,7 @@
 .	32fJJk 32a-	32dd-JJk	.
 4r	4.f 4.a-	4dd-	.
 8r	.	8cc	.
+!!LO:LB:g=original
 =16	=16	=16	=16
 16r	4d- 4e- 4gn	8.ccL	.
 16EE-LL	.	.	.
@@ -248,6 +253,7 @@
 16B-	.	.
 16gnJJ 16ee-	16r	.
 16r	16e-	.
+!!LO:LB:g=original
 =19	=19	=19
 16r	[4.E- [4.A- [4.c-X [4.e-	.
 16AAA-LL 16AA-	.	.
@@ -287,6 +293,7 @@
 .	16B- 16d- 16g 16b-	.
 .	16B- 16d- 16g 16b-	.
 .	16BnJJ 16d- 16g 16bn	.
+!!LO:LB:g=original
 =22	=22	=22
 16r	[4Bn [4d- [4gn [4bn	.
 16EE-LL	.	.
@@ -333,6 +340,7 @@
 .	.	.	16fJJ 16ff	.
 *v	*v	*	*	*
 *	*v	*v	*
+!!LO:LB:g=original
 =25	=25	=25
 16EEE-LL 16EE-/	4r	.
 16D- 16B- 16d-	.	.
@@ -358,6 +366,7 @@
 16E-	.	.
 16cJ	.	.
 8a-J	.	.
+!!LO:LB:g=encoder
 =27	=27	=27
 .	16qAAA-<LL	.
 .	16qAA-<	.
@@ -473,6 +482,7 @@
 2.ryy	4.b--	.
 .	4.a-	.
 *clefF4	*	*
+!!LO:LB:g=original
 =28	=28	=28
 16r	4.a-	.
 16DD-LL	.	.
@@ -512,6 +522,7 @@
 [16B--	.	.
 16B--]	8B-- 8g- 8b--	.
 16cnJJ	.	.
+!!LO:LB:g=original
 =31	=31	=31
 16r	4.d- 4.e- 4.g- 4.b--	.
 16DD-LL	.	.
@@ -552,6 +563,7 @@
 .	.	16aJJ	.
 .	8B-	8b-	.
 *v	*v	*	*
+!!LO:LB:g=original
 =34	=34	=34
 *	*^	*
 16BBBB-LL 16BBB-	8r	8r	.
@@ -589,6 +601,7 @@
 [16d-	.	.
 16d-]	8F 8a-	.
 16AA-JJ	.	.
+!!LO:LB:g=original
 =37	=37	=37
 16r	4.d- 4.a- 4.ff	.
 16DD-LL	.	.
@@ -630,6 +643,7 @@
 16en	.	.
 16e	.	.
 [16fJJ	.	.
+!!LO:LB:g=original
 =40	=40	=40
 *^	*	*
 4.G- 4.A- 4.c	4f]	16r	.
@@ -669,6 +683,7 @@
 .	32b-JJk 32dd-	32gg-JJk	.
 4r	4.b- 4.dd-	4gg-	.
 8r	.	8ff	.
+!!LO:LB:g=original
 =43	=43	=43	=43
 16r	4g- 4a- 4cc	8.ffL	.
 16AA-LL	.	.	.
@@ -713,6 +728,7 @@
 8aaaa-J	.	.
 *X8va	*	*
 *clefF4	*	*
+!!LO:LB:g=original
 =46	=46	=46
 16DD-	8r	.
 8AA-	.	.
@@ -760,6 +776,7 @@
 16gg-	8a-	.
 16cccJJ 16aaa-	.	.
 *clefF4	*	*
+!!LO:LB:g=original
 =49	=49	=49
 16r	4.ff	.
 16D-LL	.	.
@@ -824,6 +841,7 @@
 4ryy	4eenX	.
 .	16qee-X\LL	.
 .	16qeenXJJ	.
+!!LO:LB:g=original
 =52	=52	=52
 64ff>LL	8ff	.
 64dd->	.	.
@@ -889,6 +907,7 @@
 .	192ffffJJ	.
 .	4aaaa-	.
 *X8va	*X8va	*
+!!LO:LB:g=original
 =54	=54	=54
 !! M4/4 used to accommodate Scriabin's use of quarter notes; time signature not original.
 *M4/4	*M4/4	*
