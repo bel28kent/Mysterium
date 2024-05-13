@@ -142,8 +142,8 @@
 .	.	.	16bn	.
 .	16.c#L	.	16.a	.
 .	32BJJk	.	32gJJk	.
-*v	*v	*	*	*
-*	*v	*v	*
+*	*	*v	*v	*
+*v	*v	*	*
 =13	=13	=13
 4FF#	[4f#	.
 4C# 4A 4c#	12f#L]	.
@@ -194,8 +194,8 @@
 4rEE	4rc	4rA	12g#L	.
 .	.	.	12f#J	.
 .	.	.	12raa	.
-*v	*v	*	*	*
-*	*v	*v	*
+*	*	*v	*v	*
+*v	*v	*	*
 !!LO:LB:g=original
 =18||	=18||	=18||
 *k[f#c#]	*k[f#c#]	*
@@ -376,7 +376,7 @@
 8BB-X\	24GLL	8G	8B-X	24gLL	.
 .	24Fn	.	.	24fn	.
 .	24E-XJJ	.	.	24e-XJJ	.
-*v	*v	*	*	*	*
+*	*v	*v	*	*	*
 8E-	24B-XLL	8e-	24b-XLL	.
 .	24cn	.	24ccn	.
 .	24B-JJ	.	24b-JJ	.
@@ -783,8 +783,8 @@
 .	.	.	16bn	.
 .	16.c#L	.	16.a	.
 .	32BJJk	.	32g#JJk	.
-*v	*v	*	*	*
-*	*v	*v	*
+*	*	*v	*v	*
+*v	*v	*	*
 !!LO:LB:g=original
 =74	=74	=74
 4FF#	[4f#	.
@@ -862,8 +862,8 @@
 4FF#\	.	.	.	.	.
 .	4C#	4C#	4ryy	4B 4e#X 4a 4cc#	.
 [8FF#\	.	.	.	.	.
-*	*v	*v	*	*	*
-*	*	*v	*v	*
+*	*	*	*v	*v	*
+*	*v	*v	*	*
 =82	=82	=82	=82
 8FF#]	4D 4G#X	4B#X 4f# 4b#X	.
 4FF#	.	.	.
@@ -880,10 +880,10 @@
 *	*v	*v	*
 ==	==	==
 *-	*-	*-
+!!!system-decoration: {(*)}
 !!!filter: flipper -a
 !!!RDF**kern: < = below
 !!!RDF**kern: > = above
-!!!system-decoration: {(*)}
 !!!ENC: Bryan Jacob Bell
 !!!END: November 2021 to April 2022
 !!!PED: P. Jurgenson
