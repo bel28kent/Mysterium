@@ -724,8 +724,8 @@
 *clefG2	*	*
 16a-	.	.
 16aa-	.	.
-16aa-J	.	.
 *8va	*	*
+16aaa-J	.	.
 8aaaa-J	.	.
 *X8va	*	*
 *clefF4	*	*
@@ -811,6 +811,7 @@
 16aaaa-	.	.
 *X8va	*	*
 =51	=51	=51
+*cue	*	*
 88aa->LL	8aa-	.
 88dd->	.	.
 88a->	.	.
@@ -881,7 +882,9 @@
 64ddd->	.	.
 64fff>	.	.
 64aaa->JJ	.	.
+*Xcue	*	*
 4ryy	4dddd-	.
+*	*cue	*
 4.ryy	192dddd-LL	pp
 .	192eeee-	.
 .	192eeeenX	.
@@ -906,6 +909,7 @@
 .	192eeee-X	.
 .	192eeeenX	.
 .	192ffffJJ	.
+*	*Xcue	*
 .	4aaaa-	.
 *X8va	*X8va	*
 !!LO:LB:g=original
