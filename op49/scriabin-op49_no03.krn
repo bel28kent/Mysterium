@@ -16,7 +16,7 @@
 *M2/4	*M2/4	*
 =1	=1	=1
 *	*^	*
-4F 4e-X 4g	8ddL	[4aa	.
+4F 4e-X 4g	8ddL	[4aa	p
 .	8ccJ	.	.
 *^	*	*	*
 4G 4f	8enL	4b	12aaL]	.
@@ -28,18 +28,18 @@
 4E-X 4d-X 4f	8ccnL	4gg	.
 .	8b-XJ	.	.
 *^	*	*	*
-4A-X 4c	8fL	4b-	4gg-X	.
-.	8e-XJ	.	.	.
+4A-X 4c	8fL	4b-	4gg-X	<
+.	8e-XJ	.	.	[
 *v	*v	*	*	*
 =3	=3	=3	=3
 4D-X 4c-X 4e-X	8b-XL	[4ff	.
-.	8a-XJ	.	.
+.	8a-XJ	.	>
 *^	*	*	*
-[8qGG\	.	.	.	.
-4GG] 4F 4Bn	8enL	4gn	12ffL]	.
-.	.	.	12b-X	.
-.	8dnJ	.	.	.
-.	.	.	12bnJ	.
+[8qGG\	.	.	.	)
+4GG] 4F 4Bn	8enL	4gn	12ffL]	)
+.	.	.	12b-X	)
+.	8dnJ	.	.	)
+.	.	.	12bnJ	]
 =4	=4	=4	=4	=4
 [8qCCn [8qGG\	.	.	.	.
 2CC] 2GG] 2E 2G	8dL	2g	2ee	.
@@ -66,15 +66,15 @@
 .	8b-XJ	.	.	.
 *v	*v	*	*	*
 =7	=7	=7	=7
-4A-X 4g-X 4b-X	8ffL	[4ccc	.
-.	8ee-XJ	.	.
+4A-X 4g-X 4b-X	8ffL	[4ccc	<
+.	8ee-XJ	.	(
 *^	*	*	*
 *clefF4	*clefF4	*	*	*
-[8qD\	.	.	.	.
-4D] 4c 4f#X	8bnL	4ddn	12cccL]	.
-.	.	.	12ffn	.
-.	8anJ	.	.	.
-.	.	.	12ff#XJ	.
+[8qD\	.	.	.	(
+4D] 4c 4f#X	8bnL	4ddn	12cccL]	(
+.	.	.	12ffn	(
+.	8anJ	.	.	(
+.	.	.	12ff#XJ	[
 =8	=8	=8	=8	=8
 [8qGG [8qD\	.	.	.	.
 2GG] 2D] 2B 2d	8aL	2dd	2bb	.
@@ -122,7 +122,7 @@
 .	.	12.aa	.
 .	.	24aaJk	.
 =13	=13	=13	=13
-4F] 4e-X 4g	8ddnL	[4aa	.
+4F] 4e-X 4g	8ddnL	[4aa	p
 .	8ccJ	.	.
 *^	*	*	*
 4G 4f	8enL	4b	12aaL]	.
@@ -227,10 +227,10 @@
 *	*v	*v	*
 ==	==	==
 *-	*-	*-
+!!!system-decoration: {(*)}
 !!!filter: flipper -a
 !!!RDF**kern: < = below
 !!!RDF**kern: > = above
-!!!system-decoration: {(*)}
 !!!ENC: Bryan Jacob Bell
 !!!END: November 2021 to April 2022
 !!!PED: Günter Philipp
