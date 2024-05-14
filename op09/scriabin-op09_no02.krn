@@ -366,7 +366,6 @@
 16E-	.	.
 16cJ	.	.
 8a-J	.	.
-!!LO:LB:g=encoder
 =27	=27	=27
 .	16qAAA-<LL	pp
 .	16qAA-<	.
@@ -409,6 +408,8 @@
 .	16qaaa-X	.
 .	16qaaanX	.
 .	16qbbb-	.
+!!LO:LB:g=original
+=-	=-	=-
 .	16qffff	.
 .	16qeeee-	.
 .	16qdddd-	.
