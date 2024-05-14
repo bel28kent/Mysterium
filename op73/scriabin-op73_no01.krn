@@ -55,6 +55,7 @@
 12rBB	4c# 4cc#X	6bb]	.
 12GnL	.	.	.
 12AAJ	.	12gg#X	.
+!!LO:LB:g=original
 =4	=4	=4	=4
 12rBB	2f#X	4r	.
 12c#XL	.	.	.
@@ -114,6 +115,7 @@
 12rBB	[4An [4an	[4eee-X	6bbb]	.
 12e-L	.	.	.	.
 12E-J	.	.	12aaa-X	.
+!!LO:LB:g=original
 =8	=8	=8	=8	=8
 8FFL	4A] 4a]	4eee-_	[4cccc	.
 8BBBJ	.	.	.	.
@@ -158,6 +160,7 @@
 .	.	8ddd	.
 *	*v	*v	*
 *clefG2	*	*
+!!LO:LB:g=original
 =13	=13	=13
 *^	*	*
 12gg-L	2.gg-X	8r	.
@@ -211,6 +214,7 @@
 4rA	.	8eee-X	.
 .	.	8ggg-XJ	.
 *v	*v	*	*
+!!LO:LB:g=original
 =18	=18	=18
 16qC#XLL	.	.
 16qB	.	.
@@ -264,6 +268,7 @@
 .	.	[8aa#	.
 *	*v	*v	*
 *clefG2	*	*
+!!LO:LB:g=original
 =23	=23	=23
 *^	*	*
 12ddL	2.dd	4aa#_	.
@@ -321,6 +326,7 @@
 .	.	[6bb-X	12fff#	.
 .	.	.	12ddd#XJ	.
 *v	*v	*	*	*
+!!LO:LB:g=original
 =28	=28	=28	=28
 2.r	12bb-]	12gggL	.
 .	[6gg	12ddd#X	.
@@ -364,6 +370,7 @@
 12rBB	4c# 4cc#X	6aa]	.
 12GL	.	.	.
 12AAJ	.	12ff#	.
+!!LO:LB:g=original
 =32	=32	=32	=32
 12rBB	2f#X	4r	.
 12c#XL	.	.	.
@@ -400,6 +407,7 @@
 12rBB	4c# 4cc#X	.	.
 12GL	.	.	.
 12AAJ	.	.	.
+!!LO:LB:g=original
 =35	=35	=35	=35
 12rBB	2f#X	20r	.
 .	.	20bLL	.
@@ -456,6 +464,7 @@
 4r	4r	4ddd#_	6bbb]	.
 .	.	.	12ggg#X	.
 *v	*v	*	*	*
+!!LO:LB:g=original
 =39	=39	=39	=39
 2.r	4ddd#_	[4cccc	.
 .	12ddd#]	12ccccL]	.
@@ -493,6 +502,7 @@
 .	.	8gg#	.
 *	*v	*v	*
 *clefG2	*	*
+!!LO:LB:g=original
 =43	=43	=43
 *^	*	*
 12ccL	2.cc	8r	.
@@ -544,6 +554,7 @@
 8r	.	8ee#X	.
 4r	.	8aa	.
 .	.	8cccJ	.
+!!LO:LB:g=original
 =48	=48	=48	=48
 .	16qGGnLL	.	.
 .	16qF	.	.
@@ -597,6 +608,7 @@
 .	2a-]	4.ff	.
 .	.	8ee	.
 *	*v	*v	*
+!!LO:LB:g=original
 =53	=53	=53
 *^	*	*
 12a-L	2.a-X	8r	.
@@ -650,6 +662,7 @@
 4r	12gg]	12eeeL]	.
 .	[6ee	12ccc	.
 .	.	12aaJ	.
+!!LO:LB:g=original
 =58	=58	=58	=58
 4r	12ee]	12ccc#XL	.
 .	[6cc#X	12aa	.
@@ -687,6 +700,7 @@
 4AA	.	12c#]	12b-L]	.
 .	.	[6c#	12a	.
 .	.	.	12f#J	.
+!!LO:LB:g=original
 =62	=62	=62	=62	=62
 4DD#X 4C#X	2G	4c#_	[4b-X	.
 4AA	.	12c#]	12b-L]	.
@@ -720,11 +734,11 @@ N[4qff#>	.	.
 2.AAA] 2.AA] 2.G]	2.c#N] 2.f#N] 2.b-N] 2.cc#N] 2.ff#N] 2.bb-	.
 ==	==	==
 *-	*-	*-
+!!!system-decoration: {(*)}
 !!!filter: flipper -a
 !!!RDF**kern: < = below
 !!!RDF**kern: > = above
 !!!RDF**kern: N = linked
-!!!system-decoration: {(*)}
 !!!ENC: Bryan Jacob Bell
 !!!END: November 2021 to April 2022
 !!!PED: Günter Philipp
