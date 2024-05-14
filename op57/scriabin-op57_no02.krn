@@ -16,10 +16,10 @@
 *M3/8	*M3/8	*
 =1	=1	=1
 *	*^	*
-4.c 4.f#X	16bLL	[4.ee	.
-.	16a#XJJ	.	.
+4.c 4.f#X	16bLL	[4.ee	pp <
+.	16a#XJJ	.	[
 .	8.b	.	.
-.	16b-X	.	.
+.	16b-X	.	> ]
 =2	=2	=2	=2
 4.A-X 4.g-X	4.b-X	16eeLL]	.
 .	.	16cccJJ	.
@@ -119,25 +119,25 @@
 4c_ [4f#X	.	.	.
 .	.	16a#X	.
 .	16rcc	[8ee	.
-.	16a#X	.	.
+.	16a#X	.	<
 =18	=18	=18	=18
-4.c] 4.f#]	8bL	8.ee]	.
-.	8a#XJ	.	.
+4.c] 4.f#]	8bL	8.ee]	[ >
+.	8a#XJ	.	]
 .	.	16dd#X	.
 .	8r	16eeLL	.
 .	.	16ff#XJJ	.
 *v	*v	*	*
 =19	=19	=19
-16BLL	16ggLL	.
-[16anJJ	16gg#XJJ	.
-4a] 4ee	[4bb#X	.
+16BLL	16ggLL	<
+[16anJJ	16gg#XJJ	(
+4a] 4ee	[4bb#X	[
 =20	=20	=20
-8dd#XL	16bb#LL]	.
-.	16ccc#X	.
-8a	16gg#X	.
-.	16ff##X	.
-8BnJ	16dd#X	.
-.	16aJJ	.
+8dd#XL	16bb#LL]	>
+.	16ccc#X	)
+8a	16gg#X	)
+.	16ff##X	)
+8BnJ	16dd#X	)
+.	16aJJ	]
 =21	=21	=21
 *^	*	*
 16rc	4rcc	8.a-X	.
@@ -145,11 +145,11 @@
 4B--_ [4e-X	.	.	.
 .	.	16g	.
 .	16rcc	[8dd-X	.
-.	16g	.	.
+.	16g	.	< [
 =22	=22	=22	=22
-4.B--] 4.e-]	8a-XL	8.dd-]	.
-.	8gJ	.	.
-.	.	16cc	.
+4.B--] 4.e-]	8a-XL	8.dd-]	>
+.	8gJ	.	)
+.	.	16cc	]
 .	8r	16dd-XLL	.
 .	.	16ee-XJJ	.
 *v	*v	*	*
@@ -178,7 +178,7 @@
 .	8f#XJ	.	.
 .	.	16b	.
 .	8r	16ccLL	.
-.	.	16ddJJ	.
+.	.	16ddJJ	<
 =27	=27	=27	=27
 8r	8r	16dd#XLL	.
 .	.	16eeJJ	.
@@ -191,7 +191,7 @@
 .	4eee	.
 !!LO:LB:g=original
 =29	=29	=29
-4.G 4.f#X 4.cc	16r	.
+4.G 4.f#X 4.cc	16r	mf
 .	16ee	.
 .	16gg#XLL	.
 .	16aaJJ	.
@@ -212,22 +212,22 @@
 =32	=32	=32
 4e 4cc]	16ddd#LL]	.
 .	16eee	.
-.	16aa-X	.
+.	16aa-X	>
 .	16gg	.
 8r	16ee	.
 .	16ccJJ	.
 =33	=33	=33
-16r	8.an	.
+16r	8.an	pp
 [16c	.	.
 4c] 4e 4b-X	.	.
 .	16g#X	.
-.	[8cc	.
+.	[8cc	< [
 =34	=34	=34
 8FL	16ccLL]	.
 .	16cc-XJJ	.
 8e-X	8.ee-X	.
-8aJ	.	.
-.	16gn	.
+8aJ	.	>
+.	16gn	]
 !!LO:LB:g=original
 =35	=35	=35
 16r	8.g	.
@@ -270,7 +270,7 @@
 !!LO:LB:g=original
 =41	=41	=41
 *^	*	*
-8eL	4.e	8.a	.
+8eL	4.e	8.a	pp
 8b-X	.	.	.
 .	.	16g#X	.
 8cJ	.	[8cc	.
@@ -321,7 +321,7 @@
 *clefG2	*	*
 =49	=49	=49
 *	*^	*
-4.f 4.b	16eeLL	[4.aa	.
+4.f 4.b	16eeLL	[4.aa	ppp
 .	16dd#XJJ	.	.
 .	8.ee	.	.
 .	16ee-X	.	.
@@ -373,7 +373,7 @@
 *v	*v	*	*	*
 =58	=58	=58	=58
 16r	16r	16r	.
-[16GGn [16F	[16B	16e	.
+[16GGn [16F	[16B	16e	pp
 4GG] 4F]	4B]	16bKL	.
 .	.	8e	.
 .	.	16d#XJk	.
@@ -382,8 +382,9 @@
 4.CC 4.GG 4.E	4.G 4.c 4.e 4.g	.
 ==	==	==
 *-	*-	*-
-!!!filter: flipper -a
 !!!system-decoration: {(*)}
+!!!filter: flipper -a
+!!!RDF**dynam: > = dim.
 !!!ENC: Bryan Jacob Bell
 !!!END: November 2021 to April 2022
 !!!PED: Günter Philipp
