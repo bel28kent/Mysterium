@@ -49,6 +49,7 @@
 12d	.	.	.
 .	.	8ggJ 8bb- 8ddd	.
 12b-J	12b-	.	.
+!!LO:LB:g=original
 =5	=5	=5	=5
 12dL	6d	8aa-L 8fff	.
 12A-	.	.	.
@@ -92,6 +93,7 @@
 6F-X	6a-]	8ccL 8ee- 8aa-	.
 .	.	8a-J 8ee-	.
 12c	12c	.	.
+!!LO:LB:g=original
 =10	=10	=10	=10
 12dL	[4d	8a-L 8dd 8gg	.
 12A-	.	.	.
@@ -137,6 +139,7 @@
 12c	.	.	.
 .	.	8ccJ 8ff# 8gg#X	.
 12f#J	12ee	.	.
+!!LO:LB:g=original
 =15	=15	=15	=15
 12eeL	[4een	8ccL 8ff#X 8bbn	.
 12cc	.	.	.
@@ -182,6 +185,7 @@
 12E-	.	.	.
 .	.	8ffJ 8gg 8ccc-X	.
 12d-J	12g	.	.
+!!LO:LB:g=original
 =20	=20	=20	=20
 4g	[4g	8dd-XL 8ff 8bb-	.
 .	.	8dd- 8ff 8bb--	.
@@ -222,6 +226,7 @@
 4E-- 4c 4g-X	6cc 6gg-X 6aa-	.
 .	12cc 12gg- 12aan	.
 *clefG2	*	*
+!!LO:LB:g=original
 =25	=25	=25
 *^	*	*
 12ccL	4ff	8gg-XL 8bb-	.
@@ -265,6 +270,7 @@
 12A-	.	.	.
 .	.	8a-J 8dd 8ff#X	.
 12dJ	12d	.	.
+!!LO:LB:g=original
 =30	=30	=30	=30
 12dL	2d	8ccL 8dd 8gg	.
 12A-	.	.	.
@@ -305,6 +311,7 @@
 12d	.	.	.
 .	.	8bnJ 8dd	.
 12a-J	12a-	.	.
+!!LO:LB:g=original
 =35	=35	=35	=35
 12a-L	[4a-	8ccL 8ff	.
 12e-	.	.	.
@@ -348,6 +355,7 @@
 12A	.	.	.
 .	.	8aJ 8dd# 8ff#X	.
 12d#J	12d#	.	.
+!!LO:LB:g=original
 =40	=40	=40	=40
 12g#L	4g#X	8g#XL 8bn 8ff#X	.
 12Bn	.	.	.
@@ -380,6 +388,7 @@
 12A-	.	.	.
 .	.	8a-J 8dd 8ff#	.
 12dJ	12d	.	.
+!!LO:LB:g=original
 =44	=44	=44	=44
 12gL	4g	12ee-L 12gg 12ccc-X	.
 12e-	.	12ee- 12gg 12bb-	.
@@ -414,6 +423,7 @@
 12AA-	.	.	.
 .	.	8b-J 8cc 8een	.
 12G-J	.	.	.
+!!LO:LB:g=original
 =48	=48	=48	=48
 12cL	6c	8b-L 8cc 8ff	.
 12G-X	.	.	.
@@ -452,6 +462,7 @@
 .	.	.	8e-J 8g 8ccn	.
 [12BB-J	.	.	.	.
 *	*v	*v	*	*
+!!LO:LB:g=original
 =52	=52	=52	=52
 4BB-] 4G]	8AL]	8e-L 8g 8cc-X	.
 .	8B-J	8e-J 8g 8b-	.
@@ -485,6 +496,7 @@
 12AA-	.	.	.
 .	.	8b-J 8cc 8een	.
 12G-J	.	.	.
+!!LO:LB:g=original
 =56	=56	=56	=56
 12cL	6c	8b-L 8cc 8ff	.
 12G-X	.	.	.
@@ -523,6 +535,7 @@
 .	.	.	8e-J 8g 8ccn	.
 [12BB-J	.	.	.	.
 *	*v	*v	*	*
+!!LO:LB:g=original
 =60	=60	=60	=60
 4BB-] 4G]	8AL]	8e-L 8g 8cc-X	.
 .	8B-J	8e-J 8g 8b-	.
@@ -562,6 +575,7 @@
 .	8B-J	8e-J 8g 8b-	.
 4ryy	4rC	8gL 8b- 8ee-	.
 .	.	8e-J 8g 8b-	.
+!!LO:LB:g=original
 =65	=65	=65	=65
 *^	*	*	*
 12e-\L	4ryy	4e-	8gL 8cc-X	.
