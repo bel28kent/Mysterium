@@ -16,17 +16,17 @@
 *M12/8	*M12/8	*
 =1	=1	=1
 *	*^	*
-4.c 4.f#X	4b	4.ee	.
+4.c 4.f#X	4b	4.ee	pp
 .	8a#X	.	.
-4.G 4.fn	4.b	8cc#XL	.
-.	.	8dd	.
-.	.	8dd#XJ	.
-4r	4r	8rff	.
-.	.	8anL	.
-8r	8rc	8a#XJ	.
-4r	4rc	8bL	.
-.	.	8ddn	.
-8r	8rc	8dd#XJ	.
+4.G 4.fn	4.b	8cc#XL	<
+.	.	8dd	(
+.	.	8dd#XJ	(
+4r	4r	8rff	(
+.	.	8anL	(
+8r	8rc	8a#XJ	(
+4r	4rc	8bL	(
+.	.	8ddn	(
+8r	8rc	8dd#XJ	[
 =2	=2	=2	=2
 4.cn 4.f#X	4b	4.ee	.
 .	8a#X	.	.
@@ -42,13 +42,13 @@
 !!LO:LB:g=original
 =3	=3	=3	=3
 4.E-X 4.d-X	4.g 4.an	[4.ff	.
-2.A-X 2.c	2.g-X 2.b-X	8ffL]	.
+2.A-X 2.c	2.g-X 2.b-X	8ffL]	<
 .	.	8dd	.
 .	.	8ee-XJ	.
 .	.	4.gg-X	.
-4.Dn 4.c	4.f#X 4.bn	8ff#XL	.
-.	.	8dd#X	.
-.	.	8eenJ	.
+4.Dn 4.c	4.f#X 4.bn	8ff#XL	<
+.	.	8dd#X	(
+.	.	8eenJ	[
 *	*v	*v	*
 =4	=4	=4
 .	16qf#XLL	.
@@ -111,9 +111,9 @@
 .	.	8ggn	.
 .	.	8aa-XJ	.
 .	.	4.ccc-X	.
-4.Gn 4.f	4.bn 4.een	8bbnL	.
-.	.	8gg#X	.
-.	.	8aanJ	.
+4.Gn 4.f	4.bn 4.een	8bbnL	<
+.	.	8gg#X	(
+.	.	8aanJ	[
 *	*v	*v	*
 !!LO:LB:g=original
 =9	=9	=9
@@ -133,7 +133,7 @@
 .	.	8aaJ	.
 =10	=10	=10	=10
 [8qC [8qG	.	.	.
-2.C] 2.G] [2.f [2.b	4een	2.ff 2.aa 2.fff	.
+2.C] 2.G] [2.f [2.b	4een	2.ff 2.aa 2.fff	<
 .	8ee-X	.	.
 .	4ee-	.	.
 .	8dd	.	.
@@ -186,8 +186,8 @@
 1.CC 1.GG 1.F 1.B 1.f	1.b 1.dd#X 1.aa 1.ddd#X 1.aaa	.
 ==	==	==
 *-	*-	*-
-!!!filter: flipper -a
 !!!system-decoration: {(*)}
+!!!filter: flipper -a
 !!!ENC: Bryan Jacob Bell
 !!!END: November 2021 to April 2022
 !!!PED: Günter Philipp
