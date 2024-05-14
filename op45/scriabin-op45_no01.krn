@@ -16,7 +16,7 @@
 *M3/4	*M3/4	*
 =1	=1	=1
 *	*^	*
-4e-	4ryy	8r	.
+4e-	4ryy	8r	p
 .	.	[8e-	.
 4c-X	2e-]	8fL	.
 .	.	8f#X	.
@@ -27,7 +27,7 @@
 .	.	8bnJ	.
 .	.	4.ee-	.
 4B-	.	.	.
-.	.	8cc	.
+.	.	8cc	<
 =3	=3	=3	=3
 *	*	*^	*
 2.A-X	2d\	2.g	8ccL	.
@@ -37,23 +37,23 @@
 .	.	.	8cc-	.
 *	*	*v	*v	*
 =4	=4	=4	=4
-2.G	2.e- 2.g	8cc-XL	.
-.	.	8b-J	.
-.	.	2ee-	.
+2.G	2.e- 2.g	8cc-XL	>
+.	.	8b-J	)
+.	.	2ee-	]
 *	*v	*v	*
 =5	=5	=5
 *^	*	*
 4c	2.e-	8r	.
 .	.	8g	.
-4c-X	.	8a-L	.
-.	.	8an	.
-4G	.	8b-	.
-.	.	8ee-J	.
+4c-X	.	8a-L	<
+.	.	8an	(
+4G	.	8b-	(
+.	.	8ee-J	(
 *v	*v	*	*
 =6	=6	=6
 *	*^	*
-4r	4rc	8ggL	.
-.	.	8ffJ	.
+4r	4rc	8ggL	(
+.	.	8ffJ	[
 [2F [2e- [2an	[2bn [2ff	[2ddd	.
 !!LO:LB:g=original
 =7	=7	=7	=7
@@ -69,12 +69,12 @@
 2.BB- 2.A-X	2.d	8ccL	.
 .	.	8cc-XJ	.
 .	.	8ffL	.
-.	.	8b-J	.
+.	.	8b-J	>
 .	.	12dL	.
 .	.	12g	.
 .	.	12fJ	.
 =9	=9	=9	=9
-4e-	4ryy	8r	.
+4e-	4ryy	8r	p
 .	.	[8e-	.
 4c-X	2e-]	8fL	.
 .	.	8f#X	.
@@ -88,7 +88,7 @@
 4A	.	.	.	.	.
 .	.	.	8re	8cc	.
 =11	=11	=11	=11	=11	=11
-2A-X	2.e--	2.g-X\	4re	8ccL	.
+2A-X	2.e--	2.g-X\	4re	8ccL	<
 .	.	.	.	[8cc-XJ	.
 .	.	.	4.cc-]	4.gg-X	.
 4A-	.	.	.	.	.
@@ -104,7 +104,7 @@
 =13	=13	=13	=13
 8enL	4ryy	12dd-X\L	.
 .	.	12an	.
-8B-J	.	.	.
+8B-J	.	.	f
 .	.	[12b-J	.
 .	.	8qdd-	.
 12CL	2b-]	4.aa-	.
@@ -188,7 +188,7 @@ N[12BB-J	.	.	.	.	.
 .	.	.	8anJ	.
 .	.	.	8ee-	.
 .	.	.	4a-X	.
-.	[4A- [4c-X	[4e-	.	.
+.	[4A- [4c-X	[4e-	.	>
 .	.	.	8g	.
 *v	*v	*	*	*
 =20	=20	=20	=20
@@ -196,11 +196,11 @@ N[12BB-J	.	.	.	.	.
 .	.	4g-X	.
 .	2d	.	.
 .	.	8f	.
-.	.	8a-L	.
-.	.	8f-XJ	.
+.	.	8a-L	>
+.	.	8f-XJ	]
 =21	=21	=21	=21
 *	*	*^	*
-4r	4ryy	4ryy	8r	.
+4r	4ryy	4ryy	8r	p
 .	.	.	[8e-	.
 4c-X	2e-\]	4ryy	8fL	.
 .	.	.	8f#X	.
@@ -241,6 +241,7 @@ N[12BB-J	.	.	.	.	.
 !!!system-decoration: {(*)}
 !!!filter: flipper -a
 !!!RDF**kern: N = linked
+!!!RDF**dynam: > = dim.
 !!!ENC: Bryan Jacob Bell
 !!!END: November 2021 to April 2022
 !!!PED: Günter Philipp
