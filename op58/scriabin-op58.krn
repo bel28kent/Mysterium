@@ -12,10 +12,10 @@
 *X:	*X:	*
 *M3/4	*M3/4	*
 =1	=1	=1
-.	16qeLL	.
+.	16qeLL	pp
 .	16qg#X	.
 .	16qdd#XJJ	.
-8r	2ff#X	.
+8r	2ff#X	p
 8Cn	.	.
 8A#XL	.	.
 8e	.	.
@@ -50,10 +50,12 @@
 8A#X	[4ee	.
 8g#XJ	.	.
 =4	=4	=4
-8d#XL	4.ee]	.
-8c##X	.	.
-8d#	.	.
-8c##J	[8ee	.
+!	!	!LO:HP:b=2
+8d#XL	4.ee]	>
+8c##X	.	]
+!	!	!LO:HP:b=2
+8d#	.	>
+8c##J	[8ee	]
 12d#L	8eeL]	.
 12c##	.	.
 .	8ffnJ	.
@@ -98,17 +100,19 @@
 8c	[4gg-X	.
 8b-XJ	.	.
 =8	=8	=8
-8fL	4.gg-]	.
-8e	.	.
-8f	.	.
-8eJ	[8gg-X	.
+!	!	!LO:HP:b=2
+8fL	4.gg-]	>
+8e	.	]
+!	!	!LO:HP:b=2
+8f	.	>
+8eJ	[8gg-X	]
 12fL	4gg-]	.
 12e	.	.
 12e-XJ	.	.
 !!LO:LB:g=original
 =9	=9	=9
 *	*^	*
-8dL	4r	[2.ff#X	.
+8dL	4r	[2.ff#X	<
 8En	.	.	.
 8d	4b#X	.	.
 8g#XJ	.	.	.
@@ -164,12 +168,12 @@
 *clefF4	*	*	*
 *	*	*^	*
 [4Cn [4A#X	4e\	6an	12cc#XL	.
-.	.	.	12dd	.
+.	.	.	12dd	>
 .	.	12g#X	12dd#XJ	.
 *	*	*v	*v	*
 *	*v	*v	*
 =15	=15	=15
-.	16qeLL	.
+.	16qeLL	pp
 .	16qg#X	.
 .	16qdd#XJJ	.
 *	*^	*
@@ -198,7 +202,8 @@
 =18	=18	=18
 *	*^	*
 .	8qB#X\	.	.
-12A#L]	8e	6g#]	.
+!	!	!	!LO:DY:b=2
+12A#L]	8e	6g#]	pp
 12E	.	.	.
 .	8r	.	.
 12FF#XJ	.	12f##X	.
@@ -254,7 +259,7 @@
 .	12.b#X	.
 .	24dd#XJk	.
 =22	=22	=22
-16qBBBnLL	16qg#XLL	.
+16qBBBnLL	16qg#XLL	ppp
 16qFF#X	16qb#X	.
 16qE	16qdd#X	.
 16qA#XJJ	16qgg#XJJ	.
@@ -272,6 +277,7 @@
 *-	*-	*-
 !!!system-decoration: {(*)}
 !!!filter: flipper -a
+!!!RDF**dynam: > = dim.
 !!!ENC: Bryan Jacob Bell
 !!!END: November 2021 to April 2022
 !!!PED: Günter Philipp
