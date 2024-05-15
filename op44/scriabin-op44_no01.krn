@@ -53,6 +53,7 @@
 12F	.	.
 .	8En	.
 12DD-XJ	.	.
+!!LO:LB:g=original
 =6	=6	=6
 12fL 12a	[2E	.
 12B	.	.
@@ -98,6 +99,7 @@
 12GL	6D-X	.
 12EE-XJ	.	.
 12r	12Dn	.
+!!LO:LB:g=original
 =12	=12	=12
 12g-XL 12b-X	[2F	.
 12c	.	.
@@ -145,6 +147,7 @@
 12F	.	.
 .	8D#X	.
 12GGJ	.	.
+!!LO:LB:g=original
 =18	=18	=18
 *	*^	*
 12fL 12g	[2D#X	2ryy	.
@@ -185,6 +188,7 @@
 12BL	[4C#X	.
 12F	.	.
 12GGJ	.	.
+!!LO:LB:g=original
 =23	=23	=23
 12fL 12b	8C#]	.
 12B	.	.
@@ -223,8 +227,8 @@
 2CCC] 2CC] 2GG]	2E] 2G] 2c] 2e]	.
 ==	==	==
 *-	*-	*-
-!!!filter: flipper -a
 !!!system-decoration: {(*)}
+!!!filter: flipper -a
 !!!ENC: Bryan Jacob Bell
 !!!END: November 2021 to April 2022
 !!!PED: Lev Oborin and Yakov Milstein
