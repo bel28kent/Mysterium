@@ -56,6 +56,7 @@
 8C#J	.	8ryy	8c#	.
 *v	*v	*	*	*
 *	*v	*v	*
+!!LO:LB:g=original
 =4	=4	=4
 .	8qA#	.
 8FF#L	[4.d#X	.
@@ -98,6 +99,7 @@
 .	.	[16cc#L	.
 .	8f#	16cc#]	.
 .	.	16dd#JJ	.
+!!LO:LB:g=original
 =7	=7	=7	=7
 .	.	16qg#LL	.
 .	.	16qa#JJ	.
@@ -140,6 +142,7 @@
 8cnJ	16aa#LL]	.
 .	16f#JJ	.
 *clefF4	*	*
+!!LO:LB:g=original
 =10	=10	=10
 .	8qd#	.
 8BBL	[4.g#	.
@@ -196,6 +199,7 @@
 .	40%3d#J	.	.
 .	.	16a#JJ	.
 *	*v	*v	*
+!!LO:LB:g=original
 =13	=13	=13
 .	8qB#X	.
 8CC#L	2.aa#	.
@@ -239,6 +243,7 @@
 .	20dd#J	20dd#KL	.
 .	40r	40r	.
 .	40dd#Jkk	40dd#Jkk	.
+!!LO:LB:g=original
 =16	=16	=16	=16
 12A#L	20dd#LL	10.dd#	.
 .	20f##X	.	.
@@ -286,6 +291,7 @@
 .	20cc#J	20cc#KL	.
 .	40r	40r	.
 .	40cc#Jkk	40cc#Jkk	.
+!!LO:LB:g=original
 =18	=18	=18	=18
 12G#L	20cc#LL	10.cc#	.
 .	20e#	.	.
@@ -331,6 +337,7 @@
 .	20c#	.	.
 20G#LL]	20b	20bLL	.
 20F#JJ	20aJJ	20anJJ	.
+!!LO:LB:g=original
 =20	=20	=20	=20
 *^	*	*	*
 6En	4ryy	20g#LL	10.g#	.
@@ -367,6 +374,7 @@
 .	.	[20An	.	.
 .	20ELL]	20A] 20B#	20g#LL]	.
 .	20DnJJ	20f#JJ	20f#JJ	.
+!!LO:LB:g=original
 =22	=22	=22	=22	=22
 4CC# 4GG# 4C#	4ryy	20e#XLL	10.e#	.
 .	.	20c#	.	.
@@ -403,6 +411,7 @@
 12G#	.	.	.
 12f#J	.	.	.
 *	*v	*v	*
+!!LO:LB:g=original
 =25	=25	=25
 *M9/8	*M9/8	*
 *^	*^	*
@@ -440,6 +449,7 @@
 8B	.	8rff	.
 8C#J	8c#	8rff	.
 *	*v	*v	*
+!!LO:LB:g=original
 =28	=28	=28
 .	8qA#	.
 8FF#L	[4.d#	.
@@ -483,6 +493,7 @@
 .	.	[16cc#L	.	.
 8f#J	.	16cc#]	8fff#	.
 .	.	16dd#JJ	.	.
+!!LO:LB:g=original
 =31	=31	=31	=31	=31
 8g#L 8a#	4.ryy	[4.ff#\	[4.ddd#	.
 8Cn	.	.	.	.
@@ -522,6 +533,7 @@
 8cnJ	16aa#LL]	.
 .	16f#JJ	.
 *clefF4	*	*
+!!LO:LB:g=original
 =34	=34	=34
 .	8qd#	.
 8BBL	[4.g#	.
@@ -578,6 +590,7 @@
 8B#J	.	16a#LL]	.
 .	40%3d#J	.	.
 .	.	16a#JJ	.
+!!LO:LB:g=original
 =37	=37	=37	=37
 8CC#L	4.ryy	2.aa#	.
 8GG#	.	.	.
@@ -630,6 +643,7 @@
 .	20gg#J	20gg#KL	.
 .	40r	40r	.
 .	40gg#Jkk	40gg#Jkk	.
+!!LO:LB:g=original
 =40	=40	=40	=40
 12d#L	20gg#LL	10.gg#	.
 .	20b#X	.	.
@@ -677,6 +691,7 @@
 .	20ff#J	20ff#KL	.
 .	40r	40r	.
 .	40ff#Jkk	40ff#Jkk	.
+!!LO:LB:g=original
 =42	=42	=42	=42
 12c#L	20ff#LL	10.ff#	.
 .	20a#	.	.
@@ -722,6 +737,7 @@
 .	20f#	.	.
 20c#LL]	20ee	20eeLL	.
 20BJJ	20ddJJ	20ddnJJ	.
+!!LO:LB:g=original
 =44	=44	=44	=44
 *^	*	*	*
 6An	4ryy	20cc#LL	10.cc#	.
@@ -758,6 +774,7 @@
 .	.	[20dn	.	.
 .	20ALL]	20d] 20e#	20cc#LL]	.
 .	20GnJJ	20bJJ	20bJJ	.
+!!LO:LB:g=original
 =46	=46	=46	=46	=46
 4FF# 4C# 4F#	4ryy	20a#XLL	10.a#	.
 .	.	20f#	.	.
@@ -796,10 +813,10 @@
 2.FF# 2.C# 2.F# 2.c#	2.a# 2.cc# 2.ff# 2.aa#	.
 ==	==	==
 *-	*-	*-
+!!!system-decoration: {(*)}
 !!!filter: flipper -a
 !!!RDF**kern: < = below
 !!!RDF**kern: > = above
-!!!system-decoration: {(*)}
 !!!ENC: Bryan Jacob Bell
 !!!END: November 2021 to April 2022
 !!!PED: Günter Philipp
