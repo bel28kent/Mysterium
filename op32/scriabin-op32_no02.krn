@@ -44,6 +44,7 @@
 12D 12G 12d	.	.
 12DJ 12G 12d	.	.
 .	16f#Jk	.
+!!LO:LB:g=original
 =3	=3	=3
 *	*^	*
 12EEEL 12EE	12rA	12f#L	.
@@ -89,6 +90,7 @@
 12F# 12c 12f#	.	.
 12F#J 12c 12f#	24r	.
 .	24a#	.
+!!LO:LB:g=original
 =6	=6	=6
 *	*^	*
 12AAA-XL 12AA-X	12rA	12b-XL	.
@@ -134,6 +136,7 @@
 12DD- 12D-	.	.	.
 12GGG-J 12GG-	.	12B- 12e	.
 *	*v	*v	*
+!!LO:LB:g=original
 =9	=9	=9
 12GGGnL 12GGn	4B-X 4e-X	.
 12EE-X 12E-X	.	.
@@ -177,6 +180,7 @@
 12BB- 12E 12G#	12d 12g#	12ee	.
 12BBB-J 12BB-	24rc	24ree	.
 .	24dJk 24e	24g#Jk	.
+!!LO:LB:g=original
 =12	=12	=12	=12
 12AAAL 12AA	12rd	2bn	.
 12AA 12E 12Gn	12dL 12gn	.	.
@@ -220,6 +224,7 @@
 .	12D 12A- 12d	.
 24r	12DJ 12A- 12d	.
 24CC 24C	.	.
+!!LO:LB:g=original
 =15	=15	=15
 12CCnL 12Cn	12D 12A-X 12d	.
 12D 12A-X 12d	12r	.
@@ -266,6 +271,7 @@
 24rFF	12F#<J 12A< 12f#<	.	.
 24DD 24D	.	.	.
 *	*v	*v	*
+!!LO:LB:g=original
 =18	=18	=18
 12DDL 12D	12F#< 12A< 12f#<	.
 12F# 12d 12f#	12ra	.
@@ -314,6 +320,7 @@
 12EE-XL 12E-X	12cnL 12f#	12g#XL	.
 12DD 12D	12c 12f#	12an	.
 12DDJ 12D	12cJ 12f#	12a#XJ	.
+!!LO:LB:g=original
 =21	=21	=21	=21
 8qDD 8qD	.	8qcn 8qf# 8qa#X	.
 12GGGnL 12GGn	12rd	12eenL	.
@@ -355,6 +362,7 @@
 12GL 12B 12fn	12gL 12b	6cc#X	.
 12G 12B 12f	12g 12b	.	.
 12GJ 12B 12f	12gJ 12b	12dd	.
+!!LO:LB:g=original
 =24	=24	=24	=24
 12GGGL 12GG	12gL 12b-X	6ffn	.
 12G 12B-X 12d	12g 12b-	.	.
@@ -395,6 +403,7 @@
 12A 12d 12a	12dd	.	.
 12AJ 12d 12a	12ddJ	.	.
 .	.	16f#Jk 16ff#	.
+!!LO:LB:g=original
 =27	=27	=27	=27
 12DDDL 12DD	4ryy	12f#L 12ff#/	.
 12BB	.	12e#X 12ee#X	.
@@ -422,6 +431,7 @@
 12GnL 12c# 12gn	12cc#L	12d#XL 12dd#X	.
 12G 12c# 12g	12cc#	12en 12een	.
 12AAAJ 12AA	12gJ 12cc#	12e#XJ 12ee#X	.
+!!LO:LB:g=original
 =29	=29	=29	=29
 8qAAA 8qAA	.	8qe#X 8qg 8qcc# 8qee#X	.
 12DDDL 12DD/	12ee#L	[4bn [4bbn	.
@@ -456,10 +466,10 @@
 2r	2r	2r	.
 ==	==	==	==
 *-	*-	*-	*-
+!!!system-decoration: {(*)}
 !!!filter: flipper -a
 !!!RDF**kern: < = below
 !!!RDF**kern: > = above
-!!!system-decoration: {(*)}
 !!!ENC: Bryan Jacob Bell
 !!!END: November 2021 to April 2022
 !!!PED: Günter Philipp
