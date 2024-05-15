@@ -683,7 +683,7 @@
 =52	=52	=52
 *	*^	*
 *	*	*^	*
-8BnL	2.d\	12a/L	4raa	.
+8BnL	2.d\	12a/L	4ryy	.
 .	.	12f##X	.	.
 8E	.	.	.	.
 .	.	[12g#J	.	.
@@ -721,13 +721,13 @@
 *M6/8	*M6/8	*
 *^	*	*
 *	*^	*	*
-4.AAn\	24rc	8ryy	4.raa	p
+4.AAn\	24rc	8ryy	4raa	p
 .	24G-X/LL	.	.	.
 .	[24A--JJ	.	.	.
 .	4A--]	24e->LL	.	.
 .	.	24c-X>	.	.
 .	.	24cn>	.	.
-.	.	24e->	.	.
+.	.	24e->	8raa	.
 .	.	24e-->	.	.
 .	.	24d->JJ	.	.
 4.An\	24rf	8ryy	4ff	.
@@ -853,13 +853,13 @@
 !!LO:LB:g=original
 =62	=62	=62	=62
 *	*^	*	*
-4.C#X\	24rc	8ryy	4.raa	.
+4.C#X\	24rc	8ryy	4raa	.
 .	24B-/LL	.	.	.
 .	[24c-XJJ	.	.	.
 .	4c-]	24gn>LL	.	.
 .	.	24e->	.	.
 .	.	24en>	.	.
-.	.	24g>	.	.
+.	.	24g>	8raa	.
 .	.	24g-X>	.	.
 .	.	24f>JJ	.	.
 4.c#X\	8ryy	24r>e	4aan	.
@@ -984,13 +984,13 @@
 !!LO:LB:g=original
 =68	=68	=68	=68
 *	*^	*	*
-4.EE#X\	8ryy	24rA	4.rcc	p
+4.EE#X\	8ryy	24rA	4rcc	p
 .	.	24Dn/LL	.	.
 .	.	[24E-X	.	.
 .	4E-]	24Bn	.	.
 .	.	24F##X	.	.
 .	.	24G#X	.	.
-.	.	24B	.	.
+.	.	24B	8rcc	.
 .	.	24B-X	.	.
 .	.	24AnJJ	.	.
 4.E#X\	8ryy	24re	4cc#X	.
@@ -1034,7 +1034,7 @@
 .	.	24c#	.	.
 .	.	24cn	.	.
 .	.	24BnJJ	.	.
-4.F##X\	8re	24rc	4ddn	.
+4.F##X\	8ryy	24re	4ddn	.
 .	.	24A#/LL	.	.
 .	.	[24B	.	.
 .	4B]	24f#X>	.	.
