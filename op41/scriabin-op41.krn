@@ -809,9 +809,8 @@
 *	*	*v	*v	*	*
 !!LO:LB:g=original
 =60	=60	=60	=60	=60
-8DD- 8AA- 8F	8ryy	24ryy	16d- 16a- 16dd-	.
-.	.	24c>/LL	.	.
-.	.	.	16ryy	.
+8DD- 8AA- 8F	8ryy	24ryy	24d- 24a- 24dd-	.
+.	.	24c>/LL	12ryy	.
 .	.	[24d->/JJ	.	.
 8DD-L 8D-	4A-> 4d->]	24g->/LL	4ryy	<
 .	.	24e->/	.	.
@@ -941,9 +940,8 @@
 *	*	*v	*v	*	*
 !!LO:LB:g=original
 =66	=66	=66	=66	=66
-8FF 8C 8An	24ryy	8ryy	16f 16cc 16ff\	.
-.	24en>/LL	.	.	p
-.	.	.	16ryy	.
+8FF 8C 8An	24ryy	8ryy	24f 24cc 24ff\	.
+.	24en>/LL	.	12ryy	p
 .	[24f>/JJ	.	.	.
 8FFL 8F	4c> 4f>]	24b->/LL	4ryy	<
 .	.	24gn>/	.	.
