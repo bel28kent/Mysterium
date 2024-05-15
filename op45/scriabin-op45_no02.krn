@@ -47,6 +47,7 @@
 .	12d#X	.	.
 8AA-XJ	.	.	.
 .	[12eJ	.	.
+!!LO:LB:g=original
 =4	=4	=4	=4
 8CL 8F#X 8c	4e] 4a#X	12ff#XL	.
 .	.	12a#	.
@@ -84,6 +85,7 @@
 .	.	12b-X	.
 4rC	.	6a	.
 .	.	12b-	.
+!!LO:LB:g=original
 =8	=8	=8	=8
 12dnL	2d	4g-X 4b-X [4gg-X	.
 12B-X	.	.	.
@@ -122,6 +124,7 @@
 .	12a-X	.	.
 4B 4f	6g	.	.
 .	12a-	.	.
+!!LO:LB:g=original
 =12	=12	=12	=12
 *	*	*^	*
 16anLL	2a	6ee 6eee	4ff 4bb	.
@@ -168,8 +171,8 @@
 2.r	2.r	.
 ==	==	==
 *-	*-	*-
-!!!filter: flipper -a
 !!!system-decoration: {(*)}
+!!!filter: flipper -a
 !!!ENC: Bryan Jacob Bell
 !!!END: November 2021 to April 2022
 !!!PED: Günter Philipp
