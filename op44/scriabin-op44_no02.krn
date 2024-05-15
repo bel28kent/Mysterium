@@ -45,6 +45,7 @@
 8CCC 8CC	8E	8CL 8c	.
 [4GGG [4GG	[4F [4B	8D-X 8d-X	.
 .	.	8DnJ 8dn	.
+!!LO:LB:g=original
 =6	=6	=6	=6
 8GGG] 8GG]	8F] 8B]	8E-XL 8e-X	.
 4DDD-X 4DD-X	4B	8En 8en	.
@@ -66,6 +67,7 @@
 4.CCC] 4.CC]	4.e 4.g	8BL 8b	.
 .	.	8d-X 8dd-X	.
 .	.	8cJ 8cc	.
+!!LO:LB:g=original
 =11	=11	=11	=11
 16GGLL 16G	8re	16ree	.
 16CCJJ 16C	.	16c	.
@@ -95,6 +97,7 @@
 8EEE 8EE	8G#X	8EL 8e	.
 [4BBB [4BB	[4A [4d#X	8F 8f	.
 .	.	8F#XJ 8f#X	.
+!!LO:LB:g=original
 =16	=16	=16	=16
 8BBB] 8BB]	8A] 8d#]	8GL 8g	.
 4FFF 4FF	4d#X	8G#X 8g#X	.
@@ -119,6 +122,7 @@
 .	.	8AA#X 8A#X	.
 .	8ryy	.	.
 .	.	16BB 16B	.
+!!LO:LB:g=original
 =21	=21	=21	=21
 16AAA#XLL 16AA#X	4G#X	8.DL 8.d	.
 16EEEJJ 16EE	.	.	.
@@ -147,6 +151,7 @@
 .	24c#	.
 .	24GJJ 24c#	.
 .	8C#	.
+!!LO:LB:g=original
 =25	=25	=25
 *	*^	*
 16BBB#XLL 16BB#X	4A#X	8.EL 8.e	.
@@ -177,6 +182,7 @@
 .	24AJJ 24d#	.
 .	8D#	.
 *	*clefG2	*
+!!LO:LB:g=original
 =29	=29	=29
 *	*^	*
 16DDnLL 16Dn	4c	8.G-XL 8.g-X	.
@@ -202,6 +208,7 @@
 16AAA-XJJ 16AA-X	.	.	.
 8r	.	8Gn 8gn	.
 8r	.	8A-XJ 8a-X	.
+!!LO:LB:g=original
 =33	=33	=33	=33
 16AAA-XLL 16AA-X	4c	8fL 8ff	.
 16DDD-XJJ 16DD-X	.	.	.
@@ -224,6 +231,7 @@
 8r	4e	8.d-X 8.dd-X	.
 8r	.	.	.
 .	.	16c 16cc	.
+!!LO:LB:g=original
 =38	=38	=38	=38
 16GG-XLL 16G-X	8.e-X	4B-X 4b-X	.
 16CCJJ 16C	.	.	.
@@ -252,6 +260,7 @@
 8GGG] 8GG]	8F] 8B]	8E-XL 8e-X	.
 4DDD-X 4DD-X	4B	8En 8en	.
 .	.	8FJ 8f	.
+!!LO:LB:g=original
 =43	=43	=43	=43
 4.CCC 4.CC	4.c 4.e	8F#XL 8f#X	.
 .	.	8A-X 8a-X	.
@@ -272,8 +281,8 @@
 4.CC 4.GG 4.E	4.G 4.c 4.e 4.cc	.
 ==	==	==
 *-	*-	*-
-!!!filter: flipper -a
 !!!system-decoration: {(*)}
+!!!filter: flipper -a
 !!!ENC: Bryan Jacob Bell
 !!!END: November 2021 to April 2022
 !!!PED: Lev Oborin and Yakov Milstein
