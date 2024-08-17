@@ -45,6 +45,7 @@
 16.E 16.A#	16.e	32a#	.
 .	.	32g#	.
 .	.	32f##JJJ	.
+!!LO:LB:g=original
 =3	=3	=3	=3
 16FF#	8rd	[8dd#L	.
 16r	.	.	.
@@ -82,6 +83,7 @@
 16.BB 16.An	16.c#	32b	.
 .	.	32a	.
 .	.	32g#JJJ	.
+!!LO:LB:g=original
 =6	=6	=6	=6
 16EE	8rf	[8eeL	.
 16r	.	.	.
@@ -119,6 +121,7 @@
 .	32cnLLL	.	.	.
 .	32B-X	.	.	.
 .	32AnJJJ	.	.	.
+!!LO:LB:g=original
 =9	=9	=9	=9	=9
 4rAA	[8fnL	8d-L]	8gL]	.
 .	32fLL]	[8gnJ	[8anJ	.
@@ -158,6 +161,7 @@
 16Cn 16B-X 16e	32ccn	.
 .	32b-X	.
 32r	32anJJJ	.
+!!LO:LB:g=original
 =12	=12	=12
 *^	*^	*
 4rC	4ryy	[8ddnL	4ryy	.
@@ -197,6 +201,7 @@
 .	32aa	.	.
 32r	32gg#JJJ	.	.
 *	*v	*v	*
+!!LO:LB:g=original
 =15	=15	=15
 8r	[8eeeL	.
 32r	32eeeLL]	.
@@ -236,6 +241,7 @@
 .	32gJJJ	.	.	.
 *	*	*v	*v	*
 *clefG2	*clefG2	*	*
+!!LO:LB:g=original
 =18	=18	=18	=18
 8rc	8ee-X	8ee-XL 8ccc-X 8eee-X	.
 8Gn 8fn	32rff	8eenJ 8bbn 8eeen	.
@@ -273,6 +279,7 @@
 .	16ra	.	.
 .	8ra	.	.
 *	*v	*v	*
+!!LO:LB:g=original
 =21	=21	=21
 8r	8r	.
 32r	32r	.
@@ -322,6 +329,7 @@
 16.E	16.Bn	32f#	.
 .	.	32e	.
 .	.	32d#JJJ	.
+!!LO:LB:g=original
 =25	=25	=25	=25
 16FF#	8rc	[8bL	.
 16r	.	.	.
@@ -373,6 +381,7 @@
 16.BB 16.An	16.c#	32b	.
 .	.	32a	.
 .	.	32g#JJJ	.
+!!LO:LB:g=original
 =29	=29	=29	=29
 16EE	8re	[8eeL	.
 16r	.	.	.
