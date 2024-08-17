@@ -15,7 +15,7 @@
 *B:	*B:	*
 *M2/4	*M2/4	*
 *	*^	*
-32r	32ra	32ra	.
+32r	32ra	32ra	pp
 16.E	16.A#	32d#LLL	.
 .	.	32c#	.
 .	.	32B#XJJJ	.
@@ -217,7 +217,7 @@
 .	.	32ccn	.
 .	.	32bJJJ	.
 8rC	8ryy	8e	.
-8GGn 8Fn 8B	32ra	[8ffn [8bb [8fffn	.
+8GGn 8Fn 8B	32ra	[8ffn [8bb [8fffn	f
 .	32eLLL	.	.
 .	32dn	.	.
 .	32c#XJJJ	.	.
@@ -276,13 +276,13 @@
 =21	=21	=21
 8r	8r	.
 32r	32r	.
-16cn 16a#	32ff#LLL	.
+16cn 16a#	32ff#LLL	pp
 .	32ee	.
 32r	32dd#JJJ	.
 8r	16g#	.
 .	16r	.
 32r	32r	.
-16f# 16ee	32aa#LLL 32ddd#	.
+16f# 16ee	32aa#LLL 32ddd#	pp
 .	32ccc#X	.
 32r	32bb#XJJJ	.
 =22	=22	=22
@@ -306,7 +306,7 @@
 32r	.	32dd#JJJ	.
 8r	8ryy	8g#	.
 32r	32ryy	32ra	.
-16.E	16.A#	32d#LLL	.
+16.E	16.A#	32d#LLL	pp
 .	.	32c#X	.
 .	.	32B#XJJJ	.
 =24	=24	=24	=24
