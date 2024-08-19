@@ -52,6 +52,7 @@
 .	56ccc-X	.
 .	56eee--	.
 .	56bbb-XJJJ	.
+!!LO:LB:g=original
 =4	=4	=4
 [4.d-X	4r	.
 .	8r	.
@@ -100,6 +101,7 @@
 .	56ccc-X	.
 .	56eee-X	.
 .	56bbb-XJJJ	.
+!!LO:LB:g=original
 =8	=8	=8
 [4.d-X	2.r	.
 4d-]	.	.
@@ -200,6 +202,7 @@
 8r	24bb--	.
 .	24ddd-	.
 .	24fffJJ	.
+!!LO:LB:g=original
 =14	=14	=14
 8D-X 8c-X 8f	8eee-X	.
 8r	24ee-XLL	.
@@ -251,6 +254,7 @@
 8r	24bb--	.
 .	24ddd-	.
 .	24fffJJ	.
+!!LO:LB:g=original
 =18	=18	=18
 8D-X 8c-X 8f	8eee-X	.
 8r	24ee-XLL	.
@@ -301,6 +305,7 @@
 .	56aaa-X	.
 .	56eeeeJJJ	.
 *	*X8va	*
+!!LO:LB:g=original
 =22	=22	=22
 [4.g	4r	.
 .	8r	.
@@ -352,6 +357,7 @@
 .	56ff	.
 .	56aa-X	.
 .	56eeeJJJ	.
+!!LO:LB:g=original
 =26	=26	=26
 [4.G	2.r	.
 4G]	.	.
@@ -451,6 +457,7 @@
 8r	24ee-	.
 .	24gg	.
 .	24bbJJ	.
+!!LO:LB:g=original
 =32	=32	=32
 8GG 8F 8B	8aa	.
 8r	24aLL	.
@@ -503,6 +510,7 @@
 8r	24ee-	.
 .	24gg	.
 .	24bbJJ	.
+!!LO:LB:g=original
 =36	=36	=36
 8GG 8F 8B	8aa	.
 8r	24aLL	.
@@ -551,6 +559,7 @@
 .	56ff	.
 .	56aa-X	.
 .	56eeeJJJ	.
+!!LO:LB:g=original
 =40	=40	=40
 [4.d-X	4r	.
 .	8r	.
