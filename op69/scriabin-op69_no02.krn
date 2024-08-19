@@ -335,17 +335,21 @@
 .	.	16bbJk 16bbb	.
 *	*v	*v	*
 =24	=24	=24
-4r	[4.aa [4.aaa	.
-8r	.	.
-4r	8aa] 8aaa]	.
-.	8r	.
-8d-X	56r	.
-.	56fLLL	<
-.	56g	(
-.	56b-X	(
-.	56cc-X	(
-.	56ee--	(
-.	56bb-XJJJ	[
+*	*	*^
+4r	[4.aa [4.aaa	.	.
+8r	.	.	.
+4r	8aa] 8aaa]	.	.
+.	8r	.	.
+8d-X	56r	.	.
+!	!	!	!LO:HP:b=1
+.	56fLLL	.	<
+.	56g	.	(
+.	56b-X	.	(
+!	!	!LO:HP:a=2	!
+.	56cc-X	<	(
+.	56ee--	.	(
+.	56bb-XJJJ	.	[
+*	*	*v	*v
 =25	=25	=25
 [4.G	4r	.
 .	8r	.
@@ -551,16 +555,19 @@
 .	56aa-X	(
 .	56eeeJJJ	[
 =39	=39	=39
-[4.d-X	4r	.
-.	8r	.
-4d-]	4r	.
-8g	56r	.
-.	56bLLL	<
-.	56cc#X	(
-.	56ee	(
-.	56ff	(
-.	56aa-X	(
-.	56eeeJJJ	[
+*	*	*^
+[4.d-X	4r	.	.
+.	8r	.	.
+4d-]	4r	.	.
+8g	56r	.	.
+!	!	!LO:HP:a=2	!LO:HP:b=1
+.	56bLLL	<	<
+.	56cc#X	.	(
+.	56ee	.	(
+.	56ff	.	(
+.	56aa-X	.	(
+.	56eeeJJJ	.	[
+*	*	*v	*v
 !!LO:LB:g=original
 =40	=40	=40
 [4.d-X	4r	.
