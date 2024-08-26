@@ -642,15 +642,18 @@
 .	6e- 6a	12gg-XL	.
 16FJJ 16f	.	.	.
 .	.	12ffJ	.
-16BBB-z 16BB-z	.	.	.
+! rinforzando	!	!	!LO:DY:b=2
+16BBB- 16BB-	.	.	sf
 *	*v	*v	*
 *kcancel	*kcancel	*
 !!LO:LB:g=original
 =48	=48	=48
 *k[b-e-a-d-g-]	*k[b-e-a-d-g-]	*
 *^	*^	*^
-!	!	!	!	!LO:DY:c=1	!LO:DY:a=1
-4FFz 4Fz	16FLL	12d-L	4b-	f	ff
+*	*	*	*	*	*^
+! rinforzando	!	!	!	!LO:DY:b=2	!LO:DY:c=1	!LO:DY:a=1
+4FF 4F	16FLL	12d-L	4b-	sf	f	ff
+*	*	*	*	*	*v	*v
 *	*	*	*	*v	*v
 !	!	!	!	!LO:DY:b=2
 .	16F 16B- 16f	.	.	p
@@ -663,8 +666,10 @@
 .	.	12b-	12dd-	.
 .	16F 16B- 16f	.	.	.
 .	.	12fJ 12b-	12ffJ	.
-16BBB-z 16BB-z	16BB-JJ	.	.	.
-4EE-z 4E-z	16E-LL	12g-L 12dd-	4raa	.
+! rinforzando	!	!	!	!LO:DY:b=2
+16BBB- 16BB-	16BB-JJ	.	.	sf
+! rinforzando	!	!	!	!LO:DY:b=2
+4EE- 4E-	16E-LL	12g-L 12dd-	4raa	sf
 .	16G- 16d- 16g-	.	.	.
 .	.	12b- 12dd-	.	.
 .	16G- 16d- 16g-	.	.	.
@@ -675,9 +680,11 @@
 .	.	12b- 12dd-	.	.
 .	16G- 16d- 16g-	.	.	.
 .	.	12b-J 12dd-	12gg-	.
-16BBB-z 16BB-z	16BB-JJ	.	.	.
+! rinforzando	!	!	!	!LO:DY:b=2
+16BBB- 16BB-	16BB-JJ	.	.	sf
 =49	=49	=49	=49	=49
-4FFz 4Fz	16FLL	12ryy	12r	.
+! rinforzando	!	!	!	!LO:DY:b=2
+4FF 4F	16FLL	12ryy	12r	sf
 .	16F 16B- 16f	.	.	.
 .	.	12b-L	12dd-L	.
 .	16F 16B- 16f	.	.	.
@@ -688,8 +695,10 @@
 .	.	12b- 12dd-	12bb-	.
 .	16F 16B- 16f	.	.	.
 .	.	12b-J 12dd-	12gg-J	.
-16BBB-z 16BB-z	16BB-JJ	.	.	.
-4GG-z 4G-z	16G-LL	12b-L	12ffL	.
+! rinforzando	!	!	!	!LO:DY:b=2
+16BBB- 16BB-	16BB-JJ	.	.	sf
+! rinforzando	!	!	!	!LO:DY:b=2
+4GG- 4G-	16G-LL	12b-L	12ffL	sf
 .	16E- 16B- 16e-	.	.	.
 .	.	12b-	12ee-	.
 .	16E- 16B- 16e-	.	.	.
@@ -700,10 +709,12 @@
 .	.	12g-	12b-	.
 .	16E- 16B- 16e-	.	.	.
 .	.	12e-J 12g-	12ccJ	.
-16BBB-z 16BB-z	16BB-JJ	.	.	.
+! rinforzando	!	!	!	!LO:DY:b=2
+16BBB- 16BB-	16BB-JJ	.	.	sf
 !!LO:LB:g=original
 =50	=50	=50	=50	=50
-4GGnz 4Gnz	16GnLL	12d-L	12fL	.
+! rinforzando	!	!	!	!LO:DY:b=2
+4GGn 4Gn	16GnLL	12d-L	12fL	sf
 !	!	!	!	!LO:DY:b=2
 .	16F 16B- 16f	.	.	p
 .	.	12d-	12gn	.
@@ -715,8 +726,10 @@
 .	.	12d- 12b-	.	.
 .	16F 16B- 16f	.	.	.
 .	.	12d-J 12b-	.	.
-16BBB-z 16BB-z	16BB-JJ	.	.	.
-4GG-Xz 4G-Xz	16G-XLL	12e-L 12an	.	.
+! rinforzando	!	!	!	!LO:DY:b=2
+16BBB- 16BB-	16BB-JJ	.	.	sf
+! rinforzando	!	!	!	!LO:DY:b=2
+4GG-X 4G-X	16G-XLL	12e-L 12an	.	sf
 .	16E- 16An 16e-	.	.	.
 .	.	12g-X 12a	.	.
 .	16E- 16A 16e-	.	.	.
@@ -727,9 +740,11 @@
 .	.	12e- 12a	.	.
 .	16G- 16A 16g-	.	.	.
 .	.	12e-J 12a	.	.
-16BBB-z 16BB-z	16BB-JJ	.	.	.
+! rinforzando	!	!	!	!LO:DY:b=2
+16BBB- 16BB-	16BB-JJ	.	.	sf
 =51	=51	=51	=51	=51
-4FFz 4Fz	16FLL	12dnL 12a-X	4b-	.
+! rinforzando	!	!	!	!LO:DY:b=2
+4FF 4F	16FLL	12dnL 12a-X	4b-	sf
 .	16F 16B- 16f	.	.	.
 .	.	12d 12a-	.	.
 .	16F 16B- 16f	.	.	.
@@ -740,8 +755,10 @@
 .	.	12f 12b-	12ddn	.
 .	16A- 16d 16a-	.	.	.
 .	.	12fJ 12b-	12ffJ	.
-16BBB-z 16BB-z	16BB-JJ	.	.	.
-4BB-z 4B-z	16B-LL	12fL 12dd	4raa	.
+! rinforzando	!	!	!	!LO:DY:b=2
+16BBB- 16BB-	16BB-JJ	.	.	sf
+! rinforzando	!	!	!	!LO:DY:b=2
+4BB- 4B-	16B-LL	12fL 12dd	4raa	sf
 .	16A- 16B- 16d 16a-	.	.	.
 .	.	12b- 12dd	.	.
 .	16A- 16B- 16d 16a-	.	.	.
@@ -752,10 +769,12 @@
 .	.	12b- 12dd	.	.
 .	16A- 16B- 16d 16a-	.	.	.
 .	.	12b-J 12dd	12gg-	.
-16EEE-z 16EE-z	16EE-JJ	.	.	.
+! rinforzando	!	!	!	!LO:DY:b=2
+16EEE- 16EE-	16EE-JJ	.	.	sf
 !!LO:LB:g=original
 =52	=52	=52	=52	=52
-4BB-z 4B-z	16B-LL	12ryy	12r	.
+! rinforzando	!	!	!	!LO:DY:b=2
+4BB- 4B-	16B-LL	12ryy	12r	sf
 .	16A- 16B- 16f 16a-	.	.	.
 .	.	12b-L	12ddnL	.
 .	16A- 16B- 16f 16a-	.	.	.
@@ -766,22 +785,24 @@
 .	.	12dd 12ff	12ccc-X	.
 .	16A- 16B- 16d 16a-	.	.	.
 .	.	12ddJ 12ff	12bb-J	.
-16EEE-z 16EE-z	16EE-JJ	.	.	.
-4ryy	16BB-zLL 16B-z	12b-L 12ff	12aa-L	.
-.	16G- 16e- 16g-	.	.	.
-.	.	12b- 12ee-	12gg-	.
-.	16G- 16e- 16g-	.	.	.
-.	.	12b-J 12ee-	12ffJ	.
-.	16BB-JJ 16B-	.	.	.
-4ryy	16G-LL 16e- 16g-	12b-L 12ee-	12gg-L	.
-.	16E- 16B- 16c	.	.	.
-.	.	12e- 12g-	12b-	.
-.	16E- 16B- 16c	.	.	.
-.	.	24e-Jk 24g-	24ccnJk	.
-.	32E-JJk 32B- 32c	.	.	.
-.	.	24ryy	24r	.
-.	32rc	.	.	.
+! rinforzando	!	!	!	!LO:DY:b=2
+16EEE- 16EE-	16EE-JJ	.	.	sf
 *v	*v	*	*	*
+! rinforzando	!	!	!LO:DY:b=2
+16BB-LL 16B-	12b-L 12ff	12aa-L	sf
+16G- 16e- 16g-	.	.	.
+.	12b- 12ee-	12gg-	.
+16G- 16e- 16g-	.	.	.
+.	12b-J 12ee-	12ffJ	.
+16BB-JJ 16B-	.	.	.
+16G-LL 16e- 16g-	12b-L 12ee-	12gg-L	.
+16E- 16B- 16c	.	.	.
+.	12e- 12g-	12b-	.
+16E- 16B- 16c	.	.	.
+.	24e-Jk 24g-	24ccnJk	.
+32E-JJk 32B- 32c	.	.	.
+.	24ryy	24r	.
+32rc	.	.	.
 =53	=53	=53	=53
 12FFL 12F	12fL	12fL	<
 12D- 12Gn 12d-	12f	12gn	(

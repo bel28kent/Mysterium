@@ -716,8 +716,10 @@
 16c-X	16dn 16g-	.
 16D-X	16e-X 16gn	.
 *^	*	*
-16A-zLL	16AA-	16en 16a-	.
-16DD-zJJ	16DDD-JJ	16fJJ 16dd-X	.
+! rinforzando	!	!	!LO:DY:b=2
+16A-LL	16AA-	16en 16a-	sf
+! rinforzando	!	!	!LO:DY:b=2
+16DD-JJ	16DDD-JJ	16fJJ 16dd-X	sf
 *v	*v	*	*
 =90	=90	=90
 16d-LL	16fLL 16an/	.
@@ -725,8 +727,10 @@
 16d-	16gn 16cc-X	.
 16G-X	16a-X 16ccn	.
 *^	*	*
-16G-zLL	16GG-	16an 16dd-	.
-16DD-zJJ	16DDD-JJ	16b-JJ 16gg-X	.
+! rinforzando	!	!	!LO:DY:b=2
+16G-LL	16GG-	16an 16dd-	sf
+! rinforzando	!	!	!LO:DY:b=2
+16DD-JJ	16DDD-JJ	16b-JJ 16gg-X	sf
 *v	*v	*	*
 =91	=91	=91
 16e-LL	16gnLL 16bn/	.
@@ -734,8 +738,10 @@
 16g-X	16an 16dd-	.
 16A-X	16b-X 16ddn	.
 *^	*	*
-16A-zLL	16AA-	16bn 16ee-	.
-16DD-zJJ	16DDD-JJ	16ccJJ 16aa-X	.
+! rinforzando	!	!	!LO:DY:b=2
+16A-LL	16AA-	16bn 16ee-	sf
+! rinforzando	!	!	!LO:DY:b=2
+16DD-JJ	16DDD-JJ	16ccJJ 16aa-X	sf
 *v	*v	*	*
 =92	=92	=92
 16r	16gg-LL 16bb-	.

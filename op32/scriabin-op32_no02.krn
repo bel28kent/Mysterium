@@ -214,19 +214,23 @@
 12Cn 12F#	12A-XL 12d	ff
 12r	12D 12A- 12d	.
 12r	12DJ 12A- 12d	.
-2CCnz 2Cz	12DL 12A- 12d	.
+! rinforzando	!	!LO:DY:b=2
+2CCn 2C	12DL 12A- 12d	sf
 .	12D 12A- 12d	.
 .	12DJ 12A- 12d	.
 .	12DL 12A- 12d	.
 .	12D 12A- 12d	.
 .	12DJ 12A- 12d	.
-6CCz 6Cz	12DL 12A- 12d	.
+! rinforzando	!	!LO:DY:b=2
+6CC 6C	12DL 12A- 12d	sf
 .	12D 12A- 12d	.
 24r	12DJ 12A- 12d	.
-24CCz 24Cz	.	.
+! rinforzando	!	!LO:DY:b=2
+24CC 24C	.	sf
 !!LO:LB:g=original
 =15	=15	=15
-12CCnzL 12Cnz	12D 12A-X 12d	.
+! rinforzando	!	!LO:DY:b=2
+12CCnL 12Cn	12D 12A-X 12d	sf
 12D 12A-X 12d	12r	f
 12DJ 12A- 12d	12r	.
 *	*clefG2	*
