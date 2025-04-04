@@ -1,10 +1,10 @@
-#!/usr/bin/env perl5.40.1
+#!/usr/bin/env perl
 
 # Programmer:  Bryan Jacob Bell
 # Created:     Tue Apr  1 11:59:59 PDT 2025
-# Modified:    Tue Apr  1 11:59:59 PDT 2025
+# Modified:    Fri Apr  4 10:31:29 PDT 2025
 # File:        getFilesWithGenre.pl
-# Syntax:      Perl 5.40
+# Syntax:      Perl 5
 # Description: Prints a list of files that match genres
 
 use strict;
