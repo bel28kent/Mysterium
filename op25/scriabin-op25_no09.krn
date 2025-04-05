@@ -46,6 +46,7 @@
 4F 4dn	4.ccc-	.
 4G- 4e-	.	.
 .	8ccc-	.
+!!LO:LB:g=original
 =6	=6	=6
 *^	*	*
 2A-	4f-X	8ccc-L	.
@@ -87,6 +88,7 @@
 .	.	8en	.
 .	.	8g-	.
 .	.	8fJ	.
+!!LO:LB:g=original
 =12	=12	=12	=12
 4D]	2c-	8a-L	.
 .	.	16r	.
@@ -125,6 +127,7 @@
 8e-L	4r	4cc-	.
 8fnJ	.	.	.
 *v	*v	*	*
+!!LO:LB:g=original
 =17	=17	=17
 *	*^	*
 2g-	2.b-	8r	.
@@ -160,6 +163,7 @@
 8e-	.	8ccnJ	.
 8dnL	4b-	[4ee-	.
 8cnJ	.	.	.
+!!LO:LB:g=original
 =22	=22	=22	=22
 2f	2an	8ee-L]	.
 .	.	8bn	.
@@ -201,6 +205,7 @@
 .	.	8en	.
 .	.	8g-	.
 .	.	8fnJ	.
+!!LO:LB:g=original
 =28	=28	=28	=28
 4D]	2c-	8a-L	.
 .	.	16r	.
@@ -239,6 +244,7 @@
 .	.	8een	.
 4A-	4ccn	8ggn	.
 .	.	8ffJ	.
+!!LO:LB:g=original
 =33	=33	=33	=33
 2An	4ccn	8ffL	.
 .	.	8gg-XJ	.
@@ -277,6 +283,7 @@
 .	16r	.
 .	16dnJk	.
 4r	[4g-	.
+!!LO:LB:g=original
 =38	=38	=38
 4EE-	8g-L]	.
 .	8f	.
@@ -317,6 +324,7 @@
 4GG-	.	4B-	8dn	.
 .	8Cn	.	8e-J	.
 *	*v	*v	*	*
+!!LO:LB:g=original
 =43	=43	=43	=43
 2.FF	4r	8enL	.
 .	.	8fJ	.
@@ -354,6 +362,7 @@
 .	.	.	8c-J	.
 *	*v	*v	*	*
 *v	*v	*	*
+!!LO:LB:g=original
 =48	=48	=48
 4EE-	8B-L	.
 .	8dn	.
@@ -390,6 +399,7 @@
 4EE-- 4E--	.	8gn	.
 .	.	8a-J	.
 4DD- 4D-	.	4r	.
+!!LO:LB:g=original
 =53	=53	=53	=53
 4GGG- 4GG-	4r	4r	.
 4GGGn 4GGn	[2c-	[2f	.
@@ -425,6 +435,7 @@
 4GGG- 4GG-	4r	4r	.
 4GGGn 4GGn	[2c-	[2f	.
 4AAA- 4AA-	.	.	.
+!!LO:LB:g=original
 =60	=60	=60	=60
 4DD- 4D-	4c-]	4f]	.
 4CCn 4Cn	2A- 2f	4.ee-	.
@@ -462,6 +473,7 @@
 2.BB-	4F	2.d-	2.a-	.
 .	4En	.	.	.
 .	4F	.	.	.
+!!LO:LB:g=original
 =68	=68	=68	=68	=68
 2.BB-	4B-	2.d-	4g-	.
 .	4G-	.	4.dd-	.
@@ -496,6 +508,7 @@
 2BBB- 2BB-	2A- 2f	4ee-	.
 .	.	4dd-	.
 4BBB- 4BB-	4A- 4d-	4f	.
+!!LO:LB:g=original
 =76	=76	=76	=76
 *	*	*^	*
 4BBB- 4BB-	4F	2.d-	4a-	.
@@ -535,6 +548,7 @@
 .	16B-	.	.
 4GG- 4G-	2cn	.	.
 4FF 4F	.	.	.
+!!LO:LB:g=original
 =84	=84	=84	=84
 4r	8.r	2.b-	.
 .	16cn	.	.
@@ -575,6 +589,7 @@
 8D-X 8d-X	4e-	4an	.
 8C-J 8c-	.	.	.
 *	*v	*v	*
+!!LO:LB:g=original
 =90	=90	=90
 *^	*	*
 4BB- 4B-	8r	4dn 4b-	.
@@ -614,6 +629,7 @@
 4F 4dn	4.ccc-	.
 4G- 4e-	.	.
 .	8ccc-	.
+!!LO:LB:g=original
 =96	=96	=96
 *^	*	*
 2A-	4f-X	8ccc-L	.
@@ -660,6 +676,7 @@
 .	.	8ddn	.
 4B-	.	8gg-	.
 .	.	8ffJ	.
+!!LO:LB:g=original
 =102	=102	=102	=102
 [2e-	4cc-	8aa-L	.
 .	.	8ff	.
@@ -700,6 +717,7 @@
 .	.	8e-	.
 4r	4r	8dd-X	.
 .	.	8cc-J	.
+!!LO:LB:g=original
 =107	=107	=107	=107
 2EE-	4r	8r	.
 .	.	8b-	.
@@ -742,6 +760,7 @@
 .	8cn	.
 4r	8dn	.
 .	8e-J	.
+!!LO:LB:g=original
 =113	=113	=113
 *^	*	*
 *	*^	*	*
