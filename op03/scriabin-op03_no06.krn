@@ -136,7 +136,7 @@
 4e 4cc#	4aa 4ccc#	.
 =20	=20	=20
 *	*^	*
-!	!	!	!DY:a:1
+!	!	!	!LO:DY:a:1
 4E	4r	2.eee	sf
 4e 4b	4gg# 4bb	.	.
 4e 4b	4gg# 4bb	.	.
@@ -157,7 +157,7 @@
 !!LO:LB:g=original
 =24	=24	=24
 *	*^	*
-!	!	!	!DY:a:1
+!	!	!	!LO:DY:a:1
 4A	4r	2.aa	sf
 4e 4cc#	4ee	.	.
 4e 4cc#	4ee	.	.
@@ -407,7 +407,7 @@
 4d#	4r	.
 =71	=71	=71
 2c#	4r	<
-.	4f##X 4a# 4ee	.
+.	4f##X 4a# 4ee\	.
 4B	4r	.
 =72	=72	=72
 2A#	4r	.
