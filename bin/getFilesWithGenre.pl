@@ -10,6 +10,7 @@
 use strict;
 use warnings;
 use feature 'signatures';
+no warnings 'experimental::signatures';
 
 chomp (my @dirs = `find . -type d -and -name 'op*' -print`);
 map { directoryHandler ($_) } sort (@dirs);
