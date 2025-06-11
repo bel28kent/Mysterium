@@ -11,13 +11,14 @@
 
 use strict;
 use warnings;
-require './bin/OpusEncodingDocumentation.pl';
+use lib 'bin/';
+use OpusEncodingDocumentation;
 
 my $vhv = "verovio.humdrum.org/?file=github:bel28kent/Mysterium/";
 
 foreach my $arg (@ARGV) {
   $arg =~ /(op\d+)/;
-  my $encodingStatus = OpusEncodingDocumentation::getOpusEncodingDocumentation($1);
+  my $encodingStatus = $OpusEncodingDocumentation{$1};
   if (!($encodingStatus eq "exists")) {
     print "$arg: $encodingStatus\n";
     next;

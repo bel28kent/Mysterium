@@ -9,7 +9,8 @@
 
 use strict;
 use warnings;
-require './bin/OpusEncodingDocumentation.pl';
+use lib 'bin/';
+use OpusEncodingDocumentation;
 
 my $blob = "https://github.com/bel28kent/Mysterium/blob/main/reference_editions/";
 
@@ -18,7 +19,7 @@ foreach my $arg (@ARGV) {
     print "Invalid Filename: $arg\n";
     next;
   }
-  my $encodingStatus = OpusEncodingDocumentation::getOpusEncodingDocumentation($arg);
+  my $encodingStatus = $OpusEncodingDocumentation{$arg};
   if (!($encodingStatus eq "exists")) {
     print "$arg: $encodingStatus\n";
     next;

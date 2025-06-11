@@ -11,13 +11,14 @@
 
 use strict;
 use warnings;
-require './bin/OpusEncodingDocumentation.pl';
+use lib 'bin/';
+use OpusEncodingDocumentation;
 
 my $blob = "github.com/bel28kent/Mysterium/blob/main/";
 
 foreach my $arg (@ARGV) {
   $arg =~ /(op\d+)/;
-  my $encodingStatus = OpusEncodingDocumentation::getOpusEncodingDocumentation($1);
+  my $encodingStatus = $OpusEncodingDocumentation{$1};
   if (!($encodingStatus eq "exists")) {
     print $1 . ": $encodingStatus\n";
     next;

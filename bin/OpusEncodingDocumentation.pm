@@ -18,10 +18,11 @@ package OpusEncodingDocumentation;
 
 use strict;
 use warnings;
-use feature 'signatures';
-no warnings 'experimental::signatures';
+use Exporter 'import';
 
-my %OpusEncodingDocumentation = (
+our @EXPORT = qw(%OpusEncodingDocumentation);
+
+our %OpusEncodingDocumentation = (
   "op01" => "exists",
   "op02" => "exists",
   "op03" => "exists",
@@ -97,7 +98,3 @@ my %OpusEncodingDocumentation = (
   "op73" => "exists",
   "op74" => "exists",
 );
-
-sub getOpusEncodingDocumentation($opus) {
-  return $OpusEncodingDocumentation{$opus};
-}

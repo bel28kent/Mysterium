@@ -9,6 +9,6 @@
 
 use strict;
 use warnings;
-require './bin/OpusEncodingDocumentation.pl';
+use './bin/OpusEncodingDocumentation.pl';
 
-map { print "$_\n" } OpusEncodingDocumentation::getOpusEncodingDocumentation($ARGV[0]);
+map { print "$_\n" } $OpusEncodingDocumentation{$ARGV[0]};
