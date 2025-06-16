@@ -9,6 +9,7 @@
 
 use strict;
 use warnings;
-use './bin/OpusEncodingDocumentation.pl';
+use lib 'bin/';
+use OpusEncodingDocumentation;
 
 map { print "$_\n" } $OpusEncodingDocumentation{$ARGV[0]};
